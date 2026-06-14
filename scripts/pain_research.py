@@ -8,6 +8,7 @@ import json
 import os
 import sys
 import time
+import urllib.error
 import urllib.request
 from datetime import datetime
 
@@ -15,7 +16,8 @@ sys.path.insert(0, os.path.dirname(__file__))
 from extract_pain import extract_pain_from_results
 
 TAVILY_URL = "https://api.tavily.com/search"
-DELAY = 5
+DELAY = 8
+MAX_RETRIES = 5
 CACHE_DIR = "/workspace/keywords/.pain_cache"
 SCORED_PATH = "/workspace/keywords/daily_scored.json"
 PAIN_PATH = "/workspace/keywords/daily_pain.json"
@@ -46,14 +48,32 @@ def tavily_search(query: str, max_results: int = 5) -> dict:
     else:
         headers["X-Tavily-Access-Mode"] = "keyless"
         headers["X-Client-Source"] = "tavily-mcp-keyless"
-    req = urllib.request.Request(
-        TAVILY_URL,
-        data=json.dumps(payload).encode(),
-        headers=headers,
-        method="POST",
-    )
-    with urllib.request.urlopen(req, timeout=90) as resp:
-        return json.loads(resp.read())
+
+    last_err = None
+    for attempt in range(MAX_RETRIES):
+        try:
+            req = urllib.request.Request(
+                TAVILY_URL,
+                data=json.dumps(payload).encode(),
+                headers=headers,
+                method="POST",
+            )
+            with urllib.request.urlopen(req, timeout=90) as resp:
+                return json.loads(resp.read())
+        except urllib.error.HTTPError as e:
+            last_err = e
+            if e.code == 429:
+                wait = DELAY * (2 ** attempt)
+                print(f"      rate limited, retry in {wait}s (attempt {attempt + 1}/{MAX_RETRIES})")
+                time.sleep(wait)
+            else:
+                raise
+        except Exception as e:
+            last_err = e
+            wait = DELAY * (2 ** attempt)
+            print(f"      error: {e}, retry in {wait}s")
+            time.sleep(wait)
+    raise last_err
 
 
 def cache_path(term: str, stype: str) -> str:
