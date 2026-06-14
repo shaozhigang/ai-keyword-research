@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-14",
+  "scored_at": "2026-06-14T12:49:48.554141",
+  "count": 3,
+  "entries": [
+    {
+      "term": "forward deployed agent",
+      "total_score": 26,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "trend": "📈上升",
+      "competition": "中",
+      "main_geo": "US",
+      "status": "进入验证池",
+      "product_direction": "面向AI创业公司的FDE工作流平台，将客户现场痛点快速转化为产品能力",
+      "suggested_headline": "Turn Customer Pain Into Product Features — Fast",
+      "target_users": [
+        "AI创业公司创始人",
+        "Forward Deployed Engineer",
+        "企业AI解决方案架构师"
+      ]
+    },
+    {
+      "term": "Pond",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 3,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "trend": "📈上升",
+      "competition": "高",
+      "main_geo": "US",
+      "status": "进入验证池",
+      "product_direction": "面向远程团队的轻量协作看板，聚焦小团队任务流转而非重型项目管理",
+      "suggested_headline": "Project Management That Stays Out of Your Way",
+      "target_users": [
+        "10人以下创业团队",
+        "自由职业者协作小组",
+        "非技术项目经理"
+      ]
+    },
+    {
+      "term": "vibe coding",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 5,
+        "D5": 5,
+        "D6": 3
+      },
+      "trend": "📈上升",
+      "competition": "高",
+      "main_geo": "US",
+      "status": "进入验证池",
+      "product_direction": "面向非技术创始人的结构化AI编程引导工具，解决vibe coding产出不可维护代码的痛点",
+      "suggested_headline": "Build Apps With AI — Without the Technical Debt",
+      "target_users": [
+        "非技术创业者",
+        "产品经理原型验证",
+        "独立创客"
+      ]
+    }
+  ]
+}
