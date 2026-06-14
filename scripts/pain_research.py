@@ -16,7 +16,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from extract_pain import extract_pain_from_results
 
 TAVILY_URL = "https://api.tavily.com/search"
-DELAY = 8
+DELAY = 5
 MAX_RETRIES = 5
 CACHE_DIR = "/workspace/keywords/.pain_cache"
 SCORED_PATH = "/workspace/keywords/daily_scored.json"
