@@ -183,6 +183,8 @@ def _clean_snippet(text: str, max_len: int = 120) -> str:
 
 def _to_cn_summary(sentence: str, category: str = "complaint") -> str:
     """将英文痛点句归纳为简短中文描述。"""
+    if sentence.startswith("用户在寻找"):
+        return _clean_snippet(sentence, 60)
     if _is_noise(sentence):
         return ""
 
