@@ -16,7 +16,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from extract_pain import extract_pain_from_results
 
 TAVILY_URL = "https://api.tavily.com/search"
-DELAY = 8
+DELAY = 5
 MAX_RETRIES = 5
 CACHE_DIR = "/workspace/keywords/.pain_cache"
 SCORED_PATH = "/workspace/keywords/daily_scored.json"
@@ -114,29 +114,74 @@ def process_term(term: str) -> dict:
 
 
 def main():
+    refresh = "--refresh" in sys.argv
+    rebuild = "--rebuild" in sys.argv
+
     with open(SCORED_PATH) as f:
         scored = json.load(f)
 
     date = scored.get("date", datetime.now().strftime("%Y-%m-%d"))
     rising = [t for t in scored["terms"] if "上升" in t.get("trend", "")]
-    print(f"Rising terms: {len(rising)}")
+    print(f"Rising terms: {len(rising)} | refresh={refresh} | rebuild={rebuild}")
 
-    pain_entries = []
+    if rebuild:
+        pain_entries = []
+        for i, item in enumerate(rising):
+            term = item["term"]
+            print(f"[{i + 1}/{len(rising)}] rebuild {term}")
+            batches = {}
+            for stype, _ in SEARCH_TYPES:
+                cached = load_cache(term, stype)
+                if not cached:
+                    print(f"  SKIP (no cache for {stype})")
+                    continue
+                batches[stype] = cached.get("results", [])
+            if len(batches) < len(SEARCH_TYPES):
+                print(f"  SKIP incomplete cache")
+                continue
+            entry = extract_pain_from_results(term, batches)
+            pain_entries.append(entry)
+        output = {
+            "date": date,
+            "researched_at": datetime.now().isoformat(),
+            "terms": pain_entries,
+        }
+        with open(PAIN_PATH, "w") as f:
+            json.dump(output, f, ensure_ascii=False, indent=2)
+        print(f"\nRebuilt: {len(pain_entries)}/{len(rising)} terms -> {PAIN_PATH}")
+        return
+
+    pain_entries = [] if refresh else []
     done = set()
-    if os.path.exists(PAIN_PATH):
+    if not refresh and os.path.exists(PAIN_PATH):
         with open(PAIN_PATH) as f:
             existing = json.load(f)
             pain_entries = existing.get("terms", [])
             done = {p["term"] for p in pain_entries}
 
-    remaining = [t["term"] for t in rising if t["term"] not in done]
-    print(f"Done: {len(done)} | Remaining: {len(remaining)}")
+    terms_to_process = [t["term"] for t in rising] if refresh else [
+        t["term"] for t in rising if t["term"] not in done
+    ]
+    print(f"Done: {len(done)} | To process: {len(terms_to_process)}")
 
-    for i, term in enumerate(remaining):
-        idx = len(done) + i + 1
+    for i, term in enumerate(terms_to_process):
+        idx = (0 if refresh else len(done)) + i + 1
         print(f"[{idx}/{len(rising)}] {term}")
         try:
-            entry = process_term(term)
+            if refresh:
+                for stype, query_fn in SEARCH_TYPES:
+                    query = query_fn(term)
+                    print(f"    [{stype}] {query}")
+                    data = tavily_search(query)
+                    save_cache(term, stype, data)
+                    time.sleep(DELAY)
+                batches = {
+                    st: load_cache(term, st).get("results", [])
+                    for st, _ in SEARCH_TYPES
+                }
+                entry = extract_pain_from_results(term, batches)
+            else:
+                entry = process_term(term)
             pain_entries.append(entry)
             done.add(term)
             print(f"  -> complaints={len(entry['top_complaints'])} "

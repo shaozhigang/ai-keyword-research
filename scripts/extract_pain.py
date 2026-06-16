@@ -112,14 +112,97 @@ DESIRE_PATTERNS = [
 
 SENTENCE_SPLIT = re.compile(r"(?<=[.!?。！？])\s+|\n+")
 
+NOISE_PATTERNS = [
+    re.compile(p, re.I)
+    for p in [
+        r"skip to main content",
+        r"^r/\w+",
+        r"^#+ ",
+        r"data:image/",
+        r"!\[",
+        r"^\| ",
+        r"^u/\w+ avatar",
+        r"more replies",
+        r"^People also ask",
+        r"^Open menu",
+        r"^Created \w+ \d+",
+        r"^Public$",
+        r"^Anyone can view",
+        r"^## r/\w+ Rules",
+        r"^Reply\s+Share",
+        r"^Promoted",
+        r"^BibTeX",
+        r"^@article",
+    ]
+]
+
+CN_THEME_MAP = [
+    (re.compile(p, re.I), cn)
+    for p, cn in [
+        (r"too expensive|pricing|cost(?:ly)?|expensive", "价格太贵"),
+        (r"doesn'?t support|no support|not support|lack(?:s|ing)?.*support", "不支持所需功能或语言"),
+        (r"too slow|slow(?:ly)?|latency|performance", "运行太慢、性能不足"),
+        (r"unreliable|unpredictable|inconsistent|hallucin", "输出不稳定、不可靠"),
+        (r"broken|doesn'?t work|not working|won'?t work|silently broken", "功能损坏或无法正常工作"),
+        (r"bug|crash|fail(?:ure|ed|s)?", "存在 bug 或频繁崩溃"),
+        (r"frustrat|annoying|terrible|awful|disappoint", "使用体验差、令人沮丧"),
+        (r"difficult|hard to use|steep learning|complex", "上手难、学习曲线陡峭"),
+        (r"maintenance|technical debt|maintain", "难以维护、技术债高"),
+        (r"security|vulnerabilit", "存在安全漏洞"),
+        (r"limited|restrict|missing feature|lack(?:s|ing)?", "功能受限或缺失"),
+        (r"export|import|format", "导入导出格式不足"),
+        (r"alternative|competitor|vs\b", "用户积极寻找替代方案"),
+        (r"manually|by hand|workaround|excel|spreadsheet", "需手动处理或借助变通方案"),
+        (r"i wish|why can'?t|would be (?:nice|great|better)", "用户期望更多功能"),
+        (r"looking for|need(?:s)? (?:a |an |to )", "用户在寻找更好方案"),
+        (r"no (?:login|ads)|privacy", "关注隐私或无广告体验"),
+    ]
+]
+
+
+def _is_noise(text: str) -> bool:
+    t = text.strip()
+    if len(t) < 15:
+        return True
+    if "base64" in t or len(t) > 500 and "iVBOR" in t:
+        return True
+    return any(p.search(t) for p in NOISE_PATTERNS)
+
 
 def _clean_snippet(text: str, max_len: int = 120) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     text = re.sub(r"\[.*?\]", "", text)
     text = re.sub(r"Image \d+", "", text)
+    text = re.sub(r"!\([^)]*\)", "", text)
+    text = re.sub(r"^#+\s*", "", text)
+    text = re.sub(r"^Skip to main content", "", text, flags=re.I)
     if len(text) > max_len:
         text = text[: max_len - 3].rsplit(" ", 1)[0] + "..."
-    return text
+    return text.strip()
+
+
+def _to_cn_summary(sentence: str, category: str = "complaint") -> str:
+    """将英文痛点句归纳为简短中文描述。"""
+    if _is_noise(sentence):
+        return ""
+
+    cleaned = _clean_snippet(sentence, 180)
+    chinese = re.findall(r"[\u4e00-\u9fff][\u4e00-\u9fff，。！？、：；""''（）\w\s]{4,}", cleaned)
+    if chinese:
+        best = max(chinese, key=len)
+        return _clean_snippet(best, 60)
+
+    for pattern, label in CN_THEME_MAP:
+        if pattern.search(cleaned):
+            return label
+
+    if category == "workaround":
+        if re.search(r"manually|excel|spreadsheet|by hand|workaround|hack", cleaned, re.I):
+            return "用户用 Excel/手动流程等变通方案"
+        return _clean_snippet(cleaned, 50)
+    if category == "desire":
+        return _clean_snippet(cleaned, 50)
+    return _clean_snippet(cleaned, 50)
 
 
 def _extract_sentences(content: str) -> list[str]:
@@ -135,19 +218,24 @@ def _match_category(sentence: str, patterns: list) -> bool:
     return any(p.search(sentence) for p in patterns)
 
 
-def _summarize_snippets(snippets: list[str], limit: int = 3) -> list[str]:
-    """Deduplicate and pick top snippets by frequency of key terms."""
+def _summarize_snippets(snippets: list[str], limit: int = 3, category: str = "complaint") -> list[str]:
+    """去重并归纳为简短中文痛点描述。"""
     if not snippets:
         return []
 
-    cleaned = [_clean_snippet(s) for s in snippets]
-    counter = Counter(cleaned)
+    summarized = []
+    for s in snippets:
+        cn = _to_cn_summary(s, category)
+        if cn and len(cn) >= 6:
+            summarized.append(cn)
+
+    counter = Counter(summarized)
     ranked = sorted(counter.items(), key=lambda x: (-x[1], -len(x[0])))
     result = []
     seen_norm = set()
     for snippet, _ in ranked:
         norm = re.sub(r"[^\w\u4e00-\u9fff]", "", snippet.lower())
-        if norm in seen_norm or len(norm) < 10:
+        if norm in seen_norm or len(norm) < 4:
             continue
         seen_norm.add(norm)
         result.append(snippet)
@@ -177,6 +265,8 @@ def extract_pain_from_results(term: str, search_batches: dict[str, list]) -> dic
         full_text = f"{title}. {content}"
 
         for sentence in _extract_sentences(full_text):
+            if _is_noise(sentence):
+                continue
             sent_lower = sentence.lower()
             if term_lower not in sent_lower and len(term) > 5:
                 # For multi-word terms, require at least one significant word
@@ -227,7 +317,7 @@ def extract_pain_from_results(term: str, search_batches: dict[str, list]) -> dic
 
     return {
         "term": term,
-        "top_complaints": _summarize_snippets(complaints_raw, 3),
-        "workarounds": _summarize_snippets(workarounds_raw, 3),
-        "desired_features": _summarize_snippets(desired_raw, 3),
+        "top_complaints": _summarize_snippets(complaints_raw, 3, "complaint"),
+        "workarounds": _summarize_snippets(workarounds_raw, 3, "workaround"),
+        "desired_features": _summarize_snippets(desired_raw, 3, "desire"),
     }
