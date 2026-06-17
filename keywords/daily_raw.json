@@ -64,7 +64,41 @@
     "flow matching",
     "GRPO",
     "forward deployed agent",
-    "vibe coding"
+    "vibe coding",
+    "Visual Para-Thinker++",
+    "SG-OPD",
+    "MuJoCo-Drones-Gym",
+    "Dense Latent Communication",
+    "latent reasoning",
+    "on-policy reinforcement learning",
+    "Fundraisly",
+    "SellerClaw",
+    "Kilo Code v7",
+    "StoreClaw",
+    "PollyReach",
+    "Brew",
+    "ElevenAgents",
+    "Unabyss",
+    "Wispr Flow",
+    "MCP",
+    "CloudCons",
+    "Brick",
+    "LLM-as-an-Investigator",
+    "SciR",
+    "Otters++",
+    "Nous",
+    "MOSAIC",
+    "ERTS",
+    "OncoTraj",
+    "GRAFT",
+    "MODIP",
+    "CLP",
+    "XtrAIn",
+    "System 0",
+    "Mixture-of-Models",
+    "long-document RAG",
+    "KV cache",
+    "neuro-symbolic agents"
   ],
   "source_breakdown": {
     "huggingface": [
@@ -104,7 +138,13 @@
       "VLA",
       "multi-agent orchestration",
       "speculative decoding",
-      "GRPO"
+      "GRPO",
+      "Visual Para-Thinker++",
+      "SG-OPD",
+      "MuJoCo-Drones-Gym",
+      "Dense Latent Communication",
+      "latent reasoning",
+      "on-policy reinforcement learning"
     ],
     "producthunt": [
       "Vercel Drop",
@@ -118,6 +158,16 @@
       "Pond",
       "forward deployed agent",
       "vibe coding",
+      "MCP",
+      "Fundraisly",
+      "SellerClaw",
+      "Kilo Code v7",
+      "StoreClaw",
+      "PollyReach",
+      "Brew",
+      "ElevenAgents",
+      "Unabyss",
+      "Wispr Flow",
       "MCP"
     ],
     "arxiv": [
@@ -145,7 +195,25 @@
       "flow matching",
       "GRPO",
       "multi-agent orchestration",
-      "speculative decoding"
+      "speculative decoding",
+      "CloudCons",
+      "Brick",
+      "LLM-as-an-Investigator",
+      "SciR",
+      "Otters++",
+      "Nous",
+      "MOSAIC",
+      "ERTS",
+      "OncoTraj",
+      "GRAFT",
+      "MODIP",
+      "CLP",
+      "XtrAIn",
+      "System 0",
+      "Mixture-of-Models",
+      "long-document RAG",
+      "KV cache",
+      "neuro-symbolic agents"
     ]
   },
   "pain_signals": [
@@ -153,6 +221,9 @@
     "How do you stay aware of what your AI coding agents are doing?",
     "Cost-effective support solution for startups — thanks for sharing.",
     "What are the 5 tools you simply couldn't do your work without?",
-    "The Cold-Start Safety Gap in LLM Agents"
+    "The Cold-Start Safety Gap in LLM Agents",
+    "Getting Better at Working With You: users must compile corrections into runtime enforcement for coding agents.",
+    "The Illusion of Multi-Agent Advantage: multi-agent setups may not outperform well-tuned single agents.",
+    "Can we trust our models? Epistemic calibration gaps undermine confidence in AI outputs."
   ]
 }
