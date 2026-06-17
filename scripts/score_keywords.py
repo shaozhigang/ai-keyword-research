@@ -43,27 +43,33 @@ CN_PATTERN = re.compile(r"[\u4e00-\u9fff]")
 
 def tavily_search(query: str, max_results: int = 10, time_range: str | None = None,
                   start_date: str | None = None) -> dict:
-    """Call Tavily search API."""
-    api_key = os.environ.get("TAVILY_API_KEY")
-    if not api_key:
-        raise RuntimeError("TAVILY_API_KEY environment variable not set")
+    """Call Tavily search API (supports keyless mode like MCP tavily-mcp)."""
+    api_key = os.environ.get("TAVILY_API_KEY", "")
 
     payload = {
-        "api_key": api_key,
         "query": query,
         "max_results": max_results,
         "search_depth": "advanced",
-        "include_answer": False,
     }
+    if api_key:
+        payload["api_key"] = api_key
     if time_range:
         payload["time_range"] = time_range
     if start_date:
         payload["start_date"] = start_date
 
+    headers = {"Content-Type": "application/json", "accept": "application/json"}
+    if api_key:
+        headers["Authorization"] = f"Bearer {api_key}"
+        headers["X-Client-Source"] = "MCP"
+    else:
+        headers["X-Tavily-Access-Mode"] = "keyless"
+        headers["X-Client-Source"] = "tavily-mcp-keyless"
+
     req = Request(
         TAVILY_API_URL,
         data=json.dumps(payload).encode(),
-        headers={"Content-Type": "application/json"},
+        headers=headers,
         method="POST",
     )
     with urlopen(req, timeout=60) as resp:
