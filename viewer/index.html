@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>挖词看板 · Keyword Research</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="loading" class="loading">加载数据中…</div>
+
+  <div id="error" class="error" style="display:none"></div>
+
+  <div id="app" class="app" style="display:none">
+    <header>
+      <h1>🔍 <span>挖词看板</span></h1>
+      <div class="kpis">
+        <div class="kpi"><strong id="kpi-date">—</strong> 今日</div>
+        <div class="kpi">新词 <strong id="kpi-new">0</strong></div>
+        <div class="kpi">验证池 <strong id="kpi-validated">0</strong></div>
+        <div class="kpi">观察池 <strong id="kpi-watch">0</strong></div>
+      </div>
+    </header>
+
+    <nav>
+      <button class="nav-btn active" data-filter="validated">
+        验证池 <span class="count" id="count-validated">0</span>
+      </button>
+      <button class="nav-btn" data-filter="watch">
+        观察池 <span class="count" id="count-watch">0</span>
+      </button>
+      <button class="nav-btn" data-filter="all">
+        全部新词 <span class="count" id="count-all">0</span>
+      </button>
+      <button class="nav-btn" data-filter="pipeline">
+        完整流水线 <span class="count" id="count-pipeline">0</span>
+      </button>
+    </nav>
+
+    <main>
+      <div class="toolbar">
+        <input id="search" type="search" placeholder="搜索词条…" autocomplete="off" />
+        <select id="competition-filter">
+          <option value="">全部竞争度</option>
+          <option value="低">竞争低</option>
+          <option value="中">竞争中</option>
+          <option value="高">竞争高</option>
+        </select>
+      </div>
+      <div id="term-list" class="term-list"></div>
+    </main>
+
+    <div id="detail-backdrop" class="detail-backdrop"></div>
+    <aside id="detail-panel" class="detail">
+      <div class="detail-empty">点击左侧词条查看详情</div>
+    </aside>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
