@@ -1,0 +1,24 @@
+AWAIT {"term": "LectūraAgents", "type": "alternative", "query": "\"LectūraAgents\" alternative"}
+{"saved": "/workspace/keywords/.pain_cache/Lect\u016braAgents_alternative.json", "cached": 13, "pending": 51}
+AWAIT {"term": "LectūraAgents", "type": "producthunt", "query": "\"LectūraAgents\" review site:producthunt.com"}
+{"saved": "/workspace/keywords/.pain_cache/Lect\u016braAgents_producthunt.json", "cached": 14, "pending": 50}
+AWAIT {"term": "LegalHalluLens", "type": "reddit", "query": "\"LegalHalluLens\" site:reddit.com"}
+{"saved": "/workspace/keywords/.pain_cache/LegalHalluLens_reddit.json", "cached": 15, "pending": 49}
+AWAIT {"term": "LegalHalluLens", "type": "complaints", "query": "\"LegalHalluLens\" complaints OR frustrating OR broken"}
+{"saved": "/workspace/keywords/.pain_cache/LegalHalluLens_complaints.json", "cached": 16, "pending": 48}
+AWAIT {"term": "LegalHalluLens", "type": "alternative", "query": "\"LegalHalluLens\" alternative"}
+{"saved": "/workspace/keywords/.pain_cache/LegalHalluLens_alternative.json", "cached": 17, "pending": 47}
+AWAIT {"term": "LegalHalluLens", "type": "producthunt", "query": "\"LegalHalluLens\" review site:producthunt.com"}
+{"saved": "/workspace/keywords/.pain_cache/LegalHalluLens_producthunt.json", "cached": 18, "pending": 46}
+AWAIT {"term": "LongWebBench", "type": "reddit", "query": "\"LongWebBench\" site:reddit.com"}
+{"saved": "/workspace/keywords/.pain_cache/LongWebBench_reddit.json", "cached": 19, "pending": 45}
+AWAIT {"term": "LongWebBench", "type": "complaints", "query": "\"LongWebBench\" complaints OR frustrating OR broken"}
+{"saved": "/workspace/keywords/.pain_cache/LongWebBench_complaints.json", "cached": 20, "pending": 44}
+AWAIT {"term": "LongWebBench", "type": "alternative", "query": "\"LongWebBench\" alternative"}
+{"saved": "/workspace/keywords/.pain_cache/LongWebBench_alternative.json", "cached": 21, "pending": 43}
+AWAIT {"term": "LongWebBench", "type": "producthunt", "query": "\"LongWebBench\" review site:producthunt.com"}
+AWAIT {"term": "LoopCoder-v2", "type": "producthunt", "query": "\"LoopCoder-v2\" review site:producthunt.com"}
+{"saved": "/workspace/keywords/.pain_cache/LoopCoder-v2_producthunt.json", "cached": 24, "pending": 40}
+AWAIT {"term": "Looped World Models", "type": "reddit", "query": "\"Looped World Models\" site:reddit.com"}
+{"saved": "/workspace/keywords/.pain_cache/Looped_World_Models_complaints.json", "cached": 26, "pending": 38}
+AWAIT {"term": "Looped World Models", "type": "alternative", "query": "\"Looped World Models\" alternative"}
