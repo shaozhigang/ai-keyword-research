@@ -1,42 +1,43 @@
 {
   "date": "2026-06-14",
-  "researched_at": "2026-06-14T12:17:18.506757",
+  "researched_at": "2026-06-14T22:04:14.202690",
   "terms": [
     {
       "term": "Kimi K2.7 Code",
       "top_complaints": [
-        "On five of six problems, K2.7-Code produced real authored Triton kernels where K2.6 had used library wrappers.",
-        "| The kimi 2.6 have problem with me Models | 0 | 229 | May 4, 2026 |"
+        "搜索结果中未发现明确用户痛点"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
       "desired_features": []
     },
     {
       "term": "MiniMax Sparse Attention",
       "top_complaints": [
-        "MiniMax Sparse Attention enables efficient processing of ultra-long contexts in large language models through...",
-        "Long-context efficiency has motivated a large body of work on efficient attention, which can be broadly grouped into...",
-        "The architecture attaches a lightweight Index Branch to a standard GQA layer: each GQA group independently selects a..."
+        "难以维护，技术债快速累积",
+        "难以控制输出，依赖精细 prompt"
       ],
       "workarounds": [],
       "desired_features": [
-        "Every chinese model moving to sparse attention is kinda crazy - they're going after cheap tokens and doing so with...",
-        "You will need custom kernels and the harnesses will need to be updated to be more intelligent with sparse attention."
+        "需要中文或多语言支持"
       ]
     },
     {
       "term": "HYDRA-X",
       "top_complaints": [
-        "用户在寻找 HYDRA-X 的替代方案：Top 20 HYDRA X Alternatives | GetApp Canada 2026",
-        "用户在寻找 HYDRA-X 的替代方案： Alternatives to fb Hydra? : r/MachineLearning"
+        "扩展性差，大规模部署受限"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": []
     },
     {
       "term": "Robust-U1",
       "top_complaints": [
-        "多模态大语言模型 (MLLM)..."
+        "多模态大语言模型 (MLLM)...",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -44,9 +45,7 @@
     {
       "term": "InterleaveThinker",
       "top_complaints": [
-        "!(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwS...",
-        "how SwiftUI does it, and I knew it would take me a couple of weeks to get the hang of it. I often felt what I'd call...",
-        "The primary limitation is that InterleaveThinker's generative capacity is constrained by the base image generator's..."
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -54,8 +53,7 @@
     {
       "term": "Mental-R1",
       "top_complaints": [
-        "用户在寻找 Mental-R1 的替代方案：Beyond Talk Therapy: 18 Alternatives for Mental Health",
-        "用户在寻找 Mental-R1 的替代方案：cheaper alternative or something? : r/SillyTavernAI"
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -63,9 +61,7 @@
     {
       "term": "EvoArena",
       "top_complaints": [
-        ": u/thulsado0m13 avatar Warlord_Zap •2y ago A little correction, the setup Evo used at Michelob Ultra doesn't use...",
-        "❌NOT OK. Re-wiring a push-button inside the controller to simultaneously push three other buttons to send three...",
-        "# Last EVO had major problems. They might be fixing them now. ## More Brian_F 62200 subscribers 1163 likes ###..."
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -73,9 +69,8 @@
     {
       "term": "WeaveBench",
       "top_complaints": [
-        "用户在寻找 WeaveBench 的替代方案：Best 8 Alternatives to Weave for Engineering Leaders in 2026 - The missing link in...",
-        "用户在寻找 WeaveBench 的替代方案：Best Weights & Biases alternatives for LLM evaluation - Braintrust",
-        "用户在寻找 WeaveBench 的替代方案：Top Weave Alternatives, Competitors"
+        "用户主动寻找替代方案",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -83,9 +78,7 @@
     {
       "term": "SpatialClaw",
       "top_complaints": [
-        "用户在寻找 SpatialClaw 的替代方案：Best OpenClaw Alternatives for Different Devices & Workflows | MyClaw.ai",
-        "用户在寻找 SpatialClaw 的替代方案：10 Best OpenClaw Alternatives in 2026: Open-Source and Hosted ...",
-        "用户在寻找 SpatialClaw 的替代方案：OpenClaw Alternatives: NanoClaw, ZeroClaw, Moltis, and Every ..."
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -93,21 +86,15 @@
     {
       "term": "MaxProof",
       "top_complaints": [
-        "MaxProof addresses these problems with a population archive, a conservative verifier-based fitness score, dual..."
+        "搜索结果中未发现明确用户痛点"
       ],
-      "workarounds": [
-        ": r/hackernews - Maxproof: r/hackernews - Maxproof",
-        "Skip to main contentMaxproof : r/hackernews",
-        "# Maxproof : r/hackernews"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "FORT-Searcher",
       "top_complaints": [
-        "用户在寻找 FORT-Searcher 的替代方案：True alternatives for Spotlight: Easyfind and Foxtrot Search – Dellu",
-        "用户在寻找 FORT-Searcher 的替代方案：5 alternatives to Windows Search (comparison of similar competitors)",
-        "用户在寻找 FORT-Searcher 的替代方案：I tried 10 BuiltWith alternatives - here are ones I actually liked"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -115,7 +102,7 @@
     {
       "term": "LabVLA",
       "top_complaints": [
-        "LabVLA produces smooth, task appropriate trajectories across all six categories, though failure cases (not shown)..."
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -123,7 +110,7 @@
     {
       "term": "N-GRPO",
       "top_complaints": [
-        "用户在寻找 N-GRPO 的替代方案：Evolution Strategies vs GRPO for LLM Fine-Tuning | alphaXiv"
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
       ],
       "workarounds": [],
       "desired_features": []
@@ -131,8 +118,7 @@
     {
       "term": "EurekAgent",
       "top_complaints": [
-        "用户在寻找 EurekAgent 的替代方案：Top self-hostable alternatives to E2B for AI agents in 2026 | Blog — Northflank",
-        "用户在寻找 EurekAgent 的替代方案：Tried every Hermes Agent alternative so you don't have to (2026 ..."
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -140,7 +126,7 @@
     {
       "term": "VideoMDM",
       "top_complaints": [
-        "Figure˜4 confirms the quantitative picture: MDM/MotionBERT inherits lifter artifacts and exhibits sliding,..."
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -148,8 +134,7 @@
     {
       "term": "VIA-SD",
       "top_complaints": [
-        "用户在寻找 VIA-SD 的替代方案：‘Big gray area’: SD authorities fear alternative instruction means ‘no-schooling’ for some...",
-        "用户在寻找 VIA-SD 的替代方案：Debunking Myths: How SD Express Performs Against Alternative Memory - SD Association"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -157,8 +142,7 @@
     {
       "term": "MoVerse",
       "top_complaints": [
-        "用户在寻找 MoVerse 的替代方案：Mover Alternative | Movebot - Data Agility and Actionable Insights",
-        "用户在寻找 MoVerse 的替代方案：Find best 15 Mover System Alternatives - Capterra UK"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -166,7 +150,7 @@
     {
       "term": "TreeSeeker",
       "top_complaints": [
-        "TreeSeeker addresses the \"premature commitment problem\" in single-path deep search by introducing two core..."
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
       ],
       "workarounds": [],
       "desired_features": []
@@ -174,9 +158,8 @@
     {
       "term": "HarnessBridge",
       "top_complaints": [
-        "Notably, for tasks where HarnessBridge succeeded and baselines failed (\"Gained\" category), it reduced turns by 65%...",
-        "metrics,  Introducing 'HarnessBridge', an agent-environmental interface module, to solve the problem of duplicate...",
-        "Outcome-level efficiency analysis shows that HarnessBridge reduces both interaction turns and token consumption..."
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积"
       ],
       "workarounds": [],
       "desired_features": []
@@ -184,9 +167,7 @@
     {
       "term": "EvoBrowseComp",
       "top_complaints": [
-        "## The importance of ecommerce troubleshooting Finding and fixing issues on your ecommerce platform is crucial for...",
-        "A-Tex Family Fun CenterShawn E. \"The efficiency that LOU offers my team and me is great. We went from working on...",
-        "failures, or exogenous browser events. We outline the open problems SDO introduces and call on the community to..."
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -194,8 +175,7 @@
     {
       "term": "MaskAlign",
       "top_complaints": [
-        "To address this issue, we propose MaskAlign, a token-subset representation alignment method that applies alignment...",
-        "To address this issue, MaskAlign applies representation alignment to randomly sampled token subsets and uses a..."
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
       ],
       "workarounds": [],
       "desired_features": []
@@ -203,19 +183,15 @@
     {
       "term": "Evoflux",
       "top_complaints": [
-        "Cancer development and response to treatment are evolutionary processes1,2, but characterizing evolutionary dynamics...",
-        "## About Code associated with the findings in Gabbutt and Duran-Ferrer et al, Nature 2025 ### Resources ### Uh oh!...",
-        "### Stars ### Watchers ### Forks ## Releases 1 ## Packages 0 ### Uh oh! There was an error while loading. Please..."
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
       ],
-      "workarounds": [
-        "EVOFLUx methodology should also work identically for sequencing-based methods to measure methylation such as..."
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "ArogyaSutra",
       "top_complaints": [
-        "Finally, the actor–critic framework depends on the reliability of underlying visual grounding tools and the base..."
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -223,20 +199,16 @@
     {
       "term": "WEAVER",
       "top_complaints": [
-        " This book can be for anyone who has dealt with family estrangement, and has an interest in reopening those lines of...",
-        "\"I had a legal issue come up early this year and decided to hire Weaver Law Offices to represent me in my legal matter.",
-        "REVIEW: Bitter, Sweet: How to Heal Yourself When Your Family Is Broken by Stephanie Weaver | Hippocampus Magazine."
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
-      "desired_features": [
-        "They sound incomprehensible to those who aren't weavers, but make communication so much easier for those who need to..."
-      ]
+      "desired_features": []
     },
     {
       "term": "Surflo",
       "top_complaints": [
-        "用户在寻找 Surflo 的替代方案：Alternatives to Shurflo water pump? - Boat Equipment - Canal World",
-        "用户在寻找 Surflo 的替代方案：8 Top Superflow Alternatives & Competitors in 2026"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -244,42 +216,8 @@
     {
       "term": "WebChallenger",
       "top_complaints": [
-        "用户在寻找 WebChallenger 的替代方案：7 Great Web Browser Alternatives. Using a less-popular web browser can… | by PCMag | PC...",
-        "用户在寻找 WebChallenger 的替代方案：10 Unlikely High-Performance Alternatives to the Dodge Challenger Hellcat"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "IDEAL",
-      "top_complaints": [
-        "It could be a blown fuse or circuit breaker, the compressor may be failing, you could have a buildup of dust or hair...",
-        "Date:05/19/2026  1 star We hired this company to handle credentialing services and have been extremely disappointed...",
-        "And to make matters worse, garage door issues, particularly problems with garage door springs, can be difficult and..."
-      ],
-      "workarounds": [
-        "Facilitators, not scorers: Players like Ned Grabavoy, who excel at ball retention and opening up play for others,..."
-      ],
-      "desired_features": [
-        "This in itself is somewhat meaningless (because the priorities don't add up to 100%), so they need to be further..."
-      ]
-    },
-    {
-      "term": "Qursor",
-      "top_complaints": [
-        "用户在寻找 Qursor 的替代方案：Cursor Alternatives (2026): We Tested 7 Tools and the $0 ... - Morph",
-        "用户在寻找 Qursor 的替代方案：The 10 Best Cursor Competitors and Alternatives in 2026",
-        "用户在寻找 Qursor 的替代方案：Cursor alternative? : r/ChatGPTCoding - Reddit"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "ARMOR-MAD",
-      "top_complaints": [
-        "First, just close and reopen the Starfield game app. If the problem persists, SAFELY disable and uninstall the mods,...",
-        "Verified NextDoor Review ### Friendly and professional Friendly and professional. They know their stuff and get the...",
-        "reviews before choosing a business. That means before your phone rings — before anyone walks through your door —..."
+        "用户主动寻找替代方案",
+        "性能慢，响应延迟高"
       ],
       "workarounds": [],
       "desired_features": []
@@ -287,19 +225,29 @@
     {
       "term": "Flash-GMM",
       "top_complaints": [
-        "Flash-GMM introduces an efficient fused Triton kernel for Gaussian Mixture Models that achieves significant speedup..."
+        "扩展性差，大规模部署受限",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
-      "desired_features": [
-        "By eliminating the need to materialize the full responsibility matrix in GPU memory, Flash-GMM achieves a 20×\\times...",
-        "Flash-GMM overcomes these limitations by eliminating the need to store the responsibility matrix in GPU HBM memory,..."
-      ]
+      "desired_features": []
+    },
+    {
+      "term": "IDEAL",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
     },
     {
       "term": "ToolSense",
       "top_complaints": [
-        "If a site manager is authorised to, they can easily request new machines, machine transports, or the disposal of...",
-        "With ToolSense, they are given an easy-to-use interface for receiving tickets about machine problems and to-dos..."
+        "难以维护，技术债快速累积",
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -307,9 +255,7 @@
     {
       "term": "PianoKontext",
       "top_complaints": [
-        "PianoKontext significantly outperforms the CFG Bridge baseline across all evaluation metrics. It achieves lower FAD...",
-        "Expressive performance rendering (EPR) aims to generate realistic performances constrained on sequences of notes....",
-        "Why is piano so frustrating? There's usually something going wrong with the way you're learning and practicing or..."
+        "输出不稳定，结果不可预测"
       ],
       "workarounds": [],
       "desired_features": []
@@ -317,30 +263,33 @@
     {
       "term": "Vercel Drop",
       "top_complaints": [
-        "Without seeing your specific errors, here are the most common issues people run into when deploying that tutorial to...",
-        "And it's working great in my local environment, but when I'm trying to deploy to Vercel I'm running into a whole...",
-        "Before Vercel, reviewing frontend changes meant either reading code diffs (which don't show visual regressions),..."
+        "部署流程复杂，上线容易踩坑",
+        "频繁出 bug，功能不稳定",
+        "定价过高，流量上来后成本飙升"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "批量下载后拖拽迁移部署",
+        "转向自托管或其他部署平台"
+      ],
       "desired_features": []
     },
     {
       "term": "Prometheus by Firecrawl",
       "top_complaints": [
-        "If the issue persists, contact us at help@firecrawl.com.",
-        "For organizations needing unlimited retention and horizontal scaling, Grafana Mimir or managed Prometheus services...",
-        "Organizations seek alternatives due to Prometheus's scalability limitations with large deployments, lack of native..."
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [
-        "Hacker News — top stories — Prometheus - Firecrawl."
+        "转向自托管或其他部署平台",
+        "用临时 hack 绕过限制"
       ],
       "desired_features": []
     },
     {
       "term": "CakewordAI",
       "top_complaints": [
-        "用户在寻找 CakewordAI 的替代方案：CakewordAI Competitors & Alternatives (2026) - Product Hunt",
-        "用户在寻找 CakewordAI 的替代方案：Best Cake AI Alternatives & Competitors"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -348,9 +297,7 @@
     {
       "term": "NomNak",
       "top_complaints": [
-        "用户在寻找 NomNak 的替代方案：Alternative Approaches to Addressing Non-Normal Distributions in the Application of IRT Models to...",
-        "用户在寻找 NomNak 的替代方案：single word requests - An alternative to \"normally\" - English Language & Usage Stack Exchange",
-        "用户在寻找 NomNak 的替代方案：Defining complementary and alternative medicine"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -358,9 +305,15 @@
     {
       "term": "Avatars in ElevenCreative",
       "top_complaints": [
-        "\\_ddthang Avatars 2 likes Reply guminhyeok_'s profile picture guminhyeok\\_ Avatar 2 likes Reply martinhiemer_music's...",
-        "The News: ElevenLabs has introduced Avatars in ElevenCreative, a new feature that lets users generate talking-head...",
-        "# Introducing Avatars in ElevenCreative : r/ElevenLabs Skip to main contentIntroducing Avatars in ElevenCreative :..."
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Qursor",
+      "top_complaints": [
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -368,34 +321,33 @@
     {
       "term": "Firma.dev",
       "top_complaints": [
-        "用户在寻找 Firma.dev 的替代方案：Predictable SignNow Alternative for SaaS | Firma.dev"
+        "用户主动寻找替代方案"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
       "desired_features": []
     },
     {
       "term": "Pond",
       "top_complaints": [
-        "Fixing Pond-Water Feature Problems-Muck, Algae, Green Water, Repair|Restoration|Western|New York|NY - Acorn Ponds &...",
-        "| Pond Problem #7: My Pond Is Leaking Finding and repairing water garden leaks in Rochester, NY can be frustrating...",
-        "Unlimited: $7/user/month — Adds integrations, forms, Gantt charts, time tracking, portfolios, and resource management"
+        "缺少关键功能或支持",
+        "难以维护，技术债快速累积",
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [
-        "Monday.com is an excellent option and Wrike alternative for visual individuals who want a more customizable board...",
-        "Most pond problems arise when builders – professional or DIY – leave out one of these crucial elements.",
-        "Exciting product and excellent execution (and incredible team)."
+        "用户用 Excel/表格手动处理"
       ],
       "desired_features": [
-        "If you go around the perimeter of your pond and waterfalls, you could find a low edge that just needs to be built up...",
-        "In the summer you can keep most any small tropical fish outside but then you need to bring them in for the winter...",
-        "Chemical Control: Broad spectrum contact herbicides are available and can quickly kill any part of the plant they..."
+        "在寻找更好的工具方案"
       ]
     },
     {
       "term": "Agents-K1",
       "top_complaints": [
-        "用户在寻找 Agents-K1 的替代方案：Top 5 Agent Development Kit Google Alternatives: Explore AI Agent Frameworks Like Google ADK",
-        "用户在寻找 Agents-K1 的替代方案：Top 9 Microsoft AI Agent Alternatives for Employees in 2025"
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "扩展性差，大规模部署受限"
       ],
       "workarounds": [],
       "desired_features": []
@@ -403,7 +355,7 @@
     {
       "term": "AgentBeats",
       "top_complaints": [
-        "However, things get tricky when you want to test an existing agent that fits into one or more of the following..."
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -411,7 +363,16 @@
     {
       "term": "EpiBench",
       "top_complaints": [
-        "We introduce EpiBench, an episodic workflow-level benchmark for research agents, filling a key gap in prior..."
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ARMOR-MAD",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -419,8 +380,7 @@
     {
       "term": "TerraBench",
       "top_complaints": [
-        "用户在寻找 TerraBench 的替代方案：Workout Bench Alternatives for Working Out at Home",
-        "用户在寻找 TerraBench 的替代方案：Bench exercise alternatives : r/xxfitness"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -428,86 +388,78 @@
     {
       "term": "ReSum",
       "top_complaints": [
-        "While other tools can identify errors in your resume, they often lack the direct focus of Resume Worded, as they are...",
-        "While Google Docs and Word are great platforms for creating a resume, they lack the ability to optimize your content...",
-        " | Traditional ATS (Applicant Tracking Systems) | Recruiting systems store and track job applicants’ data, utilizing..."
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [
-        "This tool does a far better job than all other tools out there, and we provide a lot of extra valuable suggestions...",
-        "The team exhibited excellent communication skills and was very personable."
+        "用户用 Excel/表格手动处理",
+        "用临时 hack 绕过限制"
       ],
       "desired_features": [
-        "If you don’t have a resume yet and need to create one from scratch, the best place to start is with a Google Doc or...",
-        "The personal website has many of the problems associated with the resume and resume alternatives: it takes time to...",
-        "But with automation, skill-based hiring, and AI-driven screening, traditional resumes might be losing their..."
+        "在寻找更好的工具方案"
       ]
     },
     {
       "term": "IterCAD",
       "top_complaints": [
-        "用户在寻找 IterCAD 的替代方案：Top 10 AutoCAD Alternatives for Architects, Engineers, and Designers",
-        "用户在寻找 IterCAD 的替代方案：Top Free Tinkercad Alternatives & Competitors - Additive-X",
-        "用户在寻找 IterCAD 的替代方案：Top Tinkercad Alternatives: Unleashing Creativity"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
     },
     {
-      "term": "TRACE",
+      "term": "EEVEE",
       "top_complaints": [
-        "By connecting tools I already use like Slack, Jira, and Notion, Trace fits naturally into my existing workflows...",
-        "Teams that don't track how they spend their time end up with velocity problems because they can't allocate resources...",
-        "Repairing Damaged / Broken PCB traces is a nice , clear , easy to follow soldering guide showing 5 great methods for..."
+        "难以控制输出，依赖精细 prompt",
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
       "workarounds": [
-        "LOGGER and FDX are suitable when precise timing is essential, while sample-based profiling provides a useful..."
+        "用户用 Excel/表格手动处理",
+        "手动逐步处理"
       ],
       "desired_features": [
-        "If you need a traditional desktop vector editor, CorelDRAW with PowerTRACE is the most complete single-application...",
-        "Just like dashboards need to be planned, feedback loops need to be created intentionally, and while in some cases...",
-        "It would be nice if the system works for a general use case out-of-the-box, and parameterisation is a feature for..."
+        "质疑为何不支持某能力",
+        "在寻找更好的工具方案"
       ]
     },
     {
-      "term": "EEVEE",
+      "term": "TRACE",
       "top_complaints": [
-        "The feedback should be limited to what is essential for Blender 4.1 to have the same feature set as EEVEE in Blender...",
-        "Distant objects have an issue with being in proximity of each other and possibly losing Ambient Occlusion, meaning...",
-        "My only complaint is that this made me pay extra attention to which Pokémon I was sending because I once sent the..."
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [
-        "what your shot is i think that ev is an excellent rendering engine i particularly think that has done a really nice...",
-        "I've seen ways to achieve the same light effects on Eevee, but I'm too lazy to do it manually every time, so, you..."
+        "改用其他工具/平台"
       ],
       "desired_features": [
-        "i've got a whole video on that if you want to see it but obviously it's a massive improvement none of that helps us...",
-        "The game engine will handle all the rendering, I just need to see if the asset looks right.",
-        "Why can't I evolve my Eevee?"
+        "在寻找更好的工具方案",
+        "希望增加更完善的功能",
+        "需要更多导出格式"
       ]
     },
     {
       "term": "AuRA",
       "top_complaints": [
-        "The software caused my PC to crash and my connection speed dropped from 960 Mbps to 200 Mbps.",
-        "I have on both of my devices never a problem.",
-        "That isn't twice as bad as negative five hundred thousand, nor is it quantifiable in any capacity, it's just another..."
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
       ],
       "workarounds": [
-        " I think this is a case where a company is \"trying\" to be an all in one place for all of your security and identity...",
-        "As such, LifeLock excels at offering cybersecurity suites that help in preventing digital identity theft."
+        "用户用 Excel/表格手动处理",
+        "批量下载后拖拽迁移部署"
       ],
       "desired_features": [
-        "We give credit where credit is due, and we appreciate Aura for putting together a service that conveniently includes...",
-        "If you’re looking for Aura alternatives to protect your assets, your credit, and your family online – unfortunately...",
-        "If you're looking for a budget-friendly identity theft solution or if you want antivirus protection, a VPN or a..."
+        "在寻找更好的工具方案"
       ]
     },
     {
       "term": "Flow-DPPO",
       "top_complaints": [
-        "planning with visual input and sparse reward. The episode reward of Rectified Flow policies obtained an average net...",
-        "While our main experiments use 64 groups with 1 inner loop (G64-I1), we further explore two efficiency-oriented...",
-        "## Problem: DP transmitter does not calibrate properly #### Detailed below is a comprehensive guide to..."
+        "难以维护，技术债快速累积",
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -515,7 +467,7 @@
     {
       "term": "CITRAS-FM",
       "top_complaints": [
-        "用户在寻找 CITRAS-FM 的替代方案：Top Alternative Radio Stations in United States by Soundcharts Reach"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -523,56 +475,54 @@
     {
       "term": "K-Forcing",
       "top_complaints": [
-        "| | | Quality | | Throughput (k tokens/s, speedup) | | | --- --- --- | Dataset | Method | Gen-PPL ↓\\downarrow | Win...",
-        "OSRHE has authority to review and address, as appropriate, student complaints related only to the specific types of...",
-        "Individuals frequently displace their frustration onto unintentional bystanders or inanimate objects, such as..."
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
-      "desired_features": [
-        "Given a simple undirected graph G and a positive integer k, the k-forcing number of G, denoted F k (G), is the..."
-      ]
+      "desired_features": []
     },
     {
       "term": "COGENT",
       "top_complaints": [
-        "When Vineet Edupuganti, Geng Sng, and I started Cogent, we shared a conviction: vulnerability management is...",
-        "With multiple hits to our VoIP and VPN services, and more than 24 hours (going into a weekend) without any sort of...",
-        "That is not really helpful, the problems usually appear when a certain destination is in a network which has only..."
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积",
+        "扩展性差，大规模部署受限"
       ],
       "workarounds": [],
       "desired_features": [
-        "Whether you're a small business or a large corporation, COGENT COMMUNICATIONS INC has the solutions you need to stay",
-        "We're looking for a replacement for Cogent, but we feel like it's hard to replace a T1 with another T1."
+        "在寻找更好的工具方案"
       ]
     },
     {
       "term": "agentic RL",
       "top_complaints": [
-        "However, scaling agentic RL for deep research remains constrained by two coupled challenges: hand-crafted synthetic...",
-        "Most RL frameworks designed for optimizing single-turn LLM (e.g., verl, slime) can't natively handle the system...",
-        "Agentic RAG is exciting, but it’s lipstick on a broken pipeline if you have no visibility into knowledge quality."
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定",
+        "调试循环冗长，反复返工"
       ],
       "workarounds": [
-        "The reality of most agentic development is that after a quick hack, you end up building or maintaining the “hidden..."
+        "用临时 hack 绕过限制"
       ],
       "desired_features": []
     },
     {
       "term": "sparse attention",
       "top_complaints": [
-        "so i definitely notice when sparse attention is at play because it completely misses the nuance and I also find this...",
-        " In practice, gradient flow problems from sparse attention tend to manifest as slow convergence rather than complete...",
-        "While this mitigates the \"attention sink\" problem and improves training stability, it inherently means the model is..."
+        "难以控制输出，依赖精细 prompt",
+        "定价过高，流量上来后成本飙升",
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
       "desired_features": []
     },
     {
       "term": "computer-use agents",
       "top_complaints": [
-        "Rather allocate more tokens to developers / creators / entrepreneurs who actually use your tools, INSTEAD OF BURNING...",
-        "## Final Thoughts: AI Won’t Replace Humans—It Will Empower Them  Customers prefer AI for quick, routine tasks, but...",
-        "Agents in web browsers, for example, often can't solve CAPTCHAs, fail to navigate sites, or routinely get stuck on..."
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -580,51 +530,44 @@
     {
       "term": "world model",
       "top_complaints": [
-        "It will be like a computer game world, Procedural content generation with raw/support data and predict the missing...",
-        "If our world model is sufficiently accurate for its purpose, and complete enough for the problem at hand, we should...",
-        "They tend to fail at “long” horizons, even to the order of seconds (though this is getting much better; again see..."
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
       "workarounds": [
-        "🔥Hey Product Hunt,  AppWorld: After deployment, you can share your excellent work with the world."
+        "用户用 Excel/表格手动处理"
       ],
-      "desired_features": [
-        "For example if you were doing research with autonomous vehicles, you might need a software model that has vehicle...",
-        "That is a common misconception; you do not need an explicit world model."
-      ]
+      "desired_features": []
     },
     {
       "term": "test-time scaling",
       "top_complaints": [
-        "“Aha Moment”: With increased test-time compute, the model exhibits sophisticated behaviors such as reflection, where...",
-        "the part i can't quite picture is how the multi-agent debate establishes ground truth without existing failure modes...",
-        "Our comparative analy-sis of sequential and parallel scaling revealed that parallel scaling not only achieves the..."
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "输出不稳定，结果不可预测"
       ],
       "workarounds": [],
-      "desired_features": [
-        "So, in effect, for a system to perform test-time compute scaling on a 1B model, it needs to be able to fit (memory)..."
-      ]
+      "desired_features": []
     },
     {
       "term": "VLA",
       "top_complaints": [
-        "The current approaches train on specific datasets but fail when encountering variations outside training distribution.",
-        "Participants spoke consistently about the lack of time lawyers are able to spend with clients on remand and how most...",
-        "To verify that I understand the problem correctly, one of the clients can't check out licenses from the server, this..."
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "扩展性差，大规模部署受限"
       ],
       "workarounds": [
-        "These models bring us one step closer to robotic assistants that can understand user intent from just an image and a..."
+        "改用其他工具/平台",
+        "手动逐步处理"
       ],
       "desired_features": [
-        "Although C11 does not explicitly name a size-limit for VLAs, some believe it should have the same maximum size as...",
-        "But now the client has moved to volume licensing and needs to check out licenses from the server."
+        "期望官方支持更多功能"
       ]
     },
     {
       "term": "speculative decoding",
       "top_complaints": [
-        "Skip to main contentspeculative decoding silently broken for Qwen3.6 on the TurboQuant fork — PR to fix : r/LocalLLaMA",
-        "Large scale products, like AI Overviews, are continuously optimized with new techniques, yet speculative decoding...",
-        " # speculative decoding silently broken for Qwen3.6 on the TurboQuant fork — PR to fix : r/LocalLLaMA"
+        "频繁出 bug，功能不稳定",
+        "扩展性差，大规模部署受限"
       ],
       "workarounds": [],
       "desired_features": []
@@ -632,59 +575,53 @@
     {
       "term": "flow matching",
       "top_complaints": [
-        "I've had success with normalizing flows in problems where both directions of the transformation were important..."
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": [
-        " Looking for Intuitive Resources to Understand Flow Matching ....",
-        "Skip to main content Looking for Intuitive Resources to Understand Flow Matching (Beyond the Original Paper) :...",
-        "#  Looking for Intuitive Resources to Understand Flow Matching (Beyond the Original Paper) : r/MachineLearning"
+        "在寻找更好的工具方案"
       ]
     },
     {
       "term": "GRPO",
       "top_complaints": [
-        " This is pretty solid intuition and does explain the slower initial learning when applying GRPO to Atari-type tasks,...",
-        "These being action sequences vs individual actions is another huge contributor to the poor performance when compared...",
-        "The whole loop of reading papers, fixing datasets, retrying failed runs, and iterating again feels much closer to an..."
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "性能慢，响应延迟高"
       ],
       "workarounds": [
-        "We do not apply the outcome or process neural reward model in developing DeepSeek-R1-Zero, because we find that the..."
+        "用临时 hack 绕过限制",
+        "改用其他工具/平台"
       ],
-      "desired_features": [
-        "Also, notice that GRPO is harder to parallelize efficiently, since each group of rollouts needs to start from the...",
-        "Therefore, at the start of each rollout, all traces need to be initialized to the same state.",
-        "I didn’t need a reference model, which made runs lighter."
-      ]
+      "desired_features": []
     },
     {
       "term": "forward deployed agent",
       "top_complaints": [
-        "Skip to main contentFirst round for Forward Deployed Engineer at AI startup - Built a demo addressing real user...",
-        ": u/shopify avatarshopify•Promoted  # First round for Forward Deployed Engineer at AI startup - Built a demo...",
-        "In enterprise AI, the speed at which Forward Deployed Engineering pain becomes product capability determines whether..."
+        "部署流程复杂，上线容易踩坑",
+        "频繁出 bug，功能不稳定",
+        "扩展性差，大规模部署受限"
       ],
-      "workarounds": [],
-      "desired_features": [
-        "My approach: Instead of showing \"cool AI,\" I'm focusing on \"how to get 90% agent adoption\" since FDEs need to ensure",
-        "## Why Agentic AI Needs a Different Business Model"
-      ]
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
     },
     {
       "term": "vibe coding",
       "top_complaints": [
-        "Can’t imagine vibecoders frustration when they arnt even able to fix the problems and have to spend money on a whole...",
-        "In my experience the biggest source of frustration with vibe coding is when I get lazy and don't build the prompt to...",
-        "And it was really frustrating, yet we're getting there through convolutated,  The argument is that vibe coding is..."
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测"
       ],
       "workarounds": [
-        "Vibe builders make shipping very fast by handling backend, hosting, and UI so non-technical founders can focus on...",
-        "The problem with \"vibe coding\" | Hacker News."
+        "用临时 hack 绕过限制",
+        "转向自托管或其他部署平台",
+        "手动逐步处理"
       ],
       "desired_features": [
-        "Maintain an Instructions Folder  I know it does not sound as \"vibe coding\" anymore and does not sound as easy as all...",
-        "If we're going to point the middle finger at vibe-coding, I wish we had something to point to as a better tool for...",
-        "If you're already using Hostinger for hosting or using Hostinger's website builder, Horizons can remove the hassle..."
+        "希望增加更完善的功能",
+        "在寻找更好的工具方案"
       ]
     }
   ]
