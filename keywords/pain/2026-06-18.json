@@ -1,0 +1,473 @@
+{
+  "date": "2026-06-18",
+  "entries": [
+    {
+      "term": "Kairos",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Guava",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MolmoMotion",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "EfficientRollout",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Sumi",
+      "top_complaints": [
+        "输出不稳定，结果不可预测",
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "MaineCoon",
+      "top_complaints": [
+        "难以维护，技术债快速累积",
+        "学习曲线陡峭，上手困难"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "PAIWorld",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "性能慢，响应延迟高"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "CEO-Bench",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "希望自动化简化工作流"
+      ]
+    },
+    {
+      "term": "SciOrch",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ViT-Up",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "RODS",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "MyPCBench",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "IndustryBench-MIPU",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "iOSWorld",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Bag of Dims",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Physics-IQ Verified",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Morpheus",
+      "top_complaints": [
+        "定价过高，流量上来后成本飙升",
+        "缺少关键功能或支持",
+        "平台锁定，迁移困难"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "HiLo-Token",
+      "top_complaints": [
+        "难以控制输出，依赖精细 prompt",
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "希望增加更完善的功能"
+      ]
+    },
+    {
+      "term": "STARE",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "用临时 hack 绕过限制",
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案",
+        "希望增加更完善的功能"
+      ]
+    },
+    {
+      "term": "world model stack",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "physical AI",
+      "top_complaints": [
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "self-speculative decoding",
+      "top_complaints": [
+        "难以维护，技术债快速累积",
+        "扩展性差，大规模部署受限"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "spatial vision language models",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "学习曲线陡峭，上手困难"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "diffusion language model",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测",
+        "性能慢，响应延迟高"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "research harness",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "性能慢，响应延迟高"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "需要更多导出格式"
+      ]
+    },
+    {
+      "term": "non-Markov games",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "omni-modal understanding",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "难以控制输出，依赖精细 prompt",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "希望增加更完善的功能"
+      ]
+    },
+    {
+      "term": "GUI grounding",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Adapt",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "需要中文或多语言支持",
+        "希望增加更完善的功能"
+      ]
+    },
+    {
+      "term": "CADAM",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "改用其他工具/平台",
+        "批量下载后拖拽迁移部署",
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "LayerProof Bristol",
+      "top_complaints": [
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Viktor for Microsoft Teams",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "难以维护，技术债快速累积",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "自己写脚本或自建工具",
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Buddy",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案",
+        "希望增加更完善的功能"
+      ]
+    },
+    {
+      "term": "Labs AI",
+      "top_complaints": [
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Upstream",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "用户主动寻找替代方案",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Locofy",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署",
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Honestly",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "VELA",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "性能慢，响应延迟高",
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "改用其他工具/平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Juno",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "平台锁定，迁移困难",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Elvin",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
+    },
+    {
+      "term": "Tine",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "TxBench-PP",
+      "top_complaints": [
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "WorldLines",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "skill-guided continuation distillation",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "改用其他工具/平台",
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    }
+  ]
+}

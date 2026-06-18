@@ -14,7 +14,7 @@ from analyze import analyze_trend, detect_geo, analyze_competition
 from extract_pain import extract_pain_from_results
 
 TAVILY_URL = "https://api.tavily.com/search"
-DELAY = 20
+DELAY = 5
 MAX_RETRIES = 6
 CACHE_DIR = "/workspace/keywords/.pain_cache"
 SEARCH_CACHE = "/workspace/keywords/.search_cache"
