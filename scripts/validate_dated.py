@@ -111,6 +111,26 @@ PRODUCT_BRIEFS = {
         "suggested_headline": "Plan Before You Act — Stable AI Agents, Fewer Failures",
         "target_users": ["Agent框架开发者", "LLM应用工程师", "企业自动化团队"],
     },
+    "S-Agent": {
+        "product_direction": "面向AI Agent开发者的稳定编排与调试平台，解决执行不稳定、功能缺失与体验差问题",
+        "suggested_headline": "Build AI Agents That Actually Work — Stable, Observable, Reliable",
+        "target_users": ["AI Agent开发者", "自动化工作流工程师", "LLM应用产品团队"],
+    },
+    "Taylor-Calibrate": {
+        "product_direction": "面向安全团队的LLM漏洞检测校准工具，降低对精细prompt的依赖并提升输出可控性",
+        "suggested_headline": "Calibrate LLM Vulnerability Detection Without Prompt Engineering",
+        "target_users": ["应用安全工程师", "DevSecOps团队", "AI安全研究员"],
+    },
+    "LooseControlVideo": {
+        "product_direction": "面向内容创作者的轻量视频生成控制工具，用结构化约束替代精细prompt调参",
+        "suggested_headline": "Generate Videos You Can Actually Control — No Prompt Hacking Required",
+        "target_users": ["短视频创作者", "营销内容团队", "独立视频制作人"],
+    },
+    "Sovereign Execution Brokers": {
+        "product_direction": "面向Agent基础设施团队的执行代理编排层，缩短调试循环并稳定输出结果",
+        "suggested_headline": "Sovereign Execution Brokers for AI Agents — Fewer Debug Loops, Stable Runs",
+        "target_users": ["Agent基础设施工程师", "企业AI平台团队", "MLOps/SRE负责人"],
+    },
 }
 
 
