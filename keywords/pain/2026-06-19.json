@@ -1,0 +1,415 @@
+{
+  "date": "2026-06-19",
+  "entries": [
+    {
+      "term": "Moebius",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "DragMesh-2",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "S-Agent",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Multi-LCB",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "FreeStyle",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "FlowBender",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "DF3DV-1K",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ImageWAM",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ENPIRE",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "FAPO",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "希望增加更完善的功能"
+      ]
+    },
+    {
+      "term": "LedgerAgent",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "HumanScale",
+      "top_complaints": [
+        "扩展性差，大规模部署受限",
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Holo-World",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "JAMER",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Taylor-Calibrate",
+      "top_complaints": [
+        "难以控制输出，依赖精细 prompt",
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "LooseControlVideo",
+      "top_complaints": [
+        "难以控制输出，依赖精细 prompt"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ReSyn",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案",
+        "期望官方支持更多功能"
+      ]
+    },
+    {
+      "term": "DiffusionGemma",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台",
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "UNIEGO",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "G2Rec",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "UltraQuant",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "playful agentic robot learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "world action models",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "persistent state core",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "性能慢，响应延迟高",
+        "难以控制输出，依赖精细 prompt"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "spatial tool-use",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "context-aware RL",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "难以控制输出，依赖精细 prompt"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "visual grounding",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "难以控制输出，依赖精细 prompt"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
+    },
+    {
+      "term": "agentic RAG",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "性能慢，响应延迟高"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "UFP4 Recipe",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "学习曲线陡峭，上手困难"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Lie-Algebra Attention",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Execution-State Capsules",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Sovereign Execution Brokers",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测",
+        "调试循环冗长，反复返工"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Agentic Symbolic Search",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Marginal Advantage Accumulation",
+      "top_complaints": [
+        "学习曲线陡峭，上手困难"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Retool",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台",
+        "用户用 Excel/表格手动处理",
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": [
+        "期望官方支持更多功能",
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Japanly AEO",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Framer AI Agents",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积",
+        "扩展性差，大规模部署受限"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Wispr Flow",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "AEO",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "vibe coding",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "转向自托管或其他部署平台",
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "希望增加更完善的功能",
+        "在寻找更好的工具方案"
+      ]
+    }
+  ]
+}
