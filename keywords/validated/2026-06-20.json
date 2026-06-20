@@ -1,0 +1,611 @@
+{
+  "date": "2026-06-20",
+  "entries": [
+    {
+      "term": "hosted memory layer for AI agents",
+      "total_score": 30,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 5,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 AI Agent 开发者的托管式记忆层服务，解决会话状态持久化与跨任务检索难题",
+      "suggested_headline": "Persistent Memory for AI Agents — No Infrastructure Required",
+      "target_users": [
+        "AI Agent 开发者",
+        "多 Agent 系统架构师",
+        "LLM 应用初创团队"
+      ]
+    },
+    {
+      "term": "WorkClaw",
+      "total_score": 28,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 Slack 团队的主动式 AI 同事，跨 20+ 应用协作并自动推进任务",
+      "suggested_headline": "AI Coworkers That Actually Work Across Your Slack Apps",
+      "target_users": [
+        "远程协作团队",
+        "Slack 重度用户",
+        "运营自动化负责人"
+      ]
+    },
+    {
+      "term": "API to MCP",
+      "total_score": 28,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向开发者的 API→MCP 一键转换平台，降低 MCP 生态工具接入门槛",
+      "suggested_headline": "Turn Any REST API Into an MCP Tool in Minutes",
+      "target_users": [
+        "MCP 生态开发者",
+        "API 平台团队",
+        "AI 工具集成工程师"
+      ]
+    },
+    {
+      "term": "runtime governance",
+      "total_score": 28,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 Agent 部署团队的运行时治理层，实时约束与审计 Agent 决策行为",
+      "suggested_headline": "Govern AI Agents at Runtime — Policies That Actually Enforce",
+      "target_users": [
+        "企业 AI 平台团队",
+        "合规与风控负责人",
+        "Agent 基础设施工程师"
+      ]
+    },
+    {
+      "term": "autonomous penetration testing",
+      "total_score": 26,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 5,
+        "D5": 5,
+        "D6": 3
+      },
+      "status": "进入验证池",
+      "product_direction": "面向安全团队的 AI 自主渗透测试平台，降低人工成本并扩大攻击面覆盖",
+      "suggested_headline": "Autonomous Pen Testing — Find Vulnerabilities Before Attackers Do",
+      "target_users": [
+        "应用安全工程师",
+        "DevSecOps 团队",
+        "合规审计负责人"
+      ]
+    },
+    {
+      "term": "deontic policies for agentic AI",
+      "total_score": 26,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "基于义务逻辑的 Agent 策略框架，用规范语言定义 Agent 行为边界",
+      "suggested_headline": "Define What AI Agents Must and Must Not Do — In Plain Policy Language",
+      "target_users": [
+        "AI 安全研究员",
+        "企业合规团队",
+        "Agent 框架开发者"
+      ]
+    },
+    {
+      "term": "Basedash Access Controls",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 5,
+        "D5": 5,
+        "D6": 3
+      },
+      "status": "进入验证池",
+      "product_direction": "面向数据团队的细粒度数据库访问控制平台，解决权限管理粒度不足与审计困难问题",
+      "suggested_headline": "Fine-Grained Database Access Controls Your Team Can Actually Manage",
+      "target_users": [
+        "数据平台工程师",
+        "数据库管理员",
+        "安全合规负责人"
+      ]
+    },
+    {
+      "term": "ReleaseDock",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向独立开发者的统一发布管理平台，一站式管理版本发布、更新日志与多渠道分发",
+      "suggested_headline": "Ship Releases Everywhere From One Dock — No More Scattered Launches",
+      "target_users": [
+        "独立开发者",
+        "开源项目维护者",
+        "小型 SaaS 团队"
+      ]
+    },
+    {
+      "term": "Zernio WhatsApp API",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 5,
+        "D5": 5,
+        "D6": 3
+      },
+      "status": "进入验证池",
+      "product_direction": "面向开发者的简化 WhatsApp Business API 接入方案，缩短集成周期并降低接入门槛",
+      "suggested_headline": "Connect to WhatsApp Business API in Hours, Not Weeks",
+      "target_users": [
+        "全栈开发者",
+        "客服自动化团队",
+        "跨境电商运营"
+      ]
+    },
+    {
+      "term": "just f***ing send it",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向所有人的浏览器直传大文件工具，无需注册账号即可发送任意大小文件",
+      "suggested_headline": "Just Send It — Any File, Any Size, Browser to Browser",
+      "target_users": [
+        "设计师与创意工作者",
+        "远程协作团队",
+        "不愿注册网盘的用户"
+      ]
+    },
+    {
+      "term": "Firecrawl Research Index",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 5,
+        "D5": 5,
+        "D6": 3
+      },
+      "status": "进入验证池",
+      "product_direction": "面向研究者的自动化资料索引平台，将散落网页内容结构化为可检索的研究知识库",
+      "suggested_headline": "Index the Web for Research — Searchable Knowledge From Any Source",
+      "target_users": [
+        "学术研究者",
+        "投资分析师",
+        "技术趋势追踪者"
+      ]
+    },
+    {
+      "term": "Upsolve AI",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 5,
+        "D5": 5,
+        "D6": 3
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 SaaS 产品的可嵌入自助式 AI 分析平台，让客户无需技术背景即可探索数据",
+      "suggested_headline": "Embed AI Analytics Your Customers Will Actually Use",
+      "target_users": [
+        "SaaS 产品经理",
+        "B2B 数据平台团队",
+        "客户成功负责人"
+      ]
+    },
+    {
+      "term": "Tiles: Map Your Adventures",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向健身爱好者的私密路线地图工具，自动将 Apple Health 运动记录可视化为探险地图",
+      "suggested_headline": "Turn Your Workouts Into Adventure Maps — Private and Beautiful",
+      "target_users": [
+        "跑步与骑行爱好者",
+        "Apple Watch 用户",
+        "户外运动记录者"
+      ]
+    },
+    {
+      "term": "DeXposure-Claw",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 Agent 安全团队的暴露面自动检测平台，识别 AI Agent 工具权限与攻击面风险",
+      "suggested_headline": "Find AI Agent Exposure Risks Before Attackers Do",
+      "target_users": [
+        "AI 安全工程师",
+        "红队测试人员",
+        "Agent 平台运维团队"
+      ]
+    },
+    {
+      "term": "MetaResearcher",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向研究者的自动化元研究 Agent，快速综述领域文献并把握研究全貌",
+      "suggested_headline": "Survey Any Research Field in Minutes — AI-Powered Meta-Research",
+      "target_users": [
+        "博士生与学者",
+        "研发战略分析师",
+        "技术投资研究员"
+      ]
+    },
+    {
+      "term": "LLM monitorability",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 ML 团队的 LLM 可监控性评估平台，量化模型输出对下游任务的实际效用",
+      "suggested_headline": "Know When Your LLM Outputs Actually Help — Monitorability That Matters",
+      "target_users": [
+        "ML 工程师",
+        "AI 产品质量负责人",
+        "模型评估研究员"
+      ]
+    },
+    {
+      "term": "Configurable Clinical Information Extraction with Agentic RAG",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Calibration Without Comprehension",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Are you in the Weights?",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "pumaDB",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Narration Room",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "frontpage.sh",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Darkmoon",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "QuackScreen",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "MeshPilot",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Pitchbar",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "InstantDelay",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "VELA",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "GitSync for macOS",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Mutter AI Dictation",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Claude Code Artifacts",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Blazly Backlinker",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ScaffoldAgent",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "computer-using agents",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Honestly",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "TelcoAgent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "process-verified RL",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "MCP Client",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 1
+      },
+      "status": "继续观察"
+    }
+  ]
+}

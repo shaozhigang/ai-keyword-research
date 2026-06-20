@@ -1,0 +1,1250 @@
+{
+  "date": "2026-06-20",
+  "entries": [
+    {
+      "term": "AI video studio",
+      "top_complaints": [
+        "AI 视频生成工具学习曲线陡峭",
+        "生成结果可控性不足，需反复调参"
+      ],
+      "workarounds": [
+        "使用传统视频编辑软件"
+      ],
+      "desired_features": [
+        "一站式 AI 视频工作室"
+      ]
+    },
+    {
+      "term": "Are you in the Weights?",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Basedash Access Controls",
+      "top_complaints": [
+        "数据库访问权限管理粒度不足",
+        "团队成员数据访问审计困难"
+      ],
+      "workarounds": [
+        "手动管理数据库用户权限"
+      ],
+      "desired_features": [
+        "细粒度数据库访问控制"
+      ]
+    },
+    {
+      "term": "Mellum by JetBrains",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "pumaDB",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "hosted memory layer for AI agents",
+      "top_complaints": [
+        "Agent 会话状态难以跨任务持久化",
+        "现有方案缺乏托管式记忆层，需自建基础设施",
+        "多 Agent 间记忆共享与检索效率低"
+      ],
+      "workarounds": [
+        "用 Redis/向量库手动搭建记忆层"
+      ],
+      "desired_features": [
+        "开箱即用的 Agent 记忆托管服务"
+      ]
+    },
+    {
+      "term": "Slackbot’s MCP Client",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MCP Client",
+      "top_complaints": [
+        "MCP 客户端实现碎片化，互操作性差",
+        "配置多个 MCP server 管理复杂",
+        "缺乏统一的 MCP 客户端体验"
+      ],
+      "workarounds": [
+        "为每个 server 单独写集成代码"
+      ],
+      "desired_features": [
+        "统一的 MCP 客户端管理面板"
+      ]
+    },
+    {
+      "term": "GitSync for macOS",
+      "top_complaints": [
+        "macOS 上 Git 同步体验不如预期流畅",
+        "多仓库同步状态难以一目了然"
+      ],
+      "workarounds": [
+        "使用 GitHub Desktop 或命令行"
+      ],
+      "desired_features": [
+        "原生 macOS Git 同步体验"
+      ]
+    },
+    {
+      "term": "visual Git management",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ReleaseDock",
+      "top_complaints": [
+        "软件发布流程分散在多个平台",
+        "版本发布通知与更新日志管理繁琐"
+      ],
+      "workarounds": [
+        "手动在 GitHub Release + 各渠道发布"
+      ],
+      "desired_features": [
+        "统一的发布管理平台"
+      ]
+    },
+    {
+      "term": "WorkClaw",
+      "top_complaints": [
+        "Slack 内跨 20+ 应用协作碎片化，缺乏统一入口",
+        "现有 AI 助手被动响应，无法主动协作完成任务",
+        "团队协作中 AI 上下文难以在多应用间共享"
+      ],
+      "workarounds": [
+        "手动在多个 Slack 集成间切换"
+      ],
+      "desired_features": [
+        "主动式 AI 同事",
+        "跨应用统一工作流"
+      ]
+    },
+    {
+      "term": "Narration Room",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Mutter AI Dictation",
+      "top_complaints": [
+        "云端听写服务存在隐私泄露风险",
+        "网络不稳定时听写中断，无法离线使用"
+      ],
+      "workarounds": [
+        "使用系统自带听写"
+      ],
+      "desired_features": [
+        "完全离线运行的 AI 听写"
+      ]
+    },
+    {
+      "term": "Claude Code Artifacts",
+      "top_complaints": [
+        "代码产物管理分散，难以版本追踪",
+        "AI 生成的代码片段缺乏组织与复用机制"
+      ],
+      "workarounds": [
+        "手动复制粘贴到 IDE"
+      ],
+      "desired_features": [
+        "AI 代码产物的版本管理与复用"
+      ]
+    },
+    {
+      "term": "frontpage.sh",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Midjourney Scanner",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Darkmoon",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "autonomous penetration testing",
+      "top_complaints": [
+        "人工渗透测试成本高、周期长",
+        "自动化工具误报率高，难以信任",
+        "安全团队人手不足，无法覆盖全部攻击面"
+      ],
+      "workarounds": [
+        "外包渗透测试",
+        "仅做自动化漏洞扫描"
+      ],
+      "desired_features": [
+        "AI 驱动的自主渗透测试平台"
+      ]
+    },
+    {
+      "term": "Screen Ruler",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Snap Deck HQ",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "QuackScreen",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Blazly Backlinker",
+      "top_complaints": [
+        "外链建设手动操作耗时",
+        "SEO 工具外链功能分散且价格昂贵"
+      ],
+      "workarounds": [
+        "外包外链建设"
+      ],
+      "desired_features": [
+        "自动化的智能外链建设工具"
+      ]
+    },
+    {
+      "term": "Zernio WhatsApp API",
+      "top_complaints": [
+        "WhatsApp Business API 接入流程复杂",
+        "官方 API 文档晦涩，集成周期长"
+      ],
+      "workarounds": [
+        "使用第三方 WhatsApp 网关"
+      ],
+      "desired_features": [
+        "简化的 WhatsApp API 接入方案"
+      ]
+    },
+    {
+      "term": "Ask Ad Manager by Google Ads",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "just f***ing send it",
+      "top_complaints": [
+        "大文件传输受邮件/聊天工具大小限制",
+        "现有文件分享需注册账号或安装客户端"
+      ],
+      "workarounds": [
+        "分卷压缩后发送",
+        "使用网盘中转"
+      ],
+      "desired_features": [
+        "浏览器直传任意大小文件"
+      ]
+    },
+    {
+      "term": "Firecrawl Research Index",
+      "top_complaints": [
+        "研究资料散落在多个网页，难以统一检索",
+        "网页内容抓取后缺乏结构化索引"
+      ],
+      "workarounds": [
+        "手动收藏夹+笔记整理"
+      ],
+      "desired_features": [
+        "自动化的研究资料索引与检索"
+      ]
+    },
+    {
+      "term": "MeshPilot",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "API to MCP",
+      "top_complaints": [
+        "将现有 REST API 转为 MCP 工具需大量手工适配",
+        "缺乏标准化的 API→MCP 转换方案",
+        "MCP 生态工具接入门槛高"
+      ],
+      "workarounds": [
+        "手写 MCP server 包装层"
+      ],
+      "desired_features": [
+        "一键将 API 暴露为 MCP 工具"
+      ]
+    },
+    {
+      "term": "MCP server",
+      "top_complaints": [
+        "自建 MCP server 开发与维护成本高",
+        "MCP 协议文档不完善，调试困难"
+      ],
+      "workarounds": [
+        "使用社区开源 MCP server"
+      ],
+      "desired_features": [
+        "低代码 MCP server 生成器"
+      ]
+    },
+    {
+      "term": "Unreal Engine 5.8",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Pitchbar",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Upsolve AI",
+      "top_complaints": [
+        "嵌入式分析仪表板定制灵活性不足",
+        "客户自助分析能力有限"
+      ],
+      "workarounds": [
+        "用 Metabase/Superset 自建"
+      ],
+      "desired_features": [
+        "可嵌入的自助式 AI 分析平台"
+      ]
+    },
+    {
+      "term": "InstantDelay",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "VELA",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Labs AI",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Honestly",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Upstream",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Genie Mentions",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Tiles: Map Your Adventures",
+      "top_complaints": [
+        "Apple Health 运动数据难以可视化为路线地图",
+        "现有地图应用无法自动关联健身记录"
+      ],
+      "workarounds": [
+        "手动在地图 App 标记路线"
+      ],
+      "desired_features": [
+        "自动将健身记录转为私密路线地图"
+      ]
+    },
+    {
+      "term": "deontic policies for agentic AI",
+      "top_complaints": [
+        "Agent 行为边界难以用传统 RBAC 定义",
+        "缺乏规范逻辑驱动的策略描述语言",
+        "合规策略与 Agent 执行层脱节"
+      ],
+      "workarounds": [
+        "人工审核 Agent 输出"
+      ],
+      "desired_features": [
+        "基于义务逻辑的 Agent 策略框架"
+      ]
+    },
+    {
+      "term": "runtime governance",
+      "top_complaints": [
+        "Agent 运行时行为缺乏策略约束与审计",
+        "部署后难以实时监控 Agent 决策合规性",
+        "缺乏 deontic 策略引擎集成方案"
+      ],
+      "workarounds": [
+        "在 prompt 层硬编码规则"
+      ],
+      "desired_features": [
+        "运行时 Agent 治理与策略执行层"
+      ]
+    },
+    {
+      "term": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Diffusion Language Models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "DeXposure-Claw",
+      "top_complaints": [
+        "AI Agent 暴露面风险评估困难",
+        "缺乏自动化的 Agent 安全审计工具"
+      ],
+      "workarounds": [
+        "人工审查 Agent 工具权限"
+      ],
+      "desired_features": [
+        "Agent 暴露面自动检测平台"
+      ]
+    },
+    {
+      "term": "LLM Doesn't Know What It Doesn't Know",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "epistemic blind spots",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "cross-model attribution divergence",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "REVEAL++",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ITNet",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Configurable Clinical Information Extraction with Agentic RAG",
+      "top_complaints": [
+        "临床信息抽取需高度可配置以适应不同科室",
+        "现有 RAG 方案缺乏医疗领域合规保障"
+      ],
+      "workarounds": [
+        "人工从病历中提取关键信息"
+      ],
+      "desired_features": [
+        "可配置的临床 Agentic RAG 系统"
+      ]
+    },
+    {
+      "term": "AI4SE and SE4AI Exploration",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "BrainG3N",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Beyond Static Leaderboards",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "GLARE",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Comparative Study of Pretrained Transformer Models for Quranic ASR",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Grounded Inference",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Beyond Entropy",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AgentFinVQA",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ORAgentBench",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "CombEval",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "TelcoAgent",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MetaResearcher",
+      "top_complaints": [
+        "文献综述耗时长，难以快速把握领域全貌"
+      ],
+      "workarounds": [
+        "手动阅读论文摘要"
+      ],
+      "desired_features": [
+        "自动化的元研究 Agent"
+      ]
+    },
+    {
+      "term": "multi-agent transactive memory",
+      "top_complaints": [
+        "多 Agent 协作中信息共享机制不完善",
+        "Agent 间知识传递容易丢失上下文"
+      ],
+      "workarounds": [
+        "通过共享文档传递信息"
+      ],
+      "desired_features": [
+        "多 Agent 交互记忆系统"
+      ]
+    },
+    {
+      "term": "eCNNTO",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The Tao of Agency",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "PhysDrift",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "process-verified RL",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ScaffoldAgent",
+      "top_complaints": [
+        "Agent 脚手架搭建重复劳动多",
+        "缺乏标准化的 Agent 开发模板"
+      ],
+      "workarounds": [
+        "从开源项目 fork 修改"
+      ],
+      "desired_features": [
+        "可配置的 Agent 脚手架生成器"
+      ]
+    },
+    {
+      "term": "utility-guided deep research",
+      "top_complaints": [
+        "深度研究 Agent 输出质量不稳定",
+        "研究过程缺乏效用导向的引导机制"
+      ],
+      "workarounds": [
+        "人工逐步引导研究 Agent"
+      ],
+      "desired_features": [
+        "效用导向的深度研究 Agent"
+      ]
+    },
+    {
+      "term": "Learning to Prompt",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "RACL",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "BIM-Edit",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Beyond Accuracy",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "QMFOL",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Navigating Unreliable Parametric and Contextual Knowledge",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Lagrange",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "open-vocabulary end-to-end driving",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SoftSkill",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "computer-using agents",
+      "top_complaints": [
+        "浏览器自动化 Agent 频繁因页面变化而失败",
+        "CAPTCHA 和反爬机制阻断自动化流程",
+        "Agent 在多步骤 UI 操作中容易迷失"
+      ],
+      "workarounds": [
+        "手动完成关键步骤",
+        "使用传统 RPA 工具"
+      ],
+      "desired_features": [
+        "更鲁棒的计算机使用 Agent"
+      ]
+    },
+    {
+      "term": "Rethinking Shrinkage Bias in LLM FP4 Pretraining",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "FlowEdit",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "DeepSWIP",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "When to Trust, How to Distill",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Closing the Social-Semantic Gap",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ProMUSE",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "cAPM",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "VERITAS",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Thermodynamic Signatures of Reasoning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "FlexLAM",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Spectral DPPs via NEPv",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MortarBench",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "3D-DLP",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Insulin4RL",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Concept Flow Models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Algebraic Dead Directions in LayerNorm Transformers",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Displacement Is Not Direction",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "IHBench",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SEAGAN",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MassSpecGym in the Wild",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "LOKI",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "OnDeFog",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Manifold Bandits",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Flow Map Denoisers",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "When, Where, and How",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Matching Markets meet Cumulative Prospect Theory",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SL-S4Wave",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ADaPT",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Compositionality Emerges in a Narrow Depth-Connectivity Regime",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Towards Graph-Based Deep Learning for Map Generalization",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Activation- and Influence-Aware Ranks (AIR)",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Connect the Dots",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "StreamKL",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "VIMPO",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Hierarchical Control in Multi-Agent Games",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "PaAno+",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "What Makes Effective Supervision in Latent Chain-of-Thought",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Sensorimotor World Models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Quantile of Means",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "When Calibration Fails the Vulnerable Hospital",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Learner-based Concept Drift Detection",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Judging to Improve",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "CRAX",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Towards Modality-imbalanced Federated Graph Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Pseudo-Feature Padding",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Sparsity, Superposition, and Forgetting",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Contagion Networks",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The Token Is a Group Element",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "multicalibration",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "omniprediction",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "LLM monitorability",
+      "top_complaints": [
+        "模型输出对下游任务是否有用难以量化评估",
+        "缺乏透明的可监控性指标与仪表盘",
+        "黑盒模型行为难以追溯和调试"
+      ],
+      "workarounds": [
+        "人工抽检模型输出"
+      ],
+      "desired_features": [
+        "LLM 可监控性评估与告警平台"
+      ]
+    },
+    {
+      "term": "non-chronological reasoning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "opaque serial depth",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SARLO-80",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Calibration Without Comprehension",
+      "top_complaints": [
+        "模型输出分布校准但缺乏真正的安全推理能力",
+        "微调改变输出阈值却不改变决策策略"
+      ],
+      "workarounds": [
+        "增加人工审核环节"
+      ],
+      "desired_features": [
+        "理解驱动的模型校准方案"
+      ]
+    },
+    {
+      "term": "Your Mouse and Eyes Secretly Leak Your Preference",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    }
+  ]
+}
