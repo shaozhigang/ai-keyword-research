@@ -1,0 +1,228 @@
+{
+  "date": "2026-06-21",
+  "entries": [
+    {
+      "term": "My Computer",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "性能慢，响应延迟高"
+      ],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Wispr Flow",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Moebius",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "DragMesh-2",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Multi-LCB",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "S-Agent",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "DF3DV-1K",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "FreeStyle",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "FlowBender",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ImageWAM",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "world action models",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "persistent state core",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "性能慢，响应延迟高",
+        "难以控制输出，依赖精细 prompt"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ENPIRE",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "FAPO",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "希望增加更完善的功能"
+      ]
+    },
+    {
+      "term": "LedgerAgent",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "HumanScale",
+      "top_complaints": [
+        "扩展性差，大规模部署受限",
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Holo-World",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "LooseControlVideo",
+      "top_complaints": [
+        "难以控制输出，依赖精细 prompt"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "LegalHalluLens",
+      "top_complaints": [
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Taylor-Calibrate",
+      "top_complaints": [
+        "难以控制输出，依赖精细 prompt",
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "JAMER",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "ReSyn",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案",
+        "期望官方支持更多功能"
+      ]
+    },
+    {
+      "term": "spatial tool-use",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    }
+  ]
+}
