@@ -13,6 +13,229 @@
       "desired_features": []
     },
     {
+      "term": "Manus AI",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "需要中文或多语言支持",
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Manus Desktop",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积",
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台",
+        "改用其他工具/平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Lightning Rod",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Kira 4.0",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Codex Subagents",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "平台锁定，迁移困难"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "批量下载后拖拽迁移部署",
+        "改用其他工具/平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "mTarsier",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MCP servers",
+      "top_complaints": [
+        "自建 MCP server 开发与维护成本高",
+        "MCP server 部署与配置碎片化，多 server 管理困难"
+      ],
+      "workarounds": [
+        "使用社区开源 MCP server",
+        "为每个服务单独维护 MCP 配置"
+      ],
+      "desired_features": [
+        "低代码 MCP server 生成器",
+        "统一的 MCP server 管理平台"
+      ]
+    },
+    {
+      "term": "DLSS 5",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AgentDiscuss",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Kipps.AI",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Ocean Orchestrator",
+      "top_complaints": [
+        "多 Agent 协作编排配置复杂",
+        "缺乏统一的本地开发工作流入口"
+      ],
+      "workarounds": [
+        "为每个 Agent 单独写集成脚本"
+      ],
+      "desired_features": [
+        "本地优先的一体化 Agent 编排"
+      ]
+    },
+    {
+      "term": "dropadoo",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "JusRecruit",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Agen",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "OpenFlags",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Usercall Triggers",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ClickSay",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Parallax",
+      "top_complaints": [
+        "云端 AI 编排工具存在数据隐私与合规顾虑",
+        "开发任务上下文难以在 IDE 与云端服务间同步"
+      ],
+      "workarounds": [
+        "本地自建脚本串联多个 AI 工具"
+      ],
+      "desired_features": [
+        "本地优先的 AI 开发编排器"
+      ]
+    },
+    {
+      "term": "local-first AI orchestrator",
+      "top_complaints": [
+        "云端 AI 编排工具存在数据隐私与合规顾虑",
+        "开发任务上下文难以在 IDE 与云端服务间同步"
+      ],
+      "workarounds": [
+        "本地自建脚本串联多个 AI 工具"
+      ],
+      "desired_features": [
+        "本地优先的 AI 开发编排器"
+      ]
+    },
+    {
+      "term": "discli",
+      "top_complaints": [
+        "Agent 与 Discord 集成缺乏标准化 CLI 工具",
+        "消息触发与权限管理配置繁琐"
+      ],
+      "workarounds": [
+        "手写 Discord bot 包装 Agent 调用"
+      ],
+      "desired_features": [
+        "面向 Agent 的 Discord CLI 集成"
+      ]
+    },
+    {
+      "term": "Discord CLI for AI agents",
+      "top_complaints": [
+        "Agent 与 Discord 集成缺乏标准化 CLI 工具",
+        "消息触发与权限管理配置繁琐"
+      ],
+      "workarounds": [
+        "手写 Discord bot 包装 Agent 调用"
+      ],
+      "desired_features": [
+        "面向 Agent 的 Discord CLI 集成"
+      ]
+    },
+    {
       "term": "Wispr Flow",
       "top_complaints": [
         "使用体验差，令人沮丧",
@@ -23,6 +246,247 @@
       ],
       "desired_features": [
         "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "DexCode",
+      "top_complaints": [
+        "从 IDE 触发 AI 任务需频繁切换工具",
+        "AI 作业执行状态难以在编辑器内追踪"
+      ],
+      "workarounds": [
+        "在终端与 IDE 间手动切换运行命令"
+      ],
+      "desired_features": [
+        "IDE 内一键触发 AI 工作流"
+      ]
+    },
+    {
+      "term": "Easy App Reports",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AgreeGuard",
+      "top_complaints": [
+        "用户很少阅读冗长的服务条款与隐私政策",
+        "点击同意前难以判断条款中的风险条款"
+      ],
+      "workarounds": [
+        "跳过阅读直接点击同意"
+      ],
+      "desired_features": [
+        "AI 自动解读条款风险并给出摘要"
+      ]
+    },
+    {
+      "term": "Sokosumi",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SOLAYA",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Angy",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "multi-agent pipelines",
+      "top_complaints": [
+        "多 Agent 流水线编排与调试复杂",
+        "Agent 间上下文传递容易丢失"
+      ],
+      "workarounds": [
+        "用消息队列手动串联多个 Agent"
+      ],
+      "desired_features": [
+        "可视化的多 Agent 流水线编排"
+      ]
+    },
+    {
+      "term": "dev-impact",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Bolt Foundry",
+      "top_complaints": [
+        "从 IDE 触发 AI 任务需频繁切换工具",
+        "AI 作业执行状态难以在编辑器内追踪"
+      ],
+      "workarounds": [
+        "在终端与 IDE 间手动切换运行命令"
+      ],
+      "desired_features": [
+        "IDE 内一键触发 AI 工作流"
+      ]
+    },
+    {
+      "term": "ActiveStat",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Optibot",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Optimal AI",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Pally",
+      "top_complaints": [
+        "跨多个社交平台维护人际关系几乎不可能",
+        "容易忘记回复消息并错过重要时刻"
+      ],
+      "workarounds": [
+        "手动在各社交 App 间切换维护联系"
+      ],
+      "desired_features": [
+        "统一管理跨平台社交关系的 AI 助手"
+      ]
+    },
+    {
+      "term": "AI Relationship Management",
+      "top_complaints": [
+        "跨多个社交平台维护人际关系几乎不可能",
+        "容易忘记回复消息并错过重要时刻"
+      ],
+      "workarounds": [
+        "手动在各社交 App 间切换维护联系"
+      ],
+      "desired_features": [
+        "统一管理跨平台社交关系的 AI 助手"
+      ]
+    },
+    {
+      "term": "Omma",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "parallel agents",
+      "top_complaints": [
+        "并行 Agent 任务协调与结果合并困难",
+        "资源竞争导致部分 Agent 执行失败"
+      ],
+      "workarounds": [
+        "改为串行执行 Agent 任务"
+      ],
+      "desired_features": [
+        "可靠的并行 Agent 调度框架"
+      ]
+    },
+    {
+      "term": "HappyOyster",
+      "top_complaints": [
+        "当前 AI 视频生成产品物体状态突变问题严重",
+        "缺乏可交互、可探索的数字世界体验"
+      ],
+      "workarounds": [
+        "使用传统游戏引擎手动搭建场景"
+      ],
+      "desired_features": [
+        "可演绎、可探索的交互式数字世界"
+      ]
+    },
+    {
+      "term": "interactive world model",
+      "top_complaints": [
+        "当前 AI 视频生成产品物体状态突变问题严重",
+        "世界模型领域缺乏系统化评估基准"
+      ],
+      "workarounds": [
+        "使用传统模拟器或游戏引擎替代"
+      ],
+      "desired_features": [
+        "实时可交互的世界模型"
+      ]
+    },
+    {
+      "term": "real-time interactive world model",
+      "top_complaints": [
+        "现有世界模型难以维持实时交互的低延迟",
+        "物体状态在生成过程中频繁不一致"
+      ],
+      "workarounds": [
+        "降低交互频率或预渲染关键帧"
+      ],
+      "desired_features": [
+        "低延迟实时交互世界模型"
+      ]
+    },
+    {
+      "term": "agentic security-first code review",
+      "top_complaints": [
+        "AI 生成代码常含安全漏洞",
+        "传统代码审查难以覆盖 Agent 生成的全部变更"
+      ],
+      "workarounds": [
+        "额外运行 SAST 工具人工复核"
+      ],
+      "desired_features": [
+        "面向 Agent 代码的安全优先审查"
+      ]
+    },
+    {
+      "term": "autonomous AI coding agents",
+      "top_complaints": [
+        "自主编码 Agent 输出代码难以验证与信任",
+        "复杂代码库中 Agent 容易引入隐蔽 bug"
+      ],
+      "workarounds": [
+        "限制 Agent 只做小范围代码修改并人工审查"
+      ],
+      "desired_features": [
+        "可验证、可信任的自主编码 Agent"
+      ]
+    },
+    {
+      "term": "marketing agents",
+      "top_complaints": [
+        "营销 Agent 输出内容品牌一致性差",
+        "多渠道投放需反复手动调整文案"
+      ],
+      "workarounds": [
+        "人工审核并修改 Agent 生成的营销内容"
+      ],
+      "desired_features": [
+        "品牌风格可控的营销 Agent"
       ]
     },
     {
@@ -46,6 +510,14 @@
       "term": "Multi-LCB",
       "top_complaints": [
         "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Playful Agentic Robot Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
       ],
       "workarounds": [],
       "desired_features": []
@@ -90,6 +562,14 @@
       "desired_features": []
     },
     {
+      "term": "JanusMesh",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
       "term": "ImageWAM",
       "top_complaints": [
         "用户主动寻找替代方案"
@@ -105,6 +585,14 @@
       "workarounds": [
         "用户用 Excel/表格手动处理"
       ],
+      "desired_features": []
+    },
+    {
+      "term": "Current World Models Lack a Persistent State Core",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
@@ -136,6 +624,22 @@
       ]
     },
     {
+      "term": "Context-Aware RL for Agentic and Multimodal LLMs",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Thinking with Visual Grounding",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
       "term": "LedgerAgent",
       "top_complaints": [
         "用户主动寻找替代方案"
@@ -149,6 +653,22 @@
         "扩展性差，大规模部署受限",
         "频繁出 bug，功能不稳定",
         "难以维护，技术债快速累积"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "LOCUS",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "LCO-Embedding",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
       ],
       "workarounds": [],
       "desired_features": []
@@ -190,6 +710,14 @@
       ]
     },
     {
+      "term": "The FID Lottery",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
       "term": "JAMER",
       "top_complaints": [
         "频繁出 bug，功能不稳定",
@@ -199,6 +727,38 @@
       "workarounds": [
         "改用其他工具/平台"
       ],
+      "desired_features": []
+    },
+    {
+      "term": "No Resource, No Benchmarks, No Problem?",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The Data Manifold under the Microscope",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Selective Synergistic Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Duration Aware Scheduling for ASR Serving",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
@@ -213,6 +773,14 @@
         "在寻找更好的工具方案",
         "期望官方支持更多功能"
       ]
+    },
+    {
+      "term": "spatial intelligence",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "spatial tool-use",
