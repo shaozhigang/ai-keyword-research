@@ -1,0 +1,263 @@
+{
+  "date": "2026-06-21",
+  "entries": [
+    {
+      "term": "Manus Desktop",
+      "total_score": 26,
+      "scores": {"D1": 5, "D2": 3, "D3": 5, "D4": 5, "D5": 5, "D6": 3},
+      "status": "进入验证池",
+      "product_direction": "面向知识工作者的桌面级 AI 自动化助手，一键编排文件、应用与工作流",
+      "suggested_headline": "Automate Your Desktop Workflows With AI — Files, Apps, and Tasks in One Place",
+      "target_users": ["独立开发者", "运营自动化负责人", "重度效率工具用户"]
+    },
+    {
+      "term": "Codex Subagents",
+      "total_score": 26,
+      "scores": {"D1": 5, "D2": 3, "D3": 5, "D4": 5, "D5": 5, "D6": 3},
+      "status": "进入验证池",
+      "product_direction": "面向开发者的 Codex 子 Agent 编排平台，解决多任务并行与平台锁定问题",
+      "suggested_headline": "Deploy Specialized Codex Subagents Without Platform Lock-In",
+      "target_users": ["全栈开发者", "AI 编程工具重度用户", "DevTools 初创团队"]
+    },
+    {
+      "term": "Ocean Orchestrator",
+      "total_score": 26,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 5, "D5": 5, "D6": 5},
+      "status": "进入验证池",
+      "product_direction": "本地优先的多 Agent 编排平台，提供统一开发工作流入口与可视化协作",
+      "suggested_headline": "Orchestrate Multi-Agent Pipelines Locally — One Workflow, Zero Cloud Lock-In",
+      "target_users": ["AI Agent 开发者", "独立开发者", "隐私敏感的技术团队"]
+    },
+    {
+      "term": "Parallax",
+      "total_score": 26,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 5, "D5": 5, "D6": 5},
+      "status": "进入验证池",
+      "product_direction": "本地优先的 AI 开发编排器，在 IDE 内同步上下文并消除云端数据隐私顾虑",
+      "suggested_headline": "Local-First AI Orchestration for Developers Who Care About Privacy",
+      "target_users": ["独立开发者", "企业内网开发团队", "合规敏感行业工程师"]
+    },
+    {
+      "term": "local-first AI orchestrator",
+      "total_score": 26,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 5, "D5": 5, "D6": 5},
+      "status": "进入验证池",
+      "product_direction": "面向软件开发的本地优先 AI 编排平台，在 IDE 与本地环境间无缝串联 AI 任务",
+      "suggested_headline": "Run AI Development Tasks Locally — Orchestrate Agents Without Sending Code to the Cloud",
+      "target_users": ["独立开发者", "开源贡献者", "数据隐私敏感的技术团队"]
+    },
+    {
+      "term": "AgreeGuard",
+      "total_score": 26,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 5, "D5": 5, "D6": 5},
+      "status": "进入验证池",
+      "product_direction": "面向普通用户的 AI 条款风险解读工具，点击同意前自动摘要隐私政策与服务条款中的风险点",
+      "suggested_headline": "Know What's in the Fine Print Before You Click \"I Agree\"",
+      "target_users": ["注重隐私的普通用户", "法务合规团队", "SaaS 产品经理"]
+    },
+    {
+      "term": "Pally",
+      "total_score": 26,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 5, "D5": 5, "D6": 5},
+      "status": "进入验证池",
+      "product_direction": "跨平台社交关系 AI 管理助手，统一追踪数千条人脉连接并提醒重要互动时刻",
+      "suggested_headline": "Never Lose Touch — AI That Manages Your Relationships Across Every Platform",
+      "target_users": ["创业者与投资人", "销售与商务拓展", "社交网络重度用户"]
+    },
+    {
+      "term": "AI Relationship Management",
+      "total_score": 26,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 5, "D5": 5, "D6": 5},
+      "status": "进入验证池",
+      "product_direction": "面向专业人士的 AI 关系管理系统，跨社交平台统一维护人脉并防止遗漏重要回复",
+      "suggested_headline": "AI-Powered Relationship Management Across All Your Social Platforms",
+      "target_users": ["独立顾问", "创业者", "需要维护大量人脉的销售"]
+    },
+    {
+      "term": "parallel agents",
+      "total_score": 26,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 5, "D5": 5, "D6": 5},
+      "status": "进入验证池",
+      "product_direction": "面向 Agent 开发者的并行调度框架，解决多 Agent 任务协调、结果合并与资源竞争问题",
+      "suggested_headline": "Run AI Agents in Parallel — Coordinate, Merge, and Never Fail Silently",
+      "target_users": ["AI Agent 开发者", "多 Agent 系统架构师", "LLM 应用工程团队"]
+    },
+    {
+      "term": "agentic security-first code review",
+      "total_score": 26,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 5, "D5": 5, "D6": 5},
+      "status": "进入验证池",
+      "product_direction": "面向工程团队的安全优先 Agent 代码审查平台，自动检测 AI 生成代码中的安全漏洞",
+      "suggested_headline": "Security-First Code Review for AI-Generated Code — Catch Vulnerabilities Before Merge",
+      "target_users": ["应用安全工程师", "DevSecOps 团队", "使用 AI 编码工具的开发团队"]
+    },
+    {
+      "term": "Manus AI",
+      "total_score": 24,
+      "scores": {"D1": 5, "D2": 3, "D3": 5, "D4": 5, "D5": 3, "D6": 3},
+      "status": "进入验证池",
+      "product_direction": "面向个人用户的通用 AI Agent 平台，解决上下文判断与任务执行稳定性问题",
+      "suggested_headline": "AI Agents With Better Context and Judgment — Tasks Done Right the First Time",
+      "target_users": ["知识工作者", "小型团队负责人", "自动化爱好者"]
+    },
+    {
+      "term": "MCP servers",
+      "total_score": 24,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 5, "D5": 5, "D6": 3},
+      "status": "进入验证池",
+      "product_direction": "面向开发者的 MCP Server 统一管理平台，降低自建、部署与多 Server 配置碎片化成本",
+      "suggested_headline": "Manage All Your MCP Servers in One Place — Deploy, Configure, Scale",
+      "target_users": ["MCP 生态开发者", "AI 工具集成工程师", "LLM 应用初创团队"]
+    },
+    {
+      "term": "Wispr Flow",
+      "total_score": 24,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 5, "D5": 5, "D6": 3},
+      "status": "进入验证池",
+      "product_direction": "面向专业人士的离线 AI 语音听写工具，比打字快 4 倍且数据不出本地",
+      "suggested_headline": "Stop Typing. Start Speaking. 4x Faster — Private AI Dictation That Works Offline",
+      "target_users": ["作家与内容创作者", "注重隐私的知识工作者", "需要大量文字输入的开发者"]
+    },
+    {
+      "term": "DexCode",
+      "total_score": 24,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 5, "D5": 5, "D6": 3},
+      "status": "进入验证池",
+      "product_direction": "IDE 内一键触发 AI 工作流的开发插件，消除终端与编辑器间频繁切换的摩擦",
+      "suggested_headline": "Run AI Jobs From Your IDE With One Click — No More Terminal Switching",
+      "target_users": ["全栈开发者", "VS Code / Cursor 重度用户", "AI 辅助编程早期采用者"]
+    },
+    {
+      "term": "multi-agent pipelines",
+      "total_score": 24,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 5, "D5": 5, "D6": 3},
+      "status": "进入验证池",
+      "product_direction": "可视化的多 Agent 流水线编排平台，解决 Agent 间上下文传递丢失与调试困难问题",
+      "suggested_headline": "Build Multi-Agent Pipelines Visually — Debug, Orchestrate, Ship Faster",
+      "target_users": ["AI Agent 开发者", "自动化工程师", "LLM 应用产品团队"]
+    },
+    {
+      "term": "Bolt Foundry",
+      "total_score": 24,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 5, "D5": 5, "D6": 3},
+      "status": "进入验证池",
+      "product_direction": "面向开发者的 IDE 内 AI 作业触发与状态追踪平台，实现编辑器内闭环 AI 开发流",
+      "suggested_headline": "Trigger and Track AI Jobs Without Leaving Your IDE",
+      "target_users": ["独立开发者", "远程工程团队", "AI 编码工具用户"]
+    },
+    {
+      "term": "autonomous AI coding agents",
+      "total_score": 24,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 5, "D5": 5, "D6": 3},
+      "status": "进入验证池",
+      "product_direction": "可验证、可信任的自主编码 Agent 平台，在复杂代码库中安全推进自动化开发",
+      "suggested_headline": "Autonomous Coding Agents You Can Actually Trust — Verified Output, Every Time",
+      "target_users": ["工程团队 Tech Lead", "DevOps 工程师", "AI 辅助开发早期采用者"]
+    },
+    {
+      "term": "marketing agents",
+      "total_score": 24,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 5, "D5": 5, "D6": 3},
+      "status": "进入验证池",
+      "product_direction": "品牌风格可控的营销 Agent 平台，自动生成多渠道一致的品牌营销内容",
+      "suggested_headline": "Marketing Agents That Stay On-Brand — Multi-Channel Content, One Voice",
+      "target_users": ["增长营销团队", "独立 SaaS 创始人", "内容运营负责人"]
+    },
+    {
+      "term": "Lightning Rod",
+      "total_score": 22,
+      "scores": {"D1": 5, "D2": 3, "D3": 5, "D4": 3, "D5": 3, "D6": 3},
+      "status": "继续观察"
+    },
+    {
+      "term": "discli",
+      "total_score": 22,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 3, "D5": 3, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "Discord CLI for AI agents",
+      "total_score": 22,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 3, "D5": 3, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "HappyOyster",
+      "total_score": 22,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 3, "D5": 3, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "persistent state core",
+      "total_score": 22,
+      "scores": {"D1": 5, "D2": 3, "D3": 5, "D4": 1, "D5": 3, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "LegalHalluLens",
+      "total_score": 22,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 3, "D5": 3, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "My Computer",
+      "total_score": 20,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 3, "D5": 3, "D6": 3},
+      "status": "继续观察"
+    },
+    {
+      "term": "LedgerAgent",
+      "total_score": 20,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 3, "D5": 3, "D6": 3},
+      "status": "继续观察"
+    },
+    {
+      "term": "interactive world model",
+      "total_score": 18,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 1, "D5": 1, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "real-time interactive world model",
+      "total_score": 18,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 1, "D5": 1, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "ImageWAM",
+      "total_score": 18,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 1, "D5": 1, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "world action models",
+      "total_score": 18,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 1, "D5": 1, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "HumanScale",
+      "total_score": 18,
+      "scores": {"D1": 5, "D2": 3, "D3": 5, "D4": 1, "D5": 1, "D6": 3},
+      "status": "继续观察"
+    },
+    {
+      "term": "Holo-World",
+      "total_score": 18,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 1, "D5": 1, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "Taylor-Calibrate",
+      "total_score": 18,
+      "scores": {"D1": 5, "D2": 3, "D3": 5, "D4": 1, "D5": 1, "D6": 3},
+      "status": "继续观察"
+    },
+    {
+      "term": "spatial tool-use",
+      "total_score": 18,
+      "scores": {"D1": 5, "D2": 3, "D3": 5, "D4": 1, "D5": 1, "D6": 3},
+      "status": "继续观察"
+    }
+  ]
+}
