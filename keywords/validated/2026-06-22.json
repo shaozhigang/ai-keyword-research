@@ -1,0 +1,173 @@
+{
+  "date": "2026-06-22",
+  "entries": [
+    {
+      "term": "TokenOps",
+      "total_score": 26,
+      "scores": {"D1": 5, "D2": 1, "D3": 5, "D4": 5, "D5": 5, "D6": 5},
+      "status": "进入验证池",
+      "product_direction": "面向 AI 团队的 FinOps 仪表盘，实时追踪 token 消耗并按功能/团队归因，防止 Agent 循环导致费用失控",
+      "suggested_headline": "Stop AI Costs From Spiraling — Real-Time Token Attribution by Feature and Team",
+      "target_users": ["AI 产品工程负责人", "FinOps 与财务团队", "多 Agent 应用初创公司"]
+    },
+    {
+      "term": "AI unit economics",
+      "total_score": 26,
+      "scores": {"D1": 5, "D2": 1, "D3": 5, "D4": 5, "D5": 5, "D6": 5},
+      "status": "进入验证池",
+      "product_direction": "面向 CFO 与工程负责人的 AI 单位经济学平台，将推理费用按产品/功能拆解并近实时告警异常支出",
+      "suggested_headline": "Know Your AI Unit Economics Before the Monthly Bill Surprises You",
+      "target_users": ["SaaS 公司 CFO", "工程 VP", "AI 产品财务分析师"]
+    },
+    {
+      "term": "physical-AI serving",
+      "total_score": 26,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 5, "D5": 5, "D6": 5},
+      "status": "进入验证池",
+      "product_direction": "面向机器人与边缘设备的低延迟物理 AI 推理服务框架，支持小批量端侧部署与执行状态检查点恢复",
+      "suggested_headline": "Low-Latency Physical AI Serving on Device — Small Batches, Fast Checkpoints",
+      "target_users": ["机器人系统工程师", "边缘 AI 部署团队", "物理世界 Agent 开发者"]
+    },
+    {
+      "term": "memory governance",
+      "total_score": 24,
+      "scores": {"D1": 5, "D2": 1, "D3": 3, "D4": 5, "D5": 5, "D6": 5},
+      "status": "进入验证池",
+      "product_direction": "面向 Agent 开发者的可治理分层记忆系统，解决长期记忆缺乏过期策略与跨会话上下文污染问题",
+      "suggested_headline": "Govern Your AI Agent's Memory — Expire, Isolate, and Never Pollute Context Again",
+      "target_users": ["AI Agent 开发者", "企业级 LLM 应用团队", "多会话客服 Agent 运营方"]
+    },
+    {
+      "term": "Surya OCR 2",
+      "total_score": 24,
+      "scores": {"D1": 5, "D2": 1, "D3": 5, "D4": 5, "D5": 5, "D6": 3},
+      "status": "进入验证池",
+      "product_direction": "面向开发者的生产级 OCR 工具，提供全页处理实时进度、稳定依赖兼容与批处理一致性保障",
+      "suggested_headline": "Full-Page OCR With Real-Time Progress — Stable, Consistent, Production-Ready",
+      "target_users": ["文档处理开发者", "RAG 管道工程师", "多语言 OCR 集成团队"]
+    },
+    {
+      "term": "Handit.ai",
+      "total_score": 24,
+      "scores": {"D1": 5, "D2": 1, "D3": 3, "D4": 5, "D5": 5, "D6": 5},
+      "status": "进入验证池",
+      "product_direction": "面向运营团队的 Agent 任务流水线平台，提供可验证、可追踪的多步 Agent 编排与人工交接机制",
+      "suggested_headline": "Agent Workflows You Can Verify — Traceable Pipelines With Clear Human Handoffs",
+      "target_users": ["运营自动化负责人", "AI Agent 产品团队", "需要审计 Agent 输出的合规团队"]
+    },
+    {
+      "term": "Agent 37 Cloud",
+      "total_score": 24,
+      "scores": {"D1": 5, "D2": 1, "D3": 3, "D4": 5, "D5": 5, "D6": 5},
+      "status": "进入验证池",
+      "product_direction": "面向知识工作者的主动协作云端 AI 同事，消除碎片化被动工具间的频繁 tab 切换与上下文丢失",
+      "suggested_headline": "Proactive AI Coworkers in the Cloud — No More Tab Switching, No More Context Loss",
+      "target_users": ["远程协作团队", "知识工作者", "小型创业团队运营负责人"]
+    },
+    {
+      "term": "Atomic Mail Agentic",
+      "total_score": 24,
+      "scores": {"D1": 5, "D2": 1, "D3": 3, "D4": 5, "D5": 5, "D6": 5},
+      "status": "进入验证池",
+      "product_direction": "面向 B2B 团队的行业专用邮件 Agent 平台，稳健处理非正式语言并提供可定制的收件箱自动化模板",
+      "suggested_headline": "Industry-Tuned Email Agents That Understand Slang, Sarcasm, and Your Inbox Rules",
+      "target_users": ["B2B 销售团队", "客户成功经理", "需要邮件自动化的中小企业"]
+    },
+    {
+      "term": "Train, Retrieve, or Both? A Four-Arm Head-to-Head for Correct Statutory Citation",
+      "total_score": 23,
+      "scores": {"D1": 5, "D2": 3, "D3": 0, "D4": 5, "D5": 5, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "oioi",
+      "total_score": 22,
+      "scores": {"D1": 5, "D2": 1, "D3": 3, "D4": 3, "D5": 5, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "sovereign AI",
+      "total_score": 22,
+      "scores": {"D1": 5, "D2": 1, "D3": 3, "D4": 3, "D5": 5, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "document intelligence",
+      "total_score": 22,
+      "scores": {"D1": 5, "D2": 1, "D3": 3, "D4": 5, "D5": 5, "D6": 3},
+      "status": "继续观察"
+    },
+    {
+      "term": "Enhanced In-Context Learning for Real-World B2B Conversations",
+      "total_score": 21,
+      "scores": {"D1": 5, "D2": 3, "D3": 0, "D4": 5, "D5": 5, "D6": 3},
+      "status": "继续观察"
+    },
+    {
+      "term": "WorldLines",
+      "total_score": 20,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 3, "D5": 3, "D6": 3},
+      "status": "继续观察"
+    },
+    {
+      "term": "governed memory",
+      "total_score": 20,
+      "scores": {"D1": 5, "D2": 1, "D3": 3, "D4": 3, "D5": 3, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "Backgrind",
+      "total_score": 20,
+      "scores": {"D1": 5, "D2": 1, "D3": 3, "D4": 3, "D5": 3, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "LocalForge",
+      "total_score": 20,
+      "scores": {"D1": 5, "D2": 1, "D3": 3, "D4": 5, "D5": 3, "D6": 3},
+      "status": "继续观察"
+    },
+    {
+      "term": "video generation model",
+      "total_score": 20,
+      "scores": {"D1": 5, "D2": 3, "D3": 3, "D4": 1, "D5": 3, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "Qwythos-9B",
+      "total_score": 20,
+      "scores": {"D1": 5, "D2": 1, "D3": 5, "D4": 3, "D5": 3, "D6": 3},
+      "status": "继续观察"
+    },
+    {
+      "term": "Topic Metadata as a Semantic Compass for Paragraph-Level Retrieval",
+      "total_score": 19,
+      "scores": {"D1": 5, "D2": 3, "D3": 0, "D4": 3, "D5": 3, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
+      "total_score": 19,
+      "scores": {"D1": 5, "D2": 3, "D3": 0, "D4": 3, "D5": 3, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "multimodal diffusion language models",
+      "total_score": 18,
+      "scores": {"D1": 5, "D2": 1, "D3": 3, "D4": 1, "D5": 3, "D6": 5},
+      "status": "继续观察"
+    },
+    {
+      "term": "Execution-State Capsules",
+      "total_score": 18,
+      "scores": {"D1": 5, "D2": 1, "D3": 3, "D4": 3, "D5": 3, "D6": 3},
+      "status": "继续观察"
+    },
+    {
+      "term": "UltraQuant",
+      "total_score": 18,
+      "scores": {"D1": 5, "D2": 1, "D3": 3, "D4": 3, "D5": 3, "D6": 3},
+      "status": "继续观察"
+    }
+  ]
+}
