@@ -1,0 +1,740 @@
+{
+  "date": "2026-06-22",
+  "entries": [
+    {
+      "term": "PerceptionDLM",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "GateMem",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MemSlides",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Multi-Turn Reflective Masking",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SproutRAG",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MCompassRAG",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "WorldLines",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "GeneralVLA-2",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "StylisticBias",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SpatialAvatar-0",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Distilling Examples into Task Instructions",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Parallel Region Perception with Multimodal Diffusion Language Models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Multi-Turn Reflective Masking Elicits Reasoning in Mask Diffusion Models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Attention-Guided Tree Search with Progressive Embeddings for Long-Document RAG",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Topic Metadata as a Semantic Compass for Paragraph-Level Retrieval",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Geometry-Aware Reconstruction and Governed Memory for Robot Planning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Few Human Visual Cues Drive Most Social Biases in MLLMs",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "High-Quality 4D Head Avatar with Multi-Stage Reconstruction",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Enhanced In-Context Learning for Real-World B2B Conversations",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "multimodal diffusion language models",
+      "top_complaints": [
+        "扩散式语言模型部署与推理生态尚不成熟",
+        "并行生成虽快但错误纠正能力待验证"
+      ],
+      "workarounds": [
+        "仍使用自回归模型处理关键任务"
+      ],
+      "desired_features": [
+        "生产级多模态扩散语言模型工具链"
+      ]
+    },
+    {
+      "term": "memory governance",
+      "top_complaints": [
+        "Agent 长期记忆缺乏治理与过期策略",
+        "跨会话上下文污染影响回答质量"
+      ],
+      "workarounds": [
+        "手动清理会话记忆或重置上下文"
+      ],
+      "desired_features": [
+        "可治理的分层 Agent 记忆系统"
+      ]
+    },
+    {
+      "term": "mask diffusion models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "governed memory",
+      "top_complaints": [
+        "机器人规划场景下记忆更新缺乏可解释治理",
+        "几何感知重建与记忆一致性难以兼顾"
+      ],
+      "workarounds": [
+        "为关键状态维护外部结构化存储"
+      ],
+      "desired_features": [
+        "几何感知且可治理的长期记忆"
+      ]
+    },
+    {
+      "term": "4D head avatar",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Surya OCR 2",
+      "top_complaints": [
+        "全页 OCR 处理无进度提示，长时间像卡住",
+        "依赖库版本不兼容导致文本识别失败",
+        "批处理与单文档 OCR 结果不一致"
+      ],
+      "workarounds": [
+        "降低 recognition batch size 重试",
+        "手动固定 transformers 版本"
+      ],
+      "desired_features": [
+        "全页 OCR 实时进度条",
+        "更稳定的跨平台依赖兼容"
+      ]
+    },
+    {
+      "term": "HappyHorse 1.1",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Qwythos-9B",
+      "top_complaints": [
+        "低温采样易导致重复循环输出",
+        "在 LM Studio 等后端工具调用执行失败",
+        "大上下文下推理速度骤降占用大量内存"
+      ],
+      "workarounds": [
+        "固定 temperature=0.6 并使用自定义 chat template",
+        "搭配检索或函数调用验证关键输出"
+      ],
+      "desired_features": [
+        "稳定的 MCP/工具调用集成",
+        "低显存下可靠的大上下文推理"
+      ]
+    },
+    {
+      "term": "Agent 37 Cloud",
+      "top_complaints": [
+        "现有 AI 工具碎片化且被动，需频繁切换上下文",
+        "云端 Agent 协作缺乏统一工作流入口"
+      ],
+      "workarounds": [
+        "在多个 SaaS 工具间手动切换完成任务"
+      ],
+      "desired_features": [
+        "主动协作的云端 AI 同事",
+        "无需频繁 tab 切换的一体化界面"
+      ]
+    },
+    {
+      "term": "Atomic Mail Agentic",
+      "top_complaints": [
+        "邮件 Agent 处理讽刺/俚语等边缘表达不稳定",
+        "收件箱自动化缺乏行业模板"
+      ],
+      "workarounds": [
+        "通过 prompt 和知识库微调 Agent 人格"
+      ],
+      "desired_features": [
+        "行业专用邮件 Agent 模板",
+        "更稳健的非正式语言理解"
+      ]
+    },
+    {
+      "term": "Grok by SpaceXAI for Word",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "oioi",
+      "top_complaints": [
+        "旅行规划需打开大量标签页和攻略",
+        "AI 可能幻觉出已关闭餐厅或不存在的景点"
+      ],
+      "workarounds": [
+        "手动交叉验证签证规则与餐厅营业状态"
+      ],
+      "desired_features": [
+        "可验证、少幻觉的一站式旅行规划"
+      ]
+    },
+    {
+      "term": "Backgrind",
+      "top_complaints": [
+        "GitHub 操作依赖 CLI，非技术用户上手困难",
+        "图形界面与命令行工作流割裂"
+      ],
+      "workarounds": [
+        "继续使用 gh CLI 或 GitHub Desktop"
+      ],
+      "desired_features": [
+        "原生 macOS GUI 管理 GitHub 操作"
+      ]
+    },
+    {
+      "term": "Apertus",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Sakana Fugu",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Genesis AI Eno",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "GENE foundation model",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Cutio",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "TokenOps",
+      "top_complaints": [
+        "LLM token 消耗不透明，难以按功能/团队归因",
+        "Agent 循环导致费用失控",
+        "传统 FinOps 工具无法应对非确定性 AI 成本"
+      ],
+      "workarounds": [
+        "为 API 调用手动添加元数据标签",
+        "在功能层设置预算硬限制"
+      ],
+      "desired_features": [
+        "实时 token 成本仪表盘",
+        "功能级预算告警与自动拦截"
+      ]
+    },
+    {
+      "term": "Reframe",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "LocalForge",
+      "top_complaints": [
+        "LM Studio 后端工具调用无法执行",
+        "单人维护项目，长期可靠性存疑",
+        "本地部署需要较高技术能力"
+      ],
+      "workarounds": [
+        "改用 Cline 等成熟本地编码助手",
+        "切换 OpenAI 兼容后端或云端模型"
+      ],
+      "desired_features": [
+        "稳定的本地模型工具调用",
+        "企业级支持与安全审计"
+      ]
+    },
+    {
+      "term": "Pixlie",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Handit.ai",
+      "top_complaints": [
+        "AI 代理任务编排与人工交接不清晰",
+        "复杂工作流中 Agent 输出难以验证"
+      ],
+      "workarounds": [
+        "人工逐步审核 Agent 每步输出"
+      ],
+      "desired_features": [
+        "可验证、可追踪的 Agent 任务流水线"
+      ]
+    },
+    {
+      "term": "GPT Island",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AI unit economics",
+      "top_complaints": [
+        "CFO 只能从月账单发现推理费用暴涨",
+        "缺少按产品/功能的 token 单位经济学",
+        "AI 支出在团队间归属不清"
+      ],
+      "workarounds": [
+        "建立定期工程-财务联合评审",
+        "先为一个工作负载做端到端归因模板"
+      ],
+      "desired_features": [
+        "团队/产品级 AI 支出可视化",
+        "近实时异常告警而非月末对账"
+      ]
+    },
+    {
+      "term": "sovereign AI",
+      "top_complaints": [
+        "数据主权与合规要求限制使用云端模型",
+        "本地部署模型运维成本高"
+      ],
+      "workarounds": [
+        "混合云+本地推理架构",
+        "选用开源权重自托管"
+      ],
+      "desired_features": [
+        "可审计的主权 AI 基础设施",
+        "低运维本地推理方案"
+      ]
+    },
+    {
+      "term": "open foundation model",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "document intelligence",
+      "top_complaints": [
+        "多语言文档 OCR 准确率在手写/表格场景仍不足",
+        "大文档处理缺乏进度反馈"
+      ],
+      "workarounds": [
+        "分块处理 PDF 并人工校对关键字段"
+      ],
+      "desired_features": [
+        "端到端结构化文档抽取",
+        "多语言高精度表格识别"
+      ]
+    },
+    {
+      "term": "video generation model",
+      "top_complaints": [
+        "生成视频中物体状态突变不一致",
+        "实时交互延迟高难以维持连贯场景"
+      ],
+      "workarounds": [
+        "降低交互频率或预渲染关键帧",
+        "使用传统引擎手动搭建场景"
+      ],
+      "desired_features": [
+        "低延迟可交互的视频世界模型"
+      ]
+    },
+    {
+      "term": "Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Context-Aware Hierarchical Bayesian Modeling of IVF Laboratory Environmental Conditions",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Interpretable Sperm Morphology Classification via Attention-Guided Deep Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Confidence-Aware Automated Assessment of Student-Drawn Scientific Models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Thermodynamic Measure of Intelligence",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Augmenting Game AI with Deep Reinforcement Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Apparent Psychological Profiles of Large Language Models are Largely a Measurement Artifact",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Implicit Semantic-Aware Communication Based on Hypergraph Reasoning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Modularity-Free Conflict-Averse Training for Generalized PINNs",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "How Transparent is DiffusionGemma?",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "DiffusionGemma",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台",
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Predictability as a Fine-Grained Measure for Privacy",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Multi-Task Bayesian In-Context Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Execution-State Capsules",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "UltraQuant",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Fisher-Geometric Sharpness and the Implicit Bias of SGD toward Flat Minima",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Data Bias Mitigation under Coverage Constraints & The Price of Fairness",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Evolutionary Two-Stage Hyperparameter Optimization Strategies for Physics-Informed Neural Networks",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "On the Redundancy of Timestep Embeddings in Diffusion Models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Direct Advantage Estimation for Scalable and Sample-efficient Deep Reinforcement Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The Significance of Style Diversity in Annotation-Free Synthetic Data Generation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Train, Retrieve, or Both? A Four-Arm Head-to-Head for Correct Statutory Citation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "On the Variance of Temporal Difference Learning and its Reduction Using Control Variates",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Critical Percolation as a Synthetic Data Model for Interpretability",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Constrained hybrid modelling to predict microbial dynamics and organic matter turnover in soil systems",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Quantum-classical physics-informed Kolmogorov-Arnold networks for PDEs",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "physical-AI serving",
+      "top_complaints": [
+        "端侧物理 AI 服务延迟与批量推理矛盾",
+        "执行状态检查点恢复机制复杂"
+      ],
+      "workarounds": [
+        "图绑定执行状态手动检查点"
+      ],
+      "desired_features": [
+        "低延迟小批量端侧物理 AI 服务框架"
+      ]
+    }
+  ]
+}
