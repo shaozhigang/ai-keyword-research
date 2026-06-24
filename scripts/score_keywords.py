@@ -238,17 +238,8 @@ def score_term(term: str) -> dict:
     recent_results = recent_data.get("results", [])
     time.sleep(SEARCH_DELAY)
 
-    # Trend search - older period (60-30 days ago)
-    start_60 = (datetime.now() - timedelta(days=60)).strftime("%Y-%m-%d")
-    start_30 = (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d")
-    older_query = f'"{term}"'
-    older_data = tavily_search(older_query, max_results=10, start_date=start_60)
-    older_results = [r for r in older_data.get("results", [])]
-    time.sleep(SEARCH_DELAY)
-
-    trend = analyze_trend(term, recent_results, older_results)
-    all_trend_results = recent_results + older_results
-    main_geo = detect_geo(all_trend_results)
+    trend = analyze_trend(term, recent_results, [])
+    main_geo = detect_geo(recent_results)
 
     # Competition search
     comp_query = term
