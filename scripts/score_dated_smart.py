@@ -9,9 +9,13 @@ from datetime import datetime
 from urllib.error import HTTPError
 
 sys.path.insert(0, os.path.dirname(__file__))
-from score_keywords import score_term, SEARCH_DELAY
-from smart_rescore import heuristic_academic_score, score_term_with_retry, needs_tavily
+from smart_rescore import heuristic_academic_score, score_term_with_retry
 from pain_dated import load_source_map, fallback_score
+
+
+def needs_tavily(term: str, sources: set[str]) -> bool:
+    """Only ProductHunt commercial terms need live Tavily search."""
+    return "producthunt" in sources
 
 RAW_DIR = "/workspace/keywords/raw"
 SCORED_DIR = "/workspace/keywords/scored"
