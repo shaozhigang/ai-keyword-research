@@ -112,8 +112,66 @@ def process_term_pain_fast(term: str, delay: int = 8, max_retries: int = 2) -> d
     return extract_pain_from_results(term, batches)
 
 
+    if failed == len(SEARCH_TYPES):
+        return rate_limit_pain(term)
+    return extract_pain_from_results(term, batches)
+
+
+def process_term_complaints_only(term: str, delay: int = 8, max_retries: int = 2) -> dict:
+    """Single complaints search for fast finish under rate limits."""
+    import urllib.error
+    import urllib.request
+
+    stype = "complaints"
+    cached = load_pain_cache(term, stype)
+    if cached:
+        return extract_pain_from_results(term, {stype: cached.get("results", [])})
+
+    query = f'"{term}" complaints OR frustrating OR broken'
+    print(f"    [complaints-only] {query}", flush=True)
+    payload = {"query": query, "max_results": 5, "search_depth": "advanced"}
+    api_key = os.environ.get("TAVILY_API_KEY", "")
+    headers = {"Content-Type": "application/json", "accept": "application/json"}
+    if api_key:
+        headers["Authorization"] = f"Bearer {api_key}"
+        headers["X-Client-Source"] = "MCP"
+    else:
+        headers["X-Tavily-Access-Mode"] = "keyless"
+        headers["X-Client-Source"] = "tavily-mcp-keyless"
+
+    data = None
+    for attempt in range(max_retries):
+        try:
+            req = urllib.request.Request(
+                "https://api.tavily.com/search",
+                data=json.dumps(payload).encode(),
+                headers=headers,
+                method="POST",
+            )
+            with urllib.request.urlopen(req, timeout=90) as resp:
+                data = json.loads(resp.read())
+            break
+        except urllib.error.HTTPError as e:
+            wait = delay * (2 ** attempt)
+            print(f"      rate limited ({e.code}), retry in {wait}s", flush=True)
+            time.sleep(wait)
+        except Exception as e:
+            wait = delay * (2 ** attempt)
+            print(f"      error: {e}, retry in {wait}s", flush=True)
+            time.sleep(wait)
+
+    if data is None:
+        return rate_limit_pain(term)
+    save_pain_cache(term, stype, data)
+    time.sleep(delay)
+    return extract_pain_from_results(term, {stype: data.get("results", [])})
+
+
 def main():
-    date = sys.argv[1] if len(sys.argv) > 1 else datetime.now().strftime("%Y-%m-%d")
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    flags = {a for a in sys.argv[1:] if a.startswith("--")}
+    complaints_only = "--complaints-only" in flags
+    date = args[0] if args else datetime.now().strftime("%Y-%m-%d")
     scored_path = f"/workspace/keywords/scored/{date}.json"
     pain_path = f"/workspace/keywords/pain/{date}.json"
     source_map = load_source_map(date)
@@ -162,7 +220,10 @@ def main():
         print(f"\n[T {i+1}/{len(tavily_terms)}] {term[:70]}{'...' if len(term) > 70 else ''}", flush=True)
         tavily_n += 1
         try:
-            entry = process_term_pain_fast(term)
+            if complaints_only:
+                entry = process_term_complaints_only(term)
+            else:
+                entry = process_term_pain_fast(term)
         except Exception as e:
             print(f"  ERROR: {e} -> 限流回退", flush=True)
             entry = rate_limit_pain(term)
