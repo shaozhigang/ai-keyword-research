@@ -67,7 +67,7 @@ def tavily_search(query: str, max_results: int = 10, time_range: str | None = No
         headers["X-Client-Source"] = "tavily-mcp-keyless"
 
     last_err = None
-    for attempt in range(6):
+    for attempt in range(2):
         try:
             req = Request(
                 TAVILY_API_URL,
@@ -79,17 +79,17 @@ def tavily_search(query: str, max_results: int = 10, time_range: str | None = No
                 return json.loads(resp.read())
         except HTTPError as e:
             last_err = e
-            if e.code in (429, 432, 503) and attempt < 5:
+            if e.code in (429, 432, 503) and attempt < 1:
                 wait = SEARCH_DELAY * (2 ** attempt)
-                print(f"    API {e.code}，{wait}s 后重试 ({attempt + 1}/5)")
+                print(f"    API {e.code}，{wait}s 后重试 ({attempt + 1}/1)")
                 time.sleep(wait)
             else:
                 raise
         except Exception as e:
             last_err = e
-            if attempt < 5:
+            if attempt < 1:
                 wait = SEARCH_DELAY * (2 ** attempt)
-                print(f"    错误: {e}，{wait}s 后重试 ({attempt + 1}/5)")
+                print(f"    错误: {e}，{wait}s 后重试 ({attempt + 1}/1)")
                 time.sleep(wait)
             else:
                 raise
