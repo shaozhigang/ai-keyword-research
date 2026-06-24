@@ -2785,6 +2785,127 @@
       ],
       "workarounds": [],
       "desired_features": []
+    },
+    {
+      "term": "VLM-guided data flywheel",
+      "top_complaints": [
+        "扩展性差，大规模部署受限"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "continual skill acquisition",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "motion consistency",
+      "top_complaints": [
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "visual fidelity",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "扩展性差，大规模部署受限"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "deformation-based approaches",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "定价过高，流量上来后成本飙升",
+        "学习曲线陡峭，上手困难"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "4D-primitive methods",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "multi-level competitive allocation",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "static structure",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "persistent dynamic geometry",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "transient appearance primitives",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "residual-driven optimization",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "photometric error",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "adaptive specialization",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "temporal correspondence",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
     }
   ]
 }

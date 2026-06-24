@@ -49,10 +49,67 @@ def rate_limit_pain(term: str) -> dict:
     return e
 
 
-def process_term_smart(term: str, sources: set[str]) -> dict:
-    if not needs_tavily(term, sources):
-        return academic_pain(term)
-    return process_term_pain(term)
+def process_term_pain_fast(term: str, delay: int = 8, max_retries: int = 2) -> dict:
+    """Pain research with resilient per-query retries."""
+    import urllib.error
+    import urllib.request
+
+    batches: dict[str, list] = {}
+    failed = 0
+    for stype, query_fn in SEARCH_TYPES:
+        cached = load_pain_cache(term, stype)
+        if cached:
+            batches[stype] = cached.get("results", [])
+            continue
+
+        query = query_fn(term)
+        print(f"    [{stype}] {query}", flush=True)
+        payload = {"query": query, "max_results": 5, "search_depth": "advanced"}
+
+        api_key = os.environ.get("TAVILY_API_KEY", "")
+        headers = {"Content-Type": "application/json", "accept": "application/json"}
+        if api_key:
+            headers["Authorization"] = f"Bearer {api_key}"
+            headers["X-Client-Source"] = "MCP"
+        else:
+            headers["X-Tavily-Access-Mode"] = "keyless"
+            headers["X-Client-Source"] = "tavily-mcp-keyless"
+
+        data = None
+        for attempt in range(max_retries):
+            try:
+                req = urllib.request.Request(
+                    "https://api.tavily.com/search",
+                    data=json.dumps(payload).encode(),
+                    headers=headers,
+                    method="POST",
+                )
+                with urllib.request.urlopen(req, timeout=90) as resp:
+                    data = json.loads(resp.read())
+                break
+            except urllib.error.HTTPError as e:
+                wait = delay * (2 ** attempt)
+                print(f"      rate limited ({e.code}), retry in {wait}s", flush=True)
+                time.sleep(wait)
+            except Exception as e:
+                wait = delay * (2 ** attempt)
+                print(f"      error: {e}, retry in {wait}s", flush=True)
+                time.sleep(wait)
+
+        if data is None:
+            failed += 1
+            batches[stype] = []
+            print(f"      skip {stype} after retries", flush=True)
+            time.sleep(delay)
+            continue
+
+        save_pain_cache(term, stype, data)
+        batches[stype] = data.get("results", [])
+        time.sleep(delay)
+
+    if failed == len(SEARCH_TYPES):
+        return rate_limit_pain(term)
+    return extract_pain_from_results(term, batches)
 
 
 def main():
@@ -105,7 +162,7 @@ def main():
         print(f"\n[T {i+1}/{len(tavily_terms)}] {term[:70]}{'...' if len(term) > 70 else ''}", flush=True)
         tavily_n += 1
         try:
-            entry = process_term_pain(term)
+            entry = process_term_pain_fast(term)
         except Exception as e:
             print(f"  ERROR: {e} -> 限流回退", flush=True)
             entry = rate_limit_pain(term)
