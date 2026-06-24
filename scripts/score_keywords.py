@@ -66,14 +66,34 @@ def tavily_search(query: str, max_results: int = 10, time_range: str | None = No
         headers["X-Tavily-Access-Mode"] = "keyless"
         headers["X-Client-Source"] = "tavily-mcp-keyless"
 
-    req = Request(
-        TAVILY_API_URL,
-        data=json.dumps(payload).encode(),
-        headers=headers,
-        method="POST",
-    )
-    with urlopen(req, timeout=60) as resp:
-        return json.loads(resp.read())
+    last_err = None
+    for attempt in range(6):
+        try:
+            req = Request(
+                TAVILY_API_URL,
+                data=json.dumps(payload).encode(),
+                headers=headers,
+                method="POST",
+            )
+            with urlopen(req, timeout=90) as resp:
+                return json.loads(resp.read())
+        except HTTPError as e:
+            last_err = e
+            if e.code in (429, 432, 503) and attempt < 5:
+                wait = SEARCH_DELAY * (2 ** attempt)
+                print(f"    API {e.code}，{wait}s 后重试 ({attempt + 1}/5)")
+                time.sleep(wait)
+            else:
+                raise
+        except Exception as e:
+            last_err = e
+            if attempt < 5:
+                wait = SEARCH_DELAY * (2 ** attempt)
+                print(f"    错误: {e}，{wait}s 后重试 ({attempt + 1}/5)")
+                time.sleep(wait)
+            else:
+                raise
+    raise last_err
 
 
 def detect_geo(results: list) -> str:
