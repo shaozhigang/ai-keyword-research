@@ -1,0 +1,2471 @@
+{
+  "date": "2026-06-27",
+  "scored_at": "2026-06-27T22:03:22.171601",
+  "bootstrap": "heuristic (Agent 2 scored file missing)",
+  "entries": [
+    {
+      "term": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Neglected Free Lunch from Post-training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Progress Advantage for LLM Agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "ABACUS: Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "ABACUS",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Qwen-AgentWorld-35B-A3B",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "DukaanBench",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "VLX-Flow",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Turiya",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "turiya-model",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Single and Multi-Injection Settings",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Simulation-based inference for rapid Bayesian parameter estimation in epidemiological models: a comparison with MCMC",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Simulation-based inference for rapid Bayesian parameter estimation in epidemiological models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "a comparison with MCMC",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Vulnerability of Natural Language Classifiers to Evolutionary Generated Adversarial Text",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "How to evaluate clustering with ground truth?",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Adaptive Utility driven Resource Orchestration for Resilient AI (AURORA-AI)",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Where Do CoT Training Gains Land in LLM based Agents?",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Diagnosing Task Insensitivity in Language Agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Learning to Recover Task Experts from a Multi-Task Merged Model",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "A Pipeline for Generating Longitudinal Synthetic Clinical Notes Using Large Language Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "TAVR-VLM: Risk-Conditioned Causal Grounding for Hallucination-Resistant Report Generation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "TAVR-VLM",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "AgentX: Towards Agent-Driven Self-Iteration of Industrial Recommender Systems",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "AgentX",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "LCAi: Life Cycle Assessment with big data fusion and retrieval-augmented generation-assisted interpretation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "LCAi",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Context-Aware Synthesis of Optimization Pipelines for Warehouse Optimization",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "The Capability Frontier: Benchmarks Miss 82% of Model Performance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "The Capability Frontier",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Benchmarks Miss 82% of Model Performance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Computational Analysis of Heart Rate Variability in Healthy Adults",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "KARLA: Knowledge-base Augmented Retrieval for Language Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "KARLA",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Memory Depth, Not Memory Access: Selective Parametric Consolidation for Long-Running Language Agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Memory Depth, Not Memory Access",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Selective Parametric Consolidation for Long-Running Language Agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "ResilPhase: Plug-and-Play Phase Mapping and Noise-Resilient Macro-Trajectory Extrapolation for Diffusion Acceleration",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "ResilPhase",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "EGG: An Expert-Guided Agent Framework for Kernel Generation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "EGG",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Scientific discovery as meta-optimization: a combinatorial optimization case study",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Scientific discovery as meta-optimization",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "a combinatorial optimization case study",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Socratic agents for autonomous scientific discovery in high-dimensional physical systems",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "A Latent ODE Approach to Spatiotemporal Modeling of Cine Cardiac MRI",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "LithoDreamer: A Physics-Informed World Model for Multi-Stage Computational Lithography",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "LithoDreamer",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Kalman Prototypical Networks for Few-shot Fault Detection in Combined Cycle Gas Turbines",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Do Safety Guardrails Need to Reason? LeanGuard: A Fast and Light Approach for Robust Moderation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Do Safety Guardrails Need to Reason? LeanGuard",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "A Fast and Light Approach for Robust Moderation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "NebulaExp-8B: An Empirical Post-Training Pipeline via Full-Scale Ablation Research",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "NebulaExp-8B",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "SKILL-DISCO: Distilling and Compiling Agent Traces into Reusable Procedural Skills",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "SKILL-DISCO",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Autoformalization of Agent Instructions into Policy-as-Code",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "LLM-based Models for Detecting Emerging Topics in Service Feedback",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Content-Based Smart E-Mail Dispatcher Using Large Language Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "A Multi-Level Validation and Traceability Framework for AI-Generated Telescope Scheduling Decisions",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "EvoOptiGraph: Weakness-Driven Coevolution via Graph-Based Structural Generation for Optimization Modeling",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "EvoOptiGraph",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Explainable Ensemble-Based Machine Learning Models for Detecting the Presence of Cirrhosis in Hepatitis C Patients",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "PMDformer: Patch-Mean Decoupling Information Transformer for Long-term Forecasting",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "PMDformer",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Radical AI Interpretability",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Boundary-Aware Context Grounding for A Low-Channel EEG Agent",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "NeuraDock Visual Cognitive Load Agent Tutorial: A Quality-Gated Open-Source EEG Workflow for Alpha Dynamics and Real-Time Applications",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "NeuraDock Visual Cognitive Load Agent Tutorial",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "A Quality-Gated Open-Source EEG Workflow for Alpha Dynamics and Real-Time Applications",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Humans Disengage, Reasoning Models Persist: Separating Difficulty Registration from Deliberation Allocation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Humans Disengage, Reasoning Models Persist",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Separating Difficulty Registration from Deliberation Allocation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Clinical Harness for Governable Medical AI Skill Ecosystems",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "auto-psych: Automating the science of mind using agent-driven theory discovery and experimentation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "auto-psych",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Automating the science of mind using agent-driven theory discovery and experimentation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "MKG-RAG-Bench",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Data-driven Machine Learning Cannot Reach Symbolic-level Logical Reasoning -- The Limit of the Scaling Law",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Estimating Uncertainty in Classifier Performance with Applications to Large Language Models and Nested Data",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Unbiased Canonical Set-Valued Oracles Via Lattice Theory",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "When Agents Meet Electric Bus Fleet Operations: Pricing Behavior, Trade-offs, and Policy Implications in an Aggregator Framework",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "When Agents Meet Electric Bus Fleet Operations",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Pricing Behavior, Trade-offs, and Policy Implications in an Aggregator Framework",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Geometry-Aware MCTS for Extremal Problems in Combinatorial Geometry",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Narration-of-Thought: Inference-Time Scaffolding for Defeasible Ethical Reasoning in Large Language Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Narration-of-Thought",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Accelerating Returns and the Qualitative Engine for Science",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Instruction Bleed: Cross-Module Interference in Prompt-Composed Agentic Systems",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Instruction Bleed",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Cross-Module Interference in Prompt-Composed Agentic Systems",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "OpenFinGym",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "What We are Missing in Multimodal LLM Evaluation?",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Governing Actions, Not Agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Institutional Attestation as a Governance Model for Autonomous AI Systems",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Accelerating Skill Assessment in Chess",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "A Drift-Diffusion-Enhanced Elo Rating System",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Agentic Analysis for Agentic Infrastructure",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "AlgoEvolve",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Refusal Lives Downstream of Persona in Chat Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Life After Benchmark Saturation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "A Case Study of CORE-Bench",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "From Celebrities to Anyone: Characterizing AI Nudification Content, Technology, and Community Dynamics on 4chan",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "From Celebrities to Anyone",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Characterizing AI Nudification Content, Technology, and Community Dynamics on 4chan",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Bridging Talk and Thought: Understanding Dialogue Dynamics Across Collaborative Problem-Solving Contexts",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Bridging Talk and Thought",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Understanding Dialogue Dynamics Across Collaborative Problem-Solving Contexts",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Automating Potential-based Reward Shaping with Vision Language Model Guidance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Learning to Fold",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Efficient foundation decoders for fault-tolerant quantum computing",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Heavy-Ball Q-Learning with Residual Weighting Correction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Application of LLMs to Threat Assessment of Foreign Peacekeeping Missions",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Data-Free Reservoir Features for Efficient Long-Horizon Cold-Start Continual Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Beyond Global Divergences: A Local-Mass Perspective on Bayesian Inference",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Beyond Global Divergences",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "A Local-Mass Perspective on Bayesian Inference",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Parametric Open Source Games",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "State Representation Matters in Deep Reinforcement Learning: Application to Energy Trading",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "State Representation Matters in Deep Reinforcement Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Application to Energy Trading",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "On-board Remote-Sensing Foundation Models for Unsupervised Change Detection of Disaster Events",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "A Multi-Fidelity Convolutional Autoencoder-Transfer Learning Framework for Guided-Wave-Based Damage Diagnosis Using Large Simulated and Limited Experimental Datasets",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Designing Reward Signals for Portable Query Generation: A Case Study in Industrial Semantic Job Search",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Designing Reward Signals for Portable Query Generation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "A Case Study in Industrial Semantic Job Search",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Recovering Governing Equations from Solution Data: Identifiability Bounds for Linear and Nonlinear ODEs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Recovering Governing Equations from Solution Data",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Identifiability Bounds for Linear and Nonlinear ODEs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "How Good Can Linear Models Be for Time-Series Forecasting?",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "RSPC: A Benchmark for Modeling Stress and Psychiatric Conditions in Digitally Mediated Relationships using Psychiatrist Annotations",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Effective Covariance Dynamics in Solvable High-Dimensional GANs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Graph Neural Networks Applications Across Domains: All Insights You Need",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Graph Neural Networks Applications Across Domains",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "All Insights You Need",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Explaining Temporal Graph Neural Networks via Feature-induced Information Flow",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Stochastic Gradient Optimization with Model-Assisted Sampling",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "fTNN: a tensor neural network for fractional PDEs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "fTNN",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "a tensor neural network for fractional PDEs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Kolmogorov Arnold networks (KAN) for aerodynamic prediction: a comparison with MLPs and GNNs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "a comparison with MLPs and GNNs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Cross-Head Attention Uplift Network with Inverse Propensity Score under Unobserved Confounding",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Transformer-Based Classification of Bacterial Raman Spectra with LOOCV",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Finding Stationary Points by Comparisons",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Symplectic Neural Networks for learning Generalized Hamiltonians",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Uncertainty quantification via conformal prediction in data assimilation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Decision-Aligned Evaluation of Uncertainty Quantification",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "GEOALIGN: Geometric Rollout Curation for Robust LLM Reinforcement Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "GEOALIGN",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Asymptotically Optimal Learning for Parametric Prophet Inequalities",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Quantization in Federated Learning: Methods, Challenges and Future Directions",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Quantization in Federated Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Methods, Challenges and Future Directions",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Reasoning Quality Emerges Early: Data Curation for Reasoning Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Reasoning Quality Emerges Early",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Data Curation for Reasoning Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "AIGP: An LLM-Based Framework for Long-Term Value Alignment in E-Commerce Pricing",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "AIGP",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Reproducibility Study of \"AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models\"",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Reproducibility Study of \"AlphaEdit",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Null-Space Constrained Knowledge Editing for Language Models\"",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Escaping Iterative Parameter-Space Noise: Differentially Private Learning with a Hypernetwork",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Escaping Iterative Parameter-Space Noise",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Differentially Private Learning with a Hypernetwork",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Batch-Invariant Spectral Intelligence for Robust and Explainable Insect Authentication",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Structure Before Collapse: Transient semantic geometry in next-token prediction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Structure Before Collapse",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Transient semantic geometry in next-token prediction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "HyperDFlash: MHC-Aligned Block Speculative Decoding with Gated Residual Reduction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "HyperDFlash",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Algorithmic Foundations of Deep Learning: Complexity-Theoretic Rates and a Characterization of Universal Approximation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Algorithmic Foundations of Deep Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Complexity-Theoretic Rates and a Characterization of Universal Approximation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "PersistentKV: Page-Aware Decode Scheduling for Long-Context LLM Serving on Commodity GPUs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "PersistentKV",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Zero-Shot Size Transfer for Neural ODEs on Sparse Random Graphs: Graphon Limits and Adjoint Convergence",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Zero-Shot Size Transfer for Neural ODEs on Sparse Random Graphs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Graphon Limits and Adjoint Convergence",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "From Weights to Features: SAE-Guided Activation Regularization for LLM Continual Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "From Weights to Features",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "SAE-Guided Activation Regularization for LLM Continual Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Discovering Millions of Interpretable Features with Sparse Autoencoders",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Sketched Linear Contrastive Learning: Approximation, Optimization, and Statistical Scaling",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Sketched Linear Contrastive Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Approximation, Optimization, and Statistical Scaling",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Empirical Software Engineering TerraProbe: A Layered-Oracle Framework for Detecting Deceptive Fixes in LLM-Assisted Terraform",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Empirical Software Engineering TerraProbe",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "A Layered-Oracle Framework for Detecting Deceptive Fixes in LLM-Assisted Terraform",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "SharQ: Bridging Activation Sparsity and FP4 Quantization for LLM Inference",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "SharQ",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Revisiting Action Factorization for Complex Action Spaces",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Can Large Language Models Reliably Code Qualitative Humanitarian Data? A Benchmark Study Against Human Expert Adjudication",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "CascadeFormer: Depth-Tapered Transformers Motivated by Gradient Fan-in Asymmetry",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "CascadeFormer",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Sample-efficient Transfer Reinforcement Learning via Adaptive Reward Shaping and Policy-Ratio Reweighting Strategy",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Theory-Scale Auto-Formalization of Logics for Computer Science",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Multipath Adaptive Gated Bottleneck Latent ODE with Raman Data Fusion for Cell Culture Process Forecasting",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Learning Probabilistic Filters with Strictly Proper Scoring Rules",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "What Survives When You Compress a Recursive Reasoner for the Edge?",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Retrieval-Warmed Energy-Based Reasoning: A Five-Arm Ablation Methodology for Diffusion-as-Inference on Structured Reasoning Tasks",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Retrieval-Warmed Energy-Based Reasoning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "A Five-Arm Ablation Methodology for Diffusion-as-Inference on Structured Reasoning Tasks",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Localizing RL-Induced Tool Use to a Single Crosscoder Feature",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "When Does Quality-Aware Multimodal Fusion Matter? A Leakage-Safe Diagnostic for Decision-Level Dependence",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Epiphany-Aware KV Cache Eviction Without the Attention Matrix",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "A Causal Foundation Model for Structure and Outcome Prediction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Finding the Time to Think: Learning Planning Budgets in Real-Time RL",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Finding the Time to Think",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Learning Planning Budgets in Real-Time RL",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Optimizing CUDA like a Human: Micro-Profiling Tools as Expert Surrogates for LLM-Based GPU Kernel Optimization",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Optimizing CUDA like a Human",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Micro-Profiling Tools as Expert Surrogates for LLM-Based GPU Kernel Optimization",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Embedding Foundation Model Predictions in Discrete-Choice Models with Structural Guarantees",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "DualEval: Joint Model-Item Calibration for Unified LLM Evaluation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "DualEval",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Rethinking Training & Inference for Forecasting: Linking Winner-Take-All back to GMMs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Rethinking Training & Inference for Forecasting",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Linking Winner-Take-All back to GMMs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Otter Weather: Skillful and Computationally Efficient Medium-Range Weather Forecasting",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Otter Weather",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Skillful and Computationally Efficient Medium-Range Weather Forecasting",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Beyond Feedforward Networks: Reentry Neural Systems as the Fundamental Basis of Subjecthood and Intrinsic Safety of Next-Generation AGI",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Beyond Feedforward Networks",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Reentry Neural Systems as the Fundamental Basis of Subjecthood and Intrinsic Safety of Next-Generation AGI",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Deterministic Pareto-Optimal Policy Synthesis for Multi-Objective Reinforcement Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "At the Edge of Understanding: Sparse Autoencoders Trace The Limits of Transformer Generalization",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "At the Edge of Understanding",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Sparse Autoencoders Trace The Limits of Transformer Generalization",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "SOLAR: AI-Powered Speed-of-Light Performance Analysis",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "SOLAR",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Does Aurora Encode Atmospheric Structure? Latent Regime Analysis and Attribution",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "EMA-FS: Accelerating GBDT Training via Gain-Informed Feature Screening",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "EMA-FS",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Mesh-RL: Coupled subgrid reinforcement learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Mesh-RL",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "EVOM: Agentic Meta-Evolution of Actor-Critic Architectures for Reinforcement Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "EVOM",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "High-Probability PL-SGD with Markovian Noise: Optimal Mixing and Tail Dependence",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "High-Probability PL-SGD with Markovian Noise",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Optimal Mixing and Tail Dependence",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "The Red Queen Gödel Machine: Co-Evolving Agents and Their Evaluators",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "The Red Queen Gödel Machine",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Co-Evolving Agents and Their Evaluators",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+    },
+    {
+      "term": "SSM Adapters via Hankel Reduced-order Modeling: Injection Site Determines Task Suitability in Long-Context Fine-Tuning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "SSM Adapters via Hankel Reduced-order Modeling",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Injection Site Determines Task Suitability in Long-Context Fine-Tuning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Equivariance and Augmentation for Bayesian Neural Networks",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Dataset Usage Inference without Shadow Models or Held-out Data",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "A General Framework for Learning Algebraic Properties from Cayley Graphs using Graph Neural Networks",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Topology-Informed Neural Networks for Flood Detection in Optical and Synthetic Aperture Radar Imagery",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Statistical and Structural Approaches to Algorithmic Fairness",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Federated Hash Projected Latent Factor Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Clue-Guided Money Laundering Group Discovery",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Necessary but Not Sufficient: Temperature Control and Reproducibility in LLM-as-Judge Safety Evaluations",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Necessary but Not Sufficient",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Temperature Control and Reproducibility in LLM-as-Judge Safety Evaluations",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "KG-TRACE: A Neuro-Symbolic Framework for Mechanistic Grounding in Antimicrobial Resistance Prediction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "KG-TRACE",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "Neural Architecture Search for Generative Adversarial Networks: A Comprehensive Review and Critical Analysis",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Neural Architecture Search for Generative Adversarial Networks",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "A Comprehensive Review and Critical Analysis",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Implementation of reinforcement learning in chemical reaction networks: application to phototaxis as curiosity-driven exploration",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Implementation of reinforcement learning in chemical reaction networks",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "application to phototaxis as curiosity-driven exploration",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "\\chisao{}: A GPU-Native Parallel Optimizer for Multimodal Black-Box Functions via Convergence-Anticonvergence Oscillation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "\\chisao{}",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+    },
+    {
+      "term": "A GPU-Native Parallel Optimizer for Multimodal Black-Box Functions via Convergence-Anticonvergence Oscillation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Physics-guided Convolutional Neural Network for Domain Growth Prediction in Systems with Conserved Kinetics",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "Fast algorithms for learning a Gaussian under halfspace truncation with optimal sample complexity",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+    },
+    {
+      "term": "QApilot",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "3x Mobile Automation. Same QE Team.",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "QApilot: 3x Mobile Automation. Same QE Team.",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Nada",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Compose music with just your voice",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Nada: Compose music with just your voice",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Cloud World Model",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Simulate AWS, GCP & DigitalOcean without paying the bill",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Cloud World Model: Simulate AWS, GCP & DigitalOcean without paying the bill",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Supra Player",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Compare & Sync Videos Fast",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Supra Player: Compare & Sync Videos Fast",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Epilogue",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "The professional book writing app built for serious authors",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Epilogue: The professional book writing app built for serious authors",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Sipcode",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Keep Claude Code's context clean for sharper answers",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Sipcode: Keep Claude Code's context clean for sharper answers",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Folio",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Claude for Powerpoint, on steroids",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Folio: Claude for Powerpoint, on steroids",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "BrowserAct",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Web browser automation for AI agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "BrowserAct: Web browser automation for AI agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Heron",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Wireshark for AI Agents: passive eBPF observability",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Heron: Wireshark for AI Agents: passive eBPF observability",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Basedash",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "AI-native Business Intelligence Platform",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Basedash: AI-native Business Intelligence Platform",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Propane",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Automatic customer context for product teams and agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Propane: Automatic customer context for product teams and agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "DMV by Agent Community",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "DMV by Agent Community: Product Hunt for AI agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "LYQN AI",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Brain Dump feature for AI context",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "LYQN AI: Brain Dump feature for AI context",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "AI gave everyone the same brain, Recall gives AI yours",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Recall: AI gave everyone the same brain, Recall gives AI yours",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "App switcher",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Hardware: Dune Keypad with Claude integration",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "App switcher: Hardware: Dune Keypad with Claude integration",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "CoWork",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "collaborative AI workspace",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "CoWork: collaborative AI workspace",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+    },
+    {
+      "term": "supervisory signals",
+      "trend": "📊平稳",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "评分接口限流，暂按平稳处理"
+    },
+    {
+      "term": "progress advantage",
+      "trend": "📊平稳",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "评分接口限流，暂按平稳处理"
+    },
+    {
+      "term": "image count understanding",
+      "trend": "📊平稳",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "评分接口限流，暂按平稳处理"
+    },
+    {
+      "term": "mobile automation",
+      "trend": "📊平稳",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "评分接口限流，暂按平稳处理"
+    },
+    {
+      "term": "business intelligence",
+      "trend": "📊平稳",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "评分接口限流，暂按平稳处理"
+    },
+    {
+      "term": "AI-native",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源academic，前排多为论文/代码页"
+    },
+    {
+      "term": "eBPF observability",
+      "trend": "📊平稳",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "评分接口限流，暂按平稳处理"
+    },
+    {
+      "term": "browser automation",
+      "trend": "📊平稳",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "评分接口限流，暂按平稳处理"
+    },
+    {
+      "term": "brain dump",
+      "trend": "📊平稳",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "评分接口限流，暂按平稳处理"
+    },
+    {
+      "term": "agent community",
+      "trend": "📊平稳",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "评分接口限流，暂按平稳处理"
+    },
+    {
+      "term": "capability frontier",
+      "trend": "📊平稳",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "评分接口限流，暂按平稳处理"
+    },
+    {
+      "term": "task insensitivity",
+      "trend": "📊平稳",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "评分接口限流，暂按平稳处理"
+    },
+    {
+      "term": "metric-ordered sequence training",
+      "trend": "📊平稳",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "评分接口限流，暂按平稳处理"
+    },
+    {
+      "term": "hallucination-resistant",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源academic，前排多为论文/代码页"
+    },
+    {
+      "term": "parametric consolidation",
+      "trend": "📊平稳",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "评分接口限流，暂按平稳处理"
+    },
+    {
+      "term": "diffusion acceleration",
+      "trend": "📊平稳",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "评分接口限流，暂按平稳处理"
+    },
+    {
+      "term": "synthetic clinical notes",
+      "trend": "📊平稳",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "评分接口限流，暂按平稳处理"
+    },
+    {
+      "term": "agent-driven self-iteration",
+      "trend": "📊平稳",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "评分接口限流，暂按平稳处理"
+    },
+    {
+      "term": "policy-as-code",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源academic，前排多为论文/代码页"
+    }
+  ]
+}
