@@ -1,0 +1,2830 @@
+{
+  "date": "2026-06-27",
+  "entries": [
+    {
+      "term": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Neglected Free Lunch from Post-training",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Progress Advantage for LLM Agents",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ABACUS: Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ABACUS",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Qwen-AgentWorld-35B-A3B",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "DukaanBench",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "VLX-Flow",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Turiya",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "turiya-model",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Single and Multi-Injection Settings",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Simulation-based inference for rapid Bayesian parameter estimation in epidemiological models: a comparison with MCMC",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Simulation-based inference for rapid Bayesian parameter estimation in epidemiological models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a comparison with MCMC",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Vulnerability of Natural Language Classifiers to Evolutionary Generated Adversarial Text",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "How to evaluate clustering with ground truth?",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Adaptive Utility driven Resource Orchestration for Resilient AI (AURORA-AI)",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Where Do CoT Training Gains Land in LLM based Agents?",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Diagnosing Task Insensitivity in Language Agents",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Learning to Recover Task Experts from a Multi-Task Merged Model",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Pipeline for Generating Longitudinal Synthetic Clinical Notes Using Large Language Models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "TAVR-VLM: Risk-Conditioned Causal Grounding for Hallucination-Resistant Report Generation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "TAVR-VLM",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AgentX: Towards Agent-Driven Self-Iteration of Industrial Recommender Systems",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AgentX",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "LCAi: Life Cycle Assessment with big data fusion and retrieval-augmented generation-assisted interpretation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "LCAi",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Context-Aware Synthesis of Optimization Pipelines for Warehouse Optimization",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The Capability Frontier: Benchmarks Miss 82% of Model Performance",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The Capability Frontier",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Benchmarks Miss 82% of Model Performance",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Computational Analysis of Heart Rate Variability in Healthy Adults",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "KARLA: Knowledge-base Augmented Retrieval for Language Models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "KARLA",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Memory Depth, Not Memory Access: Selective Parametric Consolidation for Long-Running Language Agents",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Memory Depth, Not Memory Access",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Selective Parametric Consolidation for Long-Running Language Agents",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ResilPhase: Plug-and-Play Phase Mapping and Noise-Resilient Macro-Trajectory Extrapolation for Diffusion Acceleration",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ResilPhase",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "EGG: An Expert-Guided Agent Framework for Kernel Generation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "EGG",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Scientific discovery as meta-optimization: a combinatorial optimization case study",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Scientific discovery as meta-optimization",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a combinatorial optimization case study",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Socratic agents for autonomous scientific discovery in high-dimensional physical systems",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Latent ODE Approach to Spatiotemporal Modeling of Cine Cardiac MRI",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "LithoDreamer: A Physics-Informed World Model for Multi-Stage Computational Lithography",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "LithoDreamer",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Kalman Prototypical Networks for Few-shot Fault Detection in Combined Cycle Gas Turbines",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Do Safety Guardrails Need to Reason? LeanGuard: A Fast and Light Approach for Robust Moderation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Do Safety Guardrails Need to Reason? LeanGuard",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Fast and Light Approach for Robust Moderation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "NebulaExp-8B: An Empirical Post-Training Pipeline via Full-Scale Ablation Research",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "NebulaExp-8B",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SKILL-DISCO: Distilling and Compiling Agent Traces into Reusable Procedural Skills",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SKILL-DISCO",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Autoformalization of Agent Instructions into Policy-as-Code",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "LLM-based Models for Detecting Emerging Topics in Service Feedback",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Content-Based Smart E-Mail Dispatcher Using Large Language Models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Multi-Level Validation and Traceability Framework for AI-Generated Telescope Scheduling Decisions",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "EvoOptiGraph: Weakness-Driven Coevolution via Graph-Based Structural Generation for Optimization Modeling",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "EvoOptiGraph",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Explainable Ensemble-Based Machine Learning Models for Detecting the Presence of Cirrhosis in Hepatitis C Patients",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "PMDformer: Patch-Mean Decoupling Information Transformer for Long-term Forecasting",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "PMDformer",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Radical AI Interpretability",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Boundary-Aware Context Grounding for A Low-Channel EEG Agent",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "NeuraDock Visual Cognitive Load Agent Tutorial: A Quality-Gated Open-Source EEG Workflow for Alpha Dynamics and Real-Time Applications",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "NeuraDock Visual Cognitive Load Agent Tutorial",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Quality-Gated Open-Source EEG Workflow for Alpha Dynamics and Real-Time Applications",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Humans Disengage, Reasoning Models Persist: Separating Difficulty Registration from Deliberation Allocation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Humans Disengage, Reasoning Models Persist",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Separating Difficulty Registration from Deliberation Allocation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Clinical Harness for Governable Medical AI Skill Ecosystems",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "auto-psych: Automating the science of mind using agent-driven theory discovery and experimentation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "auto-psych",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Automating the science of mind using agent-driven theory discovery and experimentation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MKG-RAG-Bench",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Data-driven Machine Learning Cannot Reach Symbolic-level Logical Reasoning -- The Limit of the Scaling Law",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Estimating Uncertainty in Classifier Performance with Applications to Large Language Models and Nested Data",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Unbiased Canonical Set-Valued Oracles Via Lattice Theory",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "When Agents Meet Electric Bus Fleet Operations: Pricing Behavior, Trade-offs, and Policy Implications in an Aggregator Framework",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "When Agents Meet Electric Bus Fleet Operations",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Pricing Behavior, Trade-offs, and Policy Implications in an Aggregator Framework",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Geometry-Aware MCTS for Extremal Problems in Combinatorial Geometry",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Narration-of-Thought: Inference-Time Scaffolding for Defeasible Ethical Reasoning in Large Language Models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Narration-of-Thought",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Accelerating Returns and the Qualitative Engine for Science",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Instruction Bleed: Cross-Module Interference in Prompt-Composed Agentic Systems",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Instruction Bleed",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Cross-Module Interference in Prompt-Composed Agentic Systems",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "OpenFinGym",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "What We are Missing in Multimodal LLM Evaluation?",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Governing Actions, Not Agents",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Institutional Attestation as a Governance Model for Autonomous AI Systems",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Accelerating Skill Assessment in Chess",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Drift-Diffusion-Enhanced Elo Rating System",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Agentic Analysis for Agentic Infrastructure",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AlgoEvolve",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Refusal Lives Downstream of Persona in Chat Models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Life After Benchmark Saturation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Case Study of CORE-Bench",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "From Celebrities to Anyone: Characterizing AI Nudification Content, Technology, and Community Dynamics on 4chan",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "From Celebrities to Anyone",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Characterizing AI Nudification Content, Technology, and Community Dynamics on 4chan",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Bridging Talk and Thought: Understanding Dialogue Dynamics Across Collaborative Problem-Solving Contexts",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Bridging Talk and Thought",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Understanding Dialogue Dynamics Across Collaborative Problem-Solving Contexts",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Automating Potential-based Reward Shaping with Vision Language Model Guidance",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Learning to Fold",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Efficient foundation decoders for fault-tolerant quantum computing",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Heavy-Ball Q-Learning with Residual Weighting Correction",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Application of LLMs to Threat Assessment of Foreign Peacekeeping Missions",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Data-Free Reservoir Features for Efficient Long-Horizon Cold-Start Continual Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Beyond Global Divergences: A Local-Mass Perspective on Bayesian Inference",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Beyond Global Divergences",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Local-Mass Perspective on Bayesian Inference",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Parametric Open Source Games",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "State Representation Matters in Deep Reinforcement Learning: Application to Energy Trading",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "State Representation Matters in Deep Reinforcement Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Application to Energy Trading",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "On-board Remote-Sensing Foundation Models for Unsupervised Change Detection of Disaster Events",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Multi-Fidelity Convolutional Autoencoder-Transfer Learning Framework for Guided-Wave-Based Damage Diagnosis Using Large Simulated and Limited Experimental Datasets",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Designing Reward Signals for Portable Query Generation: A Case Study in Industrial Semantic Job Search",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Designing Reward Signals for Portable Query Generation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Case Study in Industrial Semantic Job Search",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Recovering Governing Equations from Solution Data: Identifiability Bounds for Linear and Nonlinear ODEs",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Recovering Governing Equations from Solution Data",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Identifiability Bounds for Linear and Nonlinear ODEs",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "How Good Can Linear Models Be for Time-Series Forecasting?",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "RSPC: A Benchmark for Modeling Stress and Psychiatric Conditions in Digitally Mediated Relationships using Psychiatrist Annotations",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Effective Covariance Dynamics in Solvable High-Dimensional GANs",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Graph Neural Networks Applications Across Domains: All Insights You Need",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Graph Neural Networks Applications Across Domains",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "All Insights You Need",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Explaining Temporal Graph Neural Networks via Feature-induced Information Flow",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Stochastic Gradient Optimization with Model-Assisted Sampling",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "fTNN: a tensor neural network for fractional PDEs",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "fTNN",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a tensor neural network for fractional PDEs",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Kolmogorov Arnold networks (KAN) for aerodynamic prediction: a comparison with MLPs and GNNs",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a comparison with MLPs and GNNs",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Cross-Head Attention Uplift Network with Inverse Propensity Score under Unobserved Confounding",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Transformer-Based Classification of Bacterial Raman Spectra with LOOCV",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Finding Stationary Points by Comparisons",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Symplectic Neural Networks for learning Generalized Hamiltonians",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Uncertainty quantification via conformal prediction in data assimilation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Decision-Aligned Evaluation of Uncertainty Quantification",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "GEOALIGN: Geometric Rollout Curation for Robust LLM Reinforcement Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "GEOALIGN",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Asymptotically Optimal Learning for Parametric Prophet Inequalities",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Quantization in Federated Learning: Methods, Challenges and Future Directions",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Quantization in Federated Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Methods, Challenges and Future Directions",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Reasoning Quality Emerges Early: Data Curation for Reasoning Models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Reasoning Quality Emerges Early",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Data Curation for Reasoning Models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AIGP: An LLM-Based Framework for Long-Term Value Alignment in E-Commerce Pricing",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AIGP",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Reproducibility Study of \"AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models\"",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Reproducibility Study of \"AlphaEdit",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Null-Space Constrained Knowledge Editing for Language Models\"",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Escaping Iterative Parameter-Space Noise: Differentially Private Learning with a Hypernetwork",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Escaping Iterative Parameter-Space Noise",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Differentially Private Learning with a Hypernetwork",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Batch-Invariant Spectral Intelligence for Robust and Explainable Insect Authentication",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Structure Before Collapse: Transient semantic geometry in next-token prediction",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Structure Before Collapse",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Transient semantic geometry in next-token prediction",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "HyperDFlash: MHC-Aligned Block Speculative Decoding with Gated Residual Reduction",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "HyperDFlash",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Algorithmic Foundations of Deep Learning: Complexity-Theoretic Rates and a Characterization of Universal Approximation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Algorithmic Foundations of Deep Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Complexity-Theoretic Rates and a Characterization of Universal Approximation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "PersistentKV: Page-Aware Decode Scheduling for Long-Context LLM Serving on Commodity GPUs",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "PersistentKV",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Zero-Shot Size Transfer for Neural ODEs on Sparse Random Graphs: Graphon Limits and Adjoint Convergence",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Zero-Shot Size Transfer for Neural ODEs on Sparse Random Graphs",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Graphon Limits and Adjoint Convergence",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Target-Aware Bandit Allocation for Scalable Surrogate Optimization in Chemical Space",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "From Weights to Features: SAE-Guided Activation Regularization for LLM Continual Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "From Weights to Features",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SAE-Guided Activation Regularization for LLM Continual Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Discovering Millions of Interpretable Features with Sparse Autoencoders",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Sketched Linear Contrastive Learning: Approximation, Optimization, and Statistical Scaling",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Sketched Linear Contrastive Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Approximation, Optimization, and Statistical Scaling",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Empirical Software Engineering TerraProbe: A Layered-Oracle Framework for Detecting Deceptive Fixes in LLM-Assisted Terraform",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Empirical Software Engineering TerraProbe",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Layered-Oracle Framework for Detecting Deceptive Fixes in LLM-Assisted Terraform",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SharQ: Bridging Activation Sparsity and FP4 Quantization for LLM Inference",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SharQ",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Revisiting Action Factorization for Complex Action Spaces",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Can Large Language Models Reliably Code Qualitative Humanitarian Data? A Benchmark Study Against Human Expert Adjudication",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "CascadeFormer: Depth-Tapered Transformers Motivated by Gradient Fan-in Asymmetry",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "CascadeFormer",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Sample-efficient Transfer Reinforcement Learning via Adaptive Reward Shaping and Policy-Ratio Reweighting Strategy",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Theory-Scale Auto-Formalization of Logics for Computer Science",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Multipath Adaptive Gated Bottleneck Latent ODE with Raman Data Fusion for Cell Culture Process Forecasting",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Learning Probabilistic Filters with Strictly Proper Scoring Rules",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "What Survives When You Compress a Recursive Reasoner for the Edge?",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Retrieval-Warmed Energy-Based Reasoning: A Five-Arm Ablation Methodology for Diffusion-as-Inference on Structured Reasoning Tasks",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Retrieval-Warmed Energy-Based Reasoning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Five-Arm Ablation Methodology for Diffusion-as-Inference on Structured Reasoning Tasks",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Localizing RL-Induced Tool Use to a Single Crosscoder Feature",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "When Does Quality-Aware Multimodal Fusion Matter? A Leakage-Safe Diagnostic for Decision-Level Dependence",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Epiphany-Aware KV Cache Eviction Without the Attention Matrix",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Causal Foundation Model for Structure and Outcome Prediction",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Finding the Time to Think: Learning Planning Budgets in Real-Time RL",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Finding the Time to Think",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Learning Planning Budgets in Real-Time RL",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Optimizing CUDA like a Human: Micro-Profiling Tools as Expert Surrogates for LLM-Based GPU Kernel Optimization",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Optimizing CUDA like a Human",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Micro-Profiling Tools as Expert Surrogates for LLM-Based GPU Kernel Optimization",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Embedding Foundation Model Predictions in Discrete-Choice Models with Structural Guarantees",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "DualEval: Joint Model-Item Calibration for Unified LLM Evaluation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "DualEval",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Rethinking Training & Inference for Forecasting: Linking Winner-Take-All back to GMMs",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Rethinking Training & Inference for Forecasting",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Linking Winner-Take-All back to GMMs",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Otter Weather: Skillful and Computationally Efficient Medium-Range Weather Forecasting",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Otter Weather",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Skillful and Computationally Efficient Medium-Range Weather Forecasting",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Beyond Feedforward Networks: Reentry Neural Systems as the Fundamental Basis of Subjecthood and Intrinsic Safety of Next-Generation AGI",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Beyond Feedforward Networks",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Reentry Neural Systems as the Fundamental Basis of Subjecthood and Intrinsic Safety of Next-Generation AGI",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Deterministic Pareto-Optimal Policy Synthesis for Multi-Objective Reinforcement Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "At the Edge of Understanding: Sparse Autoencoders Trace The Limits of Transformer Generalization",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "At the Edge of Understanding",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Sparse Autoencoders Trace The Limits of Transformer Generalization",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SOLAR: AI-Powered Speed-of-Light Performance Analysis",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SOLAR",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Does Aurora Encode Atmospheric Structure? Latent Regime Analysis and Attribution",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "EMA-FS: Accelerating GBDT Training via Gain-Informed Feature Screening",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "EMA-FS",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Mesh-RL: Coupled subgrid reinforcement learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Mesh-RL",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "EVOM: Agentic Meta-Evolution of Actor-Critic Architectures for Reinforcement Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "EVOM",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "High-Probability PL-SGD with Markovian Noise: Optimal Mixing and Tail Dependence",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "High-Probability PL-SGD with Markovian Noise",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Optimal Mixing and Tail Dependence",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The Red Queen Gödel Machine: Co-Evolving Agents and Their Evaluators",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The Red Queen Gödel Machine",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Co-Evolving Agents and Their Evaluators",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SSM Adapters via Hankel Reduced-order Modeling: Injection Site Determines Task Suitability in Long-Context Fine-Tuning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SSM Adapters via Hankel Reduced-order Modeling",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Injection Site Determines Task Suitability in Long-Context Fine-Tuning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Equivariance and Augmentation for Bayesian Neural Networks",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Dataset Usage Inference without Shadow Models or Held-out Data",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A General Framework for Learning Algebraic Properties from Cayley Graphs using Graph Neural Networks",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Topology-Informed Neural Networks for Flood Detection in Optical and Synthetic Aperture Radar Imagery",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Statistical and Structural Approaches to Algorithmic Fairness",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Federated Hash Projected Latent Factor Learning",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Clue-Guided Money Laundering Group Discovery",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Necessary but Not Sufficient: Temperature Control and Reproducibility in LLM-as-Judge Safety Evaluations",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Necessary but Not Sufficient",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Temperature Control and Reproducibility in LLM-as-Judge Safety Evaluations",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "KG-TRACE: A Neuro-Symbolic Framework for Mechanistic Grounding in Antimicrobial Resistance Prediction",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "KG-TRACE",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Neural Architecture Search for Generative Adversarial Networks: A Comprehensive Review and Critical Analysis",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Neural Architecture Search for Generative Adversarial Networks",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Comprehensive Review and Critical Analysis",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Implementation of reinforcement learning in chemical reaction networks: application to phototaxis as curiosity-driven exploration",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Implementation of reinforcement learning in chemical reaction networks",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "application to phototaxis as curiosity-driven exploration",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "\\chisao{}: A GPU-Native Parallel Optimizer for Multimodal Black-Box Functions via Convergence-Anticonvergence Oscillation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "\\chisao{}",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A GPU-Native Parallel Optimizer for Multimodal Black-Box Functions via Convergence-Anticonvergence Oscillation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Physics-guided Convolutional Neural Network for Domain Growth Prediction in Systems with Conserved Kinetics",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Fast algorithms for learning a Gaussian under halfspace truncation with optimal sample complexity",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "QApilot",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "3x Mobile Automation. Same QE Team.",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "QApilot: 3x Mobile Automation. Same QE Team.",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Nada",
+      "top_complaints": [
+        "脑海中有旋律却难以转化为成品音乐"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Compose music with just your voice",
+      "top_complaints": [
+        "脑海中有旋律却难以转化为成品音乐"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Nada: Compose music with just your voice",
+      "top_complaints": [
+        "脑海中有旋律却难以转化为成品音乐"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Cloud World Model",
+      "top_complaints": [
+        "云服务费用高昂，动手实践成本大",
+        "连接云厂商会造成学习瓶颈",
+        "团队需要低成本模拟云环境"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Simulate AWS, GCP & DigitalOcean without paying the bill",
+      "top_complaints": [
+        "云服务费用高昂，动手实践成本大",
+        "连接云厂商会造成学习瓶颈",
+        "团队需要低成本模拟云环境"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Cloud World Model: Simulate AWS, GCP & DigitalOcean without paying the bill",
+      "top_complaints": [
+        "云服务费用高昂，动手实践成本大",
+        "连接云厂商会造成学习瓶颈",
+        "团队需要低成本模拟云环境"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Supra Player",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Compare & Sync Videos Fast",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Supra Player: Compare & Sync Videos Fast",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Epilogue",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The professional book writing app built for serious authors",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Epilogue: The professional book writing app built for serious authors",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Sipcode",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Keep Claude Code's context clean for sharper answers",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Sipcode: Keep Claude Code's context clean for sharper answers",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Folio",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Claude for Powerpoint, on steroids",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Folio: Claude for Powerpoint, on steroids",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "BrowserAct",
+      "top_complaints": [
+        "AI Agent 浏览器工作流频繁失败",
+        "现有自动化方案需要写代码门槛高"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Web browser automation for AI agents",
+      "top_complaints": [
+        "AI Agent 浏览器工作流频繁失败",
+        "现有自动化方案需要写代码门槛高"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "BrowserAct: Web browser automation for AI agents",
+      "top_complaints": [
+        "AI Agent 浏览器工作流频繁失败",
+        "现有自动化方案需要写代码门槛高"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Heron",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Wireshark for AI Agents: passive eBPF observability",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Heron: Wireshark for AI Agents: passive eBPF observability",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Basedash",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AI-native Business Intelligence Platform",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Basedash: AI-native Business Intelligence Platform",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Propane",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Automatic customer context for product teams and agents",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Propane: Automatic customer context for product teams and agents",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "DMV by Agent Community",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "DMV by Agent Community: Product Hunt for AI agents",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "LYQN AI",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Brain Dump feature for AI context",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "LYQN AI: Brain Dump feature for AI context",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AI gave everyone the same brain, Recall gives AI yours",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Recall: AI gave everyone the same brain, Recall gives AI yours",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "App switcher",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Hardware: Dune Keypad with Claude integration",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "App switcher: Hardware: Dune Keypad with Claude integration",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "CoWork",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "collaborative AI workspace",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "CoWork: collaborative AI workspace",
+      "top_complaints": [
+        "暂无明确用户抱怨，ProductHunt 新发布产品"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "supervisory signals",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "progress advantage",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "image count understanding",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "mobile automation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "business intelligence",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AI-native",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "eBPF observability",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "browser automation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "brain dump",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "agent community",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "capability frontier",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "task insensitivity",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "metric-ordered sequence training",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "hallucination-resistant",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "parametric consolidation",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "diffusion acceleration",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "synthetic clinical notes",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "agent-driven self-iteration",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "policy-as-code",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    }
+  ]
+}
