@@ -1,238 +1,236 @@
 {
   "date": "2026-06-28",
-  "scored_at": "2026-06-28T22:01:34.000266",
-  "bootstrap": "heuristic (Agent 2 scored file missing)",
   "entries": [
     {
       "term": "DanceOPD: On-Policy Generative Field Distillation",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv,huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站，标题精准匹配多"
     },
     {
       "term": "DanceOPD",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源arxiv,huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站，标题精准匹配多"
     },
     {
       "term": "On-Policy Generative Field Distillation",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为arxiv,huggingface新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "In-Context World Modeling for Robotic Control",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站，标题精准匹配多"
     },
     {
       "term": "OPID",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "On-Policy Skill Distillation for Agentic Reinforcement Learning",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有2个工具站"
     },
     {
       "term": "Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "中",
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "Qwen-Image-Agent",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有5个工具站"
     },
     {
       "term": "Bridging the Context Gap in Real-World Image Generation",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站，标题精准匹配多"
     },
     {
       "term": "The Verification Horizon",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "No Silver Bullet for Coding Agent Rewards",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站，标题精准匹配多"
     },
     {
       "term": "ViQ: Text-Aligned Visual Quantized Representations at Any Resolution",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "ViQ",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Text-Aligned Visual Quantized Representations at Any Resolution",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站，标题精准匹配多"
     },
     {
       "term": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "JetSpec",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站，标题精准匹配多"
     },
     {
       "term": "Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "GUI vs. CLI",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "中",
+      "top10_quality": "中等，混有论坛帖，有2个工具站"
     },
     {
       "term": "Fast LeWorldModel",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有4个工具站"
     },
     {
       "term": "Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "Running the Gauntlet",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "中",
+      "top10_quality": "中等，混有论坛帖，有1个工具站"
     },
     {
       "term": "LISA: Likelihood Score Alignment for Visual-condition Controllable Generation",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站，标题精准匹配多"
     },
     {
       "term": "LISA",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站，标题精准匹配多"
     },
     {
       "term": "Likelihood Score Alignment for Visual-condition Controllable Generation",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "中",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Discretizing Reward Models",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Information-Aware KV Cache Compression for Long Reasoning",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv,huggingface"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有2个工具站"
     },
     {
       "term": "Confidence-Aware Tool Orchestration for Robust Video Understanding",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv,huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有6个工具站，标题精准匹配多"
     },
     {
       "term": "PhysiFormer: Learning to Simulate Mechanics in World Space",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站，标题精准匹配多"
     },
     {
       "term": "PhysiFormer",
@@ -245,225 +243,225 @@
       "term": "Learning to Simulate Mechanics in World Space",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "中",
+      "top10_quality": "中等，混有论坛帖，有1个工具站"
     },
     {
       "term": "Hallucination in World Models is Predictable and Preventable",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv,huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies",
       "trend": "📈上升",
-      "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "main_geo": "CN",
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有5个工具站"
     },
     {
       "term": "CoffeeBench",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "中等，混有论坛帖"
     },
     {
       "term": "Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "COrigami",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv,huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "OpenBioRQ: Unsolved Biomedical Research Questions for Agents",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "OpenBioRQ",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站，标题精准匹配多"
     },
     {
       "term": "Unsolved Biomedical Research Questions for Agents",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站，标题精准匹配多"
     },
     {
       "term": "How Post-Training Shapes Biological Reasoning Models",
       "trend": "📈上升",
-      "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "main_geo": "CN",
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站，标题精准匹配多"
     },
     {
       "term": "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv,huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "EO-WM",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源arxiv,huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站，标题精准匹配多"
     },
     {
       "term": "A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv,huggingface"
+      "competition": "中",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Persona.js",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有7个工具站"
     },
     {
       "term": "Add WebMCP-native AI chat to any Frontend",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有7个工具站"
     },
     {
       "term": "discode.ai",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站，标题精准匹配多"
     },
     {
       "term": "Dotient",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有2个工具站，标题精准匹配多"
     },
     {
       "term": "Your local semantic search app",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有5个工具站"
     },
     {
       "term": "discode.ai: 100+ AI models, one interface. ECO friendly.",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "GetCompress",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "Lossless media compression without context switching",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "GetCompress: Lossless media compression without context switching",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Persona.js: Add WebMCP-native AI chat to any Frontend",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有7个工具站"
     },
     {
       "term": "Dotient: Your local semantic search app",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有5个工具站"
     },
     {
       "term": "Lyto",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "One AI agent across your browser, tools, and messages",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有4个工具站"
     },
     {
       "term": "Lyto: One AI agent across your browser, tools, and messages",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有5个工具站"
     },
     {
       "term": "Autoregressive Boltzmann Generators",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有1个工具站"
     },
     {
       "term": "Error-Conditioned Neural Solvers",
@@ -483,15 +481,15 @@
       "term": "Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Understanding",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Language-Based Digital Twins for Elderly Cognitive Assistance",
@@ -504,15 +502,15 @@
       "term": "Language-Based",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Empowering",
@@ -546,8 +544,8 @@
       "term": "AI Healthcare Chatbots as Information Infrastructure: A Large-Scale Study of User-Reported Breakdowns",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+      "competition": "中",
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "AI",
@@ -561,7 +559,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "A Large-Scale Study of User-Reported Breakdowns",
@@ -574,8 +572,8 @@
       "term": "Prompt",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站，标题精准匹配多"
     },
     {
       "term": "Prompt Injection in Automated Résumé Screening with Large Language Models",
@@ -603,7 +601,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "A New Embodied Test-Time Scaling Framework for Robotic Manipulation",
@@ -630,8 +628,8 @@
       "term": "Bridging",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention",
@@ -715,7 +713,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "TOPS: First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference",
@@ -757,7 +755,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "From Outcome Labels to Causal Process Supervision",
@@ -770,8 +768,8 @@
       "term": "Safe Autoregressive Image Generation with Iterative Self-Improving Codebooks",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Safe",
@@ -952,8 +950,8 @@
       "term": "Inverse Design of Compact and Wideband Inverted Doherty Power Amplifiers Using Deep Learning",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站，标题精准匹配多"
     },
     {
       "term": "Inverse",
@@ -1072,7 +1070,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+      "top10_quality": "限流回退；来源标注为arxiv新词，趋势暂按上升处理"
     },
     {
       "term": "Einstein",
@@ -1141,8 +1139,8 @@
       "term": "A Deterministic Control Plane for LLM Coding Agents",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Risk-Aware Selective Multimodal Driver Monitoring with Driver-State World Modeling",
@@ -1183,8 +1181,8 @@
       "term": "SamaVaani",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站，标题精准匹配多"
     },
     {
       "term": "Auditing and Debiasing Multilingual Clinical ASR for Indian Languages",
@@ -1275,7 +1273,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+      "top10_quality": "限流回退；来源标注为arxiv新词，趋势暂按上升处理"
     },
     {
       "term": "Memory",
@@ -1386,8 +1384,8 @@
       "term": "Robust Onion: Peeling Open Vocab Object Detectors Under Noise",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "Robust",
@@ -1477,8 +1475,8 @@
       "term": "Beyond Logical Forms: LLM-Extracted Patterns for Fallacy Classification",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Beyond Logical Forms",
@@ -1624,15 +1622,15 @@
       "term": "Agents That Know Too Much",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+      "competition": "中",
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "A Data-Centric Survey of Privacy in LLM Agents",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+      "top10_quality": "限流回退；来源标注为arxiv新词，趋势暂按上升处理"
     },
     {
       "term": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
@@ -1667,7 +1665,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+      "top10_quality": "限流回退；来源标注为arxiv新词，趋势暂按上升处理"
     },
     {
       "term": "Designing",
@@ -1729,8 +1727,8 @@
       "term": "RSPC",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "A Benchmark for Modeling Stress and Psychiatric Conditions in Digitally Mediated Relationships using Psychiatrist Annotations",
@@ -1855,15 +1853,15 @@
       "term": "A Multi-Task Framework for Post-Report Medical Device Recall Triage",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+      "competition": "中",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Stochastic",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站，标题精准匹配多"
     },
     {
       "term": "DMuon: Efficient Distributed Muon Training with Near-Adam Overhead",
@@ -1947,7 +1945,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+      "top10_quality": "限流回退；来源标注为arxiv新词，趋势暂按上升处理"
     },
     {
       "term": "Uncertainty",
@@ -2072,8 +2070,8 @@
       "term": "Heterogeneous Neural Predictivity from Language Models During Naturalistic Comprehension",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+      "competition": "中",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Heterogeneous",
@@ -2254,8 +2252,8 @@
       "term": "Attributed, But Not Incremental: Cannibalization-Corrected Attribution for Large-Scale Advertising",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源arxiv"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Attributed",
@@ -2401,8 +2399,8 @@
       "term": "Sample-efficient",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源arxiv，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "Theory-Scale",
@@ -2444,7 +2442,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+      "top10_quality": "限流回退；来源标注为arxiv新词，趋势暂按上升处理"
     },
     {
       "term": "Eliminating Stale-Fact Errors for AI Agents over Evolving Knowledge",
@@ -2472,7 +2470,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为arxiv新词，趋势暂按上升处理"
+      "top10_quality": "限流回退；来源标注为arxiv新词，趋势暂按上升处理"
     },
     {
       "term": "Continuous-Time Mean-Field Reinforcement Learning from Discrete-Time Data",
@@ -2493,21 +2491,21 @@
       "trend": "📊平稳",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "评分接口限流，暂按平稳处理"
+      "top10_quality": "限流回退；评分接口限流，暂按平稳处理"
     },
     {
       "term": "World Modeling",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源academic，前排多为论文/代码页"
+      "top10_quality": "中等，混有论坛帖，有2个工具站"
     },
     {
       "term": "Skill Distillation",
       "trend": "📊平稳",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "评分接口限流，暂按平稳处理"
+      "top10_quality": "限流回退；评分接口限流，暂按平稳处理"
     },
     {
       "term": "Agentic",
@@ -2520,8 +2518,8 @@
       "term": "Reinforcement Learning",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源academic，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站，标题精准匹配多"
     },
     {
       "term": "Verification Horizon",
@@ -2549,7 +2547,7 @@
       "trend": "📊平稳",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "评分接口限流，暂按平稳处理"
+      "top10_quality": "限流回退；评分接口限流，暂按平稳处理"
     },
     {
       "term": "Parallel Tree Drafting",
@@ -2570,7 +2568,7 @@
       "trend": "📊平稳",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "评分接口限流，暂按平稳处理"
+      "top10_quality": "限流回退；评分接口限流，暂按平稳处理"
     },
     {
       "term": "KV Cache",
@@ -2591,14 +2589,14 @@
       "trend": "📊平稳",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "评分接口限流，暂按平稳处理"
+      "top10_quality": "限流回退；评分接口限流，暂按平稳处理"
     },
     {
       "term": "Post-training",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源academic，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Long-Horizon",
@@ -2640,7 +2638,7 @@
       "trend": "📊平稳",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "评分接口限流，暂按平稳处理"
+      "top10_quality": "限流回退；评分接口限流，暂按平稳处理"
     }
   ]
 }
