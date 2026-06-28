@@ -1,0 +1,4473 @@
+{
+  "date": "2026-06-28",
+  "entries": [
+    {
+      "term": "Lossless media compression without context switching",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向内容团队的零上下文切换无损媒体压缩工具，在浏览器或 IDE 内直接处理大文件",
+      "suggested_headline": "Compress Media Without Leaving Your Workflow — Truly Lossless",
+      "target_users": [
+        "视频与设计创作者",
+        "开发者与运维",
+        "需要批量处理媒体的 SaaS 团队"
+      ],
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Knowledge-base Augmented Retrieval for Language Models",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 RAG 应用开发者的知识库增强检索层，解决输出不稳定与功能缺失问题",
+      "suggested_headline": "Stable Knowledge-Augmented Retrieval for Production LLMs",
+      "target_users": [
+        "RAG/Agent 开发者",
+        "企业知识库管理员",
+        "LLM 应用产品团队"
+      ],
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Generative Models on Analog Hardware with Dynamics",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 AI 基础设施团队的专用硬件推理成本评估平台，部署前量化边际成本与维护风险",
+      "suggested_headline": "Model Your AI Cost Before You Scale on Specialized Hardware",
+      "target_users": [
+        "ML 基础设施工程师",
+        "边缘 AI 部署团队",
+        "硬件选型架构师"
+      ],
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "A Generalization Theory for JEPA-Based World Models",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向机器人/仿真团队的 JEPA 世界模型可靠性验证工具，检测幻觉与扩展性瓶颈",
+      "suggested_headline": "Validate Your World Models Before They Fail in Production",
+      "target_users": [
+        "机器人研发工程师",
+        "仿真平台开发者",
+        "AI 安全与评测团队"
+      ],
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Lyto",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "高"
+    },
+    {
+      "term": "Einstein World Models",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "A Deterministic Control Plane for LLM Coding Agents",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "高"
+    },
+    {
+      "term": "A Data-Centric Survey of Privacy in LLM Agents",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Mean-Field PhiBE",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Error-Conditioned Neural Solvers",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Language-Based Digital Twins for Elderly Cognitive Assistance",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "A Large-Scale Study of User-Reported Breakdowns",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Prompt Injection in Automated Résumé Screening with Large Language Models",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "A New Embodied Test-Time Scaling Framework for Robotic Manipulation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation and Self-Improvement",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Binary Questions for Interpretable LLM Evaluation and Self-Improvement",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "A Process Harness for Uplifting Legacy Workflows to Agentic BPM: Design and Realization in CUGA FLO",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "A Process Harness for Uplifting Legacy Workflows to Agentic BPM",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Design and Realization in CUGA FLO",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "TOPS: First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "OpenRCA 2.0: From Outcome Labels to Causal Process Supervision",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "From Outcome Labels to Causal Process Supervision",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Joint Learning of Experiential Rules and Policies for Large Language Model Agents",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Inherited Circuits, Learned Semantics: How Fine-Tuning Creates Evasion Vulnerabilities Invisible to Standard Evaluation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Inherited Circuits, Learned Semantics",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "How Fine-Tuning Creates Evasion Vulnerabilities Invisible to Standard Evaluation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "NuclearQAv2: A Structured Benchmark for Evaluating Domain-Science Competence in Large Language Models",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "A Structured Benchmark for Evaluating Domain-Science Competence in Large Language Models",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "The Spec Growth Engine: Spec-Anchored, Code-Coupled, Drift-Enforced Architecture for AI-Assisted Software Development",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Spec-Anchored, Code-Coupled, Drift-Enforced Architecture for AI-Assisted Software Development",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Semantic Early-Stopping for Iterative LLM Agent Loops",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Event-Aware Instructed Assistant for Referring Video Segmentation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Where Do Models Find Happiness? Emotion Vectors in Open-Source LLMs",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "ReaORE: Reasoning-Guided Progressive Open Relation Extraction Empowered by Large Reasoning Models",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Reasoning-Guided Progressive Open Relation Extraction Empowered by Large Reasoning Models",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Auditing Framing-Sensitive Behavioral Instability in Large Language Models for Mental Health Interactions",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "In-Context Model Predictive Generation: Open-Vocabulary Motion Synthesis from Language Models to Physics",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "In-Context Model Predictive Generation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Open-Vocabulary Motion Synthesis from Language Models to Physics",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "XMSE-Aware Adaptive Empirical Bayes Estimation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Scaling Multi-Reference Image Generation with Dynamic Reward Optimization",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Chai: Agentic Discovery of Cryptographic Misuse Vulnerabilities",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Agentic Discovery of Cryptographic Misuse Vulnerabilities",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Risk-Aware Selective Multimodal Driver Monitoring with Driver-State World Modeling",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Geometric Rollout Curation for Robust LLM Reinforcement Learning",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "SamaVaani: Auditing and Debiasing Multilingual Clinical ASR for Indian Languages",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Auditing and Debiasing Multilingual Clinical ASR for Indian Languages",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Bridging Vision and Language Concepts through Optimal Transport Semantic Flow",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Risk-Conditioned Causal Grounding for Hallucination-Resistant Report Generation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Fortress and Gatekeeper: Theorizing Transitive Trust in Third-Party Cybersecurity Risk Governance",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Theorizing Transitive Trust in Third-Party Cybersecurity Risk Governance",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Towards Agent-Driven Self-Iteration of Industrial Recommender Systems",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Life Cycle Assessment with big data fusion and retrieval-augmented generation-assisted interpretation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "NaviCache: Test-Time Self-Calibration Caching for Video Generation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Test-Time Self-Calibration Caching for Video Generation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "ReasonCLIP-58M: Visually Grounded Commonsense Reasoning Supervision for CLIP",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Visually Grounded Commonsense Reasoning Supervision for CLIP",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "MIRROR: Novelty-Constrained Memory-Guided MCTS Red-Teaming for Agentic RAG",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Novelty-Constrained Memory-Guided MCTS Red-Teaming for Agentic RAG",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "An LLM-Based Framework for Long-Term Value Alignment in E-Commerce Pricing",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Plug-and-Play Phase Mapping and Noise-Resilient Macro-Trajectory Extrapolation for Diffusion Acceleration",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Anatomy-Guided Residual Motion Diffusion for Controllable 4D Cardiac MRI Synthesis",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "An Expert-Guided Agent Framework for Kernel Generation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Peeling Open Vocab Object Detectors Under Noise",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "A Physics-Informed World Model for Multi-Stage Computational Lithography",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "MLFFM-SegDiff: A Multi-Level Feature Fusion Diffusion Model for Skin Lesion Segmentation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "A Multi-Level Feature Fusion Diffusion Model for Skin Lesion Segmentation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Learning Motion Feasibility from Point Clouds in Cluttered Environments",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "LLM-Extracted Patterns for Fallacy Classification",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "An Empirical Post-Training Pipeline via Full-Scale Ablation Research",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Distilling and Compiling Agent Traces into Reusable Procedural Skills",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Disco-LoRA: Disentangled Composition of Content, Style, and Motion for Multi-concept Video Customization",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Disentangled Composition of Content, Style, and Motion for Multi-concept Video Customization",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "TGHE: Template-based Graph Homomorphic Encryption for Privacy-Preserving GNN Inference in Edge-Cloud Systems",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Template-based Graph Homomorphic Encryption for Privacy-Preserving GNN Inference in Edge-Cloud Systems",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "LAMP: Lane-Aligned Motion Primitives for Feasible Trajectory Prediction",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Lane-Aligned Motion Primitives for Feasible Trajectory Prediction",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Cost-efficient and Accurate Ternary Quantization for LLMs",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Agents That Know Too Much: A Data-Centric Survey of Privacy in LLM Agents",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Blackwell Approachability and Gradient Equilibrium are Equivalent",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "BetXplain: An Explanation-Annotated Dataset for Detecting Manipulative Betting Advertisements on Social Media",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "An Explanation-Annotated Dataset for Detecting Manipulative Betting Advertisements on Social Media",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Ribbon: Scalable Approximation and Robust Uncertainty Quantification",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Scalable Approximation and Robust Uncertainty Quantification",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "A Benchmark for Modeling Stress and Psychiatric Conditions in Digitally Mediated Relationships using Psychiatrist Annotations",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "The Geometry of Updates: Fisher Alignment at Vocabulary Scale",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Fisher Alignment at Vocabulary Scale",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Hierarchical Muon: Tiled Newton-Schulz Updates for Efficient Muon Optimization",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Tiled Newton-Schulz Updates for Efficient Muon Optimization",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Forecasting With LLMs: Improved Generalization Through Feature Steering",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Improved Generalization Through Feature Steering",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "RecallRisk-BERT: A Multi-Task Framework for Post-Report Medical Device Recall Triage",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "DMuon: Efficient Distributed Muon Training with Near-Adam Overhead",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Efficient Distributed Muon Training with Near-Adam Overhead",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Kolmogorov Arnold networks (KAN) for aerodynamic prediction",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Just how sure are you? Improving Verbalized Uncertainty Calibration in Medical VQA",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "RolloutPipe: Overlapping Pipelined Rollout and Training in Disaggregated On-Policy LLM Reinforcement Learning",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Overlapping Pipelined Rollout and Training in Disaggregated On-Policy LLM Reinforcement Learning",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Enabling self-supervised learned primal dual with Noise2Inverse",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Geometric Gradient Rectification for Safe Open-Set Semi-Supervised Learning",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Jailbreaking for the Average Jane: Choosing Optimal Jailbreaks via Bandit Algorithms for Automatically Enhanced Queries",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Jailbreaking for the Average Jane",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Choosing Optimal Jailbreaks via Bandit Algorithms for Automatically Enhanced Queries",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Tractography-Driven Synthetic Data Generation for Fiber Bundle Segmentation in Tracer Histology",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Accelerated sampling using SamAdams variable timesteps and position-adaptive Langevin dynamics",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Scalable Message-Passing Quantum Graph Neural Networks in the Weisfeiler-Leman Hierarchy",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "LearniBridge: Learnable Calibration of Feature Caching for Diffusion Models Acceleration",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Learnable Calibration of Feature Caching for Diffusion Models Acceleration",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Evaluation Pitfalls and Challenges in Multimedia Event Extraction",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "ProtoKV: Streaming Video Understanding under Delayed Query with Summary-State Memory",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Streaming Video Understanding under Delayed Query with Summary-State Memory",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "MHC-Aligned Block Speculative Decoding with Gated Residual Reduction",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "State-Specific Respiratory Signatures for Affective and Stress Recognition: Interpretable Respiratory Markers, Autocorrelation Lags, and Compact CNN Models",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "State-Specific Respiratory Signatures for Affective and Stress Recognition",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Interpretable Respiratory Markers, Autocorrelation Lags, and Compact CNN Models",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "DroidBreaker: Practical and Functional Problem-Space Attacks on Machine-Learning Android Malware Detectors",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Practical and Functional Problem-Space Attacks on Machine-Learning Android Malware Detectors",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Attributed, But Not Incremental",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Cannibalization-Corrected Attribution for Large-Scale Advertising",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Page-Aware Decode Scheduling for Long-Context LLM Serving on Commodity GPUs",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Generating Special Triangulations with Transformers",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "FracEvent: Event-Camera Simulation via Fractional-Relaxation Pixel Dynamics",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Event-Camera Simulation via Fractional-Relaxation Pixel Dynamics",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Latent Diffusion Posterior Sampling with Surrogate Likelihood Guidance for PDE Inverse Problems",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Bridging Activation Sparsity and FP4 Quantization for LLM Inference",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Patch-Mean Decoupling Information Transformer for Long-term Forecasting",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Depth-Tapered Transformers Motivated by Gradient Fan-in Asymmetry",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Temporal Validity in Retrieval Memory: Eliminating Stale-Fact Errors for AI Agents over Evolving Knowledge",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Eliminating Stale-Fact Errors for AI Agents over Evolving Knowledge",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Mean-Field PhiBE: Continuous-Time Mean-Field Reinforcement Learning from Discrete-Time Data",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Continuous-Time Mean-Field Reinforcement Learning from Discrete-Time Data",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "One AI agent across your browser, tools, and messages",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "高"
+    },
+    {
+      "term": "AI Healthcare Chatbots as Information Infrastructure",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "OpenRCA 2.0",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "PhysiFormer",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Learning to Simulate Mechanics in World Space",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "CoffeeBench",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Error-Conditioned",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Empowering",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Beyond the Hard Budget",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI Healthcare Chatbots as Information Infrastructure: A Large-Scale Study of User-Reported Breakdowns",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Simulation-based",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "E-TTS",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Advancing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "CARVE",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Ask",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Ask, Don't Judge",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Vulnerability",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Automating",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "TOPS",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "OpenRCA",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Safe",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Joint",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Heavy-Ball",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Application",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Data-Free",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Inherited",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Parametric",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "NuclearQAv2",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "The Spec Growth Engine",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "State",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "ShareLock",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "On-board",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Semantic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Adaptive",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Inverse",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Event-Aware",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Decision-Aligned",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Where",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "ReaORE",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Auditing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "XMSE-Aware",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Einstein",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Look-Before-Move",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Scaling",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Chai",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Risk-Aware",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Diagnosing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Generative",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Fortress",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Fortress and Gatekeeper",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Context-Aware",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Computational",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Memory",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "NaviCache",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "ReasonCLIP-58M",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "MIRROR",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Anatomy-Guided",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Robust",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Robust Onion",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Scientific",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Socratic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "MLFFM-SegDiff",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Kalman",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Algorithmic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Beyond Logical Forms",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Disco-LoRA",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "TGHE",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Zero-Shot",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "LAMP",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "CAT-Q",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Autoformalization",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Agents",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Agents That Know Too Much",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Blackwell",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Designing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Recovering",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "BetXplain",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Ribbon",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Effective",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "The Geometry of Updates",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Hierarchical",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Hierarchical Muon",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Graph",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Explaining",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Forecasting",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Forecasting With LLMs",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "RecallRisk-BERT",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "DMuon",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Kolmogorov",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Cross-Head",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Transformer-Based",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Finding",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Symplectic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Just",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Uncertainty",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "RolloutPipe",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Enabling",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Geometric",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Jailbreaking",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Tractography-Driven",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Asymptotically",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Accelerated",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Heterogeneous",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Scalable",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Quantization",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Reasoning",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Reproducibility",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "LearniBridge",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Evaluation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Escaping",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "ProtoKV",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Batch-Invariant",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Structure",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "State-Specific",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "DroidBreaker",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Attributed",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Generating",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Target-Aware",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "FracEvent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Discovering",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Sketched",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Latent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Empirical",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Revisiting",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Explainable",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Theory-Scale",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Radical",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Multipath",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Temporal",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Temporal Validity in Retrieval Memory",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Mean-Field",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "On-Policy",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Agentic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Verification Horizon",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Coding Agent Rewards",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Visual Quantized",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Parallel Tree Drafting",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Computer-Use",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "KV Cache",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Tool Orchestration",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Long-Horizon",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Mixture-of-Agents",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Biological Reasoning",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "World Model",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "WebMCP",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Your local semantic search app",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 1
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "高"
+    },
+    {
+      "term": "Dotient: Your local semantic search app",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 1
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "高"
+    },
+    {
+      "term": "Lyto: One AI agent across your browser, tools, and messages",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 1
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "高"
+    }
+  ]
+}
