@@ -162,14 +162,6 @@
       "desired_features": []
     },
     {
-      "term": "Hash-based Generative Language Models",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
       "term": "Hash-based",
       "top_complaints": [
         "暂无明确用户抱怨，主要为学术/技术发布内容"
@@ -354,14 +346,6 @@
       "desired_features": []
     },
     {
-      "term": "Search Agents",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
       "term": "SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation",
       "top_complaints": [
         "暂无明确用户抱怨，主要为学术/技术发布内容"
@@ -506,14 +490,6 @@
       "desired_features": []
     },
     {
-      "term": "Web Agents",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
       "term": "Thinking While Speaking: Inference-Time Knowledge Transfer for Responsive and Intelligent Conversational Voice Agents",
       "top_complaints": [
         "暂无明确用户抱怨，主要为学术/技术发布内容"
@@ -547,14 +523,6 @@
     },
     {
       "term": "Thinking",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Voice Agents",
       "top_complaints": [
         "暂无明确用户抱怨，主要为学术/技术发布内容"
       ],
@@ -744,22 +712,6 @@
       "desired_features": []
     },
     {
-      "term": "Foundation Models",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Robotic Manipulation Foundation Models",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
       "term": "AgentOdyssey: Open-Ended Long-Horizon Text Game Generation for Test-Time Continual Learning Agents",
       "top_complaints": [
         "暂无明确用户抱怨，主要为学术/技术发布内容"
@@ -925,22 +877,6 @@
       "desired_features": []
     },
     {
-      "term": "A Benchmark for Scientific Foundation Models",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Scientific Foundation Models",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
       "term": "Tokenizer",
       "top_complaints": [
         "暂无明确用户抱怨，主要为学术/技术发布内容"
@@ -1015,16 +951,6 @@
       "desired_features": []
     },
     {
-      "term": "Code Agents",
-      "top_complaints": [
-        "AI 编程 agent 每次会话需重新解释项目上下文和架构决策",
-        "缺乏确定性锚点导致 agent 输出不稳定、难以信任",
-        "长 horizon 任务中 agent 容易遗忘早期约束和约定"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
       "term": "Deterministic Anchoring",
       "top_complaints": [
         "Agent 执行路径不可预测，同样输入产生不同代码结构",
@@ -1070,203 +996,6 @@
       "term": "Context Grounding",
       "top_complaints": [
         "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "VisibAI",
-      "top_complaints": [
-        "GEO/AI 可见性工具几乎全是企业级定价，小企业难以承受",
-        "不同审计工具对同一品牌评分方差大，方法论不透明难信任",
-        "被 ChatGPT/Perplexity 忽略等同于在新搜索入口上完全不可见"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Are you in AI answers? Find out and fix it in minutes",
-      "top_complaints": [
-        "无法知道潜在客户问 AI 时是否会推荐自己的业务",
-        "竞争对手出现在 AI 回答中而自己被忽略",
-        "现有 SEO 工具无法覆盖 ChatGPT/Perplexity 等新生成式搜索入口"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "PMB",
-      "top_complaints": [
-        "每次新会话都要重复粘贴相同项目背景，浪费大量时间",
-        "Cursor 达到上下文上限后完全遗忘之前构建的内容",
-        "云端记忆服务有 per-call 费用且会把对话发送到第三方服务器"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Stop re-explaining your project to AI coding agents",
-      "top_complaints": [
-        "AI 工具之间不共享记忆，切换 ChatGPT/Cursor/Claude 后需从头解释项目",
-        "上下文窗口压缩后 agent 忘记刚完成的工作，反复追问用户",
-        "需要单独维护笔记文件，agent 无法自动读取历史决策"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "PMB: Stop re-explaining your project to AI coding agents",
-      "top_complaints": [
-        "AI 工具之间不共享记忆，切换工具后需从零开始解释",
-        "上下文窗口压缩后会话状态丢失，agent 反复追问已完成事项",
-        "需要单独维护笔记文件，agent 无法自动读取历史决策"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Spira for Product Hunt Makers",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Agent Mode by Receiptor AI",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "ClinePass",
-      "top_complaints": [
-        "AI 编程工具订阅费用叠加，独立开发者成本压力大",
-        "多个 coding agent 工具间上下文无法共享"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "ElevenAgents by ElevenLabs",
-      "top_complaints": [
-        "语音 agent 配置复杂，非技术用户难以上手",
-        "多轮对话中 agent 上下文丢失导致回复不连贯"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "ElevenAgents",
-      "top_complaints": [
-        "语音 AI agent 部署到生产环境缺乏监控和调试工具",
-        "对话流程设计门槛高，小企业难以快速搭建"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Crest",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Sami",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "ReadHere",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Outpaint - Ad Reframe",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Viktor.com",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Intelli",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Upstream FTP",
-      "top_complaints": [
-        "文件传输自动化缺乏 AI 辅助的错误恢复机制",
-        "传统 FTP 工具与现代开发工作流集成差"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Framer 3.0",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Framer AI Agents",
-      "top_complaints": [
-        "网站构建 agent 缺乏对设计系统的一致性约束",
-        "AI agent 生成的页面组件难以与现有 Framer 项目集成"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "VisibAI: Are you in AI answers? Find out and fix it in minutes",
-      "top_complaints": [
-        "GEO 工具企业定价门槛高，SMB 和独立创始人难以入门",
-        "审计结果因测试方法论不同差异大，难以作为可靠基准",
-        "不知道品牌在 AI 推荐中是否出现，竞争对手却被优先推荐"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "local-first memory for AI",
-      "top_complaints": [
-        "自托管 graph memory 并发读写会导致 JSONL 文件损坏需手动修复",
-        "内存服务 24 小时后膨胀到 2GB+ 导致 MCP 调用超时失败",
-        "检索精度差会把错误上下文带入，拖慢 agent 并降低准确率"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "AI visibility audit",
-      "top_complaints": [
-        "企业级 AI 可见性监控工具月费 $99+，独立创始人难以承受",
-        "缺乏一次性审计选项，必须订阅才能了解当前 AI 排名",
-        "不同平台（ChatGPT/Claude/Perplexity）结果不一致，难以行动"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1528,14 +1257,6 @@
       "desired_features": []
     },
     {
-      "term": "Architecture, Taxonomy, and Engineering",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
       "term": "Agent-Native",
       "top_complaints": [
         "暂无明确用户抱怨，主要为学术/技术发布内容"
@@ -1703,14 +1424,6 @@
     },
     {
       "term": "Exposure",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Flow Matching",
       "top_complaints": [
         "暂无明确用户抱怨，主要为学术/技术发布内容"
       ],
@@ -2230,14 +1943,6 @@
       "desired_features": []
     },
     {
-      "term": "AI-Driven Synthesis for High-Tech System Design",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
       "term": "Automating Innovation",
       "top_complaints": [
         "暂无明确用户抱怨，主要为学术/技术发布内容"
@@ -2710,14 +2415,6 @@
       "desired_features": []
     },
     {
-      "term": "Mind the Gap",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
       "term": "Quantifying the Domain Gap in Cross-Sensor Diffusion Super-Resolution",
       "top_complaints": [
         "暂无明确用户抱怨，主要为学术/技术发布内容"
@@ -2807,14 +2504,6 @@
     },
     {
       "term": "From Detection to Action",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Using LLM Agents for Fault-Tolerant Control",
       "top_complaints": [
         "暂无明确用户抱怨，主要为学术/技术发布内容"
       ],
@@ -3134,14 +2823,6 @@
       "desired_features": []
     },
     {
-      "term": "Agentic AI-Powered Re-Identification",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
       "term": "An Emerging, Scalable Threat to Mobility Microdata Privacy",
       "top_complaints": [
         "暂无明确用户抱怨，主要为学术/技术发布内容"
@@ -3207,14 +2888,6 @@
     },
     {
       "term": "Home3D 1.0: A High-Fidelity Image-to-3D Asset Generation System for Interior Design",
-      "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Home3D 1.0",
       "top_complaints": [
         "暂无明确用户抱怨，主要为学术/技术发布内容"
       ],
@@ -3887,6 +3560,378 @@
     },
     {
       "term": "Annealed Turn-aware On-policy Distillation for Multi-turn Autonomous Agents",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Hash-based Generative Language Models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Search Agents",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Web Agents",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "平台锁定，迁移困难"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Voice Agents",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "学习曲线陡峭，上手困难"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Foundation Models",
+      "top_complaints": [
+        "定价过高，流量上来后成本飙升",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Robotic Manipulation Foundation Models",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "难以控制输出，依赖精细 prompt",
+        "性能慢，响应延迟高"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Benchmark for Scientific Foundation Models",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Scientific Foundation Models",
+      "top_complaints": [
+        "学习曲线陡峭，上手困难",
+        "缺少关键功能或支持",
+        "难以控制输出，依赖精细 prompt"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Code Agents",
+      "top_complaints": [
+        "AI 编程 agent 每次会话需重新解释项目上下文和架构决策",
+        "缺乏确定性锚点导致 agent 输出不稳定、难以信任",
+        "长 horizon 任务中 agent 容易遗忘早期约束和约定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "VisibAI",
+      "top_complaints": [
+        "GEO/AI 可见性工具几乎全是企业级定价，小企业难以承受",
+        "不同审计工具对同一品牌评分方差大，方法论不透明难信任",
+        "被 ChatGPT/Perplexity 忽略等同于在新搜索入口上完全不可见"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Are you in AI answers? Find out and fix it in minutes",
+      "top_complaints": [
+        "无法知道潜在客户问 AI 时是否会推荐自己的业务",
+        "竞争对手出现在 AI 回答中而自己被忽略",
+        "现有 SEO 工具无法覆盖 ChatGPT/Perplexity 等新生成式搜索入口"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "PMB",
+      "top_complaints": [
+        "性能慢，响应延迟高",
+        "难以控制输出，依赖精细 prompt",
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "希望自动化简化工作流",
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Stop re-explaining your project to AI coding agents",
+      "top_complaints": [
+        "AI 工具之间不共享记忆，切换 ChatGPT/Cursor/Claude 后需从头解释项目",
+        "上下文窗口压缩后 agent 忘记刚完成的工作，反复追问用户",
+        "需要单独维护笔记文件，agent 无法自动读取历史决策"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "PMB: Stop re-explaining your project to AI coding agents",
+      "top_complaints": [
+        "AI 工具之间不共享记忆，切换工具后需从零开始解释",
+        "上下文窗口压缩后会话状态丢失，agent 反复追问已完成事项",
+        "需要单独维护笔记文件，agent 无法自动读取历史决策"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Spira for Product Hunt Makers",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Agent Mode by Receiptor AI",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ClinePass",
+      "top_complaints": [
+        "AI 编程工具订阅费用叠加，独立开发者成本压力大",
+        "多个 coding agent 工具间上下文无法共享"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ElevenAgents by ElevenLabs",
+      "top_complaints": [
+        "语音 agent 配置复杂，非技术用户难以上手",
+        "多轮对话中 agent 上下文丢失导致回复不连贯"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ElevenAgents",
+      "top_complaints": [
+        "语音 AI agent 部署到生产环境缺乏监控和调试工具",
+        "对话流程设计门槛高，小企业难以快速搭建"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Crest",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Sami",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "ReadHere",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Outpaint - Ad Reframe",
+      "top_complaints": [
+        "难以控制输出，依赖精细 prompt",
+        "用户主动寻找替代方案",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Viktor.com",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Intelli",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Upstream FTP",
+      "top_complaints": [
+        "文件传输自动化缺乏 AI 辅助的错误恢复机制",
+        "传统 FTP 工具与现代开发工作流集成差"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Framer 3.0",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "学习曲线陡峭，上手困难",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Framer AI Agents",
+      "top_complaints": [
+        "网站构建 agent 缺乏对设计系统的一致性约束",
+        "AI agent 生成的页面组件难以与现有 Framer 项目集成"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "VisibAI: Are you in AI answers? Find out and fix it in minutes",
+      "top_complaints": [
+        "GEO 工具企业定价门槛高，SMB 和独立创始人难以入门",
+        "审计结果因测试方法论不同差异大，难以作为可靠基准",
+        "不知道品牌在 AI 推荐中是否出现，竞争对手却被优先推荐"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "local-first memory for AI",
+      "top_complaints": [
+        "自托管 graph memory 并发读写会导致 JSONL 文件损坏需手动修复",
+        "内存服务 24 小时后膨胀到 2GB+ 导致 MCP 调用超时失败",
+        "检索精度差会把错误上下文带入，拖慢 agent 并降低准确率"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AI visibility audit",
+      "top_complaints": [
+        "企业级 AI 可见性监控工具月费 $99+，独立创始人难以承受",
+        "缺乏一次性审计选项，必须订阅才能了解当前 AI 排名",
+        "不同平台（ChatGPT/Claude/Perplexity）结果不一致，难以行动"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Architecture, Taxonomy, and Engineering",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Flow Matching",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AI-Driven Synthesis for High-Tech System Design",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Mind the Gap",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Using LLM Agents for Fault-Tolerant Control",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积",
+        "扩展性差，大规模部署受限"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Agentic AI-Powered Re-Identification",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Home3D 1.0",
       "top_complaints": [
         "暂无明确用户抱怨，主要为学术/技术发布内容"
       ],
