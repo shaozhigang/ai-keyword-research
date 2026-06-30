@@ -49,7 +49,7 @@ def rate_limit_pain(term: str) -> dict:
     return e
 
 
-def process_term_pain_fast(term: str, delay: int = 8, max_retries: int = 2) -> dict:
+def process_term_pain_fast(term: str, delay: int = DELAY, max_retries: int = 2) -> dict:
     """Pain research with resilient per-query retries."""
     import urllib.error
     import urllib.request
@@ -117,7 +117,7 @@ def process_term_pain_fast(term: str, delay: int = 8, max_retries: int = 2) -> d
     return extract_pain_from_results(term, batches)
 
 
-def process_term_complaints_only(term: str, delay: int = 8, max_retries: int = 2) -> dict:
+def process_term_complaints_only(term: str, delay: int = DELAY, max_retries: int = 2) -> dict:
     """Single complaints search for fast finish under rate limits."""
     import urllib.error
     import urllib.request
