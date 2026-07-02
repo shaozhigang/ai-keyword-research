@@ -44,10 +44,14 @@
     {
       "term": "Environment-Free Program Verifier for Coding Agents",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "难以控制输出，依赖精细 prompt",
+        "定价过高，流量上来后成本飙升",
+        "部署流程复杂，上线容易踩坑"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding",
@@ -148,7 +152,9 @@
     {
       "term": "Guided End-to-End AutoRegression for Image Synthesis",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "扩展性差，大规模部署受限",
+        "性能慢，响应延迟高",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -164,9 +170,12 @@
     {
       "term": "Evolution Fine-Tuning",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "性能慢，响应延迟高"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
       "desired_features": []
     },
     {
@@ -260,10 +269,15 @@
     {
       "term": "Managing Procedural Memory in LLM Agents",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
     },
     {
       "term": "Control, Adaptation, and Evaluation",
@@ -292,7 +306,7 @@
     {
       "term": "and Evaluation",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -380,7 +394,7 @@
     {
       "term": "Exploring Compact Language Models",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -613,7 +627,7 @@
     {
       "term": "and Language",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -869,7 +883,8 @@
     {
       "term": "Gemma 4",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "性能慢，响应延迟高"
       ],
       "workarounds": [],
       "desired_features": []
@@ -957,15 +972,17 @@
     {
       "term": "Claude Sonnet 5",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "希望自动化简化工作流"
+      ]
     },
     {
       "term": "Claude",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1005,31 +1022,39 @@
     {
       "term": "Acti",
       "top_complaints": [
-        "研究/社区关注：Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models"
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧",
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "希望增加更完善的功能"
+      ]
     },
     {
       "term": "Agentic keyboard for mobile commands and search",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
     },
     {
       "term": "Acti: Agentic keyboard for mobile commands and search",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
     },
     {
       "term": "Adam CAD Copilot",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1037,7 +1062,8 @@
     {
       "term": "Adam",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1045,7 +1071,7 @@
     {
       "term": "AI CAD inside Onshape and Fusion",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1053,31 +1079,44 @@
     {
       "term": "Adam CAD Copilot: AI CAD inside Onshape and Fusion",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "手动逐步处理"
+      ],
       "desired_features": []
     },
     {
       "term": "Framer 3.0",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "学习曲线陡峭，上手困难",
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "手动逐步处理"
+      ],
       "desired_features": []
     },
     {
       "term": "Framer",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "学习曲线陡峭，上手困难",
+        "定价过高，流量上来后成本飙升"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Use Agents on the canvas to design, write, analyze, and organize your site",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1085,7 +1124,7 @@
     {
       "term": "Use Agents on the canvas to design",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1093,7 +1132,9 @@
     {
       "term": "write",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "用户主动寻找替代方案",
+        "平台锁定，迁移困难",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1101,7 +1142,7 @@
     {
       "term": "analyze",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1109,7 +1150,7 @@
     {
       "term": "and organize your site",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1117,15 +1158,19 @@
     {
       "term": "Use",
       "top_complaints": [
-        "Browser agent that refuses to click anything"
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "难以控制输出，依赖精细 prompt"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "需要更多导出格式"
+      ]
     },
     {
       "term": "Framer 3.0: Use Agents on the canvas to design, write, analyze, and organize your site",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1133,7 +1178,7 @@
     {
       "term": "Framer 3.0: Use Agents on the canvas to design",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1141,15 +1186,21 @@
     {
       "term": "Framer AI Agents",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积",
+        "扩展性差，大规模部署受限"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "转向自托管或其他部署平台"
+      ],
       "desired_features": []
     },
     {
       "term": "Framer AI Agents: Use Agents on the canvas to design, write, analyze, and organize your site",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "难以控制输出，依赖精细 prompt"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1157,23 +1208,30 @@
     {
       "term": "Framer AI Agents: Use Agents on the canvas to design",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "难以维护，技术债快速累积",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "手动逐步处理"
+      ],
       "desired_features": []
     },
     {
       "term": "Promoted on Product Hunt July 1 2026",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": []
     },
     {
       "term": "Promoted",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1181,7 +1239,7 @@
     {
       "term": "Claude Sonnet 5: Promoted on Product Hunt July 1 2026",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1189,7 +1247,7 @@
     {
       "term": "Tabstack Browser Automation",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "难以维护，技术债快速累积"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1197,7 +1255,7 @@
     {
       "term": "Tabstack",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1205,7 +1263,7 @@
     {
       "term": "Browser automation product",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1221,7 +1279,7 @@
     {
       "term": "Tabstack Browser Automation: Browser automation product",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1229,7 +1287,7 @@
     {
       "term": "Modelence Mobile Builder",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1237,7 +1295,7 @@
     {
       "term": "Modelence",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1245,7 +1303,7 @@
     {
       "term": "Mobile builder with AI",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1253,7 +1311,7 @@
     {
       "term": "Mobile",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1261,15 +1319,19 @@
     {
       "term": "Modelence Mobile Builder: Mobile builder with AI",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": [
+        "需要批量处理或 API 接入"
+      ]
     },
     {
       "term": "Sequence Agentic",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1277,7 +1339,7 @@
     {
       "term": "Sequence",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1285,7 +1347,7 @@
     {
       "term": "Agentic workflow product",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1293,7 +1355,7 @@
     {
       "term": "Sequence Agentic: Agentic workflow product",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1301,7 +1363,7 @@
     {
       "term": "MailAdept by mailwarm",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1309,7 +1371,7 @@
     {
       "term": "MailAdept",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1317,7 +1379,7 @@
     {
       "term": "AI Agents & Email deliverability experts on your team",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1325,7 +1387,7 @@
     {
       "term": "MailAdept by mailwarm: AI Agents & Email deliverability experts on your team",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1333,7 +1395,7 @@
     {
       "term": "Metal",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1341,7 +1403,7 @@
     {
       "term": "AI-driven operating system for raising venture rounds",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1349,7 +1411,7 @@
     {
       "term": "AI-driven",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1357,15 +1419,18 @@
     {
       "term": "Metal: AI-driven operating system for raising venture rounds",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "希望增加更完善的功能"
+      ]
     },
     {
       "term": "RunInfra",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "用户主动寻找替代方案",
+        "调试循环冗长，反复返工"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1373,7 +1438,7 @@
     {
       "term": "Describe the AI model you need and get an optimized AI",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1381,7 +1446,7 @@
     {
       "term": "Describe",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1389,7 +1454,7 @@
     {
       "term": "RunInfra: Describe the AI model you need and get an optimized AI",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1397,7 +1462,7 @@
     {
       "term": "N71",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1405,7 +1470,8 @@
     {
       "term": "Give all your AI agents one shared context",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "难以控制输出，依赖精细 prompt",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1413,7 +1479,7 @@
     {
       "term": "Give",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1421,7 +1487,7 @@
     {
       "term": "N71: Give all your AI agents one shared context",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1429,7 +1495,7 @@
     {
       "term": "Gemini Omni Flash",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1437,7 +1503,7 @@
     {
       "term": "Gemini",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1445,7 +1511,7 @@
     {
       "term": "Google video model you direct like an editor",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1453,7 +1519,7 @@
     {
       "term": "Google",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1461,7 +1527,7 @@
     {
       "term": "Gemini Omni Flash: Google video model you direct like an editor",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1469,7 +1535,7 @@
     {
       "term": "OASIS 1 Ring",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1477,7 +1543,7 @@
     {
       "term": "OASIS",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1485,7 +1551,7 @@
     {
       "term": "A ring you whisper into to dictate and edit text",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1493,7 +1559,7 @@
     {
       "term": "OASIS 1 Ring: A ring you whisper into to dictate and edit text",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1501,7 +1567,7 @@
     {
       "term": "Claude Science",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1509,7 +1575,7 @@
     {
       "term": "Claude for science",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1517,7 +1583,7 @@
     {
       "term": "Claude Science: Claude for science",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1525,7 +1591,7 @@
     {
       "term": "Fuser Apps",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1533,7 +1599,7 @@
     {
       "term": "Fuser",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1541,7 +1607,7 @@
     {
       "term": "AI apps platform",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1549,7 +1615,7 @@
     {
       "term": "Fuser Apps: AI apps platform",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1557,7 +1623,7 @@
     {
       "term": "Humalike",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1565,7 +1631,7 @@
     {
       "term": "AI product on Product Hunt",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1573,7 +1639,7 @@
     {
       "term": "Humalike: AI product on Product Hunt",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1581,7 +1647,7 @@
     {
       "term": "Mark by Airtop",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1589,7 +1655,7 @@
     {
       "term": "Mark",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1597,7 +1663,7 @@
     {
       "term": "Browser agent product",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1605,15 +1671,21 @@
     {
       "term": "Mark by Airtop: Browser agent product",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "定价过高，流量上来后成本飙升",
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Stigg 2.0",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1621,23 +1693,30 @@
     {
       "term": "Stigg",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Billing for AI products",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "学习曲线陡峭，上手困难"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
       "desired_features": []
     },
     {
       "term": "Billing",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1645,7 +1724,7 @@
     {
       "term": "Stigg 2.0: Billing for AI products",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -2125,7 +2204,7 @@
     {
       "term": "TalentCLEF 2026",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -2165,7 +2244,7 @@
     {
       "term": "On-Policy Distillation",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -2181,7 +2260,7 @@
     {
       "term": "Speculative Decoding",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -2205,7 +2284,7 @@
     {
       "term": "Agentic keyboard",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -2213,7 +2292,7 @@
     {
       "term": "real-time voice AI",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -2237,7 +2316,7 @@
     {
       "term": "Procedural Memory",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -2245,7 +2324,7 @@
     {
       "term": "Holistic Audio-Video",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -2261,7 +2340,7 @@
     {
       "term": "Semantic Operating-System",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -2285,7 +2364,7 @@
     {
       "term": "Compact Language Models",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -2293,7 +2372,7 @@
     {
       "term": "shared context",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -2309,7 +2388,7 @@
     {
       "term": "optimized AI",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -2325,7 +2404,7 @@
     {
       "term": "Coding Agents",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
