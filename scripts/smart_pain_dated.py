@@ -44,13 +44,43 @@ NOT_FOUND_PAIN = {
     "desired_features": [],
 }
 
+_PH_CORE: set[str] | None = None
+
+
+def get_ph_core_terms() -> set[str]:
+    global _PH_CORE
+    if _PH_CORE is None:
+        try:
+            from daily_scout import product_hunt_products
+
+            core: set[str] = set()
+            for name, tagline in product_hunt_products():
+                core.add(name)
+                core.add(tagline)
+                core.add(f"{name}: {tagline}")
+            _PH_CORE = core
+        except Exception:
+            _PH_CORE = set()
+    return _PH_CORE
+
 
 def is_junk_fragment(term: str, sources: set[str]) -> bool:
-    """Skip obvious arXiv n-gram fragments that won't yield product pain signals."""
-    import re
+    """Skip fragments and academic-only terms unlikely to yield product pain signals."""
+    ph_core = get_ph_core_terms()
 
     if "producthunt" in sources:
-        return False
+        if term in ph_core:
+            return False
+        for name in {p.split(":")[0] for p in ph_core if ":" in p} | {
+            n for n in ph_core if ":" not in n and " " not in n
+        }:
+            if term == name or term.startswith(f"{name}:"):
+                return False
+        return True
+
+    if sources and sources <= {"arxiv", "huggingface"}:
+        return True
+
     if term and term[0].islower():
         return True
     junk_prefixes = ("for ", "via ", "A ", "a ", "the ", "and ", "with ", "into ", "from ", "to ")
@@ -233,12 +263,14 @@ def main():
     tavily_terms = []
     heuristic_terms = []
     junk_terms = []
+    ph_core = get_ph_core_terms()
     for item in rising:
         term = item["term"]
         if term in done:
             continue
         sources = source_map.get(term, set())
-        if needs_tavily(term, sources):
+        wants_tavily = term in ph_core or needs_tavily(term, sources)
+        if wants_tavily:
             if is_junk_fragment(term, sources):
                 junk_terms.append(term)
             else:
