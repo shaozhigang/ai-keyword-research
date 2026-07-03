@@ -36,6 +36,27 @@ RATE_LIMIT_PAIN = {
     "desired_features": [],
 }
 
+NOT_FOUND_PAIN = {
+    "term": "",
+    "top_complaints": ["未发现明确用户痛点"],
+    "workarounds": [],
+    "desired_features": [],
+}
+
+
+def is_junk_fragment(term: str, sources: set[str]) -> bool:
+    """Skip obvious arXiv n-gram fragments that won't yield product pain signals."""
+    if "producthunt" in sources:
+        return False
+    if term and term[0].islower():
+        return True
+    junk_prefixes = ("for ", "via ", "A ", "a ", "the ", "and ", "with ", "into ", "from ", "to ")
+    if any(term.startswith(p) for p in junk_prefixes):
+        return True
+    if len(term.split()) == 1 and len(term) < 5:
+        return True
+    return False
+
 
 def academic_pain(term: str) -> dict:
     e = dict(ACADEMIC_PAIN)
@@ -45,6 +66,12 @@ def academic_pain(term: str) -> dict:
 
 def rate_limit_pain(term: str) -> dict:
     e = dict(RATE_LIMIT_PAIN)
+    e["term"] = term
+    return e
+
+
+def not_found_pain(term: str) -> dict:
+    e = dict(NOT_FOUND_PAIN)
     e["term"] = term
     return e
 
@@ -190,13 +217,17 @@ def main():
 
     tavily_terms = []
     heuristic_terms = []
+    junk_terms = []
     for item in rising:
         term = item["term"]
         if term in done:
             continue
         sources = source_map.get(term, set())
         if needs_tavily(term, sources):
-            tavily_terms.append(term)
+            if is_junk_fragment(term, sources):
+                junk_terms.append(term)
+            else:
+                tavily_terms.append(term)
         else:
             heuristic_terms.append(term)
 
@@ -205,10 +236,12 @@ def main():
         key=lambda t: (0 if "producthunt" in source_map.get(t, set()) else 1, t)
     )
 
-    tavily_n = heuristic_n = 0
+    tavily_n = heuristic_n = junk_n = 0
     print(
         f"Rising: {len(rising)} | Done: {len(done)} | "
-        f"Heuristic pending: {len(heuristic_terms)} | Tavily pending: {len(tavily_terms)}",
+        f"Heuristic pending: {len(heuristic_terms)} | "
+        f"Junk pending: {len(junk_terms)} | "
+        f"Tavily pending: {len(tavily_terms)}",
         flush=True,
     )
 
@@ -217,6 +250,15 @@ def main():
         heuristic_n += 1
         entry = academic_pain(term)
         print("  [启发式] 学术/论文词，跳过 Tavily", flush=True)
+        pain_entries.append(entry)
+        done.add(term)
+        save_pain_output(date, pain_entries, pain_path)
+
+    for i, term in enumerate(junk_terms):
+        print(f"\n[J {i+1}/{len(junk_terms)}] {term[:70]}{'...' if len(term) > 70 else ''}", flush=True)
+        junk_n += 1
+        entry = not_found_pain(term)
+        print("  [碎片词] arXiv n-gram，跳过 Tavily", flush=True)
         pain_entries.append(entry)
         done.add(term)
         save_pain_output(date, pain_entries, pain_path)
@@ -245,7 +287,7 @@ def main():
 
     print(
         f"\nFinal: {len(pain_entries)}/{len(rising)} "
-        f"(Tavily: {tavily_n}, 启发式: {heuristic_n}) -> {pain_path}",
+        f"(Tavily: {tavily_n}, 启发式: {heuristic_n}, 碎片: {junk_n}) -> {pain_path}",
         flush=True,
     )
 
