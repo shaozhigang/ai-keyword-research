@@ -47028,6 +47028,8653 @@
         "用临时 hack 绕过限制"
       ],
       "desired_features": []
+    },
+    {
+      "term": "1 creative",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积",
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "1 creative into",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "3 2026",
+      "top_complaints": [
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "93 off",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "93 off Intercom",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "A desktop",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A desktop pet",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "希望增加更完善的功能"
+      ]
+    },
+    {
+      "term": "A desktop pet that grows as you code with Claude Code",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "需要批量处理或 API 接入"
+      ]
+    },
+    {
+      "term": "AI dev",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "AI dev tools",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "AI marketing",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "难以维护，技术债快速累积"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "to Self-Flow",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Self-Flow Data",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "or Self-Supervision",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Reliability-Oriented",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Data",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Vein",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "without Instance",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Specialized-Domain",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Video",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Vision-Language",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Vision-Language Models",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Clarification-Aware",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Clarification-Aware Deep",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Memory",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Memory as",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "as a",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "as a Cognitive",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Cognitive",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Agentic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for One-Step",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for One-Step Visual",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Move",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Do",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Do Task-Agnostic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "pretraining for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "pretraining for VLAs",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for VLAs",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "neq Better",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of On-Policy",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of On-Policy Self-Distillation",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Continual",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Continual Post-Training",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Interactive",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Recovering",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Dual-Space",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Dual-Space Distillation",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for General",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Multi-Domain",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Multi-Domain RLVR",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Traffic-Matrix",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Traffic-Matrix Forecasting",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Grid-Based",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Grid-Based Approximate",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in High",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Persistent-State",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Persistent-State AI",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for LLMs",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "as LLM",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Long-Context",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Long-Context Reasoning",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Latent",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Multi-Agent",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Multi-Agent Debates",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Recurrent",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a four-level cognitive taxonomy approach",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "level cognitive taxonomy approach",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "grading of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "grading of Linux/bash",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Linux/bash",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Linux/bash examinations",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "examinations using",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "examinations using large",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "using large",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "using large language",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "large language",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "large language models",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "language models a",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "models a",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "models a four-level",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a four-level",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a four-level cognitive",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "four-level cognitive",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "four-level cognitive taxonomy",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "cognitive taxonomy",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "cognitive taxonomy approach",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "taxonomy approach",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Non-Manhattan",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Non-Manhattan Environments",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via RFM-AGOP",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a substrate for scalable oversight of coding agents",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via constraints",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via constraints a",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "constraints a",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "constraints a substrate",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a substrate",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a substrate for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "substrate for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "substrate for scalable",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for scalable",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for scalable oversight",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "scalable oversight",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "scalable oversight of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "oversight of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "oversight of coding",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of coding",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of coding agents",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "coding agents",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Safety-Critical",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Safety-Critical Real-Time",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Personalized",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "autonomous research",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "autonomous research a",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "research a",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "research a fault-tolerant",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a fault-tolerant",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a fault-tolerant LLM",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "fault-tolerant LLM",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "fault-tolerant LLM pipeline",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "pipeline from",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "pipeline from corpus",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from corpus",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from corpus to",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "corpus to",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "corpus to manuscript",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to manuscript",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to manuscript in",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "manuscript in",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "manuscript in frontier",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in frontier",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in frontier computational",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "frontier computational",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "frontier computational physics",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "computational physics",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Linear",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for What",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for What the",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Recurrent",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Multi-Agent",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Equitable",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Think",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Autonomous",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Reliable",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A rubric",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "authored clinical reasoning tasks",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A rubric-based",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A rubric-based controlled",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "rubric-based controlled",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "rubric-based controlled comparison",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "controlled comparison",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "controlled comparison of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "comparison of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "comparison of frontier",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of frontier",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of frontier language",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "frontier language",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "frontier language models",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "language models on",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "models on",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "models on expert-authored",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on expert-authored",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on expert-authored clinical",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "expert-authored clinical",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "expert-authored clinical reasoning",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "clinical reasoning",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "clinical reasoning tasks",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "reasoning tasks",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A 2",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Inverse-KKT",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Inverse-KKT Construction",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "agents can replicate scientific machine learning papers",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "can replicate",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "can replicate scientific",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "replicate scientific",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "replicate scientific machine",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "scientific machine",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "scientific machine learning",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "machine learning",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "machine learning papers",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "learning papers",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "through Domain-Specific",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "through Domain-Specific LLM",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Autonomous",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "based Chunking",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Surprise-based",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Surprise-based Chunking",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Global",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Optimal",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Continual",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "but Grounding",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Multimodal",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Inducing",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Battery",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Retrieval-Augmented",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Retrieval-Augmented Multi-Agent",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "amp M",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Online",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Ontology",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Large",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Execution",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Long-Term",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Long-Term Agent",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Agentic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "s Token-Efficient",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "s Token-Efficient Code",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Repository-Level",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Repository-Level Program",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for LLM-Integrated",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for LLM-Integrated Applications",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "under Train-Inference",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "under Train-Inference Misalignment",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Masked",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Enhanced",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Refinement",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Release",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Domain",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "causality in",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "causality in fault",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in fault",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in fault trees",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "fault trees",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on Aviation",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Retrieval",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Retrieval for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for TCM",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "at Scale",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Evidence-Grounded",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Evidence-Grounded Verification",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Diffusion",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "through Retrieval-Grounded",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "through Retrieval-Grounded Formal",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Amplifier",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Symptom",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Agent",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Dynamic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Repository-Scale",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Repository-Scale Vulnerability",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Semantic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Vision-Language Navigation",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Financial-Services",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Financial-Services LLM",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of the",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of the Jordan",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Jordan",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Speech",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via DDPG",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Pruning",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Pruning SparseMixture-of-Experts",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Image",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "that Induces",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "that Induces an",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "an Epistemic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Gradient",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Gradient Editing",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from Autonomous",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Raw-ECG-Replay-Free",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Raw-ECG-Replay-Free Continual",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "discovery of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "discovery of traffic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of traffic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of traffic laws",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "traffic laws",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "traffic laws with",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "laws with",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "laws with AI",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with AI traffic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "traffic scientists",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Rainfall",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Confidence",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of LLMs",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of LLMs for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Adaptive",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Product",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Manga",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Japan",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Multi-Granularity",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Document",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Adaptive",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with a",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with a Neural-Symbolic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Neural-Symbolic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Neural-Symbolic World",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for High-Performance",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for High-Performance NPU",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Three-Agent",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Earth",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Lie",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Preference",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Ontology-error-Prioritized",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Ontology-error-Prioritized Interactive",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "supervised Chain",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "under Limited",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Playground",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Playground for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for User-Involved",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for User-Involved Agentic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Forking",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Self-Improving",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Self-Improving Language",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Clinical",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Clinical Agents",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in FHIR",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Concept",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Concept for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Tool-Use",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Tool-Use Agents",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on Atlassian",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Improve",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Reduce",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Customer-Service",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Customer-Service Operations",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Code",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Large",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Efficient",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Federated",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Neuro-Symbolic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Plausible",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Plausible and",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Actionable",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for LLM",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Long-form",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Long-form TV",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Muon",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Muon for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Faster",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Faster Label-Efficient",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Machine",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Redundancy",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Redundancy Entropy-Aware",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Live",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Test",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Test and",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Code",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Code Co-Evolution",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Forecasting",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Image and",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Video",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Annotation-Free",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Annotation-Free LLM",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "an observational study",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "effort not",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "effort not tool",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "not tool",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "not tool access",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "tool access",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "tool access buys",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "access buys",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "access buys first-try",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "buys first-try",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "buys first-try reliability",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "first-try reliability",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "first-try reliability in",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "reliability in",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "reliability in agentic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in agentic code",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "agentic code",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "agentic code generation",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "code generation",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "code generation an",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "generation an",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "generation an observational",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "an observational",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "observational study",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "loop Real",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with World",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Multi-Agent",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Multi-Agent Activity",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Inverse",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Planning",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Planning with",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with World Models",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for People",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for People with",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Visual",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Compiler",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Cultural",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of LLM",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Frame-Dependent",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Frame-Dependent Geometry",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Bounded",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Bounded Memory",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on a",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on a Single-Target",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Single-Target",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Single-Target Synthetic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Implicit",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Open",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Complex",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in offline",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in offline RL",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "offline RL",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "structure is",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "structure is more",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "is more",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "is more important",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "more important",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "more important than",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "important than",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "important than the",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "than the",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "than the amount",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the amount",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the amount of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "amount of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "amount of pessimism",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of pessimism",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Pre-training",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Pre-training Data",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Recommendations",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Recommendations for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for LLMs-as-a-Judge",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for LLMs-as-a-Judge in",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Multilingual",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Low-Resource",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Low-Resource Languages",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "guided comparison between One",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Circular",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Confidence-guided",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Confidence-guided comparison",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "comparison between",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "comparison between One-Vs-All",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "between One-Vs-All",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "between One-Vs-All and",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and One-Vs-Rest",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and One-Vs-Rest Classification",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Human-in-the-Loop",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Human-in-the-Loop for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Automated",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Local",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Local Language-Conditioned",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Operationalizing",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Human-AI",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Human-AI Teams",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Risk",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Management",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Management for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Intelligent",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "under the",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "under the AI",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the AI",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Beyond",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Interpretable",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Inference",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Deep",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "s Disease",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Diffusion",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Actor-Critic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Actor-Critic Learning",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Refusal",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Behavioral",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "vLLM-Based Inference",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Unified",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Generation",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Flow-Matching",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Flow-Matching Vision-Language-Action",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Reliable Vision-Language",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "into a",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "into a Training-Free",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Training-Free",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Training-Free Configurable",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for EEG-Based",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for EEG-Based Depression",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Performance",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Curriculum",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Spatially",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Cultural",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in English",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in English and",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Ukrainian",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Disaggregated",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Architecture",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Efficiency",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Graph-Aware",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Graph-Aware Vision-Language",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Multi-Branch",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Multi-Branch Hierarchy-Aware",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Heterogeneous",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Bias",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Graphs",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to LLM",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "free Novel",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from Single",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Videos",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for the",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for the Wrong",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Wrong",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Science",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Transformer",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Causal",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "mediated K",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Risk",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in AI-mediated",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in AI-mediated K-12",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Turkish-Thinking",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Qwen3.5-27B",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Opportunistic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Discriminators",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Discriminators for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Semi-Supervised",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Semi-Supervised GANs",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "scale Hypergraphs",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Semantic-Aligned",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Multi-scale",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Multi-scale Hypergraphs",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from Frame-Order",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from Frame-Order Progress",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Large",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Large Vision-Language",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on LLM-Generated",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on LLM-Generated Code",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Comments",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Comments in",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Code",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Two-Signal",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Its",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Retrieval-Augmented",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Retrieval-Augmented Generation",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on Academic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Decompile",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Programs",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Mixture-of-Experts",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Mixture-of-Experts Models",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Continuously Evolving Benchmark for Multimodal Models",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Multimodal",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Multimodal Models",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from Newcomer",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of AI",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in OSS",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Mechanistic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Online",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for End-to-End",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for End-to-End UAV",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Parameter-Efficient",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Parameter-Efficient MoE",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Multipath",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and In-Scene",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and In-Scene Completion",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "is 34",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "is 34 Good",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in the",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in the Age",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Age",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Age of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Artificial",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Open-Vocabulary",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Open-Vocabulary Object",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Communication",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Nonsmooth",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Time-Aware",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Streaming",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Streaming and",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Proactive",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via LF-IBIS",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Latent",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for MPC",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for MPC and",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Model-Based",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Model-Based RL",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in LunarLander",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Meta-Learning",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Meta-Learning with",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Timbre",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "as Probabilistic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Fine-Tuning",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Fine-Tuning Parameter",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Explainability",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Cybersecurity",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Cold-Start",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Cold-Start Protein-Protein",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Vision-Language-Action",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Vision-Language-Action Models",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Co-training",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Co-training and",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Future",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for ILP",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for High-Stakes",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for High-Stakes Persuasion",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Graph-Structured",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Graph-Structured Data",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Structured",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "commerce search",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "user demand",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "user demand and",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "demand and",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "demand and personalization",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and personalization",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and personalization to",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "personalization to",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "personalization to resolve",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to resolve",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to resolve 34",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "resolve 34",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "resolve 34 unknown",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "unknown 34",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "unknown 34 query",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "query intents",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "query intents for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "intents for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "intents for e-commerce",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for e-commerce",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for e-commerce search",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "e-commerce search",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Explainable",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "t Let",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in RL",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Physical",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on Subsea",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via State-of-Polarization",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via State-of-Polarization Monitoring",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Reducing",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Automated",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Utility",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Utility and",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Factual",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Pruned",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Pruned Mixture-of-Experts",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in the Biomedical",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Biomedical",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Isomorphic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Isomorphic Cross-Domain",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "versus Knowledge",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in LLMs",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for AI-Native",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for AI-Native Engineering",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Long",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Impact",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Impact of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Command-Line",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Command-Line AI",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Microsoft",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Microsoft 39",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "s Early",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "s Early 2026",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Claude",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and GitHub",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Zero-Instrumentation",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Zero-Instrumentation Process-Boundary",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Diagnosing",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Scalable",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Scalable mathrm",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "mathrm E",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "mathrm E 3",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Neurodegenerative",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Electronic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "enabled gravitational",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "gravitational-waves searches",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "gravitational-waves searches for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "searches for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "searches for binary",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for binary",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for binary neutron",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "binary neutron",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "binary neutron stars",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "neutron stars",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "neutron stars at",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "stars at",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "stars at optimal",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "at optimal",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "at optimal sensitivity",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "optimal sensitivity",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Turn-Taking",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Turn-Taking Naturalness",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Dyadic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Causal",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Neural",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Sparse",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Restrictive",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Federated",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Intrusion",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Group-Following",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Group-Following Robots",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for ECG",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Knowledge",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Knowledge Distillation",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Point",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Fraud",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Nigeria",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Nigeria 39",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "s Financial",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Natural",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Human",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Default",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Governande",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Governande of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Generative",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "at the",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "at the Universidad",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Universidad",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "cnica de",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "cnica de Madrid",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "de Madrid",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "are Utilizing",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Workflow",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with a Special",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Special",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on atopic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on atopic dermatitis",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "atopic dermatitis",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Space",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Space of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Sociotechnical",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Governance",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Governance of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of AI-Generated",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of AI-Generated Content",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "as Teaching",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Mathematics",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Practical",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Users",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Users 39",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Query-Wise",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Query-Wise Semantic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Keystroke",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Multiplex",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "as L",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "as L vy",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "vy Walk-Guided",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "vy Walk-Guided Graph",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from Numeric",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "at the Token",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Token",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in LLM",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Contrastive",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Sliding-Window",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Sliding-Window KV",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from Misalignment",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from Misalignment through",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "through Provenance",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Interpretability",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Interpretability for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Code-Oriented",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Code-Oriented Tasks",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Robustness",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Robustness of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Distributed",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Distributed Self-Supervised",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Time",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "by Learning",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from a",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from a Reinforcement",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Reinforcement",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Discovering",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Functional",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Continuous",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "under Degeneracy",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for the Well-Conditioned",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Well-Conditioned",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Well-Conditioned Training",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Physics-Informed",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Physics-Informed Neural",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Verifiable",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "training and Fine",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Pre-training",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Pre-training and",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Fine-tuning",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Rolling",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Pre-Incident",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Pre-Incident Traction",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Right",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "k Ranking",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "k Ranking with",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with LLM",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Rayleigh-B",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Rayleigh-B nard",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "nard Convection",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Memory",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Memory Efficient",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Linear",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Accurate",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Time",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Time",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on Application-Oriented",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on Application-Oriented Metrics",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "through A/B",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "using Offline",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "classical neural network for sentiment analysis",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "quantum-classical neural",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "quantum-classical neural network",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "network for sentiment",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for sentiment",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for sentiment analysis",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "sentiment analysis",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Spectral",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Spectral Log-Density-Ratio",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in the Gaussian",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Gaussian",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Supports",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Supports for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Categorical",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Reinforcement",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Time-Series",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Time-Series Rehabilitation",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Reward",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Crowdsourced",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Crowdsourced Fact-Checking",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in the Molecular",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Molecular",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Perturbation-Based",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Object-Centric",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Object-Centric Next",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Diffusion",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Diffusion for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Fast",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Fast and",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Flexible",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Flexible Decoding",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Asymmetric",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Monotone",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Recurrent",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Recurrent Representations",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Solving",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Solving High-Frequency",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Mathematical Introduction to Diffusion Models",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Diffusion",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Diffusion Models",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Efficient",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Extreme",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Physics-Informed",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Physics-Informed State",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Compressed",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Joint",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Memory",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Memory Hardware",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Biomarker",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from Unpaired",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Hot-Swapping",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Hot-Swapping via",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Zero-Overhead",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Zero-Overhead Checkpoint",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Netlist",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Multi-Agent LLM",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Reasoning",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on Task",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "as Sensing",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Active",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of a",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of a Small",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Small",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Simulated",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "risk of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "risk of KV",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of KV",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of KV cache",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Policies",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Policies in",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Two-Player",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Two-Player Zero-Sum",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Non-Monotonic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Non-Monotonic Effect",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Privacy",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Privacy on",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on Generalization",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on Generalization under",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "under Byzantine",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Allocate",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Training",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Batch",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Faster",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Tackle",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Federated",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Forests",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Forests for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Feature",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Coding-Agent",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Coding-Agent Reinforcement",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Emergence",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Deep",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Central",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from DNA",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Quantum-Readiness",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Lithium-Ion",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Lithium-Ion Battery",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Programming",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Programming by",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "by Example",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Semantic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "textsuperscript 2",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "textsuperscript 2 RiMA",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Temporal",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Mental",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "based on",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "based on EEG",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on EEG",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Cognitive",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Psychometric",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Behavior",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Learning",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Learning with",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Limited",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from Egocentric",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Machine",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Physically",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "centric LeJEPA",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Latency",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Latency on",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on Unseen",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and LLMs",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Earth",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Accuracy",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Role",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Role of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Directionality",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Directionality in",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Structural",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in a",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in a Single-Layer",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Single-Layer",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Single-Layer Spiking",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Exponential",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "is Optimal",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "is Optimal in",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Expectation",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Characterizing",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Structural",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Aqueous",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Counterfactual",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Conformal",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Neural",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for the Multi-Secretary",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Multi-Secretary",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Multi-Secretary Problem",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Bellman",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Physics-Inspired",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Archival",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Penile",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in DIXON",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Quantitative",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Male",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Uncertainty-Aware",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Uncertainty-Aware Classification",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of High-Dimensional",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of High-Dimensional Small-Sampled",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Multilingual",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Adaptive",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Shallow",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Distributed",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Phonology-Informed",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Phonology-Informed Evaluation",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Multilingual",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "function and",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "function and other",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and other",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and other feature",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "other feature",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "other feature relevance",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "feature relevance",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "feature relevance measures",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "relevance measures",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "relevance measures for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "measures for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "measures for univariate",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for univariate",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for univariate time",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "univariate time",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "univariate time series",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of k",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of k means",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "k means",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "k means Clustering",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "means Clustering",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "means Clustering for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "at Random",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Semantic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for accelerating",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for accelerating KV",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "accelerating KV",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Long-Context",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Long-Context Inference",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "fundamentals, control, and applications",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "operator theory",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "operator theory fundamentals",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "theory fundamentals",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "theory fundamentals control",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "fundamentals control",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "fundamentals control and",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "control and applications",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and applications",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "only LLMs",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Repeat",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Repeat for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Decoder-only",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Decoder-only LLMs",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Low-Illumination",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Low-Illumination Enhancement",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Classifier",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Uncertainty",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Uncertainty of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Blindly",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Dispersion-Calibrated",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a Dispersion-Calibrated Score",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Mining",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Bytes",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in the Air",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Air",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the Air to",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Unlock",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for authentication",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for authentication in",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "authentication in",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "authentication in Virtual",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Virtual",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in Virtual and",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Augmented",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "by Point-Voxel",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "by Point-Voxel Cross-Attention",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Observation-space",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Observation-space Sim2Real",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A global predicted",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A global",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A global predicted-fMRI",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "global predicted-fMRI",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "global predicted-fMRI drive",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "predicted-fMRI drive",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "predicted-fMRI drive signal",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "drive signal",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "drive signal from",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "signal from",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "signal from TRIBE",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from TRIBE",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from TRIBE does",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "does not",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "does not predict",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "not predict",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "not predict YouTube",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "predict YouTube",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "predict YouTube replay",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "replay heatmaps",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Personalized",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Recommender",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Bi-Level",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Bi-Level Neural",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of Reactive",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Enzyme",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Application",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Application to",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "to Methyltransferases",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "opportunities for improved VQA predictions",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in quantum",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in quantum cost",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "quantum cost",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "quantum cost landscapes",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "cost landscapes",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "cost landscapes opportunities",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "landscapes opportunities",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "landscapes opportunities for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "opportunities for",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "opportunities for improved",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for improved",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for improved VQA",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "improved VQA",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "improved VQA predictions",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Microphone",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Acoustic",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "eXact-Prior Variational",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Latent",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "minimal structures using ReLU neural networks",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "approximation and",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "approximation and learning",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and learning of",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "learning of binary",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of binary",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "of binary classification",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "binary classification",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "binary classification tasks",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "classification tasks",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "classification tasks in",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "tasks in o-minimal",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in o-minimal",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "in o-minimal structures",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "o-minimal structures",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "o-minimal structures using",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "structures using",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "structures using ReLU",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "using ReLU",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "using ReLU neural",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AI marketing automation",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "改用其他工具/平台"
+      ],
+      "desired_features": []
     }
   ]
 }
