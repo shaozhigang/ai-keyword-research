@@ -46520,6 +46520,514 @@
       ],
       "workarounds": [],
       "desired_features": []
+    },
+    {
+      "term": "Testbed for",
+      "top_complaints": [
+        "难以维护，技术债快速累积",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Testbed for Long-Horizon",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "扩展性差，大规模部署受限",
+        "性能慢，响应延迟高"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": [
+        "希望增加更完善的功能"
+      ]
+    },
+    {
+      "term": "for Long-Horizon",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "性能慢，响应延迟高"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Long-Horizon LLM",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "难以控制输出，依赖精细 prompt"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Long-Horizon LLM",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "难以控制输出，依赖精细 prompt"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Long-Horizon LLM Agents",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "调试循环冗长，反复返工"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "LLM Agents",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Morphing into Hybrid Attention Models",
+      "top_complaints": [
+        "学习曲线陡峭，上手困难"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Morphing into",
+      "top_complaints": [
+        "定价过高，流量上来后成本飙升",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "into Hybrid",
+      "top_complaints": [
+        "用户主动寻找替代方案",
+        "定价过高，流量上来后成本飙升",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Hybrid Attention Models",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Attention Models",
+      "top_complaints": [
+        "学习曲线陡峭，上手困难",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "A Comprehensive Benchmark for Data Agents",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Benchmark for",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Data",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "for Data Agents",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "学习曲线陡峭，上手困难",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Data Agents",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Multi-Resolution Flow Matching",
+      "top_complaints": [
+        "定价过高，流量上来后成本飙升",
+        "扩展性差，大规模部署受限",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Multi-Resolution Flow",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Flow Matching",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Flow Matching Training-Free",
+      "top_complaints": [
+        "难以控制输出，依赖精细 prompt",
+        "扩展性差，大规模部署受限"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Matching Training-Free",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Training-Free Diffusion",
+      "top_complaints": [
+        "难以控制输出，依赖精细 prompt",
+        "调试循环冗长，反复返工"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Acceleration via",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "平台锁定，迁移困难",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Staged",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "难以控制输出，依赖精细 prompt"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Simulators with",
+      "top_complaints": [
+        "用户主动寻找替代方案",
+        "难以控制输出，依赖精细 prompt"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with Persistent",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Persistent Dynamic Memory",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "扩展性差，大规模部署受限",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Dynamic Memory",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "学习曲线陡峭，上手困难",
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Cascades Step-Aware",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Step-Aware Reinforcement",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "定价过高，流量上来后成本飙升",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Learning for",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Medical",
+      "top_complaints": [
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定",
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SkillCoach Self-Evolving",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Self-Evolving Rubrics",
+      "top_complaints": [
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Self-Evolving Rubrics for",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Rubrics for",
+      "top_complaints": [
+        "学习曲线陡峭，上手困难"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "for Evaluating",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "性能慢，响应延迟高"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Evaluating and",
+      "top_complaints": [
+        "难以控制输出，依赖精细 prompt",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "需要更多导出格式"
+      ]
+    },
+    {
+      "term": "Evaluating and",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Enhancing",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Agentic Skill-Use",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Optimizing Visual Generative Models via Distribution",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "wise Rewards",
+      "top_complaints": [
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "改用其他工具/平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Visual Generative Models",
+      "top_complaints": [
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Generative Models",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Generative Models via",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Models via",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Models via Distribution-wise",
+      "top_complaints": [
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Distribution-wise",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "via Distribution-wise Rewards",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
     }
   ]
 }

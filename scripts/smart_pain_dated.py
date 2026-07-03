@@ -49,7 +49,7 @@ def rate_limit_pain(term: str) -> dict:
     return e
 
 
-def process_term_pain_fast(term: str, delay: int = DELAY, max_retries: int = 2) -> dict:
+def process_term_pain_fast(term: str, delay: int = DELAY, max_retries: int = 5) -> dict:
     """Pain research with resilient per-query retries."""
     import urllib.error
     import urllib.request
@@ -199,6 +199,11 @@ def main():
             tavily_terms.append(term)
         else:
             heuristic_terms.append(term)
+
+    # Product Hunt 词优先，确保高价值产品词先完成四路搜索
+    tavily_terms.sort(
+        key=lambda t: (0 if "producthunt" in source_map.get(t, set()) else 1, t)
+    )
 
     tavily_n = heuristic_n = 0
     print(
