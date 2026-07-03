@@ -3,6 +3,7 @@
 
 import json
 import os
+import re
 import sys
 import time
 from datetime import datetime
@@ -46,6 +47,8 @@ NOT_FOUND_PAIN = {
 
 def is_junk_fragment(term: str, sources: set[str]) -> bool:
     """Skip obvious arXiv n-gram fragments that won't yield product pain signals."""
+    import re
+
     if "producthunt" in sources:
         return False
     if term and term[0].islower():
@@ -55,6 +58,18 @@ def is_junk_fragment(term: str, sources: set[str]) -> bool:
         return True
     if len(term.split()) == 1 and len(term) < 5:
         return True
+    if re.search(r"\b(for|via|in|of|to|or|and|with|without)$", term, re.I):
+        return True
+    words = term.split()
+    if len(words) >= 2:
+        lower = sum(
+            1
+            for w in words
+            if w[0].islower()
+            or w.lower() in {"for", "via", "in", "of", "to", "or", "and", "with", "without"}
+        )
+        if lower >= len(words) - 1:
+            return True
     return False
 
 
