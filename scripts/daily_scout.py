@@ -44,19 +44,30 @@ def fetch_hf_titles(day: str) -> list[str]:
     return out
 
 
-def fetch_arxiv_titles(category: str) -> list[str]:
+def _arxiv_day_label(day: str) -> str:
+    """Map YYYY-MM-DD to arXiv section header like 'Sat, 4 Jul 2026'."""
+    from datetime import datetime
+
+    dt = datetime.strptime(day, "%Y-%m-%d")
+    return dt.strftime("%a, %-d %b %Y")
+
+
+def fetch_arxiv_titles(category: str, day: str | None = None) -> list[str]:
     url = f"https://arxiv.org/list/{category}/recent?skip=0&show=2000"
     html = urllib.request.urlopen(url, timeout=60).read().decode("utf-8", "replace")
-    start = html.find("<h3>Fri, 3 Jul 2026")
-    if start < 0:
-        return []
-    end = html.find("<h3>", start + 5)
-    section = html[start:end] if end > 0 else html[start:]
-    titles = re.findall(
-        r"<span class='descriptor'>Title:</span>\s*\n\s*(.*?)\s*\n",
-        section,
-    )
-    return [t.strip() for t in titles]
+    label = _arxiv_day_label(day) if day else None
+    if label:
+        start = html.find(f"<h3>{label}")
+        if start >= 0:
+            end = html.find("<h3>", start + 5)
+            section = html[start:end] if end > 0 else html[start:]
+            titles = re.findall(
+                r"<span class='descriptor'>Title:</span>\s*\n\s*(.*?)\s*\n",
+                section,
+            )
+            return [t.strip() for t in titles]
+    # Weekend/holiday: no submissions for requested day
+    return []
 
 
 def extract_terms_from_text(text: str) -> list[str]:
@@ -105,23 +116,45 @@ def extract_terms_from_text(text: str) -> list[str]:
     return terms
 
 
-def product_hunt_products() -> list[tuple[str, str]]:
-    """Static curated from Tavily/buzzing for 2026-07-03 leaderboard."""
-    return [
-        ("Tamamon", "A desktop pet that grows as you code with Claude Code"),
-        ("Goals from Loops", "Measure whether a campaign drove the desired outcome"),
-        ("Glaze by Raycast", "Create your own Mac apps by chatting with AI"),
-        ("Osloq", "Most AI dev tools just read your code and guess. Osloq actually runs it"),
-        ("Archify", "Customer.io Archify for AI marketing automation"),
-        ("nxt", "AI productivity tool launched on Product Hunt July 3 2026"),
-        ("Vox", "Voice AI product launched on Product Hunt July 3 2026"),
-        ("Glimpse", "Fast, local-first, Open-Source dictation built for you"),
-        ("Context.dev", "One API to scrape, enrich, and extract the internet"),
-        ("Fypro", "Convert your TikTok followers into paying customers"),
-        ("Needle", "The proactive GTM agent in Slack and Teams"),
-        ("PixFit", "Turn 1 creative into every ad format, instantly"),
-        ("Fin", "Startups get Fin free for a year + 93% off Intercom"),
-    ]
+def product_hunt_products(day: str) -> list[tuple[str, str]]:
+    """Fetch Product Hunt daily leaderboard via Tavily extract."""
+    import time
+
+    parts = day.split("-")
+    url = f"https://www.producthunt.com/leaderboard/daily/{parts[0]}/{int(parts[1])}/{int(parts[2])}"
+    req = urllib.request.Request(
+        url,
+        headers={"User-Agent": "Mozilla/5.0", "X-Tavily-Access-Mode": "keyless"},
+    )
+    # Tavily extract API (keyless)
+    payload = json.dumps({"urls": [url], "extract_depth": "advanced", "format": "markdown"}).encode()
+    api_req = urllib.request.Request(
+        "https://api.tavily.com/extract",
+        data=payload,
+        headers={"Content-Type": "application/json", "X-Tavily-Access-Mode": "keyless"},
+        method="POST",
+    )
+    try:
+        resp = json.loads(urllib.request.urlopen(api_req, timeout=90).read())
+        content = ""
+        for r in resp.get("results", []):
+            content += r.get("raw_content", "") + "\n"
+    except Exception:
+        time.sleep(5)
+        content = urllib.request.urlopen(req, timeout=60).read().decode("utf-8", "replace")
+
+    products: list[tuple[str, str]] = []
+    for m in re.finditer(
+        r"\[\d+\.\s+([^\]]+)\]\(https://www\.producthunt\.com/products/[^)]+\)([^\[]+)",
+        content,
+    ):
+        name = m.group(1).strip()
+        tagline = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", m.group(2))
+        tagline = re.sub(r"\[Promoted\][^\n]*", "", tagline)
+        tagline = re.sub(r"\s+", " ", tagline).strip(" !")
+        if name and tagline:
+            products.append((name, tagline))
+    return products
 
 
 def extract_ph_terms(products: list[tuple[str, str]]) -> list[str]:
@@ -188,18 +221,6 @@ def collect_pain_signals(*texts: str) -> list[str]:
         if PAIN_PATTERNS.search(text) or pain_title.search(text):
             add(text)
 
-    for s in [
-        "Building to the Test: Coding Agents Deliver What You Check, Not What You Requested",
-        "Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning",
-        "When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search",
-        "Osloq: Most AI dev tools just read your code and guess",
-        "take-home tests now tell you nothing, so his team interviews by watching candidates push back on AI-generated code",
-        "I'm so tired of being disappointed by AI hype claims",
-        "A-TMA: Decoupling State-Aware Memory Failures in Long-Term Agent Memory",
-        "Has This Checkpoint Been Abliterated? A Two-Signal Audit and Its Failure Map",
-        "DecompRL: Solving Harder Problems by Learning Modular Code Generation",
-    ]:
-        add(s)
     return signals
 
 
@@ -209,8 +230,8 @@ def main() -> None:
     known = load_yesterday_terms(yesterday)
 
     hf_titles = fetch_hf_titles(today)
-    arxiv_titles = fetch_arxiv_titles("cs.AI") + fetch_arxiv_titles("cs.LG")
-    ph_products = product_hunt_products()
+    arxiv_titles = fetch_arxiv_titles("cs.AI", today) + fetch_arxiv_titles("cs.LG", today)
+    ph_products = product_hunt_products(today)
 
     hf_terms: list[str] = []
     for title in hf_titles:
