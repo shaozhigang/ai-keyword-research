@@ -4850,34 +4850,6 @@
       "desired_features": []
     },
     {
-      "term": "WorkBuddy: Produce sharpened results faster with a team of AI experts",
-      "top_complaints": [
-        "多 Agent 协作输出不稳定，难以复现相同质量",
-        "缺乏各专家 Agent 决策过程的可视化与调试能力",
-        "团队场景下结果 sharpen 效果参差不齐，信任度不足"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "WorkBuddy",
-      "top_complaints": [
-        "多 Agent 协作输出不稳定，难以复现相同质量",
-        "缺乏各专家 Agent 决策过程的可视化与调试能力",
-        "团队场景下结果 sharpen 效果参差不齐，信任度不足"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Produce sharpened results faster with a team of AI experts",
-      "top_complaints": [
-        "未发现明确用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
       "term": "Produce",
       "top_complaints": [
         "未发现明确用户痛点"
@@ -5038,34 +5010,6 @@
       "desired_features": []
     },
     {
-      "term": "Endl: A global operating account for fiat, stablecoins, and cards.",
-      "top_complaints": [
-        "跨境法币与稳定币入金 KYC 流程繁琐、审核慢",
-        "部分地区银行卡绑定失败率高，开户体验差",
-        "手续费与汇率透明度不足，隐性成本难预估"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Endl",
-      "top_complaints": [
-        "跨境法币与稳定币入金 KYC 流程繁琐、审核慢",
-        "部分地区银行卡绑定失败率高，开户体验差",
-        "手续费与汇率透明度不足，隐性成本难预估"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "A global operating account for fiat, stablecoins, and cards.",
-      "top_complaints": [
-        "未发现明确用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
       "term": "Endl A",
       "top_complaints": [
         "未发现明确用户痛点"
@@ -5195,34 +5139,6 @@
     },
     {
       "term": "and cards.",
-      "top_complaints": [
-        "未发现明确用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "DocsAlot: Documentation that works for both humans and AI systems",
-      "top_complaints": [
-        "文档与产品实际行为频繁漂移，AI 检索到过期信息",
-        "人机双读格式缺少统一标准，维护两套文档成本高",
-        "现有文档平台对 LLM 结构化消费与 RAG 支持差"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "DocsAlot",
-      "top_complaints": [
-        "文档与产品实际行为频繁漂移，AI 检索到过期信息",
-        "人机双读格式缺少统一标准，维护两套文档成本高",
-        "现有文档平台对 LLM 结构化消费与 RAG 支持差"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Documentation that works for both humans and AI systems",
       "top_complaints": [
         "未发现明确用户痛点"
       ],
@@ -5374,34 +5290,6 @@
       "desired_features": []
     },
     {
-      "term": "TryCase: Disposable test environments for AI coding agents",
-      "top_complaints": [
-        "AI Agent 测试沙箱启动慢，打断 CI/CD 迭代节奏",
-        "沙箱状态泄漏导致测试结果不可靠、难以隔离复现",
-        "按量计费不可预测，重度 Agent 调试成本快速飙升"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "TryCase",
-      "top_complaints": [
-        "AI Agent 测试沙箱启动慢，打断 CI/CD 迭代节奏",
-        "沙箱状态泄漏导致测试结果不可靠、难以隔离复现",
-        "按量计费不可预测，重度 Agent 调试成本快速飙升"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Disposable test environments for AI coding agents",
-      "top_complaints": [
-        "未发现明确用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
       "term": "Disposable",
       "top_complaints": [
         "未发现明确用户痛点"
@@ -5507,34 +5395,6 @@
     },
     {
       "term": "coding agents",
-      "top_complaints": [
-        "未发现明确用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "MentionDrop MCP: Give your AI agent live market signals",
-      "top_complaints": [
-        "实时市场信号噪声大，难以过滤可执行洞察",
-        "MCP 集成在不同 Agent 框架间兼容性不稳定",
-        "数据延迟影响短线交易与自动化决策用例"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "MentionDrop MCP",
-      "top_complaints": [
-        "实时市场信号噪声大，难以过滤可执行洞察",
-        "MCP 集成在不同 Agent 框架间兼容性不稳定",
-        "数据延迟影响短线交易与自动化决策用例"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Give your AI agent live market signals",
       "top_complaints": [
         "未发现明确用户痛点"
       ],
@@ -5663,34 +5523,6 @@
     },
     {
       "term": "market signals",
-      "top_complaints": [
-        "未发现明确用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "CircleChat: Give your AI agents a slack, a task board, and a boss",
-      "top_complaints": [
-        "多 Agent 任务看板与实际执行状态频繁不同步",
-        "Boss Agent 调度决策缺乏审计追踪，出错难回溯",
-        "相比单 Agent 方案协作编排开销过大、调试复杂"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "CircleChat",
-      "top_complaints": [
-        "多 Agent 任务看板与实际执行状态频繁不同步",
-        "Boss Agent 调度决策缺乏审计追踪，出错难回溯",
-        "相比单 Agent 方案协作编排开销过大、调试复杂"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Give your AI agents a slack, a task board, and a boss",
       "top_complaints": [
         "未发现明确用户痛点"
       ],
@@ -5851,30 +5683,6 @@
     },
     {
       "term": "a boss",
-      "top_complaints": [
-        "未发现明确用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Pennen: One quiet handwritten page a day. No feed, no AI.",
-      "top_complaints": [
-        "手写内容导出与备份选项有限"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Pennen",
-      "top_complaints": [
-        "手写内容导出与备份选项有限"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "One quiet handwritten page a day. No feed, no AI.",
       "top_complaints": [
         "未发现明确用户痛点"
       ],
@@ -6043,34 +5851,6 @@
     },
     {
       "term": "AI.",
-      "top_complaints": [
-        "未发现明确用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Toku Reader: Read & listen to native Japanese and Chinese, tap any word",
-      "top_complaints": [
-        "点击查词对俚语和上下文义项覆盖不足",
-        "语音朗读发音与母语者差异明显，影响听力训练",
-        "内容库规模落后于 Duolingo 等主流竞品"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Toku Reader",
-      "top_complaints": [
-        "点击查词对俚语和上下文义项覆盖不足",
-        "语音朗读发音与母语者差异明显，影响听力训练",
-        "内容库规模落后于 Duolingo 等主流竞品"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Read & listen to native Japanese and Chinese, tap any word",
       "top_complaints": [
         "未发现明确用户痛点"
       ],
@@ -6273,6 +6053,242 @@
       "term": "any word",
       "top_complaints": [
         "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A global operating account for fiat, stablecoins, and cards.",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "CircleChat",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "CircleChat: Give your AI agents a slack, a task board, and a boss",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Disposable test environments for AI coding agents",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "DocsAlot",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "改用其他工具/平台",
+        "转向自托管或其他部署平台",
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "DocsAlot: Documentation that works for both humans and AI systems",
+      "top_complaints": [
+        "输出不稳定，结果不可预测",
+        "缺少关键功能或支持",
+        "难以维护，技术债快速累积"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Documentation that works for both humans and AI systems",
+      "top_complaints": [
+        "输出不稳定，结果不可预测",
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
+    },
+    {
+      "term": "Endl",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Endl: A global operating account for fiat, stablecoins, and cards.",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Give your AI agent live market signals",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "平台锁定，迁移困难"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Give your AI agents a slack, a task board, and a boss",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "导出再导入的复制粘贴流程"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "MentionDrop MCP",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MentionDrop MCP: Give your AI agent live market signals",
+      "top_complaints": [
+        "用户主动寻找替代方案",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "One quiet handwritten page a day. No feed, no AI.",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Pennen",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Pennen: One quiet handwritten page a day. No feed, no AI.",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Produce sharpened results faster with a team of AI experts",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Read & listen to native Japanese and Chinese, tap any word",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "学习曲线陡峭，上手困难",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "需要批量处理或 API 接入",
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Toku Reader",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Toku Reader: Read & listen to native Japanese and Chinese, tap any word",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "TryCase",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "TryCase: Disposable test environments for AI coding agents",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "WorkBuddy",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "WorkBuddy: Produce sharpened results faster with a team of AI experts",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
