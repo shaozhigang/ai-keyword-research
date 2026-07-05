@@ -134,14 +134,46 @@ def product_hunt_products(day: str) -> list[tuple[str, str]]:
         headers={"Content-Type": "application/json", "X-Tavily-Access-Mode": "keyless"},
         method="POST",
     )
+    content = ""
     try:
         resp = json.loads(urllib.request.urlopen(api_req, timeout=90).read())
-        content = ""
         for r in resp.get("results", []):
             content += r.get("raw_content", "") + "\n"
     except Exception:
         time.sleep(5)
-        content = urllib.request.urlopen(req, timeout=60).read().decode("utf-8", "replace")
+
+    if not re.search(
+        r"\[\d+\.\s+[^\]]+\]\(https://www\.producthunt\.com/products/",
+        content,
+    ):
+        time.sleep(5)
+        search_payload = json.dumps(
+            {
+                "query": f"Product Hunt leaderboard {day}",
+                "include_domains": ["producthunt.com"],
+                "include_raw_content": True,
+                "max_results": 3,
+                "search_depth": "advanced",
+                "time_range": "day",
+            }
+        ).encode()
+        search_req = urllib.request.Request(
+            "https://api.tavily.com/search",
+            data=search_payload,
+            headers={
+                "Content-Type": "application/json",
+                "X-Tavily-Access-Mode": "keyless",
+            },
+            method="POST",
+        )
+        try:
+            search_resp = json.loads(
+                urllib.request.urlopen(search_req, timeout=90).read()
+            )
+            for r in search_resp.get("results", []):
+                content += r.get("raw_content", "") + "\n" + r.get("content", "") + "\n"
+        except Exception:
+            pass
 
     products: list[tuple[str, str]] = []
     for m in re.finditer(
