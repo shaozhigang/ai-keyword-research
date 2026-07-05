@@ -45,22 +45,39 @@ NOT_FOUND_PAIN = {
 }
 
 _PH_CORE: set[str] | None = None
+_PH_CORE_DATE: str | None = None
 
 
-def get_ph_core_terms() -> set[str]:
-    global _PH_CORE
-    if _PH_CORE is None:
+def get_ph_core_terms(date: str | None = None) -> set[str]:
+    global _PH_CORE, _PH_CORE_DATE
+    date = date or datetime.now().strftime("%Y-%m-%d")
+    if _PH_CORE is not None and _PH_CORE_DATE == date:
+        return _PH_CORE
+
+    core: set[str] = set()
+    raw_path = f"/workspace/keywords/raw/{date}.json"
+    if os.path.exists(raw_path):
+        with open(raw_path) as f:
+            raw = json.load(f)
+        for term in raw.get("source_breakdown", {}).get("producthunt", []):
+            if ":" in term:
+                core.add(term)
+                name, tagline = term.split(":", 1)
+                core.add(name.strip())
+                core.add(tagline.strip())
+    else:
         try:
             from daily_scout import product_hunt_products
 
-            core: set[str] = set()
-            for name, tagline in product_hunt_products():
+            for name, tagline in product_hunt_products(date):
                 core.add(name)
                 core.add(tagline)
                 core.add(f"{name}: {tagline}")
-            _PH_CORE = core
         except Exception:
-            _PH_CORE = set()
+            pass
+
+    _PH_CORE = core
+    _PH_CORE_DATE = date
     return _PH_CORE
 
 
@@ -263,7 +280,7 @@ def main():
     tavily_terms = []
     heuristic_terms = []
     junk_terms = []
-    ph_core = get_ph_core_terms()
+    ph_core = get_ph_core_terms(date)
     for item in rising:
         term = item["term"]
         if term in done:
