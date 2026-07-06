@@ -143,7 +143,7 @@ def product_hunt_products(day: str) -> list[tuple[str, str]]:
         time.sleep(5)
 
     if not re.search(
-        r"\[\d+\.\s+[^\]]+\]\(https://www\.producthunt\.com/products/",
+        r"\[\d+\.\s+[^\]]+\]\((?:https://www\.producthunt\.com)?/products/",
         content,
     ):
         time.sleep(5)
@@ -177,7 +177,7 @@ def product_hunt_products(day: str) -> list[tuple[str, str]]:
 
     products: list[tuple[str, str]] = []
     for m in re.finditer(
-        r"\[\d+\.\s+([^\]]+)\]\(https://www\.producthunt\.com/products/[^)]+\)([^\[]+)",
+        r"\[\d+\.\s+([^\]]+)\]\((?:https://www\.producthunt\.com)?/products/[^)]+\)([^\[]+)",
         content,
     ):
         name = m.group(1).strip()
