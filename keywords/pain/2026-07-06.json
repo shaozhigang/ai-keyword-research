@@ -36,10 +36,16 @@
     {
       "term": "Training",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持",
+        "用户主动寻找替代方案"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Policies",
@@ -68,10 +74,16 @@
     {
       "term": "Real",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "难以控制输出，依赖精细 prompt"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "自己写脚本或自建工具"
+      ],
+      "desired_features": [
+        "需要更多导出格式"
+      ]
     },
     {
       "term": "Objective",
@@ -84,10 +96,17 @@
     {
       "term": "LLM",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "难以控制输出，依赖精细 prompt"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
     },
     {
       "term": "The Mirage",
@@ -380,7 +399,8 @@
     {
       "term": "Models",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -516,7 +536,8 @@
     {
       "term": "AI",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "定价过高，流量上来后成本飙升",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -628,10 +649,17 @@
     {
       "term": "Data",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧",
+        "难以控制输出，依赖精细 prompt"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Quantization",
@@ -644,23 +672,36 @@
     {
       "term": "Image",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "期望官方支持更多功能",
+        "希望增加更完善的功能"
+      ]
     },
     {
       "term": "Video",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "改用其他工具/平台",
+        "手动逐步处理"
+      ],
       "desired_features": []
     },
     {
       "term": "Diffusion",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "性能慢，响应延迟高"
       ],
       "workarounds": [],
       "desired_features": []
@@ -844,10 +885,17 @@
     {
       "term": "VLA",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "扩展性差，大规模部署受限"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "改用其他工具/平台",
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
     },
     {
       "term": "Corrector",
@@ -900,10 +948,15 @@
     {
       "term": "Horizon",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "批量下载后拖拽迁移部署",
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "VLA-Corrector Lightweight",
@@ -1084,10 +1137,15 @@
     {
       "term": "Language",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "扩展性差，大规模部署受限"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "DataComp-VLM Improved",
@@ -1228,7 +1286,9 @@
     {
       "term": "Agent",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "难以控制输出，依赖精细 prompt",
+        "输出不稳定，结果不可预测"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1252,9 +1312,13 @@
     {
       "term": "Multi",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持",
+        "难以控制输出，依赖精细 prompt"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
       "desired_features": []
     },
     {
@@ -1548,9 +1612,15 @@
     {
       "term": "Flow",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "定价过高，流量上来后成本飙升"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "转向自托管或其他部署平台",
+        "用户用 Excel/表格手动处理",
+        "批量下载后拖拽迁移部署"
+      ],
       "desired_features": []
     },
     {
@@ -1756,7 +1826,7 @@
     {
       "term": "Multimodal",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1772,10 +1842,16 @@
     {
       "term": "Long",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持",
+        "难以控制输出，依赖精细 prompt"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Document",
@@ -2012,9 +2088,12 @@
     {
       "term": "Generation",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "生成代码存在安全漏洞",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": []
     },
     {
@@ -2140,7 +2219,7 @@
     {
       "term": "Measuring the Gap Between Human and LLM Research Ideas",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -2629,9 +2708,12 @@
     {
       "term": "AnySearch",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
       "desired_features": []
     },
     {
@@ -2814,9 +2896,12 @@
     {
       "term": "Social listening for the agent era",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "用户主动寻找替代方案",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "手动逐步处理"
+      ],
       "desired_features": []
     },
     {
@@ -2944,9 +3029,13 @@
     {
       "term": "Private AI autocomplete for every app on your Mac",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
       "desired_features": []
     },
     {
@@ -3137,7 +3226,8 @@
     {
       "term": "Edgee Claude Code Compressor V2",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "难以控制输出，依赖精细 prompt",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -3394,10 +3484,17 @@
     {
       "term": "A real planner for Google Tasks",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "频繁出 bug，功能不稳定",
+        "扩展性差，大规模部署受限",
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案",
+        "希望增加更完善的功能"
+      ]
     },
     {
       "term": "Google",
@@ -3523,10 +3620,12 @@
     {
       "term": "Stanley Studio",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "The AI video editor you hire that edits like a human",
@@ -3740,7 +3839,7 @@
     {
       "term": "AirKaren",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -3748,10 +3847,14 @@
     {
       "term": "AI that fights customer service for you",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "使用体验差，令人沮丧",
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "AirKaren AI",
@@ -3877,7 +3980,8 @@
     {
       "term": "Astryx",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "输出不稳定，结果不可预测",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -4031,7 +4135,7 @@
     {
       "term": "CodeMote",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -4232,7 +4336,8 @@
     {
       "term": "Nixmac",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -4240,9 +4345,14 @@
     {
       "term": "Nix-darwin that speaks plain English",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "改用其他工具/平台"
+      ],
       "desired_features": []
     },
     {
@@ -4281,9 +4391,14 @@
     {
       "term": "Nix",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "改用其他工具/平台",
+        "用临时 hack 绕过限制"
+      ],
       "desired_features": []
     },
     {
@@ -4395,9 +4510,14 @@
     {
       "term": "TypeScript runtime for self-organizing AI agents",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "难以控制输出，依赖精细 prompt",
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "手动逐步处理",
+        "转向自托管或其他部署平台",
+        "批量下载后拖拽迁移部署"
+      ],
       "desired_features": []
     },
     {
@@ -4534,7 +4654,9 @@
     {
       "term": "Cadence",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "使用体验差，令人沮丧",
+        "部署流程复杂，上线容易踩坑",
+        "难以维护，技术债快速累积"
       ],
       "workarounds": [],
       "desired_features": []
