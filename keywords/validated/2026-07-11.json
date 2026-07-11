@@ -1,0 +1,5571 @@
+{
+  "date": "2026-07-11",
+  "entries": [
+    {
+      "term": "Badge",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向自由职业者与远程团队的 AI 工作证明平台，自动收集同行评价并生成可验证作品集",
+      "suggested_headline": "Turn Peer Reviews Into Proof of Work — Automatically",
+      "target_users": [
+        "自由职业开发者",
+        "远程合同工",
+        "招聘经理"
+      ],
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI agents collect peer reviews to generate proof of work",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向自由职业者与远程团队的 AI 工作证明平台，自动收集同行评价并生成可验证作品集",
+      "suggested_headline": "Turn Peer Reviews Into Proof of Work — Automatically",
+      "target_users": [
+        "自由职业开发者",
+        "远程合同工",
+        "招聘经理"
+      ],
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "The product that makes AI recommend your brand",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 DTC 品牌的 GEO/AEO 优化工具，让 AI 搜索与推荐引擎更优先引用你的品牌",
+      "suggested_headline": "Make AI Recommend Your Brand First",
+      "target_users": [
+        "品牌营销负责人",
+        "SEO/GEO 从业者",
+        "独立站运营"
+      ],
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "The AI agent that works your Salesforce Pipeline",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 B2B 销售团队的 Salesforce AI Agent，自动推进商机管道与跟进任务",
+      "suggested_headline": "Let AI Run Your Salesforce Pipeline While You Close Deals",
+      "target_users": [
+        "B2B 销售运营",
+        "CRM 管理员",
+        "销售 VP"
+      ],
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI Emaily: Your AI inbox that writes like you + replies on autopilot",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向高频邮件用户的 AI 收件箱助手，以你的语气自动起草与回复邮件",
+      "suggested_headline": "Your AI Inbox That Writes and Replies Like You",
+      "target_users": [
+        "独立顾问",
+        "创始人",
+        "商务拓展"
+      ],
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Your AI inbox that writes like you + replies on autopilot",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向高频邮件用户的 AI 收件箱助手，以你的语气自动起草与回复邮件",
+      "suggested_headline": "Your AI Inbox That Writes and Replies Like You",
+      "target_users": [
+        "独立顾问",
+        "创始人",
+        "商务拓展"
+      ],
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Social Fetch: Social media scraper API for every major platform",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向开发者的统一社媒爬虫 API，覆盖主流平台并降低维护成本",
+      "suggested_headline": "One API to Scrape Every Major Social Platform",
+      "target_users": [
+        "数据工程师",
+        "舆情分析 SaaS 开发者",
+        "增长黑客"
+      ],
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Social media scraper API for every major platform",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向开发者的统一社媒爬虫 API，覆盖主流平台并降低维护成本",
+      "suggested_headline": "One API to Scrape Every Major Social Platform",
+      "target_users": [
+        "数据工程师",
+        "舆情分析 SaaS 开发者",
+        "增长黑客"
+      ],
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Ellis",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向面对面会议的 AI 笔记工具，聚焦线下场景的高效纪要与行动项提取",
+      "suggested_headline": "AI Notes Built for In-Person Meetings",
+      "target_users": [
+        "咨询顾问",
+        "销售一线人员",
+        "用户研究员"
+      ],
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Zoho Tables",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向中小企业的轻量工作数据管理平台，替代复杂表格协作工具",
+      "suggested_headline": "Manage Work and Data Smarter Than Spreadsheets",
+      "target_users": [
+        "小企业运营",
+        "项目经理",
+        "非技术团队负责人"
+      ],
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Smarter way to manage work and data.",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向中小企业的轻量工作数据管理平台，替代复杂表格协作工具",
+      "suggested_headline": "Manage Work and Data Smarter Than Spreadsheets",
+      "target_users": [
+        "小企业运营",
+        "项目经理",
+        "非技术团队负责人"
+      ],
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Glideo: Screen recordings that edit themselves",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向产品演示与教程创作者的自动剪辑录屏工具，录完即出成片",
+      "suggested_headline": "Screen Recordings That Edit Themselves",
+      "target_users": [
+        "产品经理",
+        "技术博主",
+        "客户成功团队"
+      ],
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Screen recordings that edit themselves",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向产品演示与教程创作者的自动剪辑录屏工具，录完即出成片",
+      "suggested_headline": "Screen Recordings That Edit Themselves",
+      "target_users": [
+        "产品经理",
+        "技术博主",
+        "客户成功团队"
+      ],
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Badge: AI agents collect peer reviews to generate proof of work",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Scribble Network: The product that makes AI recommend your brand",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Katalyst: The AI agent that works your Salesforce Pipeline",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Dupely: The trust layer for online shopping",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Dupely",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "The trust layer for online shopping",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Mira: AI moderated interviews that read how people feel",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Mira",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI moderated interviews that read how people feel",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Social Fetch",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Ogment AI: Your AI coworker, in Slack. Just tag @O.",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Ogment AI",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Your AI coworker, in Slack. Just tag @O.",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Ellis: AI notes for in-person meetings",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI notes for in-person meetings",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "LongCat-2.0: 1.6T MoE trained entirely on AI ASICs",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "LongCat-2.0",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "1.6T MoE trained entirely on AI ASICs",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "2.0: 1.6T MoE trained entirely on AI ASICs",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Zoho Tables: Smarter way to manage work and data.",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Kadoink AI: Gather people instantly by AI txt, video, or ringing phones",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Gather people instantly by AI txt, video, or ringing phones",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Unbounded Positive Asymmetric",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Optimization for Breaking",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "低"
+    },
+    {
+      "term": "Time",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Model",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Video Generation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Rethinking",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Evaluation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Understanding",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Evaluation of",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Zero-Shot",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Why",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Can",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Object",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Zero",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Shot",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Compositional",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Ideas",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Benchmarking",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Scientific",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Reasoning",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Grounded",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Reasoning and",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Real-World",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Benchmark",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Agents",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "World",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Tasks",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Benchmark for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Long-Horizon",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Prediction",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Diffusion Models",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "In-context",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Enhancing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Geometric",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Pretraining",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Long-Context",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Efficient",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Context",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Dynamic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "RoPE",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Learning",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Reason",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Device",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Motion",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Diffusion for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Linear",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Attention",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Architectures",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Mechanisms",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Cross",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Routing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Remember",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "When",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Matters",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Memory",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Autoregressive",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Hybrid",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Representation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Diffusion with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "UP",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Stability Dilemma",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Exploration-Stability",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Unbounded",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Positive",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Asymmetric",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Optimization",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Breaking",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Exploration",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Stability",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Dilemma",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "UP Unbounded",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "UP Unbounded Positive",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Unbounded Positive",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Positive Asymmetric",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Positive Asymmetric Optimization",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Asymmetric Optimization",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Asymmetric Optimization for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Optimization for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "for Breaking",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "for Breaking the",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Breaking the",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Breaking the Exploration-Stability",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "the Exploration-Stability",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "the Exploration-Stability Dilemma",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Exploration-Stability Dilemma",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Sparse",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "State",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Circuits",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Target",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Segmentation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Native",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Semantic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Audio",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Aware",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "MRI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Super",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Scaling",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Distributed",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Directions",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "LLMs",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Data-Science",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Causal",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Reasoning in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Prototype",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Invariant",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Normalization",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Detection",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Badge AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Badge AI agents",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI agents",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI agents collect",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "agents collect",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "agents collect peer",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "collect peer",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "collect peer reviews",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "peer reviews",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "peer reviews to",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "reviews to",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "reviews to generate",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "to generate",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "to generate proof",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "generate proof",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "generate proof of",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "proof of work",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "of work",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Scribble Network",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Scribble",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Network",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Scribble Network The",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Network The",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Network The product",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "The product",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "The product that",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "product that",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "product that makes",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "that makes",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "that makes AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "makes AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "makes AI recommend",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI recommend",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI recommend your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "recommend your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "recommend your brand",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "your brand",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Katalyst",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Salesforce",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Pipeline",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Katalyst The",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Katalyst The AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "The AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "The AI agent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI agent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI agent that",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "agent that",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "agent that works",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "that works",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "that works your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "works your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "works your Salesforce",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "your Salesforce",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "your Salesforce Pipeline",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Salesforce Pipeline",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Dupely The",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Dupely The trust",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "The trust",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "The trust layer",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "trust layer",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "trust layer for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "layer for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "layer for online",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "for online",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "for online shopping",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "online shopping",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Mira AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Mira AI moderated",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI moderated",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI moderated interviews",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "moderated interviews",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "moderated interviews that",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "interviews that",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "interviews that read",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "that read",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "that read how",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "read how",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "read how people",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "how people",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "how people feel",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "people feel",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI Emaily",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Emaily",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI Emaily Your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Emaily Your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Emaily Your AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Your AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Your AI inbox",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI inbox",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI inbox that",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "inbox that",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "inbox that writes",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "that writes",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "that writes like",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "writes like",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "writes like you",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "like you",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "like you replies",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "you replies",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "you replies on",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "replies on",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "replies on autopilot",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "on autopilot",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Fetch",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "API",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Social Fetch Social",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Fetch Social",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Fetch Social media",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Social media",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Social media scraper",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "media scraper",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "media scraper API",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "scraper API",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "scraper API for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "API for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "API for every",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "for every",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "for every major",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "every major",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "every major platform",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "major platform",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Ogment",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Slack",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Just",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Ogment AI Your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI Your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI Your AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Your AI coworker",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI coworker",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI coworker in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "coworker in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "coworker in Slack.",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "in Slack.",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "in Slack. Just",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Slack.",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Slack. Just",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Slack. Just tag",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Just tag",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Just tag O.",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "tag O.",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "O.",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Ellis: AI notes for in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "person meetings",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Ellis AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Ellis AI notes",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI notes",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI notes for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "notes for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "notes for in-person",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "for in-person",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "for in-person meetings",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "in-person meetings",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "LongCat",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "MoE",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "ASICs",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "LongCat-2.0 1.6T",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "LongCat-2.0 1.6T MoE",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "1.6T",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "1.6T MoE",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "1.6T MoE trained",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "MoE trained",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "MoE trained entirely",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "trained entirely",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "trained entirely on",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "entirely on",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "entirely on AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "on AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "on AI ASICs",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI ASICs",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Zoho",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Tables",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Smarter",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Zoho Tables Smarter",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Tables Smarter",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Tables Smarter way",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Smarter way",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Smarter way to",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "way to",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "way to manage",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "to manage",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "to manage work",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "manage work",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "manage work and",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "work and",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "work and data.",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "and data.",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Glideo",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Screen",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Glideo Screen",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Glideo Screen recordings",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Screen recordings",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Screen recordings that",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "recordings that",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "recordings that edit",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "that edit",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "that edit themselves",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "edit themselves",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Kadoink AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Kadoink",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Gather",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Kadoink AI Gather",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI Gather",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI Gather people",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Gather people",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "Gather people instantly",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "people instantly",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "people instantly by",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "instantly by",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "instantly by AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "by AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "by AI txt",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI txt",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "AI txt video",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "txt video",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "txt video or",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "video or",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "video or ringing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "or ringing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "or ringing phones",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    },
+    {
+      "term": "ringing phones",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察",
+      "trend": "📈上升",
+      "competition": "中"
+    }
+  ]
+}
