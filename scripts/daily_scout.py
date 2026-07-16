@@ -121,7 +121,7 @@ def product_hunt_products(day: str) -> list[tuple[str, str]]:
     import time
 
     parts = day.split("-")
-    url = f"https://www.producthunt.com/leaderboard/daily/{parts[0]}/{int(parts[1])}/{int(parts[2])}"
+    url = f"https://www.producthunt.com/leaderboard/daily/{parts[0]}/{int(parts[1])}/{int(parts[2])}/all"
     req = urllib.request.Request(
         url,
         headers={"User-Agent": "Mozilla/5.0", "X-Tavily-Access-Mode": "keyless"},
