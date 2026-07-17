@@ -65486,7 +65486,10 @@
       "top_complaints": [
         "使用体验差，令人沮丧"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "批量下载后拖拽迁移部署"
+      ],
       "desired_features": [
         "在寻找更好的工具方案"
       ]
@@ -65499,42 +65502,542 @@
         "学习曲线陡峭，上手困难"
       ],
       "workarounds": [
-        "手动逐步处理"
+        "手动逐步处理",
+        "用户用 Excel/表格手动处理"
       ],
       "desired_features": []
     },
     {
       "term": "Automate your SEO, while you build your product.",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "部署流程复杂，上线容易踩坑"
       ],
       "workarounds": [
-        "批量下载后拖拽迁移部署",
+        "手动逐步处理",
         "自己写脚本或自建工具"
       ],
-      "desired_features": []
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
     },
     {
       "term": "Aye",
       "top_complaints": [
-        "使用体验差，令人沮丧",
+        "缺少关键功能或支持",
         "频繁出 bug，功能不稳定",
         "学习曲线陡峭，上手困难"
       ],
       "workarounds": [
-        "用临时 hack 绕过限制",
         "用户用 Excel/表格手动处理",
+        "用临时 hack 绕过限制",
         "导出再导入的复制粘贴流程"
       ],
       "desired_features": [
-        "期望官方支持更多功能",
+        "希望增加更完善的功能",
         "在寻找更好的工具方案"
       ]
     },
     {
       "term": "Aye: Your teachable AI intern for everyday browser work",
       "top_complaints": [
+        "使用体验差，令人沮丧",
         "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Basedash Suggestions",
+      "top_complaints": [
+        "输出不稳定，结果不可预测",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Basedash Suggestions: Your AI data analyst, now with ideas of its own.",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "转向自托管或其他部署平台",
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Blocks.ai",
+      "top_complaints": [
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Blocks.ai: The Control Plane & Network Layer For AI Agents",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "自己写脚本或自建工具"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "ElevenAgents by ElevenLabs",
+      "top_complaints": [
+        "定价过高，流量上来后成本飙升",
+        "使用体验差，令人沮丧",
+        "性能慢，响应延迟高"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "ElevenAgents by ElevenLabs: Scale conversations without scaling your team",
+      "top_complaints": [
+        "扩展性差，大规模部署受限",
+        "定价过高，流量上来后成本飙升",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台",
+        "用户用 Excel/表格手动处理",
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Entity resolution on your machine. No cloud, no signup.",
+      "top_complaints": [
+        "学习曲线陡峭，上手困难"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
+    },
+    {
+      "term": "Essel",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "改用其他工具/平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Essel: Automate your SEO, while you build your product.",
+      "top_complaints": [
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定",
+        "学习曲线陡峭，上手困难"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "希望增加更完善的功能"
+      ]
+    },
+    {
+      "term": "Fast & precise 3D CAD built natively for iPad and Mac",
+      "top_complaints": [
+        "平台锁定，迁移困难"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Free AI visibility audit",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Keep any Mac window visible in a floating mini screen",
+      "top_complaints": [
+        "平台锁定，迁移困难",
+        "难以控制输出，依赖精细 prompt",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "希望增加更完善的功能"
+      ]
+    },
+    {
+      "term": "Kimi K3",
+      "top_complaints": [
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Kimi K3: The world's first open 3T",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Kimi K3: The world's first open 3T-class model",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "PH Daily Top 50",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "PH Daily Top 50: The day's top 50 launches, each summarized by AI",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Pebbles Ai",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Pebbles Ai: AI sales platform for modern B2B teams",
+      "top_complaints": [
+        "平台锁定，迁移困难"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Personal Life Partner OS: Private AI memory for clearer decisions and follow-through",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "平台锁定，迁移困难"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "PixyCAD",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "PixyCAD: Fast & precise 3D CAD built natively for iPad and Mac",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Pocket Screen",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案",
+        "需要更多导出格式"
+      ]
+    },
+    {
+      "term": "Pocket Screen: Keep any Mac window visible in a floating mini screen",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [
+        "改用其他工具/平台",
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Private AI memory for clearer decisions and follow-through",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "希望自动化简化工作流"
+      ]
+    },
+    {
+      "term": "Pull your calendar availability in 3 seconds",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Scale conversations without scaling your team",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
+    },
+    {
+      "term": "Scale your personal brand on X with automated AI agents",
+      "top_complaints": [
+        "难以控制输出，依赖精细 prompt",
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "批量下载后拖拽迁移部署",
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Scribble Party",
+      "top_complaints": [
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Scribble Party: A local",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Scribble Party: A local-first whiteboard studio for teachers and creators",
+      "top_complaints": [
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "See the biggest startup yappers on X/Twitter",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Shared memory across all apps and LLMs. In Claude",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "难以控制输出，依赖精细 prompt",
+        "难以维护，技术债快速累积"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": [
+        "期望官方支持更多功能",
+        "需要更多导出格式"
+      ]
+    },
+    {
+      "term": "The Control Plane & Network Layer For AI Agents",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "The day's top 50 launches, each summarized by AI",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "性能慢，响应延迟高"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The world's first open 3T-class model",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Tilores Studio desktop entity resolution",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "需要批量处理或 API 接入"
+      ]
+    },
+    {
+      "term": "Tilores Studio desktop entity resolution: Entity resolution on your machine. No cloud, no signup.",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "需要批量处理或 API 接入",
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Timely",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "学习曲线陡峭，上手困难"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Timely: Pull your calendar availability in 3 seconds",
+      "top_complaints": [
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Unabyss for Claude",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧",
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Unabyss for Claude: Shared memory across all apps and LLMs. In Claude",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Vetta X",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Vetta X: Scale your personal brand on X with automated AI agents",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "希望增加更完善的功能"
+      ]
+    },
+    {
+      "term": "WizeMe.APP",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "WizeMe.APP: Personal Life Partner OS",
+      "top_complaints": [
         "使用体验差，令人沮丧"
       ],
       "workarounds": [],
@@ -65543,396 +66046,31 @@
       ]
     },
     {
-      "term": "Basedash Suggestions",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Basedash Suggestions: Your AI data analyst, now with ideas of its own.",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Blocks.ai",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Blocks.ai: The Control Plane & Network Layer For AI Agents",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "ElevenAgents by ElevenLabs",
-      "top_complaints": [
-        "定价过高，流量上来后成本飙升",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "ElevenAgents by ElevenLabs: Scale conversations without scaling your team",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Entity resolution on your machine. No cloud, no signup.",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Essel",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Essel: Automate your SEO, while you build your product.",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Fast & precise 3D CAD built natively for iPad and Mac",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Free AI visibility audit",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Keep any Mac window visible in a floating mini screen",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Kimi K3",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Kimi K3: The world's first open 3T",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Kimi K3: The world's first open 3T-class model",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "PH Daily Top 50",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "PH Daily Top 50: The day's top 50 launches, each summarized by AI",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Pebbles Ai",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Pebbles Ai: AI sales platform for modern B2B teams",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Personal Life Partner OS: Private AI memory for clearer decisions and follow-through",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "PixyCAD",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "PixyCAD: Fast & precise 3D CAD built natively for iPad and Mac",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Pocket Screen",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Pocket Screen: Keep any Mac window visible in a floating mini screen",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Private AI memory for clearer decisions and follow-through",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Pull your calendar availability in 3 seconds",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Scale conversations without scaling your team",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Scale your personal brand on X with automated AI agents",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Scribble Party",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Scribble Party: A local",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Scribble Party: A local-first whiteboard studio for teachers and creators",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "See the biggest startup yappers on X/Twitter",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Shared memory across all apps and LLMs. In Claude",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "The Control Plane & Network Layer For AI Agents",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "The day's top 50 launches, each summarized by AI",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "The world's first open 3T-class model",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Tilores Studio desktop entity resolution",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Tilores Studio desktop entity resolution: Entity resolution on your machine. No cloud, no signup.",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Timely",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Timely: Pull your calendar availability in 3 seconds",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Unabyss for Claude",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Unabyss for Claude: Shared memory across all apps and LLMs. In Claude",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Vetta X",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Vetta X: Scale your personal brand on X with automated AI agents",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "WizeMe.APP",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "WizeMe.APP: Personal Life Partner OS",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
       "term": "WizeMe.APP: Personal Life Partner OS: Private AI memory for clearer decisions and follow",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "定价过高，流量上来后成本飙升"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "WizeMe.APP: Personal Life Partner OS: Private AI memory for clearer decisions and follow-through",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Yapper Leaderboard",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -65940,7 +66078,7 @@
     {
       "term": "Yapper Leaderboard: See the biggest startup yappers on X",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -65948,7 +66086,7 @@
     {
       "term": "Yapper Leaderboard: See the biggest startup yappers on X/Twitter",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -65956,9 +66094,13 @@
     {
       "term": "Your AI data analyst, now with ideas of its own.",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "缺少关键功能或支持",
+        "定价过高，流量上来后成本飙升",
+        "输出不稳定，结果不可预测"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": []
     },
     {
@@ -65980,10 +66122,13 @@
     {
       "term": "isvisible.ai?: Free AI visibility audit",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "缺少关键功能或支持",
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "需要更多导出格式"
+      ]
     }
   ]
 }
