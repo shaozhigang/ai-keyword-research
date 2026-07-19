@@ -1245,190 +1245,22 @@
       "term": "A markdown editor you and your agent co-edit",
       "top_complaints": [
         "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
         "缺少关键功能或支持"
       ],
       "workarounds": [
         "用临时 hack 绕过限制",
-        "转向自托管或其他部署平台"
-      ],
-      "desired_features": []
-    },
-    {
-      "top_complaints": [
-        "Agent 数据层缺乏统一 schema，集成成本高",
-        "现有向量库与业务数据库割裂，难以做实时同步",
-        "缺少面向 Agent 的权限与审计能力"
-      ],
-      "workarounds": [
-        "自建 ETL + 向量库",
-        "用 LangChain retriever 拼凑"
+        "手动逐步处理"
       ],
       "desired_features": [
-        "统一数据 API",
-        "Agent 原生权限模型",
-        "实时增量同步"
-      ],
-      "term": "ZooData: The data layer for AI agents"
+        "在寻找更好的工具方案"
+      ]
     },
     {
+      "term": "Acebuilder",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": [],
-      "term": "ZooData"
-    },
-    {
-      "top_complaints": [
-        "RAG 管道维护复杂，数据更新滞后",
-        "多数据源接入需要大量定制代码"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "开箱即用的 Agent 数据层"
-      ],
-      "term": "The data layer for AI agents"
-    },
-    {
-      "top_complaints": [
-        "云端沙箱冷启动慢，影响交互流畅度",
-        "复杂网页任务仍频繁失败或卡住",
-        "按用量计费不透明，成本难以预估"
-      ],
-      "workarounds": [
-        "回退到本地 Playwright",
-        "拆分为更小任务"
-      ],
-      "desired_features": [
-        "更快沙箱启动",
-        "任务可观测性",
-        "固定月费套餐"
-      ],
-      "term": "Clark: An AI coworker with its own cloud computer"
-    },
-    {
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": [],
-      "term": "Clark"
-    },
-    {
-      "top_complaints": [
-        "浏览器 Agent 稳定性不足，CAPTCHA 与登录态易断",
-        "缺少与企业 SSO/合规的集成"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "企业级安全沙箱"
-      ],
-      "term": "An AI coworker with its own cloud computer"
-    },
-    {
-      "top_complaints": [
-        "Storylane/Navattic 定价对早期团队过高",
-        "现有 demo 工具嵌入体验割裂、加载慢",
-        "开源方案文档不足，自托管门槛高"
-      ],
-      "workarounds": [
-        "用 Loom 录屏替代",
-        "手写 HTML demo"
-      ],
-      "desired_features": [
-        "一键 SaaS 录屏转交互 demo",
-        "自托管一键部署"
-      ],
-      "term": "LiveDemo: Open-source alternative to Storylane, Navattic, and Arcade"
-    },
-    {
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": [],
-      "term": "LiveDemo"
-    },
-    {
-      "top_complaints": [
-        "商业 demo 平台月费贵且按席位收费",
-        "导出/迁移 demo 资产困难"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "开源可自部署"
-      ],
-      "term": "Open-source alternative to Storylane, Navattic, and Arcade"
-    },
-    {
-      "term": "LiveDemo: Open",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "top_complaints": [
-        "自动生成 demo 与真实产品 UI 不一致",
-        "复杂工作流难以用 90 秒模板覆盖",
-        "缺少 A/B 测试与转化分析"
-      ],
-      "workarounds": [
-        "手动录屏 + 热点标注"
-      ],
-      "desired_features": [
-        "更高保真 UI 抓取",
-        "内置转化漏斗"
-      ],
-      "term": "Mirage: Turn your SaaS into a clickable demo in 90 seconds."
-    },
-    {
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": [],
-      "term": "Mirage"
-    },
-    {
-      "top_complaints": [
-        "销售团队仍需大量手工维护 demo 环境",
-        "demo 数据与生产数据同步麻烦"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "自动种子数据生成"
-      ],
-      "term": "Turn your SaaS into a clickable demo in 90 seconds."
-    },
-    {
-      "top_complaints": [
-        "人与 Agent 并发编辑易产生冲突",
-        "缺少版本 diff 与回滚",
-        "与现有 Obsidian/Notion 工作流割裂"
-      ],
-      "workarounds": [
-        "Git + 手动 merge"
-      ],
-      "desired_features": [
-        "Agent 协作光标",
-        "双向 Obsidian 同步"
-      ],
-      "term": "OpenMarkdown: A markdown editor you and your agent co-edit"
-    },
-    {
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": [],
-      "term": "OpenMarkdown"
-    },
-    {
-      "term": "OpenMarkdown: A markdown editor you and your agent co",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "用户主动寻找替代方案",
+        "扩展性差，大规模部署受限"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1450,22 +1282,139 @@
     },
     {
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": [],
-      "term": "Acebuilder"
-    },
-    {
-      "top_complaints": [
-        "落地页 SEO 元数据需手动补全",
-        "动效组件影响 Lighthouse 分数"
+        "浏览器 Agent 稳定性不足，CAPTCHA 与登录态易断",
+        "缺少与企业 SSO/合规的集成"
       ],
       "workarounds": [],
       "desired_features": [
-        "SEO 自动化检查"
+        "企业级安全沙箱"
       ],
-      "term": "Build landing pages with Aceternity UI"
+      "term": "An AI coworker with its own cloud computer"
+    },
+    {
+      "top_complaints": [
+        "实时演奏延迟在低端设备上明显",
+        "缺少社区音色分享市场"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "低延迟模式"
+      ],
+      "term": "An experimental synth for playable generative sound"
+    },
+    {
+      "term": "Build landing pages with Aceternity UI",
+      "top_complaints": [
+        "输出不稳定，结果不可预测",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "导出再导入的复制粘贴流程"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Clark",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "top_complaints": [
+        "云端沙箱冷启动慢，影响交互流畅度",
+        "复杂网页任务仍频繁失败或卡住",
+        "按用量计费不透明，成本难以预估"
+      ],
+      "workarounds": [
+        "回退到本地 Playwright",
+        "拆分为更小任务"
+      ],
+      "desired_features": [
+        "更快沙箱启动",
+        "任务可观测性",
+        "固定月费套餐"
+      ],
+      "term": "Clark: An AI coworker with its own cloud computer"
+    },
+    {
+      "term": "DocuSmart AI",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "top_complaints": [
+        "多源文档导入格式丢失严重",
+        "知识图谱构建准确率低",
+        "团队权限与共享规则不清晰"
+      ],
+      "workarounds": [
+        "Notion + 手动整理"
+      ],
+      "desired_features": [
+        "智能去重合并",
+        "团队知识空间"
+      ],
+      "term": "DocuSmart AI: Turning fragmented knowledge into one simple system"
+    },
+    {
+      "top_complaints": [
+        "同类日语 App 地区主题重复度高",
+        "进度同步跨设备不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "离线课程包"
+      ],
+      "term": "Learn Japanese, one prefecture at a time."
+    },
+    {
+      "term": "LiveDemo",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "LiveDemo: Open",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "top_complaints": [
+        "Storylane/Navattic 定价对早期团队过高",
+        "现有 demo 工具嵌入体验割裂、加载慢",
+        "开源方案文档不足，自托管门槛高"
+      ],
+      "workarounds": [
+        "用 Loom 录屏替代",
+        "手写 HTML demo"
+      ],
+      "desired_features": [
+        "一键 SaaS 录屏转交互 demo",
+        "自托管一键部署"
+      ],
+      "term": "LiveDemo: Open-source alternative to Storylane, Navattic, and Arcade"
+    },
+    {
+      "term": "Mainichi",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "top_complaints": [
@@ -1488,18 +1437,104 @@
       ],
       "workarounds": [],
       "desired_features": [],
-      "term": "Mainichi"
+      "term": "Mirage"
     },
     {
       "top_complaints": [
-        "同类日语 App 地区主题重复度高",
-        "进度同步跨设备不稳定"
+        "自动生成 demo 与真实产品 UI 不一致",
+        "复杂工作流难以用 90 秒模板覆盖",
+        "缺少 A/B 测试与转化分析"
+      ],
+      "workarounds": [
+        "手动录屏 + 热点标注"
+      ],
+      "desired_features": [
+        "更高保真 UI 抓取",
+        "内置转化漏斗"
+      ],
+      "term": "Mirage: Turn your SaaS into a clickable demo in 90 seconds."
+    },
+    {
+      "top_complaints": [
+        "商业 demo 平台月费贵且按席位收费",
+        "导出/迁移 demo 资产困难"
       ],
       "workarounds": [],
       "desired_features": [
-        "离线课程包"
+        "开源可自部署"
       ],
-      "term": "Learn Japanese, one prefecture at a time."
+      "term": "Open-source alternative to Storylane, Navattic, and Arcade"
+    },
+    {
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": [],
+      "term": "OpenMarkdown"
+    },
+    {
+      "term": "OpenMarkdown: A markdown editor you and your agent co",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "top_complaints": [
+        "人与 Agent 并发编辑易产生冲突",
+        "缺少版本 diff 与回滚",
+        "与现有 Obsidian/Notion 工作流割裂"
+      ],
+      "workarounds": [
+        "Git + 手动 merge"
+      ],
+      "desired_features": [
+        "Agent 协作光标",
+        "双向 Obsidian 同步"
+      ],
+      "term": "OpenMarkdown: A markdown editor you and your agent co-edit"
+    },
+    {
+      "top_complaints": [
+        "RAG 管道维护复杂，数据更新滞后",
+        "多数据源接入需要大量定制代码"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "开箱即用的 Agent 数据层"
+      ],
+      "term": "The data layer for AI agents"
+    },
+    {
+      "top_complaints": [
+        "销售团队仍需大量手工维护 demo 环境",
+        "demo 数据与生产数据同步麻烦"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "自动种子数据生成"
+      ],
+      "term": "Turn your SaaS into a clickable demo in 90 seconds."
+    },
+    {
+      "term": "Turning fragmented knowledge into one simple system",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "WX",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "top_complaints": [
@@ -1522,52 +1557,24 @@
       ],
       "workarounds": [],
       "desired_features": [],
-      "term": "WX"
+      "term": "ZooData"
     },
     {
       "top_complaints": [
-        "实时演奏延迟在低端设备上明显",
-        "缺少社区音色分享市场"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "低延迟模式"
-      ],
-      "term": "An experimental synth for playable generative sound"
-    },
-    {
-      "top_complaints": [
-        "多源文档导入格式丢失严重",
-        "知识图谱构建准确率低",
-        "团队权限与共享规则不清晰"
+        "Agent 数据层缺乏统一 schema，集成成本高",
+        "现有向量库与业务数据库割裂，难以做实时同步",
+        "缺少面向 Agent 的权限与审计能力"
       ],
       "workarounds": [
-        "Notion + 手动整理"
+        "自建 ETL + 向量库",
+        "用 LangChain retriever 拼凑"
       ],
       "desired_features": [
-        "智能去重合并",
-        "团队知识空间"
+        "统一数据 API",
+        "Agent 原生权限模型",
+        "实时增量同步"
       ],
-      "term": "DocuSmart AI: Turning fragmented knowledge into one simple system"
-    },
-    {
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": [],
-      "term": "DocuSmart AI"
-    },
-    {
-      "top_complaints": [
-        "搜索召回在跨语言文档时变差",
-        "缺少与 Slack/邮件的自动归档"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "统一搜索入口"
-      ],
-      "term": "Turning fragmented knowledge into one simple system"
+      "term": "ZooData: The data layer for AI agents"
     }
   ]
 }
