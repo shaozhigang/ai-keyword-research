@@ -62860,363 +62860,61 @@
     {
       "term": "A developer credential that proves what you built, NDA safe.",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "扩展性差，大规模部署受限"
       ],
       "workarounds": [],
       "desired_features": [
-        "需要批量处理或 API 接入"
+        "在寻找更好的工具方案"
       ]
     },
     {
       "term": "ACME.BOT",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
+        "难以控制输出，依赖精细 prompt"
       ],
-      "workarounds": [
-        "改用其他工具/平台"
-      ],
-      "desired_features": [
-        "希望自动化简化工作流"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "ACME.BOT: No",
       "top_complaints": [
         "搜索结果中未发现明确用户痛点"
       ],
-      "workarounds": [
-        "转向自托管或其他部署平台",
-        "改用其他工具/平台"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "ACME.BOT: No-slop AI SEO agent that interviews you first",
       "top_complaints": [
-        "难以控制输出，依赖精细 prompt",
-        "频繁出 bug，功能不稳定",
         "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": [
         "在寻找更好的工具方案"
       ]
-    },
-    {
-      "term": "AI Agents in Chat",
-      "top_complaints": [
-        "使用体验差，令人沮丧",
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "用临时 hack 绕过限制",
-        "转向自托管或其他部署平台"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "AI Agents in Chat: Your Chat UI Just Got an AI Roommate",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [
-        "批量下载后拖拽迁移部署"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "AI runs your email marketing. Better with every send.",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "定价过高，流量上来后成本飙升",
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [
-        "手动逐步处理",
-        "用户用 Excel/表格手动处理",
-        "批量下载后拖拽迁移部署"
-      ],
-      "desired_features": [
-        "期望官方支持更多功能",
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "AgentManager",
-      "top_complaints": [
-        "用户主动寻找替代方案"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "AgentManager: Never miss a Claude Code session waiting for your input",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "改用其他工具/平台",
-        "手动逐步处理"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Arkor",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持",
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案",
-        "期望官方支持更多功能"
-      ]
-    },
-    {
-      "term": "Arkor: Fine",
-      "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Arkor: Fine-tune and Deploy Open-weight Models in TypeScript",
-      "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
-      ],
-      "workarounds": [
-        "转向自托管或其他部署平台",
-        "改用其他工具/平台"
-      ],
-      "desired_features": [
-        "期望官方支持更多功能"
-      ]
-    },
-    {
-      "term": "Brain",
-      "top_complaints": [
-        "使用体验差，令人沮丧",
-        "缺少关键功能或支持",
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [
-        "转向自托管或其他部署平台"
-      ],
-      "desired_features": [
-        "期望官方支持更多功能"
-      ]
-    },
-    {
-      "term": "Brain-like knowledge base with AI writing & deep research",
-      "top_complaints": [
-        "使用体验差，令人沮丧",
-        "定价过高，流量上来后成本飙升",
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [
-        "转向自托管或其他部署平台",
-        "手动逐步处理"
-      ],
-      "desired_features": [
-        "需要更多导出格式"
-      ]
-    },
-    {
-      "term": "Buzzy",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持",
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Buzzy: Your creative AI co",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "定价过高，流量上来后成本飙升",
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Buzzy: Your creative AI co-director",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Communities love your brand - Our AI team finds them for you",
-      "top_complaints": [
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案",
-        "需要更多导出格式"
-      ]
-    },
-    {
-      "term": "Fine",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Fine-tune and Deploy Open-weight Models in TypeScript",
-      "top_complaints": [
-        "输出不稳定，结果不可预测"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": [
-        "期望官方支持更多功能"
-      ]
-    },
-    {
-      "term": "Focus with others through synchronized Pomodoro sessions",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Gemini 3.6 Flash Family",
-      "top_complaints": [
-        "使用体验差，令人沮丧",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "批量下载后拖拽迁移部署"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Gemini 3.6 Flash Family: Gemini 3.6 Flash, 3.5 Flash",
-      "top_complaints": [
-        "定价过高，流量上来后成本飙升",
-        "使用体验差，令人沮丧",
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Gemini 3.6 Flash Family: Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "生成代码存在安全漏洞",
-        "定价过高，流量上来后成本飙升"
-      ],
-      "workarounds": [
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "生成代码存在安全漏洞",
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Grindoro",
-      "top_complaints": [
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Grindoro: Focus with others through synchronized Pomodoro sessions",
-      "top_complaints": [
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Humalike x Hermes",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [],
-      "desired_features": []
     },
     {
       "term": "Humalike x Hermes: Social intelligence plugin for Hermes Agent",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "未发现明确用户痛点"
       ],
-      "workarounds": [
-        "转向自托管或其他部署平台"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
-      "term": "Identify every aircraft in your sky.",
+      "term": "Humalike x Hermes",
       "top_complaints": [
-        "用户主动寻找替代方案"
+        "未发现明确用户痛点"
       ],
-      "workarounds": [
-        "用临时 hack 绕过限制"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
-      "term": "Kastra",
+      "term": "Social intelligence plugin for Hermes Agent",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -63224,63 +62922,63 @@
     {
       "term": "Kastra: Runtime authorization for Claude, Cursor, Codex and OpenClaw",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Lattics",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "改用其他工具/平台"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Lattics: Brain",
-      "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
     },
     {
-      "term": "Lattics: Brain-like knowledge base with AI writing & deep research",
+      "term": "Kastra",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "未发现明确用户痛点"
       ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "手动逐步处理"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
-      "term": "Light Flip",
+      "term": "Runtime authorization for Claude, Cursor, Codex and OpenClaw",
       "top_complaints": [
-        "定价过高，流量上来后成本飙升",
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧"
+        "未发现明确用户痛点"
       ],
-      "workarounds": [
-        "改用其他工具/平台",
-        "用户用 Excel/表格手动处理"
-      ],
-      "desired_features": [
-        "希望增加更完善的功能"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
-      "term": "Light Flip: Nostalgia for a time before smartphones",
+      "term": "Buzzy: Your creative AI co-director",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Buzzy",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Your creative AI co-director",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Buzzy: Your creative AI co",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Migma AI: AI runs your email marketing. Better with every send.",
+      "top_complaints": [
+        "未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -63288,239 +62986,15 @@
     {
       "term": "Migma AI",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧",
-        "性能慢，响应延迟高"
-      ],
-      "workarounds": [
-        "改用其他工具/平台"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Migma AI: AI runs your email marketing. Better with every send.",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧",
-        "缺少关键功能或支持"
+        "未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
     },
     {
-      "term": "MonoCloud for Startups",
+      "term": "AI runs your email marketing. Better with every send.",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "MonoCloud for Startups: One identity layer for your customers, APIs, and agents",
-      "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
-      ],
-      "workarounds": [
-        "批量下载后拖拽迁移部署",
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Never miss a Claude Code session waiting for your input",
-      "top_complaints": [
-        "使用体验差，令人沮丧",
-        "平台锁定，迁移困难",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "改用其他工具/平台",
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": [
-        "需要批量处理或 API 接入"
-      ]
-    },
-    {
-      "term": "No-slop AI SEO agent that interviews you first",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Nostalgia for a time before smartphones",
-      "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "One identity layer for your customers, APIs, and agents",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "难以控制输出，依赖精细 prompt",
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [
-        "转向自托管或其他部署平台",
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": [
-        "需要批量处理或 API 接入",
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Overflight",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "难以维护，技术债快速累积"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Overflight: Identify every aircraft in your sky.",
-      "top_complaints": [
-        "难以维护，技术债快速累积",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Redential",
-      "top_complaints": [
-        "用户主动寻找替代方案"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Redential: A developer credential that proves what you built, NDA safe.",
-      "top_complaints": [
-        "学习曲线陡峭，上手困难",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Runtime authorization for Claude, Cursor, Codex and OpenClaw",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "定价过高，流量上来后成本飙升",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "转向自托管或其他部署平台"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Simple computers for agent w/ full VMs",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "用户主动寻找替代方案"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "期望官方支持更多功能"
-      ]
-    },
-    {
-      "term": "Social intelligence plugin for Hermes Agent",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [
-        "转向自托管或其他部署平台",
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Trovio For Brands",
-      "top_complaints": [
-        "用户主动寻找替代方案"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Trovio For Brands: Communities love your brand",
-      "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
-      ],
-      "workarounds": [
-        "手动逐步处理"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Trovio For Brands: Communities love your brand - Our AI team finds them for you",
-      "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Your Chat UI Just Got an AI Roommate",
-      "top_complaints": [
-        "使用体验差，令人沮丧",
-        "频繁出 bug，功能不稳定",
-        "学习曲线陡峭，上手困难"
-      ],
-      "workarounds": [
-        "转向自托管或其他部署平台",
-        "导出再导入的复制粘贴流程"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Your creative AI co-director",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "改用其他工具/平台"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "box",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "手动逐步处理"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "box: Simple computers for agent w",
-      "top_complaints": [
-        "缺少关键功能或支持"
+        "未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -63528,14 +63002,346 @@
     {
       "term": "box: Simple computers for agent w/ full VMs",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "输出不稳定，结果不可预测",
-        "用户主动寻找替代方案"
+        "未发现明确用户痛点"
       ],
       "workarounds": [],
-      "desired_features": [
-        "期望官方支持更多功能"
-      ]
+      "desired_features": []
+    },
+    {
+      "term": "box",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Simple computers for agent w/ full VMs",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "box: Simple computers for agent w",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "No-slop AI SEO agent that interviews you first",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MonoCloud for Startups: One identity layer for your customers, APIs, and agents",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MonoCloud for Startups",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "One identity layer for your customers, APIs, and agents",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Gemini 3.6 Flash Family: Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Gemini 3.6 Flash Family",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Gemini 3.6 Flash Family: Gemini 3.6 Flash, 3.5 Flash",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Trovio For Brands: Communities love your brand - Our AI team finds them for you",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Trovio For Brands",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Communities love your brand - Our AI team finds them for you",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Trovio For Brands: Communities love your brand",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Light Flip: Nostalgia for a time before smartphones",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Light Flip",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Nostalgia for a time before smartphones",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Arkor: Fine-tune and Deploy Open-weight Models in TypeScript",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Arkor",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Fine-tune and Deploy Open-weight Models in TypeScript",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Arkor: Fine",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Fine",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AI Agents in Chat: Your Chat UI Just Got an AI Roommate",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AI Agents in Chat",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Your Chat UI Just Got an AI Roommate",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Grindoro: Focus with others through synchronized Pomodoro sessions",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Grindoro",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Focus with others through synchronized Pomodoro sessions",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Redential: A developer credential that proves what you built, NDA safe.",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Redential",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Overflight: Identify every aircraft in your sky.",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Overflight",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Identify every aircraft in your sky.",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Lattics: Brain-like knowledge base with AI writing & deep research",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Lattics",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Brain-like knowledge base with AI writing & deep research",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Lattics: Brain",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Brain",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AgentManager: Never miss a Claude Code session waiting for your input",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AgentManager",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Never miss a Claude Code session waiting for your input",
+      "top_complaints": [
+        "未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
     }
   ]
 }
