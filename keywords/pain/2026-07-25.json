@@ -1,0 +1,364 @@
+{
+  "date": "2026-07-25",
+  "entries": [
+    {
+      "term": "Aligned",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Tracking",
+      "top_complaints": [
+        "难以控制输出，依赖精细 prompt"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "NVIDIA",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Object",
+      "top_complaints": [
+        "难以控制输出，依赖精细 prompt",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Oriented",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Bench",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "难以控制输出，依赖精细 prompt",
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Hybrid",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Attention with",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "性能慢，响应延迟高",
+        "难以控制输出，依赖精细 prompt"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "需要更多导出格式"
+      ]
+    },
+    {
+      "term": "Video Generation",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案",
+        "需要批量处理或 API 接入"
+      ]
+    },
+    {
+      "term": "Pass",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Evolving",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "User",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "难以控制输出，依赖精细 prompt",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Streaming",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Autoregressive",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Model with",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with World",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Experience",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "需要批量处理或 API 接入"
+      ]
+    },
+    {
+      "term": "Replay",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Distillation with",
+      "top_complaints": [
+        "性能慢，响应延迟高"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Divergence",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "LLM RL",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积",
+        "扩展性差，大规模部署受限"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Recurrent",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Large-scale",
+      "top_complaints": [
+        "扩展性差，大规模部署受限",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Dataset",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "用户主动寻找替代方案",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Generalizable",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Manipulation",
+      "top_complaints": [
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A Large-scale",
+      "top_complaints": [
+        "定价过高，流量上来后成本飙升",
+        "性能慢，响应延迟高"
+      ],
+      "workarounds": [
+        "导出再导入的复制粘贴流程"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Train",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积",
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "转向自托管或其他部署平台",
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案",
+        "期望官方支持更多功能"
+      ]
+    },
+    {
+      "term": "Environment",
+      "top_complaints": [
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Agents in",
+      "top_complaints": [
+        "难以维护，技术债快速累积",
+        "扩展性差，大规模部署受限",
+        "学习曲线陡峭，上手困难"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Financial",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Interactive",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "用户主动寻找替代方案",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Matching",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    }
+  ]
+}
