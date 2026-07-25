@@ -1,0 +1,234 @@
+{
+  "date": "2026-07-25",
+  "entries": [
+    {
+      "term": "Video Generation",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 5,
+        "D5": 5,
+        "D6": 3
+      },
+      "status": "进入验证池",
+      "product_direction": "面向内容创作者与营销团队的 AI 视频生成平台，聚焦稳定输出、批量处理与透明定价",
+      "suggested_headline": "Generate Production-Ready Videos Without the Bugs or Bill Shock",
+      "target_users": [
+        "短视频营销团队",
+        "电商产品展示运营",
+        "独立游戏与动画开发者"
+      ]
+    },
+    {
+      "term": "LLM RL",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 AI 研发团队的 LLM 强化学习训练与部署平台，解决扩展性、技术债与稳定性痛点",
+      "suggested_headline": "Scale LLM Reinforcement Learning Without the Ops Nightmare",
+      "target_users": [
+        "AI 研究员",
+        "ML 工程师",
+        "需要 RLHF 的 AI 创业公司"
+      ]
+    },
+    {
+      "term": "Dataset",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 5,
+        "D5": 5,
+        "D6": 3
+      },
+      "status": "进入验证池",
+      "product_direction": "面向机器学习团队的数据集管理与版本控制 SaaS，支持批量处理、迁移部署与 API 接入",
+      "suggested_headline": "Manage ML Datasets at Scale — Version, Migrate, Deploy",
+      "target_users": [
+        "数据科学家",
+        "MLOps 工程师",
+        "AI 创业公司技术团队"
+      ]
+    },
+    {
+      "term": "Attention with",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Model with",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Agents in",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Bench",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Streaming",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Experience",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Replay",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Distillation with",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Train",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Interactive",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "with World",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 1,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Divergence",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 1,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A Large-scale",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 1,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    }
+  ]
+}
