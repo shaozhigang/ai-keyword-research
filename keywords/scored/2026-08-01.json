@@ -1,7 +1,5 @@
 {
   "date": "2026-08-01",
-  "scored_at": "2026-08-01T22:02:55.305598",
-  "bootstrap": "heuristic (Agent 2 scored file missing)",
   "entries": [
     {
       "term": "Claim",
@@ -99,14 +97,14 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Metis Memory Foundation",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Memory Foundation",
@@ -183,7 +181,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Long-Term",
@@ -204,14 +202,14 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Long-Term Memory",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Visual",
@@ -232,21 +230,21 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "of Retrieval-Augmented Generation",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
     },
     {
       "term": "Retrieval-Augmented Generation",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
     },
     {
       "term": "On-Policy",
@@ -281,7 +279,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Benchmarking",
@@ -414,21 +412,21 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Multimodal Models",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Multimodal Models Really",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Models Really",
@@ -505,7 +503,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Designing",
@@ -540,7 +538,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Large",
@@ -582,7 +580,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Intent",
@@ -658,8 +656,8 @@
       "term": "Filesystem-Based Memory for LLM Agents",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
     },
     {
       "term": "Organization, Evolution, and Sustainability",
@@ -708,14 +706,14 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Filesystem-Based Memory for",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
     },
     {
       "term": "Memory for LLM",
@@ -729,21 +727,21 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "for LLM Agents",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "LLM Agents Organization",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Agents Organization",
@@ -778,7 +776,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Evolution and Sustainability",
@@ -792,7 +790,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Trade",
@@ -806,7 +804,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Harness",
@@ -827,7 +825,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Research",
@@ -876,21 +874,21 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Vision-Language Models",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "for Visual",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
     },
     {
       "term": "Lightweight",
@@ -924,1310 +922,1310 @@
       "term": "NudgeForMe: AI nudge and habit tracking",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有5个工具站"
     },
     {
       "term": "NudgeForMe",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站，标题精准匹配多"
     },
     {
       "term": "AI nudge and habit tracking",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "NudgeForMe AI",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "NudgeForMe AI nudge",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "AI nudge",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "AI nudge and",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "nudge and",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "nudge and habit",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "and habit",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "and habit tracking",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有5个工具站"
     },
     {
       "term": "habit tracking",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "DeepSeek-V4-Flash-0731: Latest DeepSeek V4 Flash model",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有3个工具站"
     },
     {
       "term": "DeepSeek-V4-Flash-0731",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有5个工具站"
     },
     {
       "term": "Latest DeepSeek V4 Flash model",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有4个工具站"
     },
     {
       "term": "DeepSeek",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站，标题精准匹配多"
     },
     {
       "term": "Flash",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "0731: Latest DeepSeek V4 Flash model",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有4个工具站"
     },
     {
       "term": "Latest",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "DeepSeek-V4-Flash-0731 Latest",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有3个工具站"
     },
     {
       "term": "DeepSeek-V4-Flash-0731 Latest DeepSeek",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有4个工具站"
     },
     {
       "term": "Latest DeepSeek",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Latest DeepSeek V4",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "中等，混有论坛帖，有2个工具站"
     },
     {
       "term": "DeepSeek V4",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有2个工具站，标题精准匹配多"
     },
     {
       "term": "DeepSeek V4 Flash",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "V4",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "V4 Flash",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有2个工具站，标题精准匹配多"
     },
     {
       "term": "V4 Flash model",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Flash model",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Port22: SSH port forwarding tool",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "Port22",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "SSH port forwarding tool",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有5个工具站"
     },
     {
       "term": "SSH",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Port22 SSH",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Port22 SSH port",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "SSH port",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站，标题精准匹配多"
     },
     {
       "term": "SSH port forwarding",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有1个工具站，标题精准匹配多"
     },
     {
       "term": "port forwarding",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "port forwarding tool",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "中等，混有论坛帖，有2个工具站"
     },
     {
       "term": "forwarding tool",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "Yamanote 3D: 3D visualization tool",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Yamanote 3D",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "3D visualization tool",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "Yamanote",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Yamanote 3D 3D",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "中等，混有论坛帖，有1个工具站"
     },
     {
       "term": "3D 3D",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "3D 3D visualization",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "3D visualization",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站，标题精准匹配多"
     },
     {
       "term": "visualization tool",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有8个工具站，标题精准匹配多"
     },
     {
       "term": "AgentMicro: Micro AI agents platform",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "AgentMicro",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "Micro AI agents platform",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有4个工具站"
     },
     {
       "term": "AgentMicro Micro",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有3个工具站"
     },
     {
       "term": "AgentMicro Micro AI",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Micro AI",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有3个工具站"
     },
     {
       "term": "Micro AI agents",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有3个工具站"
     },
     {
       "term": "AI agents",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站，标题精准匹配多"
     },
     {
       "term": "AI agents platform",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有10个工具站"
     },
     {
       "term": "agents platform",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有10个工具站"
     },
     {
       "term": "Kopai: AI copilot tool",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Kopai",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "中等，混有论坛帖，标题精准匹配多"
     },
     {
       "term": "AI copilot tool",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Kopai AI",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "中等，混有论坛帖，有1个工具站"
     },
     {
       "term": "Kopai AI copilot",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "AI copilot",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "copilot tool",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Terminal Candy: Terminal customization",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "中等，混有论坛帖，有1个工具站"
     },
     {
       "term": "Terminal Candy",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Terminal customization",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有3个工具站"
     },
     {
       "term": "Candy",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Terminal Candy Terminal",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Candy Terminal",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "Candy Terminal customization",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "中等，混有论坛帖，有2个工具站"
     },
     {
       "term": "TerminalWidget: Terminal widgets for macOS",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有5个工具站"
     },
     {
       "term": "TerminalWidget",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有6个工具站"
     },
     {
       "term": "Terminal widgets for macOS",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有4个工具站"
     },
     {
       "term": "TerminalWidget Terminal",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有7个工具站"
     },
     {
       "term": "TerminalWidget Terminal widgets",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有5个工具站"
     },
     {
       "term": "Terminal widgets",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有9个工具站"
     },
     {
       "term": "Terminal widgets for",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有6个工具站"
     },
     {
       "term": "widgets for",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "widgets for macOS",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "for macOS",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有6个工具站"
     },
     {
       "term": "SyncStaq: Data sync platform",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "SyncStaq",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Data sync platform",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有6个工具站"
     },
     {
       "term": "SyncStaq Data",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有5个工具站"
     },
     {
       "term": "SyncStaq Data sync",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Data sync",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站，标题精准匹配多"
     },
     {
       "term": "sync platform",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有5个工具站"
     },
     {
       "term": "ElevenAgents by ElevenLabs: Scale conversations without scaling your team",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "ElevenAgents by ElevenLabs",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有6个工具站"
     },
     {
       "term": "Scale conversations without scaling your team",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "ElevenAgents",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有2个工具站，标题精准匹配多"
     },
     {
       "term": "ElevenLabs",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有6个工具站，标题精准匹配多"
     },
     {
       "term": "ElevenAgents by",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有6个工具站"
     },
     {
       "term": "by ElevenLabs",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有7个工具站"
     },
     {
       "term": "by ElevenLabs Scale",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有5个工具站"
     },
     {
       "term": "ElevenLabs Scale",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "ElevenLabs Scale conversations",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有6个工具站"
     },
     {
       "term": "Scale conversations",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Scale conversations without",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "conversations without",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "conversations without scaling",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有1个工具站"
     },
     {
       "term": "without scaling",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "without scaling your",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "scaling your",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "scaling your team",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "your team",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有1个工具站，标题精准匹配多"
     },
     {
       "term": "Basedash Audit Logs: Database audit logging",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "中等，混有论坛帖"
     },
     {
       "term": "Basedash Audit Logs",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有5个工具站"
     },
     {
       "term": "Database audit logging",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Basedash",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站，标题精准匹配多"
     },
     {
       "term": "Audit",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Database",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站，标题精准匹配多"
     },
     {
       "term": "Basedash Audit",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Audit Logs",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站，标题精准匹配多"
     },
     {
       "term": "Audit Logs Database",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Logs Database",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Logs Database audit",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Database audit",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站，标题精准匹配多"
     },
     {
       "term": "audit logging",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站，标题精准匹配多"
     },
     {
       "term": "EssayKraft: AI essay writing tool",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "EssayKraft",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有5个工具站，标题精准匹配多"
     },
     {
       "term": "AI essay writing tool",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有5个工具站"
     },
     {
       "term": "EssayKraft AI",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有5个工具站"
     },
     {
       "term": "EssayKraft AI essay",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "AI essay",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站，标题精准匹配多"
     },
     {
       "term": "AI essay writing",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "essay writing",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "essay writing tool",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有6个工具站"
     },
     {
       "term": "writing tool",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有10个工具站，标题精准匹配多"
     },
     {
       "term": "Tandem: Collaboration tool",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有5个工具站"
     },
     {
       "term": "Tandem",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站，标题精准匹配多"
     },
     {
       "term": "Collaboration tool",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有10个工具站，标题精准匹配多"
     },
     {
       "term": "Collaboration",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Tandem Collaboration",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Tandem Collaboration tool",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "Quillly: Writing assistant",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "Quillly",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "Writing assistant",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有5个工具站，标题精准匹配多"
     },
     {
       "term": "Writing",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Quillly Writing",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "Quillly Writing assistant",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "UXFix: UX improvement tool",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有9个工具站"
     },
     {
       "term": "UXFix",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "UX improvement tool",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有8个工具站"
     },
     {
       "term": "UXFix UX",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有3个工具站"
     },
     {
       "term": "UXFix UX improvement",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "中等，混有论坛帖，有2个工具站"
     },
     {
       "term": "UX",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "UX improvement",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "improvement tool",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Ziggers: Developer tool",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Ziggers",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Developer tool",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Developer",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Ziggers Developer",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Ziggers Developer tool",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Pokey: Productivity tool",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Pokey",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Productivity tool",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Productivity",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Pokey Productivity",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Pokey Productivity tool",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Curate: Content curation tool",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Curate",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Content curation tool",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Content",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Curate Content",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Curate Content curation",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Content curation",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "curation tool",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Wispr Flow: Dictation That Works Everywhere",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Wispr Flow",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Dictation That Works Everywhere",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Wispr",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Dictation",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Works",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Everywhere",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Wispr Flow Dictation",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Flow Dictation",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Flow Dictation That",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Dictation That",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Dictation That Works",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "That Works",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "That Works Everywhere",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     },
     {
       "term": "Works Everywhere",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "限流回退，ProductHunt新词；来源标注为producthunt新词，趋势暂按上升处理"
     }
   ]
 }
