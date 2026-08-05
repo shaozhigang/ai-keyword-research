@@ -1023,7 +1023,9 @@
     {
       "term": "Agent",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "难以控制输出，依赖精细 prompt",
+        "输出不稳定，结果不可预测"
       ],
       "workarounds": [],
       "desired_features": []
@@ -2142,7 +2144,7 @@
     {
       "term": "Models via",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -6464,29 +6466,39 @@
     {
       "term": "ngrok AI Gateway: One private gateway for every AI model",
       "top_complaints": [
-        "多模型 API 密钥分散管理，安全风险高",
-        "各厂商限流策略不一，生产环境难以统一管控",
-        "缺少私有部署的统一 AI 流量入口"
+        "频繁出 bug，功能不稳定",
+        "性能慢，响应延迟高"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "转向自托管或其他部署平台",
+        "改用其他工具/平台"
+      ],
       "desired_features": []
     },
     {
       "term": "ngrok AI Gateway",
       "top_complaints": [
-        "多模型接入配置繁琐",
-        "生产环境 API 密钥管理混乱"
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
       "desired_features": []
     },
     {
       "term": "One private gateway for every AI model",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "定价过高，流量上来后成本飙升"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": [
+        "需要批量处理或 API 接入",
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Gateway",
@@ -6507,7 +6519,8 @@
     {
       "term": "AI",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "定价过高，流量上来后成本飙升",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -6611,17 +6624,18 @@
     {
       "term": "AdAnt AI: Claude for viral, high-converting social ads",
       "top_complaints": [
-        "广告创意产出慢，AB 测试迭代周期长",
-        "通用 AI 文案缺乏平台调性与转化导向",
-        "素材制作成本高，小团队难以规模化投放"
+        "输出不稳定，结果不可预测",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "手动逐步处理"
+      ],
       "desired_features": []
     },
     {
       "term": "AdAnt AI",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -6629,9 +6643,11 @@
     {
       "term": "Claude for viral, high-converting social ads",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": []
     },
     {
@@ -6758,28 +6774,39 @@
     {
       "term": "Wispr Flow Notetaker: Meeting notes that get the details right.",
       "top_complaints": [
-        "通用会议转录遗漏行动项与关键决策",
-        "会后整理笔记耗时，信息散落各处",
-        "多人会议说话人识别不准确"
+        "缺少关键功能或支持",
+        "难以控制输出，依赖精细 prompt"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Wispr Flow Notetaker",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Meeting notes that get the details right.",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "定价过高，流量上来后成本飙升",
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Wispr",
@@ -6941,27 +6968,41 @@
     {
       "term": "NextDoor.Company: Discover startups hiring near you, on a map",
       "top_complaints": [
-        "主流招聘平台难以发现附近早期创业公司",
-        "远程岗位泛滥，本地机会信息分散",
-        "缺少地理位置维度的创业招聘聚合"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "平台锁定，迁移困难"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "NextDoor.Company",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "性能慢，响应延迟高"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "用临时 hack 绕过限制",
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Discover startups hiring near you, on a map",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
       "desired_features": []
     },
     {
@@ -7121,15 +7162,19 @@
     {
       "term": "Cloudflare Wallets",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "难以控制输出，依赖精细 prompt",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": []
     },
     {
       "term": "the programmable wallet for the agentic Internet",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -7257,27 +7302,40 @@
     {
       "term": "Kiro Crew: Open source agentic development workspace",
       "top_complaints": [
-        "Agent 开发工具链碎片化，调试困难",
-        "闭源平台锁定，难以自定义工作流",
-        "多 Agent 协作缺少统一的开发环境"
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Kiro Crew",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Open source agentic development workspace",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
       "desired_features": []
     },
     {
@@ -7389,7 +7447,7 @@
     {
       "term": "StepGrab",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -7397,10 +7455,15 @@
     {
       "term": "Turn any Mac task into a step-by-step guide",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "StepGrab: Turn any Mac task into a step",
@@ -7542,17 +7605,17 @@
     {
       "term": "AntsData · 蚁数科技: Scrape any website. Get clean JSON. Zero setup.",
       "top_complaints": [
-        "自建爬虫维护成本高，反爬策略频繁变化",
-        "抓取结果格式混乱，清洗耗时",
-        "现有工具配置复杂，上手门槛高"
+        "难以维护，技术债快速累积"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": []
     },
     {
       "term": "AntsData · 蚁数科技",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -7560,10 +7623,16 @@
     {
       "term": "Scrape any website. Get clean JSON. Zero setup.",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "需要批量处理或 API 接入"
+      ]
     },
     {
       "term": "AntsData",
@@ -7736,17 +7805,20 @@
     {
       "term": "BackEngine MCP: Make private company knowledge usable for AI",
       "top_complaints": [
-        "内部文档无法被 AI 助手安全检索",
-        "RAG 搭建复杂，权限管控困难",
-        "通用 AI 缺乏企业上下文，回答不准确"
+        "输出不稳定，结果不可预测",
+        "平台锁定，迁移困难"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "需要更多导出格式"
+      ]
     },
     {
       "term": "BackEngine MCP",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -7754,10 +7826,17 @@
     {
       "term": "Make private company knowledge usable for AI",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "学习曲线陡峭，上手困难",
+        "难以维护，技术债快速累积",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": [
+        "期望官方支持更多功能",
+        "需要更多导出格式"
+      ]
     },
     {
       "term": "BackEngine",
@@ -7890,17 +7969,19 @@
     {
       "term": "Keystroke: Build powerful AI agents & workflows",
       "top_complaints": [
-        "Agent 工作流搭建需要大量代码",
-        "现有编排工具学习曲线陡峭",
-        "调试 Agent 执行失败困难"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "边界情况处理差，反复返工调试"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
       "desired_features": []
     },
     {
       "term": "Keystroke",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -7908,10 +7989,17 @@
     {
       "term": "Build powerful AI agents & workflows",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "边界情况处理差，反复返工调试"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "批量下载后拖拽迁移部署",
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": [
+        "需要批量处理或 API 接入"
+      ]
     },
     {
       "term": "Keystroke Build",
@@ -7964,9 +8052,11 @@
     {
       "term": "AI agents",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "手动逐步处理"
+      ],
       "desired_features": []
     },
     {
@@ -7988,26 +8078,33 @@
     {
       "term": "X Money: Your money, on the world's most powerful network.",
       "top_complaints": [
-        "平台内变现渠道分散",
-        "跨境收款流程复杂"
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": []
     },
     {
       "term": "X Money",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Your money, on the world's most powerful network.",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "定价过高，流量上来后成本飙升",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
       "desired_features": []
     },
     {
@@ -8158,7 +8255,7 @@
     {
       "term": "npm i -g hotcell",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -8166,9 +8263,12 @@
     {
       "term": "Local sandboxes for AI agents on your Mac, Linux, bare metal",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "转向自托管或其他部署平台"
+      ],
       "desired_features": []
     },
     {
@@ -8182,11 +8282,11 @@
     {
       "term": "g hotcell: Local sandboxes for AI agents on your Mac, Linux, bare metal",
       "top_complaints": [
-        "Agent 代码执行缺乏安全隔离",
-        "云端沙箱延迟高且成本不可控",
-        "本地 Agent 运行环境配置复杂"
+        "搜索结果中未发现明确用户痛点"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
       "desired_features": []
     },
     {
@@ -8224,7 +8324,7 @@
     {
       "term": "g hotcell",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -8402,7 +8502,8 @@
     {
       "term": "Hansel",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -8410,9 +8511,11 @@
     {
       "term": "Remember everything you've worked on",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
       "desired_features": []
     },
     {
@@ -8498,17 +8601,22 @@
     {
       "term": "Capacity Desktop: A free Lovable that lives on your Mac",
       "top_complaints": [
-        "云端 AI 建站工具数据出境，隐私顾虑大",
-        "订阅费用高，小项目不划算",
-        "本地开发环境配置繁琐"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": [
+        "希望增加更完善的功能"
+      ]
     },
     {
       "term": "Capacity Desktop",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -8516,9 +8624,13 @@
     {
       "term": "A free Lovable that lives on your Mac",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "手动逐步处理"
+      ],
       "desired_features": []
     },
     {
@@ -8662,7 +8774,7 @@
     {
       "term": "JustInterview.ai",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -8670,10 +8782,13 @@
     {
       "term": "Hire 20× Faster. Fill Roles in Days, Not Weeks",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "平台锁定，迁移困难"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "JustInterview",
@@ -8879,7 +8994,7 @@
     {
       "term": "Keytones",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -8887,10 +9002,14 @@
     {
       "term": "Distinct key sounds for uppercase, lowercase & more",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "学习曲线陡峭，上手困难"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "需要批量处理或 API 接入"
+      ]
     },
     {
       "term": "Distinct",
@@ -9007,17 +9126,20 @@
     {
       "term": "Dover MCP: Run your hiring process from Claude or ChatGPT",
       "top_complaints": [
-        "招聘工具与 AI 助手割裂，需频繁切换",
-        "候选人信息散落邮件与表格中",
-        "小团队缺少轻量招聘管理系统"
+        "缺少关键功能或支持",
+        "学习曲线陡峭，上手困难",
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "改用其他工具/平台",
+        "手动逐步处理"
+      ],
       "desired_features": []
     },
     {
       "term": "Dover MCP",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -9025,10 +9147,15 @@
     {
       "term": "Run your hiring process from Claude or ChatGPT",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Dover",
@@ -11125,7 +11252,9 @@
     {
       "term": "for Evaluating",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "性能慢，响应延迟高"
       ],
       "workarounds": [],
       "desired_features": []
@@ -12793,7 +12922,7 @@
     {
       "term": "Gaming",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "性能慢，响应延迟高"
       ],
       "workarounds": [],
       "desired_features": []
@@ -18021,10 +18150,14 @@
     {
       "term": "Context",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "难以控制输出，依赖精细 prompt",
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "需要更多导出格式"
+      ]
     },
     {
       "term": "Enhancing Tabular",
@@ -20338,9 +20471,13 @@
     {
       "term": "Data Agents",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "手动逐步处理"
+      ],
       "desired_features": []
     },
     {
@@ -37064,9 +37201,11 @@
     {
       "term": "Rubrics for",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "学习曲线陡峭，上手困难"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": []
     },
     {
@@ -43930,7 +44069,9 @@
     {
       "term": "Writing",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "难以控制输出，依赖精细 prompt",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -45626,7 +45767,7 @@
     {
       "term": "Needle",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "难以维护，技术债快速累积"
       ],
       "workarounds": [],
       "desired_features": []
@@ -49226,7 +49367,9 @@
     {
       "term": "Chat",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持",
+        "难以控制输出，依赖精细 prompt"
       ],
       "workarounds": [],
       "desired_features": []
@@ -49250,7 +49393,9 @@
     {
       "term": "Debug",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [],
       "desired_features": []
