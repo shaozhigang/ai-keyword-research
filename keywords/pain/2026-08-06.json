@@ -42164,7 +42164,9 @@
     {
       "term": "Cloudflare OS Build",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "企业内部 AI 工具碎片化，缺乏统一编排层",
+        "Agent 与 API 集成各自为政，运维成本高",
+        "安全策略与 AI 工作流难以在同一平台管控"
       ],
       "workarounds": [],
       "desired_features": []
@@ -42324,7 +42326,9 @@
     {
       "term": "Superlog Responder FREE",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "自动 Bug 修复 Agent 产出不可信，经常引入新缺陷",
+        "PR 质量参差，需要大量人工 review",
+        "缺乏上下文理解，修复与业务逻辑脱节"
       ],
       "workarounds": [],
       "desired_features": []
@@ -42436,7 +42440,9 @@
     {
       "term": "Muse Code Meta",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "长程编程任务中 Agent 上下文频繁丢失",
+        "多步骤编码任务中途失败，难以恢复进度",
+        "终端 Agent 响应慢，复杂 refactor 不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -42540,7 +42546,8 @@
     {
       "term": "Annotate Screen",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "屏幕录制转 prompt 工作流仍偏手动",
+        "录制内容难以精确标注关键操作步骤"
       ],
       "workarounds": [],
       "desired_features": []
@@ -42548,7 +42555,8 @@
     {
       "term": "Annotate Screen recording",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "屏幕录制转 prompt 工作流仍偏手动",
+        "录制内容难以精确标注关键操作步骤"
       ],
       "workarounds": [],
       "desired_features": []
@@ -42796,7 +42804,9 @@
     {
       "term": "Shieldstral Define",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "静态 prompt 过滤无法应对运行时新型攻击",
+        "文本与图像安全策略难以统一配置",
+        "合规审计缺乏细粒度策略变更记录"
       ],
       "workarounds": [],
       "desired_features": []
@@ -42804,7 +42814,9 @@
     {
       "term": "Shieldstral Define safety",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "静态 prompt 过滤无法应对运行时新型攻击",
+        "文本与图像安全策略难以统一配置",
+        "合规审计缺乏细粒度策略变更记录"
       ],
       "workarounds": [],
       "desired_features": []
@@ -43228,7 +43240,8 @@
     {
       "term": "Brandfetch MCP Stop",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "AI 生成内容中品牌 Logo 经常错误或过时",
+        "手动维护品牌资产库与 AI 工作流脱节"
       ],
       "workarounds": [],
       "desired_features": []
@@ -43348,7 +43361,8 @@
     {
       "term": "Pangea Explore",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "旅行规划工具缺乏社交协作功能",
+        "现有平台推荐算法同质化严重"
       ],
       "workarounds": [],
       "desired_features": []
@@ -43356,7 +43370,8 @@
     {
       "term": "Pangea Explore the",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "旅行规划工具缺乏社交协作功能",
+        "现有平台推荐算法同质化严重"
       ],
       "workarounds": [],
       "desired_features": []
@@ -43428,7 +43443,8 @@
     {
       "term": "producTinder Swipe",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "Product Hunt 上新产品发现效率低",
+        "独立开发者之间缺乏轻量互动渠道"
       ],
       "workarounds": [],
       "desired_features": []
@@ -43436,7 +43452,8 @@
     {
       "term": "producTinder Swipe to",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "Product Hunt 上新产品发现效率低",
+        "独立开发者之间缺乏轻量互动渠道"
       ],
       "workarounds": [],
       "desired_features": []
@@ -43572,7 +43589,9 @@
     {
       "term": "Aveiro Publish",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "网站、Newsletter、社交内容需分别在不同工具发布",
+        "AI 生成内容缺乏统一品牌风格管控",
+        "多平台内容排期与协作流程割裂"
       ],
       "workarounds": [],
       "desired_features": []
@@ -43580,7 +43599,9 @@
     {
       "term": "Aveiro Publish sites",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "网站、Newsletter、社交内容需分别在不同工具发布",
+        "AI 生成内容缺乏统一品牌风格管控",
+        "多平台内容排期与协作流程割裂"
       ],
       "workarounds": [],
       "desired_features": []
@@ -43716,7 +43737,9 @@
     {
       "term": "Token Harbor The",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "前沿模型 API Key 管理繁琐，切换成本高",
+        "多模型路由与 failover 需自建基础设施",
+        "模型定价变化快，成本优化困难"
       ],
       "workarounds": [],
       "desired_features": []
@@ -43860,7 +43883,8 @@
     {
       "term": "Ododok Count",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "正念/咀嚼追踪缺乏无感数据采集方式",
+        "饮食正念习惯难以坚持记录"
       ],
       "workarounds": [],
       "desired_features": []
@@ -43868,7 +43892,8 @@
     {
       "term": "Ododok Count every",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "正念/咀嚼追踪缺乏无感数据采集方式",
+        "饮食正念习惯难以坚持记录"
       ],
       "workarounds": [],
       "desired_features": []
@@ -43948,7 +43973,8 @@
     {
       "term": "Chute The",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "向 iPhone 传输文件步骤繁琐",
+        "AirDrop 在跨平台场景不可靠"
       ],
       "workarounds": [],
       "desired_features": []
@@ -43956,7 +43982,8 @@
     {
       "term": "Chute The fastest",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "向 iPhone 传输文件步骤繁琐",
+        "AirDrop 在跨平台场景不可靠"
       ],
       "workarounds": [],
       "desired_features": []
@@ -44084,7 +44111,8 @@
     {
       "term": "PixlQR Dynamic",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "静态 QR 码无法追踪转化效果",
+        "短链与 QR 管理分散在不同工具"
       ],
       "workarounds": [],
       "desired_features": []
@@ -44092,7 +44120,8 @@
     {
       "term": "PixlQR Dynamic QR",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "静态 QR 码无法追踪转化效果",
+        "短链与 QR 管理分散在不同工具"
       ],
       "workarounds": [],
       "desired_features": []
@@ -59876,18 +59905,19 @@
     {
       "term": "AI Spend Console by Rippling",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
+        "无法追踪各部门 AI 工具花费，出现影子 AI 支出",
+        "AI 成本与业务 ROI 无法关联，财务难以 justify 预算",
+        "多个 AI 订阅账单分散，缺乏统一视图"
       ],
       "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "desired_features": []
     },
     {
       "term": "AI Spend Console by Rippling: Track your AI spend and connect it to business outcomes",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "无法追踪各部门 AI 工具花费，出现影子 AI 支出",
+        "AI 成本与业务 ROI 无法关联，财务难以 justify 预算",
+        "多个 AI 订阅账单分散，缺乏统一视图"
       ],
       "workarounds": [],
       "desired_features": []
@@ -59895,62 +59925,49 @@
     {
       "term": "Annotate: Screen recording as prompts",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持",
-        "难以维护，技术债快速累积"
+        "屏幕录制转 prompt 工作流仍偏手动",
+        "录制内容难以精确标注关键操作步骤"
       ],
-      "workarounds": [
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案",
-        "期望官方支持更多功能"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "Aveiro",
       "top_complaints": [
-        "学习曲线陡峭，上手困难"
+        "网站、Newsletter、社交内容需分别在不同工具发布",
+        "AI 生成内容缺乏统一品牌风格管控",
+        "多平台内容排期与协作流程割裂"
       ],
       "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "desired_features": []
     },
     {
       "term": "Aveiro: Publish sites, newsletters and social posts with AI agents",
       "top_complaints": [
-        "缺少关键功能或支持",
-        "频繁出 bug，功能不稳定"
+        "网站、Newsletter、社交内容需分别在不同工具发布",
+        "AI 生成内容缺乏统一品牌风格管控",
+        "多平台内容排期与协作流程割裂"
       ],
       "workarounds": [],
-      "desired_features": [
-        "需要批量处理或 API 接入"
-      ]
+      "desired_features": []
     },
     {
       "term": "Brandfetch MCP",
       "top_complaints": [
-        "难以控制输出，依赖精细 prompt",
-        "用户主动寻找替代方案"
+        "AI 生成内容中品牌 Logo 经常错误或过时",
+        "手动维护品牌资产库与 AI 工作流脱节"
       ],
       "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "desired_features": []
     },
     {
       "term": "Brandfetch MCP: Stop your AI from guessing brand logos",
       "top_complaints": [
-        "缺少关键功能或支持",
-        "定价过高，流量上来后成本飙升"
+        "AI 生成内容中品牌 Logo 经常错误或过时",
+        "手动维护品牌资产库与 AI 工作流脱节"
       ],
-      "workarounds": [
-        "手动逐步处理"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "Bring any agent to Slack, Teams, and more.",
@@ -59983,82 +60000,60 @@
     {
       "term": "Chute",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "难以维护，技术债快速累积",
-        "缺少关键功能或支持"
+        "向 iPhone 传输文件步骤繁琐",
+        "AirDrop 在跨平台场景不可靠"
       ],
-      "workarounds": [
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": [
-        "希望增加更完善的功能",
-        "在寻找更好的工具方案"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "Chute: The fastest way to send anything to your iPhone",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
+        "向 iPhone 传输文件步骤繁琐",
+        "AirDrop 在跨平台场景不可靠"
       ],
-      "workarounds": [
-        "批量下载后拖拽迁移部署"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "Cloudflare OS",
       "top_complaints": [
-        "使用体验差，令人沮丧",
-        "难以控制输出，依赖精细 prompt",
-        "频繁出 bug，功能不稳定"
+        "企业内部 AI 工具碎片化，缺乏统一编排层",
+        "Agent 与 API 集成各自为政，运维成本高",
+        "安全策略与 AI 工作流难以在同一平台管控"
       ],
-      "workarounds": [
-        "转向自托管或其他部署平台",
-        "用户用 Excel/表格手动处理",
-        "批量下载后拖拽迁移部署"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "Cloudflare OS: Build the AI operating system for your company",
       "top_complaints": [
-        "缺少关键功能或支持",
-        "定价过高，流量上来后成本飙升",
-        "性能慢，响应延迟高"
+        "企业内部 AI 工具碎片化，缺乏统一编排层",
+        "Agent 与 API 集成各自为政，运维成本高",
+        "安全策略与 AI 工作流难以在同一平台管控"
       ],
-      "workarounds": [
-        "转向自托管或其他部署平台"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "CopilotKit Channels SDK",
       "top_complaints": [
-        "缺少关键功能或支持",
-        "频繁出 bug，功能不稳定",
-        "平台锁定，迁移困难"
+        "将 Agent 部署到 Slack/Teams 需要重复造轮子",
+        "多通道消息格式与鉴权各自不同，集成成本高",
+        "Agent 在企业通讯工具中缺乏统一监控"
       ],
-      "workarounds": [
-        "转向自托管或其他部署平台"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "CopilotKit Channels SDK: Bring any agent to Slack, Teams, and more.",
       "top_complaints": [
-        "缺少关键功能或支持",
-        "定价过高，流量上来后成本飙升",
-        "平台锁定，迁移困难"
+        "将 Agent 部署到 Slack/Teams 需要重复造轮子",
+        "多通道消息格式与鉴权各自不同，集成成本高",
+        "Agent 在企业通讯工具中缺乏统一监控"
       ],
-      "workarounds": [
-        "转向自托管或其他部署平台"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "Count every chew with your AirPods",
@@ -60145,37 +60140,29 @@
     {
       "term": "Muse Code",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "学习曲线陡峭，上手困难"
+        "长程编程任务中 Agent 上下文频繁丢失",
+        "多步骤编码任务中途失败，难以恢复进度",
+        "终端 Agent 响应慢，复杂 refactor 不稳定"
       ],
-      "workarounds": [
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案",
-        "需要更多导出格式"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "Muse Code: Meta’s terminal agent for long",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "学习曲线陡峭，上手困难",
-        "定价过高，流量上来后成本飙升"
+        "长程编程任务中 Agent 上下文频繁丢失",
+        "多步骤编码任务中途失败，难以恢复进度",
+        "终端 Agent 响应慢，复杂 refactor 不稳定"
       ],
-      "workarounds": [
-        "手动逐步处理"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "Muse Code: Meta’s terminal agent for long-horizon coding",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "学习曲线陡峭，上手困难",
-        "定价过高，流量上来后成本飙升"
+        "长程编程任务中 Agent 上下文频繁丢失",
+        "多步骤编码任务中途失败，难以恢复进度",
+        "终端 Agent 响应慢，复杂 refactor 不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -60183,7 +60170,8 @@
     {
       "term": "Ododok",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "正念/咀嚼追踪缺乏无感数据采集方式",
+        "饮食正念习惯难以坚持记录"
       ],
       "workarounds": [],
       "desired_features": []
@@ -60191,20 +60179,17 @@
     {
       "term": "Ododok: Count every chew with your AirPods",
       "top_complaints": [
-        "缺少关键功能或支持",
-        "性能慢，响应延迟高",
-        "使用体验差，令人沮丧"
+        "正念/咀嚼追踪缺乏无感数据采集方式",
+        "饮食正念习惯难以坚持记录"
       ],
-      "workarounds": [
-        "用临时 hack 绕过限制"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "Pangea",
       "top_complaints": [
-        "难以维护，技术债快速累积",
-        "频繁出 bug，功能不稳定"
+        "旅行规划工具缺乏社交协作功能",
+        "现有平台推荐算法同质化严重"
       ],
       "workarounds": [],
       "desired_features": []
@@ -60212,7 +60197,8 @@
     {
       "term": "Pangea: Explore the World, Together",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "旅行规划工具缺乏社交协作功能",
+        "现有平台推荐算法同质化严重"
       ],
       "workarounds": [],
       "desired_features": []
@@ -60220,7 +60206,8 @@
     {
       "term": "PixlQR",
       "top_complaints": [
-        "用户主动寻找替代方案"
+        "静态 QR 码无法追踪转化效果",
+        "短链与 QR 管理分散在不同工具"
       ],
       "workarounds": [],
       "desired_features": []
@@ -60228,29 +60215,20 @@
     {
       "term": "PixlQR: Dynamic QR codes + short links🔗+real",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "定价过高，流量上来后成本飙升",
-        "缺少关键功能或支持"
+        "静态 QR 码无法追踪转化效果",
+        "短链与 QR 管理分散在不同工具"
       ],
-      "workarounds": [
-        "导出再导入的复制粘贴流程",
-        "改用其他工具/平台"
-      ],
-      "desired_features": [
-        "希望自动化简化工作流"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "PixlQR: Dynamic QR codes + short links🔗+real-time analytics 📊📈",
       "top_complaints": [
-        "缺少关键功能或支持",
-        "频繁出 bug，功能不稳定",
-        "定价过高，流量上来后成本飙升"
+        "静态 QR 码无法追踪转化效果",
+        "短链与 QR 管理分散在不同工具"
       ],
       "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "desired_features": []
     },
     {
       "term": "Publish sites, newsletters and social posts with AI agents",
@@ -60282,17 +60260,19 @@
     {
       "term": "Shieldstral",
       "top_complaints": [
-        "用户主动寻找替代方案"
+        "静态 prompt 过滤无法应对运行时新型攻击",
+        "文本与图像安全策略难以统一配置",
+        "合规审计缺乏细粒度策略变更记录"
       ],
-      "workarounds": [
-        "用临时 hack 绕过限制"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "Shieldstral: Define safety at runtime for text and images",
       "top_complaints": [
-        "学习曲线陡峭，上手困难"
+        "静态 prompt 过滤无法应对运行时新型攻击",
+        "文本与图像安全策略难以统一配置",
+        "合规审计缺乏细粒度策略变更记录"
       ],
       "workarounds": [],
       "desired_features": []
@@ -60309,9 +60289,9 @@
     {
       "term": "Superbrain For macOS",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "难以维护，技术债快速累积",
-        "使用体验差，令人沮丧"
+        "现有 IDE Agent 环境效率低，长时编码卡顿",
+        "Agent 工具链切换频繁，打断心流",
+        "Mac 上缺乏专为 agentic coding 优化的环境"
       ],
       "workarounds": [],
       "desired_features": []
@@ -60319,20 +60299,19 @@
     {
       "term": "Superbrain For macOS: Most Efficient Agentic Coding Environment",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧",
-        "缺少关键功能或支持"
+        "现有 IDE Agent 环境效率低，长时编码卡顿",
+        "Agent 工具链切换频繁，打断心流",
+        "Mac 上缺乏专为 agentic coding 优化的环境"
       ],
       "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "desired_features": []
     },
     {
       "term": "Superlog Responder",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
+        "自动 Bug 修复 Agent 产出不可信，经常引入新缺陷",
+        "PR 质量参差，需要大量人工 review",
+        "缺乏上下文理解，修复与业务逻辑脱节"
       ],
       "workarounds": [],
       "desired_features": []
@@ -60340,8 +60319,9 @@
     {
       "term": "Superlog Responder: FREE, open",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
+        "自动 Bug 修复 Agent 产出不可信，经常引入新缺陷",
+        "PR 质量参差，需要大量人工 review",
+        "缺乏上下文理解，修复与业务逻辑脱节"
       ],
       "workarounds": [],
       "desired_features": []
@@ -60349,15 +60329,11 @@
     {
       "term": "Superlog Responder: FREE, open-source AI bug-fixing agent",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "难以维护，技术债快速累积",
-        "缺少关键功能或支持"
+        "自动 Bug 修复 Agent 产出不可信，经常引入新缺陷",
+        "PR 质量参差，需要大量人工 review",
+        "缺乏上下文理解，修复与业务逻辑脱节"
       ],
-      "workarounds": [
-        "转向自托管或其他部署平台",
-        "用临时 hack 绕过限制",
-        "手动逐步处理"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
@@ -60400,23 +60376,21 @@
     {
       "term": "Token Harbor",
       "top_complaints": [
-        "使用体验差，令人沮丧",
-        "频繁出 bug，功能不稳定"
+        "前沿模型 API Key 管理繁琐，切换成本高",
+        "多模型路由与 failover 需自建基础设施",
+        "模型定价变化快，成本优化困难"
       ],
       "workarounds": [],
-      "desired_features": [
-        "期望官方支持更多功能"
-      ]
+      "desired_features": []
     },
     {
       "term": "Token Harbor: The easiest way to access frontier AI models.",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "输出不稳定，结果不可预测"
+        "前沿模型 API Key 管理繁琐，切换成本高",
+        "多模型路由与 failover 需自建基础设施",
+        "模型定价变化快，成本优化困难"
       ],
-      "workarounds": [
-        "用临时 hack 绕过限制"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
@@ -60445,48 +60419,38 @@
     {
       "term": "Website to Markdown API",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "网页 HTML 转 Markdown 格式混乱，LLM 难以理解",
+        "自建爬虫清洗成本高，维护困难",
+        "动态页面与反爬导致内容抓取不完整"
       ],
-      "workarounds": [
-        "用临时 hack 绕过限制",
-        "用户用 Excel/表格手动处理",
-        "导出再导入的复制粘贴流程"
-      ],
-      "desired_features": [
-        "需要批量处理或 API 接入"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "Website to Markdown API: Turn any website into LLM",
       "top_complaints": [
-        "难以控制输出，依赖精细 prompt",
-        "频繁出 bug，功能不稳定",
-        "输出不稳定，结果不可预测"
+        "网页 HTML 转 Markdown 格式混乱，LLM 难以理解",
+        "自建爬虫清洗成本高，维护困难",
+        "动态页面与反爬导致内容抓取不完整"
       ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
-      "desired_features": [
-        "需要批量处理或 API 接入",
-        "需要更多导出格式"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "Website to Markdown API: Turn any website into LLM-ready Markdown",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "网页 HTML 转 Markdown 格式混乱，LLM 难以理解",
+        "自建爬虫清洗成本高，维护困难",
+        "动态页面与反爬导致内容抓取不完整"
       ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
-      "desired_features": [
-        "需要批量处理或 API 接入"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "producTinder",
       "top_complaints": [
-        "用户主动寻找替代方案"
+        "Product Hunt 上新产品发现效率低",
+        "独立开发者之间缺乏轻量互动渠道"
       ],
       "workarounds": [],
       "desired_features": []
@@ -60494,14 +60458,11 @@
     {
       "term": "producTinder: Swipe to discover and support fellow Product Hunt makers",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "Product Hunt 上新产品发现效率低",
+        "独立开发者之间缺乏轻量互动渠道"
       ],
-      "workarounds": [
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "workarounds": [],
+      "desired_features": []
     }
   ]
 }
