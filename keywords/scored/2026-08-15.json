@@ -1,70 +1,69 @@
 {
   "date": "2026-08-15",
-  "scored_at": "2026-08-15T22:02:01.408017",
-  "bootstrap": "heuristic (Agent 2 scored file missing)",
+  "scored_at": "2026-08-15T23:19:29.196314",
   "entries": [
     {
       "term": "Supervision",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站，标题精准匹配多"
     },
     {
       "term": "Evaluating and",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "Video World",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站，标题精准匹配多"
     },
     {
       "term": "Harnesses",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Objectives",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站，标题精准匹配多"
     },
     {
       "term": "Activations",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有1个工具站，标题精准匹配多"
     },
     {
       "term": "in Hybrid",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Audio",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Real-Time",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站，标题精准匹配多"
     },
     {
       "term": "in Real-Time",
@@ -77,155 +76,155 @@
       "term": "Full",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "AI4AI",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Thought-Level Beam Search for Reasoning",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "中",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Level Beam Search for Reasoning",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "中",
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "Thought-Level",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Beam",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Thought-Level Beam",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Thought-Level Beam Search",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "中",
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Beam Search",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Beam Search for",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Search for Reasoning",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "Maglev: Sliding Recurrent Memory",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Maglev",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Sliding Recurrent Memory",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Sliding",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Recurrent",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Maglev Sliding",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "Maglev Sliding Recurrent",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Sliding Recurrent",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "Long-Term",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Segment-Level",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站，标题精准匹配多"
     },
     {
       "term": "Term",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Segment",
@@ -238,162 +237,162 @@
       "term": "Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Editing",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Editing for Composable Unstructured Knowledge Editing",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Hybrid-Policy",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Self-Editing",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Editing",
       "trend": "📈上升",
-      "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "main_geo": "IN",
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Composable",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站，标题精准匹配多"
     },
     {
       "term": "Unstructured",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站，标题精准匹配多"
     },
     {
       "term": "Hybrid-Policy Self-Editing",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Hybrid-Policy Self-Editing for",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Self-Editing for",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Self-Editing for Composable",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "for Composable",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "for Composable Unstructured",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有6个工具站"
     },
     {
       "term": "Composable Unstructured",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站"
     },
     {
       "term": "Composable Unstructured Knowledge",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "中",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Unstructured Knowledge",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Unstructured Knowledge Editing",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "Knowledge Editing",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站，标题精准匹配多"
     },
     {
       "term": "Diversity",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Knowing",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站，标题精准匹配多"
     },
     {
       "term": "Diagnosing",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "Diagnosing and",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "code review",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有4个工具站，标题精准匹配多"
     },
     {
       "term": "Inputs",
@@ -405,170 +404,170 @@
     {
       "term": "TailBooster: A Dual-Layer Generative Framework for Extreme Value Augmentation with Operational Validity Enforcement",
       "trend": "📈上升",
-      "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "main_geo": "IN",
+      "competition": "中",
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "TailBooster",
       "trend": "📈上升",
-      "main_geo": "US",
+      "main_geo": "IN",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "A Dual-Layer Generative Framework for Extreme Value Augmentation with Operational Validity Enforcement",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "中",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "TailBooster: A Dual",
       "trend": "📈上升",
-      "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "main_geo": "IN",
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Layer Generative Framework for Extreme Value Augmentation with Operational Validity Enforcement",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Dual-Layer",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Extreme",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站，标题精准匹配多"
     },
     {
       "term": "Operational",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Enforcement",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "TailBooster A",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有3个工具站"
     },
     {
       "term": "TailBooster A Dual-Layer",
       "trend": "📈上升",
-      "main_geo": "US",
+      "main_geo": "IN",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "A Dual-Layer",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "中等，混有论坛帖，有1个工具站"
     },
     {
       "term": "A Dual-Layer Generative",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "中等，混有论坛帖，有1个工具站"
     },
     {
       "term": "Dual-Layer Generative",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Dual-Layer Generative Framework",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "中",
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "Generative Framework",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有3个工具站"
     },
     {
       "term": "Generative Framework for",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Framework for Extreme",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "for Extreme",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "for Extreme Value",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Extreme Value",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Extreme Value Augmentation",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "中",
+      "top10_quality": "中等，混有论坛帖，有1个工具站"
     },
     {
       "term": "Value Augmentation",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "Value Augmentation with",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Augmentation with",
@@ -589,28 +588,28 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "with Operational Validity",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "中",
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "Operational Validity",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Operational Validity Enforcement",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "低",
-      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+      "competition": "中",
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "Validity Enforcement",
@@ -623,8 +622,8 @@
       "term": "Noisy",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Pseudo",
@@ -637,8 +636,8 @@
       "term": "Inferock Bench: An independent receipt for every LLM API call",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有8个工具站"
     },
     {
       "term": "Inferock Bench",
@@ -651,43 +650,43 @@
       "term": "An independent receipt for every LLM API call",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有7个工具站"
     },
     {
       "term": "Inferock",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有2个工具站，标题精准匹配多"
     },
     {
       "term": "API",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有10个工具站，标题精准匹配多"
     },
     {
       "term": "Inferock Bench An",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有8个工具站"
     },
     {
       "term": "Bench An",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "Bench An independent",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "An independent",
@@ -701,14 +700,14 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有2个工具站"
     },
     {
       "term": "independent receipt",
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "independent receipt for",
@@ -722,7 +721,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "receipt for every",
@@ -750,14 +749,14 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "every LLM API",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有9个工具站"
     },
     {
       "term": "LLM API",
@@ -777,8 +776,8 @@
       "term": "API call",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "中等，混有论坛帖，有10个工具站，标题精准匹配多"
     },
     {
       "term": "Zetik: A chief of staff in your pocket",
@@ -1057,8 +1056,8 @@
       "term": "Agent Orchestrator: Run a fleet of coding agents. Ship like a team.",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站"
     },
     {
       "term": "Agent Orchestrator",
@@ -1275,7 +1274,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "Bringing intelligence",
@@ -1317,7 +1316,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "中等，混有论坛帖，有1个工具站"
     },
     {
       "term": "your cursor",
@@ -1491,8 +1490,8 @@
       "term": "nenspace",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "the lo-fi of LLMs: your mind, made larger",
@@ -1520,7 +1519,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多，有1个工具站"
     },
     {
       "term": "nenspace the lo-fi",
@@ -1589,8 +1588,8 @@
       "term": "your mind",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "your mind made",
@@ -1722,8 +1721,8 @@
       "term": "app that",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有9个工具站"
     },
     {
       "term": "app that throws",
@@ -1744,7 +1743,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "throws confetti",
@@ -1953,8 +1952,8 @@
       "term": "Take control",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Take control of",
@@ -1989,7 +1988,7 @@
       "trend": "📈上升",
       "main_geo": "US",
       "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "top10_quality": "较强，专业站点多"
     },
     {
       "term": "files and",
@@ -2037,8 +2036,8 @@
       "term": "Close",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "MacBook",
@@ -2149,15 +2148,15 @@
       "term": "Talvo: Connect 2,500+ European banks to track your spending",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有7个工具站"
     },
     {
       "term": "Talvo",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，有3个工具站，标题精准匹配多"
     },
     {
       "term": "Connect 2,500+ European banks to track your spending",
@@ -2170,8 +2169,8 @@
       "term": "Connect",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "European",
@@ -3223,5 +3222,6 @@
       "competition": "中",
       "top10_quality": "来源标注为producthunt新词，趋势暂按上升处理"
     }
-  ]
+  ],
+  "bootstrap_replaced": "Tavily merged 110 entries (Agent 2)"
 }
