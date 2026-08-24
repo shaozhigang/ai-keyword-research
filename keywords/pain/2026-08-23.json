@@ -7556,6 +7556,7 @@
     {
       "term": "A local-first alternative to Logitech Options+",
       "top_complaints": [
+        "难以维护，技术债快速累积",
         "缺少关键功能或支持"
       ],
       "workarounds": [],
@@ -7570,7 +7571,7 @@
       ],
       "workarounds": [],
       "desired_features": [
-        "需要批量处理或 API 接入"
+        "在寻找更好的工具方案"
       ]
     },
     {
@@ -7579,7 +7580,6 @@
         "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [
-        "用户用 Excel/表格手动处理",
         "批量下载后拖拽迁移部署"
       ],
       "desired_features": [
@@ -7589,21 +7589,22 @@
     {
       "term": "AI for YouTube power users",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
       "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "用临时 hack 绕过限制"
+        "用户用 Excel/表格手动处理"
       ],
       "desired_features": []
     },
     {
       "term": "ANCBuddy for Bose QC Ultra",
       "top_complaints": [
-        "使用体验差，令人沮丧"
+        "缺少关键功能或支持"
       ],
       "workarounds": [
-        "批量下载后拖拽迁移部署"
+        "用户用 Excel/表格手动处理"
       ],
       "desired_features": [
         "在寻找更好的工具方案"
@@ -7612,9 +7613,11 @@
     {
       "term": "ANCBuddy for Bose QC Ultra: Control Bose QC Ultra from your macOS menu bar",
       "top_complaints": [
+        "缺少关键功能或支持",
         "频繁出 bug，功能不稳定"
       ],
       "workarounds": [
+        "用临时 hack 绕过限制",
         "自己写脚本或自建工具"
       ],
       "desired_features": [
@@ -7643,39 +7646,37 @@
       "term": "Claude Academy",
       "top_complaints": [
         "使用体验差，令人沮丧",
-        "频繁出 bug，功能不稳定"
+        "难以控制输出，依赖精细 prompt"
       ],
-      "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": []
     },
     {
       "term": "Claude Academy: The Official Learning Hub by Anthropic",
       "top_complaints": [
         "频繁出 bug，功能不稳定",
-        "扩展性差，大规模部署受限",
+        "使用体验差，令人沮丧",
         "性能慢，响应延迟高"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
       "desired_features": []
     },
     {
       "term": "Construct Computer",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧"
+        "用户主动寻找替代方案"
       ],
-      "workarounds": [
-        "手动逐步处理"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "Construct Computer: Your AI coworker gets a computer. You get your day back.",
       "top_complaints": [
-        "缺少关键功能或支持",
-        "使用体验差，令人沮丧"
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -7686,6 +7687,7 @@
         "频繁出 bug，功能不稳定"
       ],
       "workarounds": [
+        "用临时 hack 绕过限制",
         "自己写脚本或自建工具"
       ],
       "desired_features": [
@@ -7695,18 +7697,15 @@
     {
       "term": "Every flight you've ever taken, on one private map",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
+        "搜索结果中未发现明确用户痛点"
       ],
-      "workarounds": [
-        "手动逐步处理"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "FetchSandbox MCP",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -7714,8 +7713,7 @@
     {
       "term": "FetchSandbox MCP: The MCP that proves your AI's integration fixes work",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "生成代码存在安全漏洞"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -7756,19 +7754,15 @@
     {
       "term": "Free, goals-first planner for Mac",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "Have little ducks show how deep you dive on your Apple Watch",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧",
-        "缺少关键功能或支持"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -7776,9 +7770,7 @@
     {
       "term": "Hyperfocus",
       "top_complaints": [
-        "学习曲线陡峭，上手困难",
-        "难以控制输出，依赖精细 prompt",
-        "频繁出 bug，功能不稳定"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -7794,7 +7786,7 @@
     {
       "term": "Hyperfocus: Free, goals-first planner for Mac",
       "top_complaints": [
-        "使用体验差，令人沮丧"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -7802,7 +7794,7 @@
     {
       "term": "KanaSensei",
       "top_complaints": [
-        "用户主动寻找替代方案"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -7810,39 +7802,264 @@
     {
       "term": "KanaSensei: Read Japanese kana in two weeks",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Local Music Organizer for Mac",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Local Music Organizer for Mac: Ultimate toolkit for local Apple Music library maintenance",
+      "top_complaints": [
+        "难以维护，技术债快速累积",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [
-        "改用其他工具/平台"
+        "用户用 Excel/表格手动处理"
       ],
       "desired_features": [
         "在寻找更好的工具方案"
       ]
     },
     {
-      "term": "Local Music Organizer for Mac",
+      "term": "OpenLogi",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "OpenLogi: A local",
+      "top_complaints": [
+        "难以维护，技术债快速累积"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "OpenLogi: A local-first alternative to Logitech Options+",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Oppora AI",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Oppora AI: Find Leads, Run Outreach, and Book Meetings on Autopilot",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Plask",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "用户反馈：: Plesk Obsidian v18.0.67\\_build1800250217.08  Hi, I am..."
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Plask: Have little ducks show how deep you dive on your Apple Watch",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Read Japanese kana in two weeks",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Sortinghat",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Sortinghat: AI Native ATS + CRM for staffing firms",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Tab Notes",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Tab Notes: Turn your browser new tab into a distraction",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Tab Notes: Turn your browser new tab into a distraction-free notepad",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "The MCP that proves your AI's integration fixes work",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "性能慢，响应延迟高",
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "The Official Learning Hub by Anthropic",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The download button Github forgot to add",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Turn your browser new tab into a distraction-free notepad",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Ultimate toolkit for local Apple Music library maintenance",
       "top_complaints": [
         "频繁出 bug，功能不稳定",
         "缺少关键功能或支持",
         "难以维护，技术债快速累积"
       ],
       "workarounds": [
-        "改用其他工具/平台"
+        "手动逐步处理"
       ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "desired_features": []
     },
     {
-      "term": "Local Music Organizer for Mac: Ultimate toolkit for local Apple Music library maintenance",
+      "term": "Yatko",
       "top_complaints": [
-        "难以维护，技术债快速累积",
-        "使用体验差，令人沮丧",
-        "平台锁定，迁移困难"
+        "学习曲线陡峭，上手困难"
       ],
-      "workarounds": [
-        "批量下载后拖拽迁移部署"
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Yatko: The download button Github forgot to add",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
       ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Yattayo",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Yattayo: A physical slider to",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Yattayo: A physical slider to-do board, faithfully rebuilt in 3D",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Your AI coworker gets a computer. You get your day back.",
+      "top_complaints": [
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Your car data, finally in your pocket",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "asktube.xyz",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "asktube.xyz: AI for YouTube power users",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
       "desired_features": []
     }
   ]
