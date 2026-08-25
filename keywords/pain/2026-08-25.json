@@ -110719,8 +110719,7 @@
       "term": "AI Ark",
       "top_complaints": [
         "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持",
-        "使用体验差，令人沮丧"
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -110738,12 +110737,11 @@
     {
       "term": "AI sales agents on any channel that runs from Claude Code",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
         "缺少关键功能或支持"
       ],
       "workarounds": [
-        "转向自托管或其他部署平台",
-        "批量下载后拖拽迁移部署"
+        "用户用 Excel/表格手动处理"
       ],
       "desired_features": []
     },
@@ -110751,17 +110749,19 @@
       "term": "AI screen-sharing calls for user onboarding",
       "top_complaints": [
         "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧"
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "需要批量处理或 API 接入"
+      ]
     },
     {
       "term": "Action agents that get real-world tasks done",
       "top_complaints": [
         "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持",
-        "定价过高，流量上来后成本飙升"
+        "缺少关键功能或支持"
       ],
       "workarounds": [
         "用户用 Excel/表格手动处理"
@@ -110771,13 +110771,13 @@
     {
       "term": "Agnost AI",
       "top_complaints": [
+        "使用体验差，令人沮丧",
         "频繁出 bug，功能不稳定",
-        "输出不稳定，结果不可预测",
-        "使用体验差，令人沮丧"
+        "输出不稳定，结果不可预测"
       ],
       "workarounds": [
         "用户用 Excel/表格手动处理",
-        "用临时 hack 绕过限制"
+        "手动逐步处理"
       ],
       "desired_features": [
         "期望官方支持更多功能"
@@ -110820,15 +110820,12 @@
     {
       "term": "An open-source modular platform for building wearables",
       "top_complaints": [
-        "用户主动寻找替代方案"
+        "缺少关键功能或支持"
       ],
       "workarounds": [
-        "转向自托管或其他部署平台",
-        "用临时 hack 绕过限制"
+        "转向自托管或其他部署平台"
       ],
-      "desired_features": [
-        "需要批量处理或 API 接入"
-      ]
+      "desired_features": []
     },
     {
       "term": "Catch agent failures your evals miss",
@@ -110848,410 +110845,8 @@
       "term": "Diet Claude",
       "top_complaints": [
         "使用体验差，令人沮丧",
-        "难以控制输出，依赖精细 prompt"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Diet Claude: Never get blindsided by Claude's usage limits again",
-      "top_complaints": [
-        "使用体验差，令人沮丧",
-        "频繁出 bug，功能不稳定",
-        "输出不稳定，结果不可预测"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "期望官方支持更多功能"
-      ]
-    },
-    {
-      "term": "Every shortcut, one ⌘⌘ away.",
-      "top_complaints": [
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Find startup credits you actually qualify for.",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "定价过高，流量上来后成本飙升"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Flare",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "扩展性差，大规模部署受限",
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [
-        "用临时 hack 绕过限制",
-        "改用其他工具/平台"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Flare: The graph",
-      "top_complaints": [
         "频繁出 bug，功能不稳定",
         "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "转向自托管或其他部署平台"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Flare: The graph-first IDE and interactive map for agentic coding",
-      "top_complaints": [
-        "用户主动寻找替代方案"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Fresh, verified B2B contact data for sales and agencies",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持",
-        "定价过高，流量上来后成本飙升"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "需要批量处理或 API 接入",
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Jotform AI Data Assistant",
-      "top_complaints": [
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "批量下载后拖拽迁移部署",
-        "用户用 Excel/表格手动处理",
-        "手动逐步处理"
-      ],
-      "desired_features": [
-        "需要更多导出格式"
-      ]
-    },
-    {
-      "term": "Jotform AI Data Assistant: Turn form data into insights and action with AI",
-      "top_complaints": [
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "手动逐步处理",
-        "批量下载后拖拽迁移部署"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Keymap",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "学习曲线陡峭，上手困难"
-      ],
-      "workarounds": [
-        "手动逐步处理",
-        "批量下载后拖拽迁移部署"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Keymap: Every shortcut, one ⌘⌘ away.",
-      "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Manage your CMS content from Claude, Cursor, and Codex",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "使用体验差，令人沮丧",
-        "性能慢，响应延迟高"
-      ],
-      "workarounds": [
-        "批量下载后拖拽迁移部署",
-        "改用其他工具/平台"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Marble MCP",
-      "top_complaints": [
-        "用户主动寻找替代方案"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Marble MCP: Manage your CMS content from Claude, Cursor, and Codex",
-      "top_complaints": [
-        "性能慢，响应延迟高",
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Memoria",
-      "top_complaints": [
-        "定价过高，流量上来后成本飙升",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Memoria: Search photos by text, speech, object & faces. 100% offline.",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Never get blindsided by Claude's usage limits again",
-      "top_complaints": [
-        "使用体验差，令人沮丧",
-        "频繁出 bug，功能不稳定",
-        "定价过高，流量上来后成本飙升"
-      ],
-      "workarounds": [
-        "手动逐步处理"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Nimbia",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Nimbia: AI screen",
-      "top_complaints": [
-        "用户主动寻找替代方案"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Nimbia: AI screen-sharing calls for user onboarding",
-      "top_complaints": [
-        "使用体验差，令人沮丧",
-        "频繁出 bug，功能不稳定",
-        "难以维护，技术债快速累积"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Ninjō AI",
-      "top_complaints": [
-        "用户主动寻找替代方案",
-        "难以控制输出，依赖精细 prompt"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Ninjō AI: AI sales agents on any channel that runs from Claude Code",
-      "top_complaints": [
-        "定价过高，流量上来后成本飙升",
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [
-        "导出再导入的复制粘贴流程"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Private company data and signals API for the agent economy",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Purchase API by Agentcard",
-      "top_complaints": [
-        "性能慢，响应延迟高",
-        "平台锁定，迁移困难"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Purchase API by Agentcard: one API call and your agent buys anything online",
-      "top_complaints": [
-        "定价过高，流量上来后成本飙升",
-        "频繁出 bug，功能不稳定",
-        "性能慢，响应延迟高"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "需要批量处理或 API 接入"
-      ]
-    },
-    {
-      "term": "Search photos by text, speech, object & faces. 100% offline.",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "SensWear",
-      "top_complaints": [
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "SensWear: An open",
-      "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "SensWear: An open-source modular platform for building wearables",
-      "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
-      ],
-      "workarounds": [
-        "转向自托管或其他部署平台",
-        "自己写脚本或自建工具"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "StartupFlow AI",
-      "top_complaints": [
-        "用户主动寻找替代方案"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "StartupFlow AI: Find startup credits you actually qualify for.",
-      "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
-      ],
-      "workarounds": [
-        "用临时 hack 绕过限制",
-        "批量下载后拖拽迁移部署"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "The graph-first IDE and interactive map for agentic coding",
-      "top_complaints": [
-        "难以控制输出，依赖精细 prompt",
-        "定价过高，流量上来后成本飙升",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "The mechanical keyboard Apple never made",
-      "top_complaints": [
-        "难以控制输出，依赖精细 prompt",
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案",
-        "希望增加更完善的功能"
-      ]
-    },
-    {
-      "term": "Turn form data into insights and action with AI",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "难以控制输出，依赖精细 prompt",
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
-      "desired_features": [
-        "需要更多导出格式"
-      ]
-    },
-    {
-      "term": "Wajo",
-      "top_complaints": [
-        "性能慢，响应延迟高",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Wajo: Action agents that get real",
-      "top_complaints": [
-        "输出不稳定，结果不可预测",
-        "使用体验差，令人沮丧",
-        "用户主动寻找替代方案"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Wajo: Action agents that get real-world tasks done",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "akta.pro",
-      "top_complaints": [
-        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -111259,15 +110854,167 @@
     {
       "term": "akta.pro: Private company data and signals API for the agent economy",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
     },
     {
-      "term": "coolplugz",
+      "term": "akta.pro",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Private company data and signals API for the agent economy",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Diet Claude: Never get blindsided by Claude's usage limits again",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Never get blindsided by Claude's usage limits again",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Jotform AI Data Assistant: Turn form data into insights and action with AI",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Jotform AI Data Assistant",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Turn form data into insights and action with AI",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Nimbia: AI screen-sharing calls for user onboarding",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Nimbia",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Nimbia: AI screen",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SensWear: An open-source modular platform for building wearables",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SensWear",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "SensWear: An open",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Memoria: Search photos by text, speech, object & faces. 100% offline.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Memoria",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Search photos by text, speech, object & faces. 100% offline.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Wajo: Action agents that get real-world tasks done",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Wajo",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Wajo: Action agents that get real",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Fresh, verified B2B contact data for sales and agencies",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -111275,30 +111022,170 @@
     {
       "term": "coolplugz: A Claude orchestrator that saves developers loads of time",
       "top_complaints": [
-        "缺少关键功能或支持",
-        "频繁出 bug，功能不稳定"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
-      "workarounds": [
-        "用临时 hack 绕过限制",
-        "手动逐步处理"
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "coolplugz",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
       ],
-      "desired_features": [
-        "希望增加更完善的功能"
-      ]
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "StartupFlow AI: Find startup credits you actually qualify for.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "StartupFlow AI",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Find startup credits you actually qualify for.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Ninjō AI: AI sales agents on any channel that runs from Claude Code",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Ninjō AI",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The mechanical keyboard Apple never made",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Flare: The graph-first IDE and interactive map for agentic coding",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Flare",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The graph-first IDE and interactive map for agentic coding",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Flare: The graph",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Purchase API by Agentcard: one API call and your agent buys anything online",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Purchase API by Agentcard",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "one API call and your agent buys anything online",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持",
-        "使用体验差，令人沮丧"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
-      "workarounds": [
-        "批量下载后拖拽迁移部署"
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Marble MCP: Manage your CMS content from Claude, Cursor, and Codex",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
       ],
-      "desired_features": [
-        "需要批量处理或 API 接入"
-      ]
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Marble MCP",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Manage your CMS content from Claude, Cursor, and Codex",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Keymap: Every shortcut, one ⌘⌘ away.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Keymap",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Every shortcut, one ⌘⌘ away.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
     }
   ]
 }
