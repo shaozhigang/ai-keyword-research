@@ -67476,10 +67476,14 @@
     {
       "term": "Create",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Create:",
@@ -67514,7 +67518,7 @@
     {
       "term": "Crisp:",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -67551,7 +67555,7 @@
     {
       "term": "Desku:",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -67642,7 +67646,7 @@
     {
       "term": "FlutterFlow:",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -67650,7 +67654,7 @@
     {
       "term": "FlutterFlow: ",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -67670,15 +67674,10 @@
     {
       "term": "Gemini 3.7 Flash:",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "从之前的版本开始，gemini就陷入了非常严重的幻觉问题。它甚至否认自己是一个多模态模型。我不认为在现在这个情况有..."
       ],
-      "workarounds": [
-        "批量下载后拖拽迁移部署",
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": [
-        "需要批量处理或 API 接入"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "HEVN U.S.",
@@ -67733,7 +67732,7 @@
     {
       "term": "Image 10: Lore Machine gallery image",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "缺少关键功能或支持"
       ],
       "workarounds": [
         "手动逐步处理"
@@ -67743,7 +67742,7 @@
     {
       "term": "Image 10: Lore Machine gallery image:",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [
         "手动逐步处理"
@@ -67753,7 +67752,7 @@
     {
       "term": "Image 10: Lore Machine gallery image: ",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [
         "手动逐步处理"
@@ -67854,7 +67853,7 @@
     {
       "term": "Image 14: CapCut:",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -69448,7 +69447,7 @@
     {
       "term": "MCP-Builder.ai: Build MCP servers",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -69464,7 +69463,7 @@
     {
       "term": "Mac mini:",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -69496,7 +69495,7 @@
     {
       "term": "Message Album",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -69504,7 +69503,7 @@
     {
       "term": "Message Album: Message Album",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -69547,7 +69546,7 @@
     {
       "term": "Playcall",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "调研失败，暂无数据"
       ],
       "workarounds": [],
       "desired_features": []
@@ -69555,7 +69554,7 @@
     {
       "term": "Playcall: Playcall",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "调研失败，暂无数据"
       ],
       "workarounds": [],
       "desired_features": []
@@ -69579,7 +69578,7 @@
     {
       "term": "PostHog Desktop",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -69597,7 +69596,7 @@
     {
       "term": "ReWeaver AI DriftDetector",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -69716,7 +69715,7 @@
     {
       "term": "TaskShell",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -69772,7 +69771,7 @@
     {
       "term": "Viktor.com: An AI coworker that actually does the work",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -69900,7 +69899,7 @@
     {
       "term": "macadress",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -69908,7 +69907,7 @@
     {
       "term": "macadress: macadress",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
