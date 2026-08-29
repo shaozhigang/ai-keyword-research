@@ -4396,20 +4396,20 @@
     {
       "term": "1752vc Pitch Deck Analyzer: Know what investors will say before you ever hit send.",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [
         "导出再导入的复制粘贴流程"
       ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "desired_features": []
     },
     {
       "term": "A Social Habit Game Built for Accountability and Consistency",
       "top_complaints": [
         "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
+        "输出不稳定，结果不可预测",
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [
         "用临时 hack 绕过限制"
@@ -4441,7 +4441,7 @@
       "top_complaints": [
         "使用体验差，令人沮丧",
         "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [
         "手动逐步处理"
@@ -4451,18 +4451,19 @@
     {
       "term": "AI career copilot for trailing spouses",
       "top_complaints": [
+        "频繁出 bug，功能不稳定",
         "使用体验差，令人沮丧",
         "缺少关键功能或支持"
       ],
       "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "desired_features": []
     },
     {
       "term": "AI that helps you find the right words for tough talks.",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持",
+        "平台锁定，迁移困难"
       ],
       "workarounds": [],
       "desired_features": []
@@ -4470,17 +4471,19 @@
     {
       "term": "AI-native CRM that builds itself and does work for you",
       "top_complaints": [
-        "定价过高，流量上来后成本飙升",
         "难以控制输出，依赖精细 prompt",
+        "难以维护，技术债快速累积",
         "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
       "desired_features": []
     },
     {
       "term": "AquaRise App",
       "top_complaints": [
-        "定价过高，流量上来后成本飙升"
+        "难以维护，技术债快速累积"
       ],
       "workarounds": [],
       "desired_features": []
@@ -4498,46 +4501,32 @@
       "top_complaints": [
         "频繁出 bug，功能不稳定",
         "使用体验差，令人沮丧",
-        "缺少关键功能或支持"
+        "性能慢，响应延迟高"
       ],
       "workarounds": [
-        "自己写脚本或自建工具"
+        "用临时 hack 绕过限制"
       ],
-      "desired_features": [
-        "期望官方支持更多功能"
-      ]
+      "desired_features": []
     },
     {
       "term": "BizWise - Your Business Partner",
       "top_complaints": [
-        "使用体验差，令人沮丧",
-        "难以维护，技术债快速累积",
         "缺少关键功能或支持"
       ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "BizWise - Your Business Partner: Find Where Your Money Goes.",
       "top_complaints": [
-        "使用体验差，令人沮丧",
         "缺少关键功能或支持"
       ],
-      "workarounds": [
-        "手动逐步处理"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "Cohere Parse 5",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
         "用户主动寻找替代方案"
       ],
       "workarounds": [],
@@ -4547,10 +4536,11 @@
       "term": "Cohere Parse 5: Turn complex docs, tables & images into AI",
       "top_complaints": [
         "缺少关键功能或支持",
-        "频繁出 bug，功能不稳定",
-        "用户主动寻找替代方案"
+        "难以控制输出，依赖精细 prompt"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": []
     },
     {
@@ -4573,10 +4563,11 @@
     {
       "term": "Democruit: Your candidate",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "平台锁定，迁移困难"
       ],
       "workarounds": [
-        "用户用 Excel/表格手动处理"
+        "手动逐步处理",
+        "改用其他工具/平台"
       ],
       "desired_features": [
         "在寻找更好的工具方案"
@@ -4587,29 +4578,24 @@
       "top_complaints": [
         "缺少关键功能或支持"
       ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "Dictation That Works Everywhere: Stop typing. Start speaking. 4x faster.",
       "top_complaints": [
         "缺少关键功能或支持",
-        "使用体验差，令人沮丧"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "改用其他工具/平台"
+        "用户用 Excel/表格手动处理"
       ],
-      "desired_features": [
-        "期望官方支持更多功能"
-      ]
+      "desired_features": []
     },
     {
       "term": "Find Where Your Money Goes.",
       "top_complaints": [
-        "使用体验差，令人沮丧"
+        "缺少关键功能或支持"
       ],
       "workarounds": [
         "手动逐步处理"
@@ -4621,35 +4607,32 @@
     {
       "term": "Find what's next.",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "用临时 hack 绕过限制"
+        "用户用 Excel/表格手动处理"
       ],
       "desired_features": []
     },
     {
       "term": "Find what's next.: Your AI",
       "top_complaints": [
-        "使用体验差，令人沮丧",
-        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定",
         "缺少关键功能或支持"
       ],
       "workarounds": [],
-      "desired_features": [
-        "需要更多导出格式"
-      ]
+      "desired_features": []
     },
     {
       "term": "Hy4 preview",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测"
       ],
       "workarounds": [
         "用户用 Excel/表格手动处理",
-        "转向自托管或其他部署平台"
+        "转向自托管或其他部署平台",
+        "用临时 hack 绕过限制"
       ],
       "desired_features": []
     },
@@ -4670,7 +4653,8 @@
         "缺少关键功能或支持"
       ],
       "workarounds": [
-        "转向自托管或其他部署平台"
+        "转向自托管或其他部署平台",
+        "导出再导入的复制粘贴流程"
       ],
       "desired_features": []
     },
@@ -4701,348 +4685,10 @@
       ]
     },
     {
-      "term": "TCTGame : Social Habit Tracker: A Social Habit Game Built for Accountability and Consistency",
+      "term": "Lightfield: AI",
       "top_complaints": [
-        "社交激励不足，坚持几天后失去动力",
-        "习惯打卡流程繁琐，容易忘记",
-        "好友 accountability 功能响应慢"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "TCTGame",
-      "top_complaints": [
-        "社交激励不足，坚持几天后失去动力",
-        "习惯打卡流程繁琐，容易忘记"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Social Habit Tracker: A Social Habit Game Built for Accountability and Consistency",
-      "top_complaints": [
-        "社交激励不足，坚持几天后失去动力",
-        "习惯打卡流程繁琐，容易忘记",
-        "好友 accountability 功能响应慢"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "TCTGame: Social Habit Tracker: A Social Habit Game Built for Accountability and Consistency",
-      "top_complaints": [
-        "社交激励不足，坚持几天后失去动力",
-        "习惯打卡流程繁琐，容易忘记",
-        "好友 accountability 功能响应慢"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Social Habit Tracker",
-      "top_complaints": [
-        "社交激励不足，坚持几天后失去动力",
-        "习惯打卡流程繁琐，容易忘记"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "TCTGame : Social Habit Tracker",
-      "top_complaints": [
-        "社交激励不足，坚持几天后失去动力",
-        "习惯打卡流程繁琐，容易忘记"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "NirnaY: Turn uncertain disaster data into clear decisions.",
-      "top_complaints": [
-        "灾害数据更新延迟，决策依据过时",
-        "不确定性量化不够直观，难以向团队解释",
-        "与现有应急系统对接困难"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "NirnaY",
-      "top_complaints": [
-        "灾害数据更新延迟，决策依据过时",
-        "不确定性量化不够直观"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Turn uncertain disaster data into clear decisions.",
-      "top_complaints": [
-        "灾害数据更新延迟，决策依据过时",
-        "不确定性量化不够直观，难以向团队解释"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Your candidate-first career companion, from resume to offer",
-      "top_complaints": [
-        "简历优化建议过于模板化，缺乏行业针对性",
-        "面试准备内容覆盖面窄",
-        "求职进度追踪与真实招聘流程不同步"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Saylo: AI that helps you find the right words for tough talks.",
-      "top_complaints": [
-        "敏感对话场景下语气把握不准",
-        "隐私顾虑，不愿输入真实对话内容",
-        "建议过于笼统，缺乏情境细节"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Saylo",
-      "top_complaints": [
-        "敏感对话场景下语气把握不准",
-        "隐私顾虑，不愿输入真实对话内容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "reroute — circular intelligence: rethink . reuse . reroute",
-      "top_complaints": [
-        "循环经济概念理解门槛高，上手困难",
-        "产品定位模糊，不清楚核心价值",
-        "与现有工作流集成成本高"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "reroute — circular intelligence",
-      "top_complaints": [
-        "循环经济概念理解门槛高，上手困难",
-        "产品定位模糊"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "rethink . reuse . reroute",
-      "top_complaints": [
-        "循环经济概念理解门槛高，上手困难"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "circular intelligence: rethink . reuse . reroute",
-      "top_complaints": [
-        "循环经济概念理解门槛高，上手困难",
-        "产品定位模糊，不清楚核心价值"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "circular intelligence",
-      "top_complaints": [
-        "循环经济概念理解门槛高，上手困难"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "The Pearl Club: A quite corner on the internet",
-      "top_complaints": [
-        "社区氛围冷清，互动稀少",
-        "内容发现机制弱，难以找到感兴趣的话题",
-        "缺少明确的使用场景和价值主张"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "The Pearl Club",
-      "top_complaints": [
-        "社区氛围冷清，互动稀少",
-        "内容发现机制弱"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Take action. Restore our waters.",
-      "top_complaints": [
-        "环保行动追踪缺乏可验证的反馈",
-        "参与门槛高，普通用户不知如何贡献",
-        "缺少本地化行动建议"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Lumora World: \"Where learning challenges become magical adventures ✨\"",
-      "top_complaints": [
-        "儿童学习进度与家长预期不匹配",
-        "游戏化元素分散注意力，学习效果难评估",
-        "内容更新慢，孩子很快失去兴趣"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Lumora World",
-      "top_complaints": [
-        "儿童学习进度与家长预期不匹配",
-        "游戏化元素分散注意力"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "\"Where learning challenges become magical adventures ✨\"",
-      "top_complaints": [
-        "儿童学习进度与家长预期不匹配",
-        "游戏化元素分散注意力，学习效果难评估"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Wispr Flow: Dictation That Works Everywhere: Stop typing. Start speaking. 4x faster.",
-      "top_complaints": [
-        "语音识别在嘈杂环境下准确率下降",
-        "部分应用内无法无缝调用听写",
-        "专业术语和代码识别错误率高"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Wispr Flow",
-      "top_complaints": [
-        "语音识别在嘈杂环境下准确率下降",
-        "部分应用内无法无缝调用听写"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Wispr Flow: Dictation That Works Everywhere",
-      "top_complaints": [
-        "语音识别在嘈杂环境下准确率下降",
-        "部分应用内无法无缝调用听写",
-        "专业术语和代码识别错误率高"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Stop typing. Start speaking. 4x faster.",
-      "top_complaints": [
-        "语音识别在嘈杂环境下准确率下降",
-        "部分应用内无法无缝调用听写"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Turn complex docs, tables & images into AI-ready data",
-      "top_complaints": [
-        "复杂表格解析错误率高，需大量人工校对",
-        "图片 OCR 对扫描件效果差",
-        "批量处理大文档时速度慢且成本高"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Tencent's 770B open model for long-horizon work",
-      "top_complaints": [
-        "长上下文任务延迟高，等待时间长",
-        "API 配额限制严格，难以用于生产",
-        "模型输出一致性不足，长任务易漂移"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "WIT: Spot potential misunderstandings across global Englishes",
-      "top_complaints": [
-        "跨文化英语误解检测误报率高",
-        "仅覆盖有限方言和语境",
-        "与写作工具集成不顺畅"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "WIT",
-      "top_complaints": [
-        "跨文化英语误解检测误报率高",
-        "仅覆盖有限方言和语境"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Spot potential misunderstandings across global Englishes",
-      "top_complaints": [
-        "跨文化英语误解检测误报率高",
-        "与写作工具集成不顺畅"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Neo: A novel-writing tool from the author of Silo",
-      "top_complaints": [
-        "长篇创作中角色一致性难以维持",
-        "导出格式与出版流程不兼容",
-        "AI 建议干扰作者个人风格"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Neo",
-      "top_complaints": [
-        "长篇创作中角色一致性难以维持",
-        "导出格式与出版流程不兼容"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Neo: A novel",
-      "top_complaints": [
-        "长篇创作中角色一致性难以维持"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Staats: Ask your coding agent how your site is doing",
-      "top_complaints": [
-        "网站健康诊断指标不够全面",
-        "与现有监控工具数据不一致",
-        "Agent 回答缺乏可操作的修复建议"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Staats",
-      "top_complaints": [
-        "网站健康诊断指标不够全面",
-        "Agent 回答缺乏可操作的修复建议"
+        "用户主动寻找替代方案",
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [],
       "desired_features": []
@@ -5050,47 +4696,23 @@
     {
       "term": "Lightfield: AI-native CRM that builds itself and does work for you",
       "top_complaints": [
-        "CRM 自动建库时字段映射错误",
-        "AI 自动跟进邮件语气不合品牌调性",
-        "与现有销售工具同步延迟"
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
     },
     {
-      "term": "Lightfield: AI",
+      "term": "Lumora World",
       "top_complaints": [
-        "CRM 自动建库时字段映射错误",
-        "AI 自动跟进邮件语气不合品牌调性"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
     },
     {
-      "term": "Your Business Partner: Find Where Your Money Goes.",
+      "term": "Lumora World: “Where learning challenges become magical adventures ✨”",
       "top_complaints": [
-        "支出分类不准确，需频繁手动修正",
-        "银行账户连接不稳定",
-        "缺少中小企业税务场景支持"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Your Business Partner",
-      "top_complaints": [
-        "支出分类不准确，需频繁手动修正",
-        "银行账户连接不稳定"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "NEXA — Find what's next.: Your AI-guided path to opportunities that actually fit",
-      "top_complaints": [
-        "职业机会匹配推荐过于宽泛，精准度低",
-        "路径规划缺乏行业深度洞察",
-        "用户画像输入繁琐，放弃率高"
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [],
       "desired_features": []
@@ -5098,27 +4720,71 @@
     {
       "term": "NEXA — Find what's next.",
       "top_complaints": [
-        "职业机会匹配推荐过于宽泛",
-        "路径规划缺乏行业深度洞察"
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "NEXA — Find what's next.: Your AI-guided path to opportunities that actually fit",
+      "top_complaints": [
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Neo",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Neo: A novel",
+      "top_complaints": [
+        "调试循环冗长，反复返工",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
     },
     {
-      "term": "Your AI-guided path to opportunities that actually fit",
+      "term": "Neo: A novel-writing tool from the author of Silo",
       "top_complaints": [
-        "职业机会匹配推荐过于宽泛，精准度低",
-        "路径规划缺乏行业深度洞察"
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "NirnaY",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "难以控制输出，依赖精细 prompt"
       ],
       "workarounds": [],
       "desired_features": []
     },
     {
-      "term": "PivotPartner: AI career copilot for trailing spouses",
+      "term": "NirnaY: Turn uncertain disaster data into clear decisions.",
       "top_complaints": [
-        "随任配偶求职场景数据稀缺，建议不接地气",
-        "跨国签证与工作许可信息更新不及时",
-        "本地化人脉网络资源不足"
+        "缺少关键功能或支持",
+        "输出不稳定，结果不可预测"
       ],
       "workarounds": [],
       "desired_features": []
@@ -5126,9 +4792,359 @@
     {
       "term": "PivotPartner",
       "top_complaints": [
-        "随任配偶求职场景数据稀缺，建议不接地气",
-        "跨国签证与工作许可信息更新不及时",
-        "本地化人脉网络资源不足"
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "PivotPartner: AI career copilot for trailing spouses",
+      "top_complaints": [
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Saylo",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧",
+        "难以维护，技术债快速累积"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "批量下载后拖拽迁移部署",
+        "导出再导入的复制粘贴流程"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Saylo: AI that helps you find the right words for tough talks.",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Social Habit Tracker",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
+    },
+    {
+      "term": "Social Habit Tracker: A Social Habit Game Built for Accountability and Consistency",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Spot potential misunderstandings across global Englishes",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Staats",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Staats: Ask your coding agent how your site is doing",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Stop typing. Start speaking. 4x faster.",
+      "top_complaints": [
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
+    },
+    {
+      "term": "TCTGame",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "TCTGame : Social Habit Tracker",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "TCTGame : Social Habit Tracker: A Social Habit Game Built for Accountability and Consistency",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "TCTGame: Social Habit Tracker: A Social Habit Game Built for Accountability and Consistency",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Take action. Restore our waters.",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Tencent’s 770B open model for long-horizon work",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "The Pearl Club",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "学习曲线陡峭，上手困难"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The Pearl Club: A quite corner on the internet",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Turn complex docs, tables & images into AI-ready data",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Turn uncertain disaster data into clear decisions.",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
+    },
+    {
+      "term": "WIT",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "WIT: Spot potential misunderstandings across global Englishes",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Wispr Flow",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Wispr Flow: Dictation That Works Everywhere",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Wispr Flow: Dictation That Works Everywhere: Stop typing. Start speaking. 4x faster.",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "性能慢，响应延迟高"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "改用其他工具/平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Your AI-guided path to opportunities that actually fit",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Your Business Partner",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署",
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Your Business Partner: Find Where Your Money Goes.",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "需要批量处理或 API 接入",
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Your candidate-first career companion, from resume to offer",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "circular intelligence",
+      "top_complaints": [
+        "难以维护，技术债快速累积",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "circular intelligence: rethink . reuse . reroute",
+      "top_complaints": [
+        "难以维护，技术债快速累积",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "reroute — circular intelligence",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积"
+      ],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "reroute — circular intelligence: rethink . reuse . reroute",
+      "top_complaints": [
+        "难以维护，技术债快速累积",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "rethink . reuse . reroute",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "“Where learning challenges become magical adventures ✨”",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
