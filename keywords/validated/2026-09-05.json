@@ -1,0 +1,489 @@
+{
+  "date": "2026-09-05",
+  "entries": [
+    {
+      "term": "RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向机器人学习团队的互联网级人类示范检索与灵巧操作数据引擎",
+      "suggested_headline": "Retrieve Human Demos at Internet Scale for Robot Learning",
+      "target_users": [
+        "机器人学习研究员",
+        "具身智能创业团队",
+        "工业机器人数据工程师"
+      ]
+    },
+    {
+      "term": "An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "互联网规模人类操作示范检索引擎，服务灵巧机器人学习",
+      "suggested_headline": "Internet-Scale Demo Retrieval for Dexterous Robot Learning",
+      "target_users": [
+        "机器人数据集策展人",
+        "灵巧操作算法工程师",
+        "开源机器人社区贡献者"
+      ]
+    },
+    {
+      "term": "VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向世界模型研发团队的Agentic物理推理评测与迭代平台",
+      "suggested_headline": "Evaluate and Refine World Models With Agentic Physical Reasoning",
+      "target_users": [
+        "世界模型算法研究员",
+        "自动驾驶仿真工程师",
+        "AI安全评测团队"
+      ]
+    },
+    {
+      "term": "Agentic Physical Reasoning for World Model Evaluation and Refinement",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "基于Agentic物理推理的世界模型自动评测与精炼工具",
+      "suggested_headline": "Agentic Physical Reasoning to Test and Refine World Models",
+      "target_users": [
+        "具身智能研究员",
+        "物理仿真平台开发者",
+        "AI评测机构"
+      ]
+    },
+    {
+      "term": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向语音脑机接口研究者的统一通信度量与评测SaaS",
+      "suggested_headline": "A Unified Communication Metric for Speech Brain-Computer Interfaces",
+      "target_users": [
+        "神经工程博士生",
+        "医疗AI产品经理",
+        "康复科技创业公司"
+      ]
+    },
+    {
+      "term": "Speech Brain-Computer Interfaces",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向神经工程实验室的语音BCI性能基准测试SaaS",
+      "suggested_headline": "Measure Speech BCI Performance With One Common Metric",
+      "target_users": [
+        "语音康复诊所",
+        "脑机接口创业公司",
+        "生物医学工程研究生"
+      ]
+    },
+    {
+      "term": "On-Policy Distillation",
+      "total_score": 23,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Memory Evolution",
+      "total_score": 23,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Credit Assignment",
+      "total_score": 23,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Instance Segmentation",
+      "total_score": 23,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Brain-Computer Interfaces",
+      "total_score": 23,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "RoboTok An Internet-Scale",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Internet-Scale Data Engine",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Human Demonstration Retrieval",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Demonstration Retrieval and",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "and Dexterous Manipulation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Dexterous Manipulation Learning",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Invariance",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Variance Cascades and Discrete Scale Invariance",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Percolation Dynamics in Optimization: Variance Cascades and Discrete Scale Invariance",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Optimization Variance Cascades",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Discrete Scale Invariance",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Agentic Physical Reasoning",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evaluation and Refinement",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A Common Measure of Communication for Speech Brain",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fine-Grained",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Long-Horizon",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "MeanFlow",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A Controlled",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Physical Reasoning",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "World Model Evaluation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Brain-Computer",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Communication for Speech",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    }
+  ]
+}
