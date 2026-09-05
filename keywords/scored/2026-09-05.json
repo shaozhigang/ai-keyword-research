@@ -1,0 +1,1043 @@
+{
+  "date": "2026-09-05",
+  "scored_at": "2026-09-05T22:03:28.474181",
+  "bootstrap": "heuristic (Agent 2 scored file missing)",
+  "entries": [
+    {
+      "term": "Natural",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Trajectories",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Fully",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Open",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Reasoning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Knowing",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Experience",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Autonomous",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "in Autonomous",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "On-Policy",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Distillation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "One",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "On-Policy Distillation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Distillation of",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for the",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Scaling",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Multimodal",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "a Unified",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "RoboTok",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "RoboTok: An Internet",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Internet-Scale",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Internet",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Scale",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Data",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Human",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Dexterous",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "RoboTok An",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "RoboTok An Internet-Scale",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "An Internet-Scale",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "An Internet-Scale Data",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Internet-Scale Data",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Internet-Scale Data Engine",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Data Engine",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Data Engine for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Engine for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Engine for Human",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "for Human",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for Human Demonstration",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Human Demonstration",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Human Demonstration Retrieval",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Demonstration Retrieval",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Demonstration Retrieval and",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Retrieval and",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Retrieval and Dexterous",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "and Dexterous",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "and Dexterous Manipulation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Dexterous Manipulation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Dexterous Manipulation Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Manipulation Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Online",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Script",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Latent",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Streaming",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Memory Evolution",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Memory Evolution for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Evolution for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Improving",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Reasoning in",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Evaluation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Requests",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Fine-Grained",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Long-Horizon",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Grained",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Assignment",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Horizon",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Credit Assignment",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "for Long-Horizon",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Modeling",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Rendering",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "MeanFlow",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Environment",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "A Controlled",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Allocation in",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Invariance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Percolation Dynamics in Optimization",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Variance Cascades and Discrete Scale Invariance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Percolation Dynamics in Optimization: Variance Cascades and Discrete Scale Invariance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Percolation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Variance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Discrete",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Percolation Dynamics",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Percolation Dynamics in",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Dynamics in",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Dynamics in Optimization",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "in Optimization",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "in Optimization Variance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Optimization Variance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Optimization Variance Cascades",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Variance Cascades",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Variance Cascades and",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Cascades and",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Cascades and Discrete",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "and Discrete",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "and Discrete Scale",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Discrete Scale",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Discrete Scale Invariance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Scale Invariance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Cell",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Instance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Instance Segmentation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "VeriPhy",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Agentic Physical Reasoning for World Model Evaluation and Refinement",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Agentic",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "VeriPhy Agentic",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "VeriPhy Agentic Physical",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Agentic Physical",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Agentic Physical Reasoning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Physical Reasoning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Physical Reasoning for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Reasoning for World",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "for World",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for World Model",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "World Model",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "World Model Evaluation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Model Evaluation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Model Evaluation and",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Evaluation and",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Evaluation and Refinement",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "and Refinement",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "A Common Measure of Communication for Speech Brain",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Computer Interfaces",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Brain-Computer",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Common",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Measure",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Brain",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Computer",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Interfaces",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "A Common",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "A Common Measure",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Common Measure",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Common Measure of",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Measure of",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Measure of Communication",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "of Communication",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "of Communication for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Communication for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Communication for Speech",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "for Speech",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for Speech Brain-Computer",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Speech Brain-Computer",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Speech Brain-Computer Interfaces",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Brain-Computer Interfaces",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Space",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    }
+  ]
+}
