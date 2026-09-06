@@ -1,0 +1,1064 @@
+{
+  "date": "2026-09-06",
+  "entries": [
+    {
+      "term": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向Agent研发团队的终端轨迹环境生成平台，将真实操作轨迹转化为可扩展训练环境",
+      "suggested_headline": "Turn Agent Trajectories Into Scalable Terminal Training Environments",
+      "target_users": [
+        "AI Agent开发者",
+        "强化学习研究员",
+        "自动化测试平台团队"
+      ]
+    },
+    {
+      "term": "Turning Agent Trajectories into Scalable Terminal Environments",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "将Agent操作轨迹转化为可扩展终端训练环境的基础设施服务",
+      "suggested_headline": "Scale Terminal Agent Training From Real Trajectories",
+      "target_users": [
+        "Agent基础设施工程师",
+        "RL环境构建团队",
+        "自动化平台开发者"
+      ]
+    },
+    {
+      "term": "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向LLM推理基础设施的KV Cache智能淘汰优化层，提升长上下文推理效率",
+      "suggested_headline": "Smarter KV Cache Eviction for Efficient LLM Reasoning",
+      "target_users": [
+        "LLM推理工程师",
+        "AI基础设施团队",
+        "边缘部署开发者"
+      ]
+    },
+    {
+      "term": "LatentPress: Context Compression Beyond Text and Vision",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向多模态LLM应用的跨模态上下文压缩SaaS，降低长上下文推理成本",
+      "suggested_headline": "Compress Multimodal Context Beyond Text and Vision",
+      "target_users": [
+        "多模态应用开发者",
+        "LLM推理优化工程师",
+        "AI SaaS创业团队"
+      ]
+    },
+    {
+      "term": "Context Compression Beyond Text and Vision",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "跨文本与视觉的统一上下文压缩中间件，服务多模态AI应用",
+      "suggested_headline": "Unified Context Compression for Text, Vision, and Beyond",
+      "target_users": [
+        "多模态LLM开发者",
+        "RAG架构师",
+        "AI成本优化团队"
+      ]
+    },
+    {
+      "term": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向AR/机器人团队的在线3D重建API，支持多相对位姿查询与实时重建",
+      "suggested_headline": "Scalable Online 3D Reconstruction With Multi-Relative Pose Queries",
+      "target_users": [
+        "AR应用开发者",
+        "机器人感知工程师",
+        "3D视觉创业团队"
+      ]
+    },
+    {
+      "term": "Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向视频AI应用的流式渐进式潜空间记忆系统，替代传统检索增强方案",
+      "suggested_headline": "Progressive Memory Evolution for Streaming Video Understanding",
+      "target_users": [
+        "视频理解算法工程师",
+        "安防监控AI团队",
+        "流媒体平台技术团队"
+      ]
+    },
+    {
+      "term": "RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向工程团队的编程Agent组合式评测基准SaaS，模拟真实用户请求场景",
+      "suggested_headline": "Benchmark Coding Agents Against Realistic User Requests",
+      "target_users": [
+        "AI编程工具产品经理",
+        "代码Agent开发者",
+        "企业DevEx团队"
+      ]
+    },
+    {
+      "term": "A Compositional Evaluation of Coding Agents under Realistic User Requests",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向工程团队的编程Agent真实场景组合评测平台",
+      "suggested_headline": "Evaluate Coding Agents With Realistic Compositional Benchmarks",
+      "target_users": [
+        "AI编程工具团队",
+        "企业工程效能负责人",
+        "开源Agent框架维护者"
+      ]
+    },
+    {
+      "term": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向Agent训练团队的细粒度信用分配与动态评分SaaS，优化长程任务训练",
+      "suggested_headline": "Fine-Grained Credit Assignment for Long-Horizon Agent Training",
+      "target_users": [
+        "Agent训练工程师",
+        "RL算法研究员",
+        "AI基础设施团队"
+      ]
+    },
+    {
+      "term": "PACE: Towards Surfacing Hidden Conflicts in User Requests",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向AI产品团队的用户请求冲突检测工具，在Agent执行前发现隐藏矛盾",
+      "suggested_headline": "Surface Hidden Conflicts in User Requests Before Your Agent Acts",
+      "target_users": [
+        "AI产品经理",
+        "对话系统设计师",
+        "企业AI应用团队"
+      ]
+    },
+    {
+      "term": "FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow",
+      "total_score": 25,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 5,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向3D内容创作者的少步数相机控制生成渲染工具，加速视频级场景生成",
+      "suggested_headline": "Few-Step Generative Rendering With Camera Control",
+      "target_users": [
+        "3D内容创作者",
+        "游戏美术团队",
+        "虚拟制片工作室"
+      ]
+    },
+    {
+      "term": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Turning Natural-Language Specifications into Local Neural Functions",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Compile by Training: Turning Natural",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Language Specifications into Local Neural Functions",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Training Turning Natural-Language",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Turning Natural-Language Specifications",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Terminal-Universe Turning Agent",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Building Strong Image Generators with Fully Open Training Recipes",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Image: Building Strong Image Generators with Fully Open Training Recipes",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Rethinking KV Cache Eviction for Efficient Reasoning",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Conditional Experience Transfer in Autonomous LLM Post-Training",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Conditional Experience Transfer",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "LatentPress Context Compression",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Rethinking On-Policy Distillation of Large Language Models II",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Policy Distillation of Large Language Models II: One Training Example",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Why Gated DeltaNet Survives 4-Bit Quantization",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Scaling a Unified Multimodal Model with Native 3D World States",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "World: Scaling a Unified Multimodal Model with Native 3D World States",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Scal3R: Learning Efficient Multi",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Relative Pose Query for Scalable Online 3D Reconstruction",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Learning Efficient Multi-Relative",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Temporal Context Routing for Script-Driven Audio-Video Generation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "The Missing Temporal Link: Temporal Context Routing for Script",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Progressive Latent Memory Evolution for Streaming Video Understanding",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Grained Credit Assignment with Dynamic Rubrics for Long",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Improving Compositional Reasoning",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "WorldReward: Reward Modeling for Camera-Conditioned World Models",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "WorldReward: Reward Modeling for Camera",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Towards Surfacing Hidden Conflicts in User Requests",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Few-Step Generative Rendering via Camera-Controlled Video MeanFlow",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Step Generative Rendering via Camera",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "FlashRender Few-Step Generative",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Camera-Controlled Video MeanFlow",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Using Grounded Theory for Agent Behavior Analysis at Scale",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Principia: Relational Physics Tests for Video Models",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Select, Compress, Reinvest: A Controlled Study of Visual-Token Allocation in Long-Video MLLMs",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A Controlled Study of Visual-Token Allocation in Long-Video MLLMs",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Select, Compress, Reinvest: A Controlled Study of Visual",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Let Confidence Change, Not the Prediction: Prediction-Preserving Repair for Post-hoc Calibration",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Let Confidence Change, Not the Prediction",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Prediction-Preserving Repair for Post-hoc Calibration",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Let Confidence Change, Not the Prediction: Prediction",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Prediction Prediction-Preserving Repair",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "QCell: Recombining and Aligning Cell Queries for Overlapping Instance Segmentation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Recombining and Aligning Cell Queries for Overlapping Instance Segmentation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Overlapping Instance Segmentation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Locked at the Entrance, Open Inside: Where RLVR Narrows the Solution Space",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Locked at the Entrance, Open Inside",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Where RLVR Narrows the Solution Space",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    }
+  ]
+}
