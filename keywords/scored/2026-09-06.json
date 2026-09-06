@@ -1,0 +1,4739 @@
+{
+  "date": "2026-09-06",
+  "scored_at": "2026-09-06T22:01:53.419615",
+  "bootstrap": "heuristic (Agent 2 scored file missing)",
+  "entries": [
+    {
+      "term": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Compile by Training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Turning Natural-Language Specifications into Local Neural Functions",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Compile by Training: Turning Natural",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Language Specifications into Local Neural Functions",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Natural-Language",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Compile",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Turning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Language",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Specifications",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Local",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Neural",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Functions",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Compile by",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "by Training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "by Training Turning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Training Turning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Training Turning Natural-Language",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Turning Natural-Language",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Turning Natural-Language Specifications",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Natural-Language Specifications",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Natural-Language Specifications into",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Specifications into",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Specifications into Local",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "into Local",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "into Local Neural",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Local Neural",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Local Neural Functions",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Neural Functions",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Terminal-Universe",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Turning Agent Trajectories into Scalable Terminal Environments",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Terminal",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Universe",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Agent",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Scalable",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Environments",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Terminal-Universe Turning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Terminal-Universe Turning Agent",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Turning Agent",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Turning Agent Trajectories",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Agent Trajectories",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Agent Trajectories into",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Trajectories into",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Trajectories into Scalable",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "into Scalable",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "into Scalable Terminal",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Scalable Terminal",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Scalable Terminal Environments",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Terminal Environments",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "LLaDA-Image",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Building Strong Image Generators with Fully Open Training Recipes",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "LLaDA",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Image: Building Strong Image Generators with Fully Open Training Recipes",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Image",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Building",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Strong",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Generators",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Recipes",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "LLaDA-Image Building",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "LLaDA-Image Building Strong",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Building Strong",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Building Strong Image",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Strong Image",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Strong Image Generators",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Image Generators",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Image Generators with",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Generators with",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Generators with Fully",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "with Fully",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "with Fully Open",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Fully Open",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Fully Open Training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Open Training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Open Training Recipes",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Training Recipes",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Random Attention",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Rethinking KV Cache Eviction for Efficient Reasoning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Random",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Attention",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Rethinking",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Cache",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Eviction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Efficient",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Random Attention Rethinking",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Attention Rethinking",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Attention Rethinking KV",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Rethinking KV",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Rethinking KV Cache",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "KV",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "KV Cache",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "KV Cache Eviction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Cache Eviction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Cache Eviction for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Eviction for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Eviction for Efficient",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "for Efficient",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for Efficient Reasoning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Efficient Reasoning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Knowing When Not to Reuse",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Conditional Experience Transfer in Autonomous LLM Post-Training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Post-Training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "When",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Not",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Reuse",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Conditional",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Transfer",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "LLM",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Post",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Knowing When",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Knowing When Not",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "When Not",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "When Not to",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Not to",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Not to Reuse",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "to Reuse",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "to Reuse Conditional",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Reuse Conditional",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Reuse Conditional Experience",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Conditional Experience",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Conditional Experience Transfer",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Experience Transfer",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Experience Transfer in",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Transfer in",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Transfer in Autonomous",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "in Autonomous LLM",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Autonomous LLM",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Autonomous LLM Post-Training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "LLM Post-Training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Engine",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Demonstration",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Retrieval",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Manipulation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "LatentPress: Context Compression Beyond Text and Vision",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "LatentPress",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Context Compression Beyond Text and Vision",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Context",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Compression",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Beyond",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Text",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Vision",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "LatentPress Context",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "LatentPress Context Compression",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Context Compression",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Context Compression Beyond",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Compression Beyond",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Compression Beyond Text",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Beyond Text",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Beyond Text and",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Text and",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Text and Vision",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "and Vision",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Rethinking On-Policy Distillation of Large Language Models II",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "One Training Example",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Rethinking On",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Policy Distillation of Large Language Models II: One Training Example",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Policy",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Large",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Example",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Rethinking On-Policy",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Rethinking On-Policy Distillation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "On-Policy Distillation of",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Distillation of Large",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "of Large",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "of Large Language",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Large Language",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Large Language Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Language Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Language Models II",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Models II",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Models II One",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "II",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "II One",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "II One Training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "One Training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Training Example",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Why Gated DeltaNet Survives 4-Bit Quantization",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Why Gated DeltaNet Survives 4",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Why",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Gated",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "DeltaNet",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Survives",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Bit",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Quantization",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "NVFP4",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "W4A4",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Recurrent",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Half",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Hybrid",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Why Gated",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Why Gated DeltaNet",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Gated DeltaNet",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Gated DeltaNet Survives",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "DeltaNet Survives",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "DeltaNet Survives 4-Bit",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Survives 4-Bit",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Survives 4-Bit Quantization",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "4-Bit Quantization",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "4-Bit Quantization NVFP4",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Quantization NVFP4",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Quantization NVFP4 W4A4",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "NVFP4 W4A4",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "NVFP4 W4A4 for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "W4A4 for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "W4A4 for the",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for the Recurrent",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "the Recurrent",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "the Recurrent Half",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Recurrent Half",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Recurrent Half of",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Half of",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Half of a",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "of a",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "of a Hybrid",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "a Hybrid",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "a Hybrid 27B",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Hybrid 27B",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Hybrid 27B LLM",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "27B",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "27B LLM",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Puffin-World",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Scaling a Unified Multimodal Model with Native 3D World States",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Puffin",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "World: Scaling a Unified Multimodal Model with Native 3D World States",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "World",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Unified",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Model",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Native",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "States",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Puffin-World Scaling",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Puffin-World Scaling a",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Scaling a",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Scaling a Unified",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "a Unified Multimodal",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Unified Multimodal",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Unified Multimodal Model",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Multimodal Model",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Multimodal Model with",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Model with",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Model with Native",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "with Native",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "with Native 3D",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Native 3D",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Native 3D World",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "3D",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "3D World",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "3D World States",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "World States",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Scal3R",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Scal3R: Learning Efficient Multi",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Relative Pose Query for Scalable Online 3D Reconstruction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Multi-Relative",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Multi",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Relative",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Pose",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Query",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Reconstruction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Scal3R Learning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Scal3R Learning Efficient",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Learning Efficient",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Learning Efficient Multi-Relative",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Efficient Multi-Relative",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Efficient Multi-Relative Pose",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Multi-Relative Pose",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Multi-Relative Pose Query",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Pose Query",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Pose Query for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Query for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Query for Scalable",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "for Scalable",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for Scalable Online",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Scalable Online",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Scalable Online 3D",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Online 3D",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Online 3D Reconstruction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "3D Reconstruction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Editable Visual Design",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Editable",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Visual",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Design",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Editable Visual",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Visual Design",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "The Missing Temporal Link",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Temporal Context Routing for Script-Driven Audio-Video Generation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "The Missing Temporal Link: Temporal Context Routing for Script",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Driven Audio",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Video Generation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Script-Driven",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Audio-Video",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Missing",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Temporal",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Link",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Routing",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Driven",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Audio",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Video",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Generation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "The Missing",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "The Missing Temporal",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Missing Temporal",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Missing Temporal Link",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Temporal Link",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Temporal Link Temporal",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Link Temporal",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Link Temporal Context",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Temporal Context",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Temporal Context Routing",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Context Routing",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Context Routing for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Routing for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Routing for Script-Driven",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for Script-Driven",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for Script-Driven Audio-Video",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Script-Driven Audio-Video",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Script-Driven Audio-Video Generation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Audio-Video Generation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Beyond Retrieval",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Progressive Latent Memory Evolution for Streaming Video Understanding",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Progressive",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Memory",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Evolution",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Understanding",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Beyond Retrieval Progressive",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Retrieval Progressive",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Retrieval Progressive Latent",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Progressive Latent",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Progressive Latent Memory",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Latent Memory",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Latent Memory Evolution",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Evolution for Streaming",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "for Streaming",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for Streaming Video",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Streaming Video",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Streaming Video Understanding",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Video Understanding",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Last Translation Benchmark",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Last",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Translation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Benchmark",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Last Translation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Translation Benchmark",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "RealSWE",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "A Compositional Evaluation of Coding Agents under Realistic User Requests",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Compositional",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Coding",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Realistic",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "User",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "RealSWE A",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "RealSWE A Compositional",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "A Compositional",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "A Compositional Evaluation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Compositional Evaluation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Compositional Evaluation of",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Evaluation of",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Evaluation of Coding",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "of Coding",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "of Coding Agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Coding Agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Coding Agents under",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Agents under",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Agents under Realistic",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "under Realistic",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "under Realistic User",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Realistic User",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Realistic User Requests",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "User Requests",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "DRACO",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "DRACO: Fine",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Grained Credit Assignment with Dynamic Rubrics for Long",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Horizon Agent Training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Fine",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Credit",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Dynamic",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Rubrics",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Long",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "DRACO Fine-Grained",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "DRACO Fine-Grained Credit",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Fine-Grained Credit",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Fine-Grained Credit Assignment",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Credit Assignment with",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Assignment with",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Assignment with Dynamic",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "with Dynamic",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "with Dynamic Rubrics",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Dynamic Rubrics",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Dynamic Rubrics for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Rubrics for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Rubrics for Long-Horizon",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for Long-Horizon Agent",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Long-Horizon Agent",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Long-Horizon Agent Training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Agent Training",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "CORE",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "MLLM",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Embedding",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Reranker",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "CORE Improving",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "CORE Improving Compositional",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Improving Compositional",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Improving Compositional Reasoning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Compositional Reasoning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Compositional Reasoning in",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Reasoning in MLLM",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "in MLLM",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "in MLLM Embedding",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "MLLM Embedding",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "MLLM Embedding via",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Embedding via",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Embedding via Reranker",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "via Reranker",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "via Reranker Distillation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Reranker Distillation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "WorldReward: Reward Modeling for Camera-Conditioned World Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "WorldReward",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Reward Modeling for Camera-Conditioned World Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "WorldReward: Reward Modeling for Camera",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Conditioned World Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Camera-Conditioned",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Reward",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Camera",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Conditioned",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "WorldReward Reward",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "WorldReward Reward Modeling",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Reward Modeling",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Reward Modeling for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Modeling for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Modeling for Camera-Conditioned",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for Camera-Conditioned",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for Camera-Conditioned World",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Camera-Conditioned World",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Camera-Conditioned World Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "World Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "PACE: Towards Surfacing Hidden Conflicts in User Requests",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "PACE",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Towards Surfacing Hidden Conflicts in User Requests",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Towards",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Surfacing",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Hidden",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Conflicts",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "PACE Towards",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "PACE Towards Surfacing",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Towards Surfacing",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Towards Surfacing Hidden",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Surfacing Hidden",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Surfacing Hidden Conflicts",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Hidden Conflicts",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Hidden Conflicts in",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Conflicts in",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Conflicts in User",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "in User",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "in User Requests",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "FlashRender",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Few-Step Generative Rendering via Camera-Controlled Video MeanFlow",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "FlashRender: Few",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Step Generative Rendering via Camera",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Controlled Video MeanFlow",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Few-Step",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Camera-Controlled",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Few",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Step",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Generative",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Controlled",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "FlashRender Few-Step",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "FlashRender Few-Step Generative",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Few-Step Generative",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Few-Step Generative Rendering",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Generative Rendering",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Generative Rendering via",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Rendering via",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Rendering via Camera-Controlled",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "via Camera-Controlled",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "via Camera-Controlled Video",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Camera-Controlled Video",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Camera-Controlled Video MeanFlow",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Video MeanFlow",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Using Grounded Theory for Agent Behavior Analysis at Scale",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Using",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Grounded",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Theory",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Behavior",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Analysis",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Using Grounded",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Using Grounded Theory",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Grounded Theory",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Grounded Theory for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Theory for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Theory for Agent",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "for Agent",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for Agent Behavior",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Agent Behavior",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Agent Behavior Analysis",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Behavior Analysis",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Behavior Analysis at",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Analysis at",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Analysis at Scale",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "at Scale",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Environment Evolution for Terminal Agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Environment Evolution",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Environment Evolution for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Evolution for Terminal",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "for Terminal",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for Terminal Agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Terminal Agents",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Principia: Relational Physics Tests for Video Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Principia",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Relational Physics Tests for Video Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Relational",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Physics",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Tests",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Principia Relational",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Principia Relational Physics",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Relational Physics",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Relational Physics Tests",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Physics Tests",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Physics Tests for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Tests for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Tests for Video",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "for Video",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for Video Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Video Models",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Select, Compress, Reinvest: A Controlled Study of Visual-Token Allocation in Long-Video MLLMs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Select, Compress, Reinvest",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "A Controlled Study of Visual-Token Allocation in Long-Video MLLMs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Select, Compress, Reinvest: A Controlled Study of Visual",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Token Allocation in Long",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Video MLLMs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Visual-Token",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Long-Video",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Select",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Compress",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Reinvest",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Study",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Token",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Allocation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "MLLMs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Select Compress",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Select Compress Reinvest",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Compress Reinvest",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Compress Reinvest A",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Reinvest A",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Reinvest A Controlled",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "A Controlled Study",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Controlled Study",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Controlled Study of",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Study of",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Study of Visual-Token",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "of Visual-Token",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "of Visual-Token Allocation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Visual-Token Allocation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Visual-Token Allocation in",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Allocation in Long-Video",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "in Long-Video",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "in Long-Video MLLMs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Long-Video MLLMs",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Dynamics",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Optimization",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Cascades",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Invariance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Let Confidence Change, Not the Prediction: Prediction-Preserving Repair for Post-hoc Calibration",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Let Confidence Change, Not the Prediction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Prediction-Preserving Repair for Post-hoc Calibration",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Let Confidence Change, Not the Prediction: Prediction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Preserving Repair for Post",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "hoc Calibration",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Prediction-Preserving",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Post-hoc",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Let",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Confidence",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Change",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Prediction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Preserving",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Repair",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Calibration",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Let Confidence",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Let Confidence Change",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Confidence Change",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Confidence Change Not",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Change Not",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Change Not the",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Not the",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Not the Prediction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "the Prediction",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "the Prediction Prediction-Preserving",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Prediction Prediction-Preserving",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Prediction Prediction-Preserving Repair",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Prediction-Preserving Repair",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Prediction-Preserving Repair for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Repair for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Repair for Post-hoc",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for Post-hoc",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for Post-hoc Calibration",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Post-hoc Calibration",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "QCell: Recombining and Aligning Cell Queries for Overlapping Instance Segmentation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "QCell",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Recombining and Aligning Cell Queries for Overlapping Instance Segmentation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Recombining",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Aligning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Queries",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Overlapping",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Segmentation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "QCell Recombining",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "QCell Recombining and",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Recombining and",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Recombining and Aligning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "and Aligning",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "and Aligning Cell",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Aligning Cell",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Aligning Cell Queries",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Cell Queries",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Cell Queries for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Queries for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Queries for Overlapping",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "for Overlapping",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "for Overlapping Instance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Overlapping Instance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Overlapping Instance Segmentation",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Physical",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Refinement",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Reasoning for",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Communication",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Speech",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Locked at the Entrance, Open Inside: Where RLVR Narrows the Solution Space",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Locked at the Entrance, Open Inside",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Where RLVR Narrows the Solution Space",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "低",
+      "top10_quality": "弱，主要为学术论文/预印本，来源huggingface"
+    },
+    {
+      "term": "Locked",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Entrance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Inside",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Where",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "RLVR",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Narrows",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Solution",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Locked at",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Locked at the",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "at the",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "at the Entrance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "the Entrance",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "the Entrance Open",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Entrance Open",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Entrance Open Inside",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Open Inside",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Open Inside Where",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Inside Where",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Inside Where RLVR",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Where RLVR",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Where RLVR Narrows",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "RLVR Narrows",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "RLVR Narrows the",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Narrows the",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "Narrows the Solution",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "the Solution",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "来源标注为huggingface新词，趋势暂按上升处理"
+    },
+    {
+      "term": "the Solution Space",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    },
+    {
+      "term": "Solution Space",
+      "trend": "📈上升",
+      "main_geo": "US",
+      "competition": "中",
+      "top10_quality": "短学术新词，来源huggingface，前排多为论文/代码页"
+    }
+  ]
+}
