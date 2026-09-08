@@ -4151,13 +4151,13 @@
         "用户主动寻找替代方案"
       ],
       "workarounds": [],
-      "desired_features": [
-        "需要批量处理或 API 接入"
-      ]
+      "desired_features": []
     },
     {
       "term": "2B: Small enough for the device, built to act",
       "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "学习曲线陡峭，上手困难",
         "使用体验差，令人沮丧"
       ],
       "workarounds": [],
@@ -4166,6 +4166,7 @@
     {
       "term": "AI Sales rep for your website visitors",
       "top_complaints": [
+        "用户主动寻找替代方案",
         "缺少关键功能或支持"
       ],
       "workarounds": [
@@ -4176,51 +4177,51 @@
     {
       "term": "AI growth manager for your Google Ads account",
       "top_complaints": [
+        "缺少关键功能或支持",
         "定价过高，流量上来后成本飙升",
         "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AI messenger that builds shared apps inside your group chats",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署",
+        "手动逐步处理",
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": [
         "在寻找更好的工具方案"
       ]
     },
     {
-      "term": "AI messenger that builds shared apps inside your group chats",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "频繁出 bug，功能不稳定",
-        "扩展性差，大规模部署受限"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "手动逐步处理"
-      ],
-      "desired_features": []
-    },
-    {
       "term": "AI that finds, qualifies and enriches your next customer",
       "top_complaints": [
         "缺少关键功能或支持",
-        "定价过高，流量上来后成本飙升",
-        "使用体验差，令人沮丧"
+        "使用体验差，令人沮丧",
+        "难以控制输出，依赖精细 prompt"
       ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "App Demo Studio for mobile apps",
       "top_complaints": [
         "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧"
+        "使用体验差，令人沮丧",
+        "扩展性差，大规模部署受限"
       ],
       "workarounds": [
         "批量下载后拖拽迁移部署"
       ],
       "desired_features": [
-        "希望增加更完善的功能",
-        "需要更多导出格式"
+        "在寻找更好的工具方案"
       ]
     },
     {
@@ -4242,28 +4243,28 @@
     {
       "term": "Automated Penetration Testing for AI-Built Apps",
       "top_complaints": [
+        "频繁出 bug，功能不稳定",
         "生成代码存在安全漏洞",
-        "缺少关键功能或支持",
-        "定价过高，流量上来后成本飙升"
+        "难以控制输出，依赖精细 prompt"
       ],
       "workarounds": [
-        "手动逐步处理",
-        "用临时 hack 绕过限制"
+        "用临时 hack 绕过限制",
+        "手动逐步处理"
       ],
       "desired_features": [
-        "需要批量处理或 API 接入",
-        "在寻找更好的工具方案"
+        "需要批量处理或 API 接入"
       ]
     },
     {
       "term": "Bring any AI agent into Slack, Teams & Discord. Open-source.",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "缺少关键功能或支持",
+        "扩展性差，大规模部署受限"
       ],
       "workarounds": [
         "转向自托管或其他部署平台",
-        "改用其他工具/平台",
-        "批量下载后拖拽迁移部署"
+        "批量下载后拖拽迁移部署",
+        "改用其他工具/平台"
       ],
       "desired_features": []
     },
@@ -4279,12 +4280,11 @@
       "term": "Dictantor: Record meetings and transcribe privately on Apple devices",
       "top_complaints": [
         "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持",
-        "输出不稳定，结果不可预测"
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
       ],
       "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "转向自托管或其他部署平台"
+        "用临时 hack 绕过限制"
       ],
       "desired_features": []
     },
@@ -4309,7 +4309,8 @@
     {
       "term": "Jupitrr Cut",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "缺少关键功能或支持",
+        "难以控制输出，依赖精细 prompt"
       ],
       "workarounds": [],
       "desired_features": []
@@ -4317,9 +4318,9 @@
     {
       "term": "Jupitrr Cut: Open source app for recording vids with a teleprompter",
       "top_complaints": [
-        "缺少关键功能或支持",
         "难以控制输出，依赖精细 prompt",
-        "频繁出 bug，功能不稳定"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": [
@@ -4337,12 +4338,10 @@
     {
       "term": "Knockin': Turns your static bio into an AI business card that replies.",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧"
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [
-        "手动逐步处理"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
@@ -4351,8 +4350,7 @@
         "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "手动逐步处理"
+        "用户用 Excel/表格手动处理"
       ],
       "desired_features": []
     },
@@ -4361,445 +4359,8 @@
       "top_complaints": [
         "搜索结果中未发现明确用户痛点"
       ],
-      "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Kopai",
-      "top_complaints": [
-        "使用体验差，令人沮丧",
-        "频繁出 bug，功能不稳定",
-        "输出不稳定，结果不可预测"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "手动逐步处理"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Kopai: The Cloud for AI Agents",
-      "top_complaints": [
-        "扩展性差，大规模部署受限",
-        "输出不稳定，结果不可预测"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "MiniCPM5-2B",
-      "top_complaints": [
-        "定价过高，流量上来后成本飙升"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "MiniCPM5-2B: Small enough for the device, built to act",
-      "top_complaints": [
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Multi",
-      "top_complaints": [
-        "使用体验差，令人沮丧",
-        "缺少关键功能或支持",
-        "难以控制输出，依赖精细 prompt"
-      ],
       "workarounds": [
         "批量下载后拖拽迁移部署"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Multi-agent marketplace where proof decides who wins",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "性能慢，响应延迟高",
-        "平台锁定，迁移困难"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Open source app for recording vids with a teleprompter",
-      "top_complaints": [
-        "难以控制输出，依赖精细 prompt",
-        "使用体验差，令人沮丧",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "批量下载后拖拽迁移部署"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Open-source CRM with approval-gated AI writes",
-      "top_complaints": [
-        "平台锁定，迁移困难"
-      ],
-      "workarounds": [
-        "用临时 hack 绕过限制",
-        "转向自托管或其他部署平台",
-        "改用其他工具/平台"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "OpenMarket",
-      "top_complaints": [
-        "难以维护，技术债快速累积"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "OpenMarket: Multi",
-      "top_complaints": [
-        "用户主动寻找替代方案"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "OpenMarket: Multi-agent marketplace where proof decides who wins",
-      "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Record meetings and transcribe privately on Apple devices",
-      "top_complaints": [
-        "用户主动寻找替代方案"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Relaticle",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [
-        "转向自托管或其他部署平台"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Relaticle: Open",
-      "top_complaints": [
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "转向自托管或其他部署平台",
-        "批量下载后拖拽迁移部署"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Relaticle: Open-source CRM with approval-gated AI writes",
-      "top_complaints": [
-        "定价过高，流量上来后成本飙升",
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [
-        "转向自托管或其他部署平台"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Replay QA Security Scan",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持",
-        "生成代码存在安全漏洞"
-      ],
-      "workarounds": [
-        "手动逐步处理"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Replay QA Security Scan: Automated Penetration Testing for AI",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "扩展性差，大规模部署受限",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "用临时 hack 绕过限制",
-        "手动逐步处理"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Replay QA Security Scan: Automated Penetration Testing for AI-Built Apps",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "手动逐步处理",
-        "用临时 hack 绕过限制"
-      ],
-      "desired_features": [
-        "需要批量处理或 API 接入",
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Small enough for the device, built to act",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Switch",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧",
-        "难以控制输出，依赖精细 prompt"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "改用其他工具/平台"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Switch: Bring any AI agent into Slack, Teams & Discord. Open",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "扩展性差，大规模部署受限"
-      ],
-      "workarounds": [
-        "转向自托管或其他部署平台",
-        "批量下载后拖拽迁移部署",
-        "改用其他工具/平台"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Switch: Bring any AI agent into Slack, Teams & Discord. Open-source.",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "扩展性差，大规模部署受限"
-      ],
-      "workarounds": [
-        "转向自托管或其他部署平台",
-        "批量下载后拖拽迁移部署",
-        "改用其他工具/平台"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Tables.so",
-      "top_complaints": [
-        "使用体验差，令人沮丧",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Tables.so: AI that finds, qualifies and enriches your next customer",
-      "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "手动逐步处理"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "TapCraft",
-      "top_complaints": [
-        "用户主动寻找替代方案"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "TapCraft: App Demo Studio for mobile apps",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "The Cloud for AI Agents",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "难以控制输出，依赖精细 prompt",
-        "扩展性差，大规模部署受限"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "The single, secure environment for agents, apps, and automations.",
-      "top_complaints": [
-        "用户主动寻找替代方案"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Tines",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持",
-        "难以维护，技术债快速累积"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "转向自托管或其他部署平台",
-        "批量下载后拖拽迁移部署"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Tines: The single, secure environment for agents, apps, and automations.",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [
-        "转向自托管或其他部署平台"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Turn a sentence into a tiny desktop app",
-      "top_complaints": [
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Turns your static bio into an AI business card that replies.",
-      "top_complaints": [
-        "使用体验差，令人沮丧",
-        "频繁出 bug，功能不稳定",
-        "平台锁定，迁移困难"
-      ],
-      "workarounds": [
-        "手动逐步处理"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Up to 2 years free for startups + AI Agents & Copilot",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "定价过高，流量上来后成本飙升"
-      ],
-      "workarounds": [
-        "用临时 hack 绕过限制",
-        "转向自托管或其他部署平台",
-        "批量下载后拖拽迁移部署"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Widgo",
-      "top_complaints": [
-        "使用体验差，令人沮丧",
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [
-        "导出再导入的复制粘贴流程"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Widgo: AI Sales rep for your website visitors",
-      "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "导出再导入的复制粘贴流程"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Zendesk for Startups",
-      "top_complaints": [
-        "缺少关键功能或支持",
-        "定价过高，流量上来后成本飙升",
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
-      "term": "Zendesk for Startups: Up to 2 years free for startups + AI Agents & Copilot",
-      "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "bonds",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持",
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "bonds: AI messenger that builds shared apps inside your group chats",
-      "top_complaints": [
-        "使用体验差，令人沮丧",
-        "定价过高，流量上来后成本飙升"
-      ],
-      "workarounds": [
-        "批量下载后拖拽迁移部署",
-        "用临时 hack 绕过限制"
       ],
       "desired_features": [
         "在寻找更好的工具方案"
