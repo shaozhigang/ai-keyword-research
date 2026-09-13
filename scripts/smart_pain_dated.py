@@ -60,8 +60,8 @@ def get_ph_core_terms(date: str | None = None) -> set[str]:
         with open(raw_path) as f:
             raw = json.load(f)
         for term in raw.get("source_breakdown", {}).get("producthunt", []):
+            core.add(term)
             if ":" in term:
-                core.add(term)
                 name, tagline = term.split(":", 1)
                 core.add(name.strip())
                 core.add(tagline.strip())
