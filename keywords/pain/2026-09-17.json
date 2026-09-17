@@ -71492,9 +71492,7 @@
     {
       "term": "2.0 Build",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧",
-        "性能慢，响应延迟高"
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [],
       "desired_features": []
@@ -71502,70 +71500,54 @@
     {
       "term": "2.0 Build with",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "定价过高，流量上来后成本飙升",
-        "用户主动寻找替代方案"
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "3D sketches",
       "top_complaints": [
-        "使用体验差，令人沮丧",
-        "学习曲线陡峭，上手困难"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
-      "desired_features": [
-        "期望官方支持更多功能"
-      ]
+      "desired_features": []
     },
     {
       "term": "3D sketches into",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
-      "desired_features": [
-        "期望官方支持更多功能"
-      ]
+      "desired_features": []
     },
     {
       "term": "50+ generative",
       "top_complaints": [
-        "使用体验差，令人沮丧",
-        "用户主动寻找替代方案"
+        "搜索结果中未发现明确用户痛点"
       ],
-      "workarounds": [
-        "转向自托管或其他部署平台"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "50+ generative media",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "输出不稳定，结果不可预测",
+        "用户主动寻找替代方案",
+        "缺少关键功能或支持"
       ],
       "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "用临时 hack 绕过限制",
-        "转向自托管或其他部署平台"
+        "用临时 hack 绕过限制"
       ],
       "desired_features": []
     },
     {
       "term": "A marketplace",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "手动逐步处理"
-      ],
+      "workarounds": [],
       "desired_features": [
         "在寻找更好的工具方案"
       ]
@@ -71582,8 +71564,4276 @@
     {
       "term": "A marketplace for AI agents you can text",
       "top_complaints": [
-        "缺少关键功能或支持",
         "难以控制输出，依赖精细 prompt"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A minimal",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "A minimal browser",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案",
+        "希望增加更完善的功能"
+      ]
+    },
+    {
+      "term": "A minimal browser with a floating island for a toolbar",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "AI agents you",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "AI agents.",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AI agents. Stop",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "AI is missing",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "AI sourcing",
+      "top_complaints": [
+        "难以维护，技术债快速累积",
+        "缺少关键功能或支持",
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "AI sourcing employee",
+      "top_complaints": [
+        "定价过高，流量上来后成本飙升",
+        "难以维护，技术债快速累积",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "AI.",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "希望增加更完善的功能"
+      ]
+    },
+    {
+      "term": "AI. Sell",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "改用其他工具/平台",
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "AI. Sell and",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台",
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "AIM",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": [
+        "希望自动化简化工作流",
+        "希望增加更完善的功能"
+      ]
+    },
+    {
+      "term": "AIM buddy",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "AIM buddy list",
+      "top_complaints": [
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "AIM buddy list for your friends' Claude Code and Codex usage",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "API",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "难以维护，技术债快速累积"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "导出再导入的复制粘贴流程"
+      ],
+      "desired_features": [
+        "需要批量处理或 API 接入"
+      ]
+    },
+    {
+      "term": "API One",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "API One async",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "扩展性差，大规模部署受限"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "API for",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积",
+        "扩展性差，大规模部署受限"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "需要批量处理或 API 接入",
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "API for 50+",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "难以维护，技术债快速累积"
+      ],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案",
+        "需要批量处理或 API 接入"
+      ]
+    },
+    {
+      "term": "Agent Builder",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Agent Builder by",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署",
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Agent Builder by Airtop",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "性能慢，响应延迟高"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Agent Builder by Airtop: Web agents that heal themselves.",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Agent Store",
+      "top_complaints": [
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
+    },
+    {
+      "term": "Agent Store A",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "定价过高，流量上来后成本飙升",
+        "难以控制输出，依赖精细 prompt"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Airtop",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "难以控制输出，依赖精细 prompt",
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": [
+        "需要批量处理或 API 接入"
+      ]
+    },
+    {
+      "term": "Airtop Web",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "难以控制输出，依赖精细 prompt",
+        "扩展性差，大规模部署受限"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "需要批量处理或 API 接入"
+      ]
+    },
+    {
+      "term": "Airtop Web agents",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "定价过高，流量上来后成本飙升",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "需要批量处理或 API 接入",
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Amy",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持",
+        "平台锁定，迁移困难"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": [
+        "希望增加更完善的功能"
+      ]
+    },
+    {
+      "term": "Amy by",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "平台锁定，迁移困难"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Amy by Jellyfish",
+      "top_complaints": [
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Amy by Jellyfish: Your AI sourcing employee for recruiting teams",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "An agentic harness",
+      "top_complaints": [
+        "难以控制输出，依赖精细 prompt",
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "An agentic harness that turns long videos into clips",
+      "top_complaints": [
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Analytiics",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Analytiics Web",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Analytiics Web and",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Analytiics: Web and product analytics, set up by your coding agent",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "用临时 hack 绕过限制",
+        "手动逐步处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Android",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Android Ship",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Android Ship on",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "学习曲线陡峭，上手困难"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Arena Community",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Arena Community submitted",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "性能慢，响应延迟高"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Arena: Community submitted benchmarks for Local AI",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Automated QA",
+      "top_complaints": [
+        "搜索结果中未发现明确用户痛点"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Automated QA for",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "扩展性差，大规模部署受限"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
+    },
+    {
+      "term": "Automated QA for AI agents. Stop shipping on vibes.",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "调试循环冗长，反复返工",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Axiom",
+      "top_complaints": [
+        "难以控制输出，依赖精细 prompt",
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Axiom The",
+      "top_complaints": [
+        "难以控制输出，依赖精细 prompt",
+        "定价过高，流量上来后成本飙升",
+        "调试循环冗长，反复返工"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Axiom The modern",
+      "top_complaints": [
+        "难以控制输出，依赖精细 prompt",
+        "定价过高，流量上来后成本飙升"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "CREEM 2.0: Build with AI. Sell and Grow with CREEM.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "CREEM 2.0",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Build with AI. Sell and Grow with CREEM.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "CREEM",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "CREEM 2.0 Build",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Build with",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Build with AI.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with AI.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with AI. Sell",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Sell and",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Sell and Grow",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Grow",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Grow with",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Grow with",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Grow with CREEM.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with CREEM.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "CREEM.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Bitrise Remote Dev Environments: Cloud Macs your coding agents can actually build on",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Bitrise Remote Dev Environments",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Cloud Macs your coding agents can actually build on",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Bitrise",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Remote",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Dev",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Macs",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Bitrise Remote",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Bitrise Remote Dev",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Remote Dev",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Remote Dev Environments",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Dev Environments",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Dev Environments Cloud",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Environments Cloud",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Environments Cloud Macs",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Cloud Macs",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Cloud Macs your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Macs your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Macs your coding",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "your coding",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "your coding agents",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "coding agents can",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "agents can",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "agents can actually",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "can actually",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "can actually build",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "actually build",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "actually build on",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "build on",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Modaal for Android: Ship on both stores from one project using Swift + Kotlin",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Modaal for Android",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Ship on both stores from one project using Swift + Kotlin",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Modaal",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Ship",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Swift",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Kotlin",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Modaal for",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Android",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Android Ship",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Ship on",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Ship on both",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on both",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on both stores",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "both stores",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "both stores from",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "stores from",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "stores from one",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from one",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "from one project",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "one project",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "one project using",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "project using",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "project using Swift",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "using Swift",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "using Swift Kotlin",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Swift Kotlin",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Text Agent Store: A marketplace for AI agents you can text",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Text Agent Store",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Store",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Text Agent",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Store A",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Store A marketplace",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "marketplace for",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "marketplace for AI",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "agents you",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "agents you can",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "you can text",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "can text",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "NovaSynth by Noveum: Test your voice agent on the callers you can't stage.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "NovaSynth by Noveum",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Test your voice agent on the callers you can't stage.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "NovaSynth",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Noveum",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "NovaSynth by",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "by Noveum",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "by Noveum Test",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Noveum Test",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Noveum Test your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Test your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Test your voice",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "your voice",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "your voice agent",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "voice agent",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "voice agent on",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "agent on",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "agent on the",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on the callers",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the callers",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the callers you",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "callers you",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "callers you can't",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "you can't",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "you can't stage.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "can't stage.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Higgsfield API: One async API for 50+ generative media models",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Higgsfield API",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "One async API for 50+ generative media models",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Higgsfield",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Higgsfield API One",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "One async",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "One async API",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "async API",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "async API for",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for 50+",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for 50+ generative",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "generative media",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "generative media models",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "media models",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MCPJam: The testing & evaluations platform for MCP servers",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MCPJam",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The testing & evaluations platform for MCP servers",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MCPJam The",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MCPJam The testing",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The testing",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The testing evaluations",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "testing evaluations",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "testing evaluations platform",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "evaluations platform",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "evaluations platform for",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "platform for MCP",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for MCP",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for MCP servers",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MCP servers",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Die With Me: AIM buddy list for your friends' Claude Code and Codex usage",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Die With Me",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Die",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Claude",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Codex",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Die With",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "With Me",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "With Me AIM",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Me AIM",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Me AIM buddy",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "buddy list",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "buddy list for",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "list for",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "list for your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for your friends",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "your friends' Claude",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "friends' Claude",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "friends' Claude Code",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Claude Code",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Claude Code and",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Code and",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Code and Codex",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Codex",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and Codex usage",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Codex usage",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "TinyKPI: Your business analytics directly in your notch",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "TinyKPI",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Your business analytics directly in your notch",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "TinyKPI Your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "TinyKPI Your business",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Your business",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Your business analytics",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "business analytics",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "business analytics directly",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "analytics directly",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "analytics directly in",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "directly in",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "directly in your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Clarify: The autonomous CRM that helps you sell more",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Clarify",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The autonomous CRM that helps you sell more",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Clarify The",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Clarify The autonomous",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The autonomous",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The autonomous CRM",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "autonomous CRM",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "autonomous CRM that",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "CRM that",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "CRM that helps",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "that helps",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "that helps you",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "helps you",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "helps you sell",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "you sell",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "you sell more",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "sell more",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Zella: Video recorder that edits itself on Mac and iPhone",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Zella",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Video recorder that edits itself on Mac and iPhone",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Zella Video",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Zella Video recorder",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Video recorder",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Video recorder that",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "recorder that",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "recorder that edits",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "that edits",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "that edits itself",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "edits itself",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "edits itself on",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "itself on",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "itself on Mac",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on Mac",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on Mac and",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Mac and",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Mac and iPhone",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and iPhone",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Figo: See every move your competitors make",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Figo",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "See every move your competitors make",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Figo See",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Figo See every",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "See every",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "See every move",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "every move",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "every move your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "move your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "move your competitors",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "your competitors",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "your competitors make",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "competitors make",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Blanc: A minimal browser with a floating island for a toolbar",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Blanc",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Blanc A",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Blanc A minimal",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "minimal browser",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "minimal browser with",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "browser with",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "browser with a",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with a floating",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a floating",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a floating island",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "floating island",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "floating island for",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "island for",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "island for a",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for a",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for a toolbar",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "a toolbar",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Axiom: The modern machine data platform",
+      "top_complaints": [
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The modern machine data platform",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The modern",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "The modern machine",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "modern machine",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "modern machine data",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "machine data",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "machine data platform",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "data platform",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Pitchfire for Startups: Reach investors that are aligned with you",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Pitchfire for Startups",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Reach investors that are aligned with you",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Pitchfire",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Startups",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Reach",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Pitchfire for",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Startups",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Startups Reach",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Startups Reach",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Startups Reach investors",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Reach investors",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Reach investors that",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "investors that",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "investors that are",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "that are",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "that are aligned",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "are aligned",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "are aligned with",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "aligned with",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "aligned with you",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with you",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Web agents that heal themselves.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Builder",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Builder by",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Builder by Airtop",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "by Airtop",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "by Airtop Web",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Web agents",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Web agents that",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "agents that",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "agents that heal",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "that heal",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "that heal themselves.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "heal themselves.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MacSentinel: Find what's slowing your Mac then clean it safely",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MacSentinel",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Find what's slowing your Mac then clean it safely",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Find",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MacSentinel Find",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "MacSentinel Find what's",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Find what's",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Find what's slowing",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "what's slowing",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "what's slowing your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "slowing your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "slowing your Mac",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "your Mac",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "your Mac then",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Mac then",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Mac then clean",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "then clean",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "then clean it",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "clean it",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "clean it safely",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "it safely",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Compute:Arena: Community submitted benchmarks for Local AI",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Compute: Arena: Community submitted benchmarks for Local AI",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Compute Arena",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Compute Arena Community",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Community submitted",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Community submitted benchmarks",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "submitted benchmarks",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "submitted benchmarks for",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "benchmarks for",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "benchmarks for Local",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for Local AI",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Local AI",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Compute:Arena",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Community submitted benchmarks for Local AI",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Opyt: Your attention is the context your AI is missing",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Opyt",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Your attention is the context your AI is missing",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Opyt Your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Opyt Your attention",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Your attention",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Your attention is",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "attention is",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "attention is the",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "is the context",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "the context your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "context your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "context your AI",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "your AI",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "your AI is",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "is missing",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "QAgent: Automated QA for AI agents. Stop shipping on vibes.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "QAgent",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Stop",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "QAgent Automated",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "QAgent Automated QA",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "QA",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "QA for",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "QA for AI",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for AI agents.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "agents. Stop",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "agents. Stop shipping",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Stop shipping",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Stop shipping on",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "shipping on",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "shipping on vibes.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "on vibes.",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "S-Roll: An agentic harness that turns long videos into clips",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "S-Roll",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Roll: An agentic harness that turns long videos into clips",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Roll",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "S-Roll An",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "S-Roll An agentic",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "agentic harness",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "agentic harness that",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "harness that",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "harness that turns",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "that turns",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "that turns long",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "turns long",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "turns long videos",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "long videos",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "long videos into",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "videos into",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "videos into clips",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "into clips",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Web and product analytics, set up by your coding agent",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Web and",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Web and product",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and product",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "and product analytics",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "product analytics",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "product analytics set",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "analytics set",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "analytics set up",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "set up",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "set up by",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "up by",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "up by your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "by your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "by your coding",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "your coding agent",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Your AI sourcing employee for recruiting teams",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Jellyfish",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "by Jellyfish",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "by Jellyfish Your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Jellyfish Your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Jellyfish Your AI",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Your AI sourcing",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "sourcing employee",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "sourcing employee for",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "employee for",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "employee for recruiting",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for recruiting",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "for recruiting teams",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "recruiting teams",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "worldsplat: Turn 3D sketches into worlds",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "worldsplat",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Turn 3D sketches into worlds",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "worldsplat Turn",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "worldsplat Turn 3D",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Turn 3D",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Turn 3D sketches",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "sketches into",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "sketches into worlds",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "into worlds",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Ever Beyond: Space Conquest: Tactical Battles & Idle Merge",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Ever Beyond",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Space Conquest: Tactical Battles & Idle Merge",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Ever",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Conquest",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Tactical",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Battles",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Idle",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Merge",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "转向自托管或其他部署平台",
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "需要批量处理或 API 接入",
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Ever Beyond Space",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Beyond Space",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Beyond Space Conquest",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Space Conquest",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Space Conquest Tactical",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Conquest Tactical",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Conquest Tactical Battles",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Tactical Battles",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Tactical Battles Idle",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Battles Idle",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Battles Idle Merge",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Idle Merge",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Ever Beyond: Space Conquest",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Tactical Battles & Idle Merge",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "NavKey: Control Windows with only your keyboard",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "NavKey",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Control Windows with only your keyboard",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Windows",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "NavKey Control",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "NavKey Control Windows",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Control Windows",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Control Windows with",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Windows with",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Windows with only",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with only",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "with only your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "only your",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "only your keyboard",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "your keyboard",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Weave",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Router",
+      "top_complaints": [
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
