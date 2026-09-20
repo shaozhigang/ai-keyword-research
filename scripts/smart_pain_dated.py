@@ -81,18 +81,18 @@ def get_ph_core_terms(date: str | None = None) -> set[str]:
     return _PH_CORE
 
 
-def is_junk_fragment(term: str, sources: set[str]) -> bool:
+def is_junk_fragment(term: str, sources: set[str], date: str | None = None) -> bool:
     """Skip fragments and academic-only terms unlikely to yield product pain signals."""
-    ph_core = get_ph_core_terms()
+    ph_core = get_ph_core_terms(date)
 
     if "producthunt" in sources:
-        if term in ph_core:
+        product_names = {p.split(":")[0].strip() for p in ph_core if ":" in p}
+        if term in product_names:
             return False
-        for name in {p.split(":")[0] for p in ph_core if ":" in p} | {
-            n for n in ph_core if ":" not in n and " " not in n
-        }:
-            if term == name or term.startswith(f"{name}:"):
-                return False
+        if ":" in term and term in ph_core:
+            return False
+        if any(term.startswith(f"{name}:") for name in product_names):
+            return False
         return True
 
     if sources and sources <= {"arxiv", "huggingface"}:
@@ -288,7 +288,7 @@ def main():
         sources = source_map.get(term, set())
         wants_tavily = term in ph_core or needs_tavily(term, sources)
         if wants_tavily:
-            if is_junk_fragment(term, sources):
+            if is_junk_fragment(term, sources, date):
                 junk_terms.append(term)
             else:
                 tavily_terms.append(term)
