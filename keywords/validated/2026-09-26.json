@@ -1,0 +1,285 @@
+{
+  "date": "2026-09-26",
+  "entries": [
+    {
+      "term": "Benchmark for",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 ML 团队的基准测试编排平台，稳定跑分、复现实验并对比模型在真实任务上的表现，减少 flaky 评测结果",
+      "suggested_headline": "Reliable AI Benchmarks Without the Flaky Scores",
+      "target_users": [
+        "ML 平台工程师",
+        "模型评测负责人",
+        "开源基准维护者"
+      ]
+    },
+    {
+      "term": "Agents",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "LLM",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Search",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Benchmark",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "GRPO",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Few-Step",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Training",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Models",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Video Generation",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Agentic",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "World Model Rethinking",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Model Rethinking World",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Rethinking World",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "World Modeling",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "World Modeling for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Modeling for LLM",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "An Open",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A Closed-Loop",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Verifiable",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for Joint",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    }
+  ]
+}
