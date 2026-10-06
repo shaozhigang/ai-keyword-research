@@ -1,7 +1,5 @@
 {
   "date": "2026-10-05",
-  "scored_at": "2026-10-05T22:05:29.538322",
-  "bootstrap": "heuristic (Agent 2 scored file missing)",
   "entries": [
     {
       "term": "RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations",
@@ -413,8 +411,8 @@
       "term": "Video",
       "trend": "📈上升",
       "main_geo": "US",
-      "competition": "中",
-      "top10_quality": "来源标注为arxiv,huggingface,producthunt新词，趋势暂按上升处理"
+      "competition": "高",
+      "top10_quality": "较强，专业站点多，标题精准匹配多"
     },
     {
       "term": "Generation",
