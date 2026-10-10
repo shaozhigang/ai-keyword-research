@@ -1,0 +1,17 @@
+{
+  "name": "ai-keyword-research",
+  "user": "ubuntu",
+  "install": "python3 -m compileall -q scripts",
+  "terminals": [
+    {
+      "name": "viewer",
+      "command": "python3 -m http.server 8080"
+    }
+  ],
+  "ports": [
+    {
+      "name": "viewer",
+      "port": 8080
+    }
+  ]
+}
