@@ -1,0 +1,9784 @@
+{
+  "date": "2026-10-10",
+  "entries": [
+    {
+      "term": "Claude Dashboards & Motion",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向数据与汇报团队的 Claude 实时看板+动效讲解工具，连接 CRM/数据平台生成交互仪表盘与可编辑动画说明，缓解功能缺口、输出不稳与平台锁定",
+      "suggested_headline": "Turn Live Data Into Dashboards and Motion Explainers With Claude",
+      "target_users": [
+        "增长与运营分析师",
+        "产品市场汇报负责人",
+        "Claude 付费团队用户"
+      ]
+    },
+    {
+      "term": "Revenue Scout",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 B2B 与独立创业者的社媒线索发现工具，在 Reddit/X/LinkedIn 等公开讨论中筛出高意向对话并生成可审核回复草稿",
+      "suggested_headline": "Find Social Leads With Replies Ready — You Stay in Control",
+      "target_users": [
+        "SaaS 创始人",
+        "独立顾问与代理",
+        "小型销售团队"
+      ]
+    },
+    {
+      "term": "Microsoft-Decision-1",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 Agent 编排团队的决策打分模型服务，对固定选项一次输出校准概率，用于路由、分类、校验与流程控制，替代慢且贵的通用 LLM 决策调用",
+      "suggested_headline": "Calibrated Agent Decisions in One Pass — 35× Faster Than GPT-Class Models",
+      "target_users": [
+        "Agent 平台工程师",
+        "LLM 应用架构师",
+        "企业 AI 工作流团队"
+      ]
+    },
+    {
+      "term": "Cue: Put your AirPods in, your Mac starts focusing",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 Mac 深度工作者的 AirPods 触发专注模式工具，戴上耳机自动切换系统专注状态，解决体验差、不稳定与成本顾虑",
+      "suggested_headline": "Put In AirPods — Your Mac Enters Focus Mode Automatically",
+      "target_users": [
+        "远程知识工作者",
+        "Mac 重度用户",
+        "需要防打扰的开发者"
+      ]
+    },
+    {
+      "term": "Cue",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 Mac 用户的可穿戴触发专注助手，用 AirPods 佩戴状态驱动 Focus/勿扰，降低手动切换摩擦",
+      "suggested_headline": "Cue Focus Mode the Moment Your AirPods Connect",
+      "target_users": [
+        "自由职业者",
+        "学生与研究员",
+        "Apple 生态效率用户"
+      ]
+    },
+    {
+      "term": "Rank Kiwi",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向社媒运营与创作者的 Instagram/YouTube 爆款内容分析工具，识别高表现选题与格式，改善结果不可预测与扩展性不足",
+      "suggested_headline": "Find Top-Performing Instagram and YouTube Content — Predictably",
+      "target_users": [
+        "短视频运营",
+        "品牌社媒经理",
+        "独立内容创作者"
+      ]
+    },
+    {
+      "term": "Onepin: AI voiceover with every name, price and date said right",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Onepin",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ReSO AI: Get discovered & recommended when customers ask AI",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ReSO AI",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Claude Dashboards & Motion: Ask Claude for live dashboards and animated explainers",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Revenue Scout: Find social media leads, with replies ready to review",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Microsoft-Decision-1: Microsoft’s decision model for agents and workflows",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "1: Microsoft’s decision model for agents and workflows",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Firefox 157: A brand new Firefox is here",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Firefox 157",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Skreno: Record, edit and share videos, all in your browser",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Skreno",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "API Claws by Buda: Build self-improving agent harness with one API",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "API Claws by Buda: Build self",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "TapNoise: A tiny desktop pet that reacts to every key you press",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Rank Kiwi: Find top",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Hypervibe: Run your AI coding agents on one infinite board",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Hypervibe",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "put·here: A place to collect notes to organize them later",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "GitGlow: Review your code and your agents' changes before you ship",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fluence: Listen to your documents. Nothing leaves your phone",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Kitbar",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Uncovering When and Why Uncertainty Arises in Language Models",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Space: Uncovering When and Why Uncertainty Arises in Language Models",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Opera: A Verbal Critic Framework for Long-horizon Coding Agents",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A Verbal Critic Framework for Long-horizon Coding Agents",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Opera: A Verbal Critic Framework for Long",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Ended Scientific Discovery? Evidence from Station",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Make Open-Ended Scientific",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Open-Ended Scientific Discovery",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Scientific Discovery Evidence",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Frozen Models, Evolving Expertise: Model-Agnostic Learning from Deployment Experience for Multimodal Medical AI",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Model-Agnostic Learning from Deployment Experience for Multimodal Medical AI",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Frozen Models, Evolving Expertise: Model",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Agnostic Learning from Deployment Experience for Multimodal Medical AI",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Models Evolving Expertise",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evolving Expertise Model-Agnostic",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Expertise Model-Agnostic Learning",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "from Deployment Experience",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Deployment Experience for",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Experience for Multimodal",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "EDiS: Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Disjoint Subgraph Sparsification",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Subgraph Sparsification Framework",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Sparsification Framework for",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "CARE: Certifying Acceleration for Vision-Language-Action Inference",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Certifying Acceleration for Vision-Language-Action Inference",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "CARE: Certifying Acceleration for Vision",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "CARE Certifying Acceleration",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Certifying Acceleration for",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "MIRA: A Musical Intent Refinement Agent for Aligning Text-to-Music Generation with User Intent",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A Musical Intent Refinement Agent for Aligning Text-to-Music Generation with User Intent",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "MIRA: A Musical Intent Refinement Agent for Aligning Text",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Music Generation with User Intent",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Musical Intent Refinement",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Aligning Text-to-Music Generation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Behavioral Persistence and Incomplete Functional Transfer of Co-evolved Communication in Evolutionary Robotics",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Behavioral Persistence and Incomplete Functional Transfer of Co",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "evolved Communication in Evolutionary Robotics",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Behavioral Persistence and",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Persistence and Incomplete",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "and Incomplete Functional",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Incomplete Functional Transfer",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Communication in Evolutionary",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evaluating the Transfer of Co",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evolved Communication from 2D to 3D Simulation",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Agents",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evolving Agents",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Bench",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "LLM",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Do",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Efficient",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Level",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Routing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Agentic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Language",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Models",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Environment",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "MiMo",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Scaling",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Self",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Any",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Scene",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Multi",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Multi-Agent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fine-Grained",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fine",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Grained",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Interaction",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Model with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Simple",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Manipulation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Robot Learning",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "3D",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Spatio-Temporal",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Beyond",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Spatio",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Temporal",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Priors",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Dense",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Correspondence",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Training",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "U-Space",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Space",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Uncovering",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "When",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Arises",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "U-Space Uncovering",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "U-Space Uncovering When",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Uncovering When",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Uncovering When and",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "When and",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "When and Why",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "and Why",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "and Why Uncertainty",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Why Uncertainty",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Why Uncertainty Arises",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Uncertainty Arises",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Uncertainty Arises in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Arises in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Arises in Language",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Language Models",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Sparse",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Closing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Transformers",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Closing the",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Test",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evaluation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Model-Based",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Based",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Reflective",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Recursive Self-Improvement",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Self-Improvement through",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Text-to-Image",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Frontier",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Image",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Composing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Preference",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Models by",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Large Language",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Large Language Models",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Decoding",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Aware",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Inference",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "and Efficient",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Unified",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Multimodal",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Unified Multimodal",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for Image",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Free",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Video Generation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Reasoning",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Informed",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Visual",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Long-Horizon",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "What",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Actually",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Long",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Horizon",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "the Agent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Benchmark",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Metric",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Distance",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Benchmark for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Canvas",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Machines",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Looped",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Decision",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Thinking",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Model for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Assets",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Modeling of",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Framework for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Sequential",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Controlled",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Study",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A Controlled Study",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Controlled Study",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Controlled Study of",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Study of",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Opera",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "horizon Coding Agents",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Verbal",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Coding",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Opera A",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Opera A Verbal",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A Verbal",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A Verbal Critic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Verbal Critic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Verbal Critic Framework",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Critic Framework",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Critic Framework for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Framework for Long-horizon",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for Long-horizon Coding",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Long-horizon Coding",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Long-horizon Coding Agents",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Coding Agents",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Skills",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Agents with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Vision",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Compression with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Policy Learning",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Off-Policy",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Policy",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Optimization",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Intelligence",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Retrieval",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Deep Learning",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Deep Learning in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evaluating",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Predictive",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Reasoning in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "in Vision-Language",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Can AI Agents Make Open",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Make",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Scientific",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Station",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Can AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Can AI Agents",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AI Agents Make",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Agents Make",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Agents Make Open-Ended",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Make Open-Ended",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Open-Ended Scientific",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Scientific Discovery",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Discovery Evidence",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Discovery Evidence from",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evidence from",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evidence from Station",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "from Station",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Memory",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Context",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Revealing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Revealing the",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evolution",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Chain",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Stone",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Black-Box",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Look",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Benchmarking",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Black",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Box",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Benchmarking LLM",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Benchmarking LLM Agents",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Goal",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Directed",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Procedural",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Not",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Epistemic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Conflict",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "in LLM",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Test-Time",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Time",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Residuals",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Coherent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Enterprise",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Data",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Data via",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "One",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Multiple",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Experts",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Transformers with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Controllable",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Design",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evaluating Agentic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Frozen Models, Evolving Expertise",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Model-Agnostic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Expertise",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Frozen Models",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Frozen Models Evolving",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Models Evolving",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evolving Expertise",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Expertise Model-Agnostic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Model-Agnostic Learning",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Model-Agnostic Learning from",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Learning from Deployment",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "from Deployment",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Deployment Experience",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Experience for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for Multimodal",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for Multimodal Medical",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Multimodal Medical",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Multimodal Medical AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Medical AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Branch",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Speculative",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Diffusion Language",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Diffusion Language Models",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Retrieval-Augmented",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Alignment",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Augmented",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Alignment in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Retrieval-Augmented Generation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Intent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "EDiS",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Edge",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Disjoint",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Subgraph",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Sparsification",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Graph",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "EDiS Edge",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "EDiS Edge Disjoint",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Edge Disjoint",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Edge Disjoint Subgraph",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Disjoint Subgraph",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Subgraph Sparsification",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Sparsification Framework",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Framework for Graph",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for Graph Neural",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Graph Neural",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Graph Neural Networks",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "CARE",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Action Inference",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "CARE Certifying",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Certifying Acceleration",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Acceleration for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Acceleration for Vision-Language-Action",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for Vision-Language-Action Inference",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Vision-Language-Action Inference",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "On-Policy",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Distillation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Skill",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "of Agent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "of Agent Skills",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Agent Skills",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Dynamics",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Physical",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Dynamics with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "MIRA",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Text-to-Music",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Musical",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Refinement",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Aligning",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "MIRA A",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "MIRA A Musical",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A Musical",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A Musical Intent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Musical Intent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Intent Refinement",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Intent Refinement Agent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Refinement Agent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Refinement Agent for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Agent for Aligning",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for Aligning",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for Aligning Text-to-Music",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Aligning Text-to-Music",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Text-to-Music Generation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Text-to-Music Generation with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Generation with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Generation with User",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "with User",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "with User Intent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "User Intent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Steer",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Steering",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Geometry",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "RLVR",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Learning to Steer",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "to Steer",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "MARGIN",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Runtime",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Foundation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Foundation Model",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Streaming",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Guided",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Lattice",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Transition",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Co-evolved",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Persistence",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Transfer",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Communication",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Robotics",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Behavioral Persistence",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Persistence and",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "and Incomplete",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Incomplete Functional",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Functional Transfer",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Functional Transfer of",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Transfer of",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Transfer of Co-evolved",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "of Co-evolved",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "of Co-evolved Communication",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Co-evolved Communication",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Co-evolved Communication in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Communication in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "in Evolutionary",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "in Evolutionary Robotics",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evolutionary Robotics",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evolved",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evaluating the",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evaluating the Transfer",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "the Transfer",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "the Transfer of",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Co-Evolved Communication from",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Communication from",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Communication from 2D",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "from 2D",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "from 2D to",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "2D",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "2D to",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "2D to 3D",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "to 3D",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "to 3D Simulation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "3D Simulation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "UAV",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Satellite",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Evaluation of",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "in Text-to-Image",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Generation via",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AI voiceover with every name, price and date said right",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Onepin AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Onepin AI voiceover",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AI voiceover",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AI voiceover with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "voiceover with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "voiceover with every",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "with every",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "with every name",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "every name",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "every name price",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "name price",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "name price and",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "price and",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "price and date",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "and date",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "and date said",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "date said",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "date said right",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "said right",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Get discovered & recommended when customers ask AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ReSO",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Get",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ReSO AI Get",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AI Get",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AI Get discovered",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Get discovered",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Get discovered recommended",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "discovered recommended",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "discovered recommended when",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "recommended when",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "recommended when customers",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "when customers",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "when customers ask",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "customers ask",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "customers ask AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ask AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Ask Claude for live dashboards and animated explainers",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Claude",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Dashboards",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Ask",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Claude Dashboards",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Claude Dashboards Motion",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Dashboards Motion",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Dashboards Motion Ask",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Motion Ask",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Motion Ask Claude",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Ask Claude",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Ask Claude for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Claude for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Claude for live",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for live",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for live dashboards",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "live dashboards",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "live dashboards and",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "dashboards and",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "dashboards and animated",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "and animated",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "and animated explainers",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "animated explainers",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Find social media leads, with replies ready to review",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Revenue",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Scout",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Find",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Revenue Scout Find",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Scout Find",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Scout Find social",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Find social",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Find social media",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "social media",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "social media leads",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "media leads",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "media leads with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "leads with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "leads with replies",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "with replies",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "with replies ready",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "replies ready",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "replies ready to",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ready to",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ready to review",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "to review",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Microsoft’s decision model for agents and workflows",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Microsoft",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Microsoft-Decision-1 Microsoft",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Microsoft-Decision-1 Microsoft s",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Microsoft s",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Microsoft s decision",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "s decision",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "s decision model",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "model for agents",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for agents",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for agents and",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "agents and",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "agents and workflows",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "and workflows",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Put your AirPods in, your Mac starts focusing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Put",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AirPods",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Mac",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Cue Put",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Cue Put your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Put your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Put your AirPods",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "your AirPods",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "your AirPods in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AirPods in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AirPods in your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "in your Mac",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "your Mac",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "your Mac starts",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Mac starts",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Mac starts focusing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "starts focusing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A brand new Firefox is here",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Firefox",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Firefox 157 A",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "157 A",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "157 A brand",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A brand",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A brand new",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "brand new",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "brand new Firefox",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "new Firefox",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "new Firefox is",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Firefox is",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Firefox is here",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "is here",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Record, edit and share videos, all in your browser",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Record",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Skreno Record",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Skreno Record edit",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Record edit",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Record edit and",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "edit and",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "edit and share",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "and share videos",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "share videos",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "share videos all",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "videos all",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "videos all in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "all in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "all in your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "in your browser",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "your browser",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "API Claws by Buda",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Build self-improving agent harness with one API",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "improving agent harness with one API",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "API",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Claws",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Buda",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Build",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "API Claws",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "API Claws by",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Claws by",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Claws by Buda",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "by Buda",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "by Buda Build",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Buda Build",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Buda Build self-improving",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Build self-improving",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Build self-improving agent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "self-improving agent",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "self-improving agent harness",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "agent harness with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "harness with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "harness with one",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "with one",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "with one API",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "one API",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "TapNoise",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A tiny desktop pet that reacts to every key you press",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "TapNoise A",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "TapNoise A tiny",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A tiny",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A tiny desktop",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "tiny desktop",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "tiny desktop pet",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "desktop pet",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "desktop pet that",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "pet that",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "pet that reacts",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "that reacts",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "that reacts to",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "reacts to",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "reacts to every",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "to every",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "to every key",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "every key",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "every key you",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "key you",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "key you press",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "you press",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Rank Kiwi: Find top-performing content on Instagram & YouTube",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Find top-performing content on Instagram & YouTube",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "performing content on Instagram & YouTube",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Kiwi",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Instagram",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "YouTube",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Rank Kiwi Find",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Kiwi Find",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Kiwi Find top-performing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Find top-performing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Find top-performing content",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "top-performing content",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "top-performing content on",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "content on",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "content on Instagram",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "on Instagram",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "on Instagram YouTube",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Instagram YouTube",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Maildun for Mac: Design on-brand emails by hand, with AI, or over MCP",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Maildun for Mac",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Design on-brand emails by hand, with AI, or over MCP",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Maildun for Mac: Design on",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "brand emails by hand, with AI, or over MCP",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Maildun",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "MCP",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Maildun for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for Mac",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for Mac Design",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Mac Design",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Mac Design on-brand",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Design on-brand",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Design on-brand emails",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "on-brand emails",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "on-brand emails by",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "emails by",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "emails by hand",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "by hand",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "by hand with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "hand with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "hand with AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "with AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "with AI or",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AI or",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AI or over",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "or over",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "or over MCP",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "over MCP",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Run your AI coding agents on one infinite board",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Run",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Hypervibe Run",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Hypervibe Run your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Run your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Run your AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "your AI coding",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AI coding",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AI coding agents",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "coding agents on",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "agents on",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "agents on one",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "on one",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "on one infinite",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "one infinite",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "one infinite board",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "infinite board",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "put·here",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A place to collect notes to organize them later",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "put here",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "put here A",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "here A",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "here A place",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A place",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "A place to",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "place to",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "place to collect",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "to collect",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "to collect notes",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "collect notes",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "collect notes to",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "notes to",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "notes to organize",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "to organize",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "to organize them",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "organize them",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "organize them later",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "them later",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "GitGlow",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Review your code and your agents' changes before you ship",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Review",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "GitGlow Review",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "GitGlow Review your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Review your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Review your code",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "your code",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "your code and",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "code and",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "code and your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "and your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "and your agents",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "your agents",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "your agents' changes",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "agents' changes",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "agents' changes before",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "changes before",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "changes before you",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "before you",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "before you ship",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "you ship",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fluence",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Listen to your documents. Nothing leaves your phone",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Listen",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fluence Listen",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fluence Listen to",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Listen to",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Listen to your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "to your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "to your documents.",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "your documents.",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "your documents. Nothing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "documents. Nothing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "documents. Nothing leaves",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Nothing leaves",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Nothing leaves your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "leaves your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "leaves your phone",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "your phone",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Kitbar: Your dev tools, in one bar.",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Your dev tools, in one bar.",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Kitbar Your",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Kitbar Your dev",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Your dev",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Your dev tools",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "dev tools",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "dev tools in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "tools in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "tools in one",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "in one bar.",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "one bar.",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    }
+  ]
+}

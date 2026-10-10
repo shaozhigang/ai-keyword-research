@@ -5700,19 +5700,15 @@
     {
       "term": "1: Microsoft’s decision model for agents and workflows",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧"
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [
-        "用临时 hack 绕过限制",
-        "转向自托管或其他部署平台"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "API Claws by Buda",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -5720,22 +5716,20 @@
     {
       "term": "API Claws by Buda: Build self",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [
-        "转向自托管或其他部署平台"
+        "转向自托管或其他部署平台",
+        "自己写脚本或自建工具"
       ],
       "desired_features": []
     },
     {
       "term": "API Claws by Buda: Build self-improving agent harness with one API",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧",
         "缺少关键功能或支持"
       ],
       "workarounds": [
-        "批量下载后拖拽迁移部署",
         "手动逐步处理"
       ],
       "desired_features": []
@@ -5743,17 +5737,19 @@
     {
       "term": "Claude Dashboards & Motion",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧",
-        "缺少关键功能或支持"
+        "缺少关键功能或支持",
+        "输出不稳定，结果不可预测",
+        "平台锁定，迁移困难"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
       "desired_features": []
     },
     {
       "term": "Claude Dashboards & Motion: Ask Claude for live dashboards and animated explainers",
       "top_complaints": [
-        "用户主动寻找替代方案"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -5762,9 +5758,12 @@
       "term": "Cue",
       "top_complaints": [
         "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧"
+        "使用体验差，令人沮丧",
+        "扩展性差，大规模部署受限"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
       "desired_features": [
         "在寻找更好的工具方案"
       ]
@@ -5772,23 +5771,21 @@
     {
       "term": "Cue: Put your AirPods in, your Mac starts focusing",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
         "使用体验差，令人沮丧",
-        "定价过高，流量上来后成本飙升"
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [
-        "手动逐步处理"
-      ],
-      "desired_features": []
+      "workarounds": [],
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
     },
     {
       "term": "Firefox 157",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [
-        "用临时 hack 绕过限制"
-      ],
+      "workarounds": [],
       "desired_features": [
         "期望官方支持更多功能"
       ]
@@ -5796,7 +5793,6 @@
     {
       "term": "Firefox 157: A brand new Firefox is here",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
         "生成代码存在安全漏洞"
       ],
       "workarounds": [],
@@ -5807,8 +5803,7 @@
     {
       "term": "Fluence",
       "top_complaints": [
-        "定价过高，流量上来后成本飙升",
-        "缺少关键功能或支持"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -5834,11 +5829,9 @@
     {
       "term": "GitGlow: Review your code and your agents' changes before you ship",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [
-        "转向自托管或其他部署平台"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
@@ -5849,19 +5842,16 @@
       "workarounds": [
         "用户用 Excel/表格手动处理"
       ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "desired_features": []
     },
     {
       "term": "Hypervibe: Run your AI coding agents on one infinite board",
       "top_complaints": [
-        "平台锁定，迁移困难",
-        "频繁出 bug，功能不稳定",
-        "用户主动寻找替代方案"
+        "用户主动寻找替代方案",
+        "平台锁定，迁移困难"
       ],
       "workarounds": [
-        "手动逐步处理"
+        "批量下载后拖拽迁移部署"
       ],
       "desired_features": []
     },
@@ -5876,8 +5866,7 @@
     {
       "term": "Kitbar: Your dev tools, in one bar.",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -5895,7 +5884,7 @@
     {
       "term": "Maildun for Mac: Design on",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [
         "手动逐步处理",
@@ -5906,9 +5895,7 @@
     {
       "term": "Maildun for Mac: Design on-brand emails by hand, with AI, or over MCP",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "定价过高，流量上来后成本飙升",
-        "缺少关键功能或支持"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [
         "手动逐步处理",
@@ -5919,19 +5906,22 @@
     {
       "term": "Microsoft-Decision-1",
       "top_complaints": [
+        "使用体验差，令人沮丧",
         "频繁出 bug，功能不稳定",
         "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
       "desired_features": []
     },
     {
       "term": "Microsoft-Decision-1: Microsoft’s decision model for agents and workflows",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "性能慢，响应延迟高"
       ],
       "workarounds": [
-        "用临时 hack 绕过限制"
+        "用户用 Excel/表格手动处理"
       ],
       "desired_features": []
     },
@@ -5940,7 +5930,9 @@
       "top_complaints": [
         "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": []
     },
     {
@@ -5948,17 +5940,15 @@
       "top_complaints": [
         "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [
-        "改用其他工具/平台"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "Rank Kiwi",
       "top_complaints": [
-        "使用体验差，令人沮丧",
         "输出不稳定，结果不可预测",
-        "缺少关键功能或支持"
+        "扩展性差，大规模部署受限",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -5974,10 +5964,10 @@
     {
       "term": "Rank Kiwi: Find top-performing content on Instagram & YouTube",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [
-        "用户用 Excel/表格手动处理"
+        "导出再导入的复制粘贴流程"
       ],
       "desired_features": [
         "在寻找更好的工具方案"
@@ -5986,7 +5976,8 @@
     {
       "term": "ReSO AI",
       "top_complaints": [
-        "定价过高，流量上来后成本飙升"
+        "定价过高，流量上来后成本飙升",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -5995,17 +5986,20 @@
       "term": "ReSO AI: Get discovered & recommended when customers ask AI",
       "top_complaints": [
         "使用体验差，令人沮丧",
-        "输出不稳定，结果不可预测",
-        "用户主动寻找替代方案"
+        "用户主动寻找替代方案",
+        "输出不稳定，结果不可预测"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
       "desired_features": []
     },
     {
       "term": "Revenue Scout",
       "top_complaints": [
+        "频繁出 bug，功能不稳定",
         "使用体验差，令人沮丧",
-        "频繁出 bug，功能不稳定"
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -6013,11 +6007,13 @@
     {
       "term": "Revenue Scout: Find social media leads, with replies ready to review",
       "top_complaints": [
-        "用户主动寻找替代方案",
-        "缺少关键功能或支持"
+        "输出不稳定，结果不可预测",
+        "使用体验差，令人沮丧",
+        "用户主动寻找替代方案"
       ],
       "workarounds": [
-        "手动逐步处理"
+        "手动逐步处理",
+        "导出再导入的复制粘贴流程"
       ],
       "desired_features": [
         "需要批量处理或 API 接入",
@@ -6036,9 +6032,8 @@
     {
       "term": "Skreno: Record, edit and share videos, all in your browser",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
         "缺少关键功能或支持",
-        "学习曲线陡峭，上手困难"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -6054,7 +6049,7 @@
     {
       "term": "TapNoise: A tiny desktop pet that reacts to every key you press",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -6070,17 +6065,13 @@
     {
       "term": "put·here: A place to collect notes to organize them later",
       "top_complaints": [
-        "学习曲线陡峭，上手困难",
+        "缺少关键功能或支持",
         "使用体验差，令人沮丧"
       ],
       "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "批量下载后拖拽迁移部署",
         "手动逐步处理"
       ],
-      "desired_features": [
-        "需要更多导出格式"
-      ]
+      "desired_features": []
     }
   ]
 }
