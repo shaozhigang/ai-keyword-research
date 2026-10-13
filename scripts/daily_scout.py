@@ -186,6 +186,17 @@ def product_hunt_products(day: str) -> list[tuple[str, str]]:
         tagline = re.sub(r"\s+", " ", tagline).strip(" !")
         if name and tagline:
             products.append((name, tagline))
+    if not products:
+        seen_names: set[str] = set()
+        for m in re.finditer(r"!\[([^\]]+)\]\([^)]+\)", content):
+            name = m.group(1).strip()
+            if not name or name.lower() == "promoted":
+                continue
+            key = name.lower()
+            if key in seen_names:
+                continue
+            seen_names.add(key)
+            products.append((name, ""))
     return products
 
 
