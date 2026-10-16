@@ -101700,8 +101700,8 @@
     {
       "term": "Firefox Enterprise",
       "top_complaints": [
-        "缺少关键功能或支持",
-        "性能慢，响应延迟高"
+        "性能慢，响应延迟高",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -101709,13 +101709,10 @@
     {
       "term": "Firefox Enterprise: Firefox for enterprises that want control of their data",
       "top_complaints": [
-        "难以控制输出，依赖精细 prompt",
         "频繁出 bug，功能不稳定",
         "缺少关键功能或支持"
       ],
-      "workarounds": [
-        "转向自托管或其他部署平台"
-      ],
+      "workarounds": [],
       "desired_features": [
         "在寻找更好的工具方案"
       ]
@@ -101723,7 +101720,6 @@
     {
       "term": "Fish Audio Drama 3",
       "top_complaints": [
-        "使用体验差，令人沮丧",
         "性能慢，响应延迟高"
       ],
       "workarounds": [],
@@ -101732,37 +101728,39 @@
     {
       "term": "Fish Audio Drama 3: AI voice acting you can direct, not just generate",
       "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "性能慢，响应延迟高"
+      ],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Harness by Autonomous",
+      "top_complaints": [
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Harness by Autonomous: Every coding agent, every machine, one command center.",
+      "top_complaints": [
         "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
     },
     {
-      "term": "Harness by Autonomous",
-      "top_complaints": [
-        "缺少关键功能或支持"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Harness by Autonomous: Every coding agent, every machine, one command center.",
-      "top_complaints": [
-        "使用体验差，令人沮丧"
-      ],
-      "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
-    },
-    {
       "term": "Hintly for Google Meet™",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [
-        "批量下载后拖拽迁移部署"
+        "用户用 Excel/表格手动处理"
       ],
       "desired_features": []
     },
@@ -101771,29 +101769,21 @@
       "top_complaints": [
         "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "批量下载后拖拽迁移部署"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "workarounds": [],
+      "desired_features": []
     },
     {
       "term": "Hintly for Google Meet™: Real-time hints for every term you miss on Google Meet",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "搜索结果中未发现明确用户痛点"
       ],
-      "workarounds": [
-        "改用其他工具/平台",
-        "批量下载后拖拽迁移部署"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "Jockey by TwelveLabs",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -101806,9 +101796,7 @@
       "workarounds": [
         "手动逐步处理"
       ],
-      "desired_features": [
-        "需要批量处理或 API 接入"
-      ]
+      "desired_features": []
     },
     {
       "term": "Memory Chess",
@@ -101817,15 +101805,12 @@
         "缺少关键功能或支持"
       ],
       "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "desired_features": []
     },
     {
       "term": "Memory Chess: Study a chess position, then rebuild it from memory",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -101833,28 +101818,32 @@
     {
       "term": "Parallax",
       "top_complaints": [
-        "缺少关键功能或支持",
-        "频繁出 bug，功能不稳定"
+        "频繁出 bug，功能不稳定",
+        "学习曲线陡峭，上手困难",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Parallax: Every coding agent you run, in one place.",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [
-        "改用其他工具/平台",
-        "用户用 Excel/表格手动处理",
-        "自己写脚本或自建工具"
+        "改用其他工具/平台"
       ],
       "desired_features": []
     },
     {
       "term": "Pomerado",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [],
       "desired_features": []
@@ -101862,51 +101851,36 @@
     {
       "term": "Pomerado: Turn any website into an API; Faster & reliable browser use",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "性能慢，响应延迟高"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
-      "desired_features": [
-        "需要批量处理或 API 接入"
-      ]
+      "desired_features": []
     },
     {
       "term": "Tesla Roadster",
       "top_complaints": [
-        "缺少关键功能或支持",
         "定价过高，流量上来后成本飙升",
-        "频繁出 bug，功能不稳定"
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [
-        "手动逐步处理"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "Tesla Roadster: The hypercar that flies",
       "top_complaints": [
         "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧",
-        "缺少关键功能或支持"
+        "定价过高，流量上来后成本飙升"
       ],
-      "workarounds": [
-        "手动逐步处理"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "Your entire video library: organized, searchable, understood",
       "top_complaints": [
-        "难以控制输出，依赖精细 prompt",
-        "使用体验差，令人沮丧",
-        "缺少关键功能或支持"
+        "难以维护，技术债快速累积"
       ],
-      "workarounds": [
-        "转向自托管或其他部署平台"
-      ],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "workarounds": [],
+      "desired_features": []
     }
   ]
 }
