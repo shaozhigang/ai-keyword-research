@@ -1,0 +1,3787 @@
+{
+  "date": "2026-10-17",
+  "entries": [
+    {
+      "term": "Hevy",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向力量训练用户的健身记录与周期化计划工具，聚焦缺失功能、稳定性与从 Hevy 平滑迁移",
+      "suggested_headline": "Track Every Lift Reliably — Without Hevy's Missing Features",
+      "target_users": [
+        "健身房常客",
+        "私人教练",
+        "力量举爱好者"
+      ]
+    },
+    {
+      "term": "HYBRD",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向混合训练人群的 AI 训练编排工具，减少 prompt 调参并稳定输出质量",
+      "suggested_headline": "Hybrid Workouts That Stay Consistent — No Prompt Roulette",
+      "target_users": [
+        "CrossFit/混合训练者",
+        "健身 App 早期用户",
+        "私人教练"
+      ]
+    },
+    {
+      "term": "Twitch",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向中小主播的直播运营控制台，聚合排障、互动与数据，降低上手成本",
+      "suggested_headline": "Run Your Twitch Stream Without Constant Firefighting",
+      "target_users": [
+        "成长型主播",
+        "直播运营兼职",
+        "游戏内容创作者"
+      ]
+    },
+    {
+      "term": "Meta Quest:",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 Quest 开发者与重度玩家的体验稳定性套件，减少崩溃、安全与功能缺口",
+      "suggested_headline": "Ship Meta Quest Apps That Stay Stable in Players' Hands",
+      "target_users": [
+        "独立 VR 开发者",
+        "Quest 重度玩家",
+        "XR 工作室技术负责人"
+      ]
+    },
+    {
+      "term": "Meta Quest",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 Quest 开发者与重度玩家的体验稳定性套件，减少崩溃、安全与功能缺口",
+      "suggested_headline": "Ship Meta Quest Apps That Stay Stable in Players' Hands",
+      "target_users": [
+        "独立 VR 开发者",
+        "Quest 重度玩家",
+        "XR 工作室技术负责人"
+      ]
+    },
+    {
+      "term": "Meta Quest: ",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 Quest 开发者与重度玩家的体验稳定性套件，减少崩溃、安全与功能缺口",
+      "suggested_headline": "Ship Meta Quest Apps That Stay Stable in Players' Hands",
+      "target_users": [
+        "独立 VR 开发者",
+        "Quest 重度玩家",
+        "XR 工作室技术负责人"
+      ]
+    },
+    {
+      "term": "Fijit",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向日常健身用户的轻量追踪 App，补齐关键功能并提升训练日稳定性",
+      "suggested_headline": "Fitness Tracking That Doesn't Break Mid-Workout",
+      "target_users": [
+        "居家健身用户",
+        "习惯追踪爱好者",
+        "可穿戴设备用户"
+      ]
+    },
+    {
+      "term": "Peridot",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向虚拟宠物玩家的伴侣与成本管理工具，透明化订阅并减少功能断层",
+      "suggested_headline": "Virtual Pet Care Without Runaway Bills or Missing Features",
+      "target_users": [
+        "AR/养成游戏玩家",
+        "家长监护场景",
+        "轻度手游付费用户"
+      ]
+    },
+    {
+      "term": "Rooms",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向远程协作团队的房间式工作空间，降低技术债累积与体验挫败",
+      "suggested_headline": "Collaboration Rooms That Don't Rot Into Tech Debt",
+      "target_users": [
+        "远程小团队",
+        "设计协作工作室",
+        "社区运营者"
+      ]
+    },
+    {
+      "term": "Victa",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向成长型团队的业务自动化工具，在可控定价下提升稳定性与功能完整度",
+      "suggested_headline": "Scale Your Ops Without Surprise Bills or Constant Bugs",
+      "target_users": [
+        "小型企业运营",
+        "代理商团队",
+        "SaaS 早期客户"
+      ]
+    },
+    {
+      "term": "Choppity",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向内容创作者的长视频切片工具，缩短剪辑调试循环并补齐关键导出能力",
+      "suggested_headline": "Turn Long Videos Into Clips — Without Endless Retakes",
+      "target_users": [
+        "YouTube/播客创作者",
+        "营销视频剪辑",
+        "教育内容团队"
+      ]
+    },
+    {
+      "term": "Train with Pasta:",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Train with Pasta",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Train with Pasta: ",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "October 17th, 2026:",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "October 17th, 2026",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "October 17th, 2026: ",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Zing AI Fitness Coach:",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Zing AI Fitness Coach",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Zing AI Fitness Coach: ",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fitbod Weight Lifting Workout:",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fitbod Weight Lifting Workout",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fitbod Weight Lifting Workout: ",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Unreal Engine:",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Unreal Engine: ",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Habits Garden:",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Habits Garden",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Habits Garden: ",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Driven Avatars:",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ReadyCode",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ai_licia:",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ai_licia",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ai_licia: ",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Hello, Dot:",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Hello, Dot",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Hello, Dot: ",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fanton Fantasy Football:",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fanton Fantasy Football",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fanton Fantasy Football: ",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Wordle",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Nintendo",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Noctie",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "itch.io:",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "itch.io",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "itch.io: ",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Towards Human-Like",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Long-Horizon Agentic Reinforcement",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Mix: Pair",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Precision Key Cache Quantization for Efficient Long",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Guided Mixed-Precision Key",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Mixed-Precision Key Cache",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Quantization for Efficient",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Efficient Long-Output LLM",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Long-Output LLM Inference",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "TimeRSI: Towards Self-Improved Agentic Deployment for Time-Series Foundation Models",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Towards Self-Improved Agentic Deployment for Time-Series Foundation Models",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "TimeRSI: Towards Self",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Improved Agentic Deployment for Time",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "TimeRSI Towards Self-Improved",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Towards Self-Improved Agentic",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Self-Improved Agentic Deployment",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Equal CER, Unequal Damage",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Severity-Weighted Character Error Rate for OCR",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Equal CER, Unequal Damage: Severity",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Weighted Character Error Rate for OCR",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Unequal Damage Severity-Weighted",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Damage Severity-Weighted Character",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Severity-Weighted Character Error",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "VascuSR: Iterative Anatomy-Aware Diffusion for CT Super-Resolution",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Iterative Anatomy-Aware Diffusion for CT Super-Resolution",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "VascuSR: Iterative Anatomy",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Aware Diffusion for CT Super",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Iterative Anatomy-Aware Diffusion",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Boxtree, Inc.: ",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Hevy:",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Unreal Engine",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 3,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "An End-to-End",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "An Agentic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "DeltaStreamer",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Human-Like",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Towards Human-Like Agentic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Streaming Video",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "EdgeWise",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Control with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "and Fine-Grained",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Continuations",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "SERO Learning",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "SERO Learning from",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "from Executable",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Oracle Continuations",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Oracle Continuations for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Continuations for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Continuations for Long-Horizon",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for Long-Horizon",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for Long-Horizon Agentic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for Web",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Copy-Paste Language Models",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Copy",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Copy-Paste",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Copy-Paste Language",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "PN-Mix",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Norm Guided Mixed",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Output LLM Inference",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Pair-Norm",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Long-Output",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Mix",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Output",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "PN-Mix Pair-Norm",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "PN-Mix Pair-Norm Guided",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Pair-Norm Guided",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Pair-Norm Guided Mixed-Precision",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Guided Mixed-Precision",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Mixed-Precision Key",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Key Cache",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Key Cache Quantization",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Cache Quantization for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for Efficient Long-Output",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Efficient Long-Output",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "of Experts in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Experts in",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Vision-Language Models",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Initialization",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "TimeRSI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Self-Improved",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "TimeRSI Towards",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Towards Self-Improved",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Self-Improved Agentic",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Agentic Deployment",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Agentic Deployment for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Deployment for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Deployment for Time-Series",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for Time-Series Foundation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Time-Series Foundation",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Time-Series Foundation Models",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Severity-Weighted",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "CER",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Severity",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "OCR",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Equal CER",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Equal CER Unequal",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "CER Unequal",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Unequal Damage",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Damage Severity-Weighted",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Severity-Weighted Character",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Character Error",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Character Error Rate",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Error Rate",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Error Rate for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Rate for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Rate for OCR",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for OCR",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "How",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Parallel",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "VascuSR",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Anatomy-Aware",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "VascuSR Iterative",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "VascuSR Iterative Anatomy-Aware",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Iterative Anatomy-Aware",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Anatomy-Aware Diffusion",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Anatomy-Aware Diffusion for",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Diffusion for CT",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for CT",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "for CT Super-Resolution",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "CT Super-Resolution",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Sparse Autoencoders",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Distilling",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AI-Driven, Timing-Aware Power Optimization",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Driven, Timing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Aware Power Optimization",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Timing-Aware",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AI-Driven Timing-Aware",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AI-Driven Timing-Aware Power",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Timing-Aware Power",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Timing-Aware Power Optimization",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Power Optimization",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Pasta",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Train with",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "with Pasta",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "daily #4:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "daily #4",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "daily 4",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "daily #4: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "October",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "October 17th",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "October 17th 2026",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "17th 2026",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Hevy: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Zing",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fitness",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Coach",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Zing AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Zing AI Fitness",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AI Fitness",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AI Fitness Coach",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fitness Coach",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "HYBRD:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "HYBRD: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "FormFusion:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "FormFusion",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "FormFusion: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fitbod",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Workout",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fitbod Weight",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fitbod Weight Lifting",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Weight Lifting",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Weight Lifting Workout",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Lifting Workout",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Unreal",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Engine",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Twitch: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Quest",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Habits",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Garden",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fijit:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fijit: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Sleepagotchi:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Sleepagotchi",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Sleepagotchi: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Rapport AI-Driven Avatars:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Rapport AI-Driven Avatars",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Rapport AI",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Rapport",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Avatars",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Rapport AI-Driven",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "AI-Driven Avatars",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Exists:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Exists",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Exists: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ReadyCode:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ReadyCode: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ai licia",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Parfour:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Parfour",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Parfour: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "GeographyHelp:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "GeographyHelp",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "GeographyHelp: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Hello",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Dot",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Hello Dot",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Boxtree, Inc.:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Boxtree, Inc.",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Boxtree",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Inc",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Boxtree Inc.",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Inc.",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ProDocktive:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ProDocktive",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "ProDocktive: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "EndurePath:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "EndurePath",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Peridot:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Peridot: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Rooms:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Rooms: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Drope.me:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Drope.me",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Drope",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Drope.me: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fanton",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fantasy",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Football",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fanton Fantasy",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Fantasy Football",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Victa:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Victa: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Wordle:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Wordle: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Nintendo:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Nintendo: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Choppity: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Noctie:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Noctie: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "QWERTYS by Smart Keys:",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "QWERTYS by Smart Keys",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "QWERTYS",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Smart",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Keys",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "QWERTYS by",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "QWERTYS by Smart",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "by Smart",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "by Smart Keys",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Smart Keys",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "QWERTYS by Smart Keys: ",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    }
+  ]
+}
