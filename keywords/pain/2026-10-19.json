@@ -78980,15 +78980,6 @@
     {
       "term": "Beam",
       "top_complaints": [
-        "缺少关键功能或支持",
-        "频繁出 bug，功能不稳定"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Beam.win",
-      "top_complaints": [
         "频繁出 bug，功能不稳定",
         "使用体验差，令人沮丧",
         "缺少关键功能或支持"
@@ -78997,9 +78988,20 @@
       "desired_features": []
     },
     {
+      "term": "Beam.win",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "学习曲线陡峭，上手困难"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
       "term": "Beam.win: Run AI agents on one Mac and use its windows on another",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "性能慢，响应延迟高"
       ],
       "workarounds": [],
       "desired_features": []
@@ -79009,22 +79011,11 @@
       "top_complaints": [
         "搜索结果中未发现明确用户痛点"
       ],
-      "workarounds": [
-        "转向自托管或其他部署平台"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "CoolDock",
-      "top_complaints": [
-        "用户主动寻找替代方案",
-        "定价过高，流量上来后成本飙升"
-      ],
       "workarounds": [],
       "desired_features": []
     },
     {
-      "term": "CoolDock: A smart second Dock for your Mac with 160+ live widgets.",
+      "term": "CoolDock",
       "top_complaints": [
         "搜索结果中未发现明确用户痛点"
       ],
@@ -79032,31 +79023,38 @@
       "desired_features": []
     },
     {
-      "term": "Figma Specs",
+      "term": "CoolDock: A smart second Dock for your Mac with 160+ live widgets.",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧",
-        "定价过高，流量上来后成本飙升"
-      ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "导出再导入的复制粘贴流程",
-        "转向自托管或其他部署平台"
-      ],
-      "desired_features": []
-    },
-    {
-      "term": "Figma Specs: A container for your context that lives on the Figma canvas",
-      "top_complaints": [
-        "缺少关键功能或支持"
+        "部署流程复杂，上线容易踩坑"
       ],
       "workarounds": [],
       "desired_features": []
     },
     {
+      "term": "Figma Specs",
+      "top_complaints": [
+        "定价过高，流量上来后成本飙升",
+        "使用体验差，令人沮丧"
+      ],
+      "workarounds": [],
+      "desired_features": []
+    },
+    {
+      "term": "Figma Specs: A container for your context that lives on the Figma canvas",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "定价过高，流量上来后成本飙升",
+        "学习曲线陡峭，上手困难"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": []
+    },
+    {
       "term": "Framefields",
       "top_complaints": [
-        "用户主动寻找替代方案"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -79064,11 +79062,9 @@
     {
       "term": "Framefields: Open",
       "top_complaints": [
-        "用户主动寻找替代方案"
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [
-        "转向自托管或其他部署平台"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
@@ -79077,21 +79073,16 @@
         "缺少关键功能或支持"
       ],
       "workarounds": [
-        "用临时 hack 绕过限制",
-        "转向自托管或其他部署平台",
-        "用户用 Excel/表格手动处理"
+        "用临时 hack 绕过限制"
       ],
       "desired_features": []
     },
     {
       "term": "Kai Resolve by Gleap",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [
-        "转向自托管或其他部署平台"
-      ],
+      "workarounds": [],
       "desired_features": [
         "期望官方支持更多功能"
       ]
@@ -79099,12 +79090,9 @@
     {
       "term": "Kai Resolve by Gleap: Support that does the digging for you.",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "难以控制输出，依赖精细 prompt"
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [
-        "手动逐步处理"
-      ],
+      "workarounds": [],
       "desired_features": [
         "期望官方支持更多功能"
       ]
@@ -79112,7 +79100,9 @@
     {
       "term": "Lazy AWS",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "性能慢，响应延迟高"
       ],
       "workarounds": [],
       "desired_features": []
@@ -79120,7 +79110,7 @@
     {
       "term": "Lazy AWS: A keyboard",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -79136,7 +79126,8 @@
     {
       "term": "Lookout (for Slack)",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -79145,7 +79136,6 @@
       "term": "Lookout (for Slack): Urgent Slack messages, handled instantly. Powered by Jev.",
       "top_complaints": [
         "缺少关键功能或支持",
-        "定价过高，流量上来后成本飙升",
         "使用体验差，令人沮丧"
       ],
       "workarounds": [],
@@ -79156,15 +79146,15 @@
       "top_complaints": [
         "搜索结果中未发现明确用户痛点"
       ],
-      "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
     },
     {
       "term": "Planet-X: A living globe to explore and remember loved ones",
       "top_complaints": [
-        "用户主动寻找替代方案"
+        "学习曲线陡峭，上手困难"
       ],
       "workarounds": [],
       "desired_features": []
@@ -79172,7 +79162,7 @@
     {
       "term": "Quello",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [
         "用户用 Excel/表格手动处理"
@@ -79182,7 +79172,7 @@
     {
       "term": "Quello: One place to ask, across everything you already use.",
       "top_complaints": [
-        "用户主动寻找替代方案"
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -79191,17 +79181,15 @@
       "term": "Switch Lab",
       "top_complaints": [
         "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
+        "平台锁定，迁移困难"
       ],
-      "workarounds": [
-        "改用其他工具/平台"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "Switch Lab: Hear and type on keyboard switches before you buy them",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [
         "改用其他工具/平台"
@@ -79228,22 +79216,22 @@
       "top_complaints": [
         "使用体验差，令人沮丧",
         "频繁出 bug，功能不稳定",
-        "输出不稳定，结果不可预测"
+        "难以控制输出，依赖精细 prompt"
       ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "Wally by Willow",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
         "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "手动逐步处理"
+      ],
       "desired_features": [
-        "在寻找更好的工具方案"
+        "希望增加更完善的功能"
       ]
     },
     {
@@ -79251,15 +79239,13 @@
       "top_complaints": [
         "缺少关键功能或支持"
       ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "X: A living globe to explore and remember loved ones",
       "top_complaints": [
-        "使用体验差，令人沮丧"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -79267,7 +79253,8 @@
     {
       "term": "buddylist",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -79283,7 +79270,7 @@
     {
       "term": "face2social",
       "top_complaints": [
-        "用户主动寻找替代方案"
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -79291,7 +79278,6 @@
     {
       "term": "face2social: Search by a face and know who's real",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
         "缺少关键功能或支持"
       ],
       "workarounds": [],
@@ -79300,17 +79286,16 @@
     {
       "term": "readywhen",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "使用体验差，令人沮丧",
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [],
-      "desired_features": [
-        "在寻找更好的工具方案"
-      ]
+      "desired_features": []
     },
     {
       "term": "readywhen: The senior personal assistant that works inside WhatsApp",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -79318,20 +79303,16 @@
     {
       "term": "talkai: Talk to your AI coding agent over a walkie",
       "top_complaints": [
-        "使用体验差，令人沮丧",
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [
-        "用户用 Excel/表格手动处理",
-        "手动逐步处理"
-      ],
+      "workarounds": [],
       "desired_features": []
     },
     {
       "term": "walkai-talkai",
       "top_complaints": [
-        "用户主动寻找替代方案"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -79341,12 +79322,9 @@
       "top_complaints": [
         "频繁出 bug，功能不稳定",
         "缺少关键功能或支持",
-        "定价过高，流量上来后成本飙升"
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [
-        "转向自托管或其他部署平台",
-        "用临时 hack 绕过限制"
-      ],
+      "workarounds": [],
       "desired_features": []
     }
   ]
