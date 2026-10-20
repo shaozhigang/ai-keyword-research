@@ -11836,15 +11836,21 @@
     {
       "term": "Notion",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持",
+        "定价过高，流量上来后成本飙升"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Notion: ",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
