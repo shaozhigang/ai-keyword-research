@@ -1,0 +1,292 @@
+{
+  "date": "2026-11-06",
+  "entries": [
+    {
+      "term": "BestRand",
+      "total_score": 26,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 3,
+        "D4": 3,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 ML 研究者的随机性基准与可复现对比评测工具，用统一指标做 Rand / Seed / Baseline 选型",
+      "suggested_headline": "Benchmark Randomness Right — Reproducible Experiments Without Guesswork",
+      "target_users": [
+        "强化学习研究员",
+        "做实验迁移的算法工程师",
+        "要写论文消融实验的博士生"
+      ]
+    },
+    {
+      "term": "Reasoning History Compaction",
+      "total_score": 24,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 5,
+        "D4": 3,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "进入验证池",
+      "product_direction": "面向 Agent / 长推理产品的推理历史压缩与成本优化中间件，在效果与 Token 费用之间可配置折中",
+      "suggested_headline": "Cut Agent Reasoning Cost — Compress History Without Breaking Quality",
+      "target_users": [
+        "构建长链路 Agent 的团队",
+        "多轮 RAG / Tool-use 产品负责人",
+        "关注 API 账单的基础设施工程师"
+      ]
+    },
+    {
+      "term": "Atlassian Loom",
+      "total_score": 23,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 3,
+        "D4": 5,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "DALI AI",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 5,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "OpenMail",
+      "total_score": 22,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 3,
+        "D4": 5,
+        "D5": 5,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Any Video to Text",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 3,
+        "D4": 5,
+        "D5": 5,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Codiclens",
+      "total_score": 21,
+      "scores": {
+        "D1": 5,
+        "D2": 1,
+        "D3": 0,
+        "D4": 3,
+        "D5": 5,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "TEXA-001",
+      "total_score": 20,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "HiF4",
+      "total_score": 19,
+      "scores": {
+        "D1": 5,
+        "D2": 5,
+        "D3": 0,
+        "D4": 1,
+        "D5": 3,
+        "D6": 5
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "FP4 RL",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 1,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Feature Interference",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 1,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Hidden Markov Preference Model",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 1,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Kimi-K3.1-Pro",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Mechvibes 3",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "OptST",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 1,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "Pervasive Capability Degradation",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 1,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "PLatour",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "PN-Mix",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "RolloutResQ",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 1,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "StrataFlux",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 3,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    },
+    {
+      "term": "T3R",
+      "total_score": 18,
+      "scores": {
+        "D1": 5,
+        "D2": 3,
+        "D3": 0,
+        "D4": 1,
+        "D5": 3,
+        "D6": 3
+      },
+      "status": "继续观察"
+    }
+  ]
+}
