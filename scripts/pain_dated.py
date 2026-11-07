@@ -63,7 +63,8 @@ def tavily_search(query: str, max_results: int = 5) -> dict:
             wait = DELAY * (2 ** attempt)
             print(f"      error: {e}, retry in {wait}s", flush=True)
             time.sleep(wait)
-    raise last_err
+    print(f"      giving up after retries ({last_err}); using empty results", flush=True)
+    return {"results": []}
 
 
 def score_term_resilient(term: str) -> dict:
