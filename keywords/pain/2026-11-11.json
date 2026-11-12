@@ -83549,16 +83549,23 @@
       "term": "Aware Code Review: Auto Approve Low",
       "top_complaints": [
         "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
+        "性能慢，响应延迟高",
+        "难以控制输出，依赖精细 prompt"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "用临时 hack 绕过限制",
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "CALL-E",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
+        "使用体验差，令人沮丧",
+        "部署流程复杂，上线容易踩坑"
       ],
       "workarounds": [],
       "desired_features": []
@@ -83566,7 +83573,8 @@
     {
       "term": "CALL-E: The phone line for AI agents — lets your AI assistant make phone calls for you",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -83574,12 +83582,11 @@
     {
       "term": "DocSend for AI agents: send and receive docs",
       "top_complaints": [
-        "缺少关键功能或支持",
-        "定价过高，流量上来后成本飙升"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [
         "转向自托管或其他部署平台",
-        "批量下载后拖拽迁移部署"
+        "用户用 Excel/表格手动处理"
       ],
       "desired_features": [
         "在寻找更好的工具方案"
@@ -83588,7 +83595,9 @@
     {
       "term": "E: The phone line for AI agents",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -83596,47 +83605,40 @@
     {
       "term": "Free, Risk-Aware Code Review: Auto Approve Low-Risk Changes",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "难以维护，技术债快速累积",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "转向自托管或其他部署平台",
+        "批量下载后拖拽迁移部署"
+      ],
       "desired_features": []
     },
     {
       "term": "Kippy AI",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "缺少关键功能或支持",
+        "平台锁定，迁移困难"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
       "desired_features": []
     },
     {
       "term": "Kippy AI: Kippy is your AI speaking partner for language learning",
       "top_complaints": [
-        "平台锁定，迁移困难",
-        "缺少关键功能或支持"
+        "平台锁定，迁移困难"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "LiveReview",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "用户主动寻找替代方案"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "LiveReview: Free, Risk",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "LiveReview: Free, Risk-Aware Code Review: Auto Approve Low-Risk Changes",
       "top_complaints": [
         "频繁出 bug，功能不稳定"
       ],
@@ -83644,17 +83646,44 @@
       "desired_features": []
     },
     {
+      "term": "LiveReview: Free, Risk",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "LiveReview: Free, Risk-Aware Code Review: Auto Approve Low-Risk Changes",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": []
+    },
+    {
       "term": "Mitra",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "使用体验差，令人沮丧",
+        "平台锁定，迁移困难",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
     },
     {
       "term": "Mitra: Your AI assistant that makes and answers your calls",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -83662,7 +83691,7 @@
     {
       "term": "OpenVibe",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -83670,7 +83699,7 @@
     {
       "term": "OpenVibe: A canvas of real terminals for your AI coding agents",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -83678,31 +83707,48 @@
     {
       "term": "Relay",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "频繁出 bug，功能不稳定",
+        "边界情况处理差，反复返工调试",
+        "难以维护，技术债快速累积"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "转向自托管或其他部署平台",
+        "批量下载后拖拽迁移部署",
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Relay: DocSend for AI agents: send and receive docs",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "性能慢，响应延迟高"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "转向自托管或其他部署平台",
+        "改用其他工具/平台"
+      ],
       "desired_features": []
     },
     {
       "term": "Render Sandboxes",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "批量下载后拖拽迁移部署",
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": [
+        "需要批量处理或 API 接入"
+      ]
     },
     {
       "term": "Render Sandboxes: a computer for every agent",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -83710,7 +83756,7 @@
     {
       "term": "Render Sandboxes: a computer for every agent — give every agent its own machine",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -83718,31 +83764,40 @@
     {
       "term": "ScroogeFrog AI",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "搜索结果中未发现明确用户痛点"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
       "desired_features": []
     },
     {
       "term": "ScroogeFrog AI: AI ad fraud detection that protects your marketing budget",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "缺少关键功能或支持",
+        "定价过高，流量上来后成本飙升"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "手动逐步处理"
+      ],
       "desired_features": []
     },
     {
       "term": "Shot.video",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "平台锁定，迁移困难"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Shot.video: Multi",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -83750,7 +83805,7 @@
     {
       "term": "Shot.video: Multi-camera videos with the phones you already have",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -83782,7 +83837,7 @@
     {
       "term": "Subscriptrack: Connect your email and AI finds every subscription",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -83790,7 +83845,8 @@
     {
       "term": "Valin",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [
         "用户用 Excel/表格手动处理"
@@ -83802,9 +83858,11 @@
     {
       "term": "Valin: Your private memory for everything you save",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "搜索结果中未发现明确用户痛点"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
       "desired_features": []
     },
     {
