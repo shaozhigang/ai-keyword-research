@@ -10812,39 +10812,52 @@
     {
       "term": "COKIQ",
       "top_complaints": [
-        "缺少关键功能或支持",
-        "扩展性差，大规模部署受限"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "平台锁定，迁移困难"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "COKIQ: Cookie consent for Indian websites, with a DPDP Act profile",
       "top_complaints": [
+        "频繁出 bug，功能不稳定",
         "缺少关键功能或支持"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
     },
     {
       "term": "Copy Haste",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
         "调试循环冗长，反复返工",
-        "使用体验差，令人沮丧"
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Copy Haste: Your clipboard, sorted into Text, Code, Links, Media & more",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [
         "导出再导入的复制粘贴流程"
       ],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Creavit Studio 4.0",
@@ -10857,23 +10870,31 @@
     {
       "term": "Creavit Studio 4.0: Screen recording, iPhone camera and cinematic demos for Mac",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "用户主动寻找替代方案",
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "改用其他工具/平台",
+        "导出再导入的复制粘贴流程",
+        "手动逐步处理"
+      ],
       "desired_features": []
     },
     {
       "term": "Daymaker",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Daymaker: Gifts so personal, your prospects take the meeting.",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -10881,24 +10902,31 @@
     {
       "term": "Do It For Them Wallpaper Maker",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "难以控制输出，依赖精细 prompt"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "批量下载后拖拽迁移部署"
+      ],
       "desired_features": []
     },
     {
       "term": "Do It For Them Wallpaper Maker: Photo wallpapers for the people you do it for",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "批量下载后拖拽迁移部署",
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Mockreel",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -10906,21 +10934,17 @@
     {
       "term": "Mockreel: your screen recording, but in a 3D phone. free, no signup",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Omi CLI",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Omi CLI: AI coding agents that work while you're away.",
       "top_complaints": [
         "频繁出 bug，功能不稳定"
       ],
@@ -10928,9 +10952,20 @@
       "desired_features": []
     },
     {
+      "term": "Omi CLI: AI coding agents that work while you're away.",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": []
+    },
+    {
       "term": "Perfstaq",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "难以控制输出，依赖精细 prompt"
       ],
       "workarounds": [],
       "desired_features": []
@@ -10938,7 +10973,6 @@
     {
       "term": "Perfstaq: Are you a top 1% developer? Prove it in one command",
       "top_complaints": [
-        "难以控制输出，依赖精细 prompt",
         "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
@@ -10955,7 +10989,7 @@
     {
       "term": "Pushback: The flight tracker that knows which lounge you can use",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -10963,7 +10997,7 @@
     {
       "term": "Rankhog",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -10984,7 +11018,8 @@
         "频繁出 bug，功能不稳定"
       ],
       "workarounds": [
-        "批量下载后拖拽迁移部署"
+        "批量下载后拖拽迁移部署",
+        "转向自托管或其他部署平台"
       ],
       "desired_features": [
         "需要批量处理或 API 接入"
@@ -10993,7 +11028,7 @@
     {
       "term": "Render Sandboxes: Isolated compute, persistent state and a real filesystem",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [
         "批量下载后拖拽迁移部署"
@@ -11013,30 +11048,43 @@
     {
       "term": "Resurf: Personal Knowledge Base & Bookmark Manager for Mac",
       "top_complaints": [
+        "定价过高，流量上来后成本飙升",
         "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "批量下载后拖拽迁移部署"
+      ],
       "desired_features": []
     },
     {
       "term": "Ulika",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧",
+        "学习曲线陡峭，上手困难"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "需要更多导出格式"
+      ]
     },
     {
       "term": "Ulika: Visual editor for sites built with Claude, Cursor, or Codex",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "转向自托管或其他部署平台",
+        "批量下载后拖拽迁移部署"
+      ],
       "desired_features": []
     },
     {
       "term": "Webless Agents",
       "top_complaints": [
+        "缺少关键功能或支持",
         "扩展性差，大规模部署受限"
       ],
       "workarounds": [],
@@ -11045,8 +11093,8 @@
     {
       "term": "Webless Agents: Agents you want to put in front of customers",
       "top_complaints": [
-        "使用体验差，令人沮丧",
-        "缺少关键功能或支持"
+        "缺少关键功能或支持",
+        "扩展性差，大规模部署受限"
       ],
       "workarounds": [],
       "desired_features": []
@@ -11054,7 +11102,8 @@
     {
       "term": "Wispim",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "用户主动寻找替代方案",
+        "难以控制输出，依赖精细 prompt"
       ],
       "workarounds": [],
       "desired_features": []
@@ -11062,7 +11111,7 @@
     {
       "term": "Wispim: The teleprompter that follows your voice",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -11070,7 +11119,7 @@
     {
       "term": "Yoroll",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "Tavily 限流，暂无法获取用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
