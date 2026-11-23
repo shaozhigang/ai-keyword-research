@@ -180,23 +180,32 @@
     {
       "term": "Non",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "手动逐步处理"
+      ],
       "desired_features": []
     },
     {
       "term": "World",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "难以控制输出，依赖精细 prompt",
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": []
     },
     {
       "term": "Models",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -260,9 +269,12 @@
     {
       "term": "Report",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "定价过高，流量上来后成本飙升"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
       "desired_features": []
     },
     {
@@ -380,7 +392,7 @@
     {
       "term": "Reasoning",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -452,9 +464,12 @@
     {
       "term": "Memory",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "性能慢，响应延迟高"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
       "desired_features": []
     },
     {
@@ -476,10 +491,15 @@
     {
       "term": "Language",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "扩展性差，大规模部署受限"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "改用其他工具/平台"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "MemOnce A",
@@ -588,9 +608,15 @@
     {
       "term": "Video",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "改用其他工具/平台",
+        "手动逐步处理"
+      ],
       "desired_features": []
     },
     {
@@ -620,9 +646,13 @@
     {
       "term": "Self",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
       "desired_features": []
     },
     {
@@ -1148,7 +1178,9 @@
     {
       "term": "Agents",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1404,7 +1436,9 @@
     {
       "term": "Benchmark",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "学习曲线陡峭，上手困难"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1412,9 +1446,13 @@
     {
       "term": "Multi",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持",
+        "难以控制输出，依赖精细 prompt"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
       "desired_features": []
     },
     {
@@ -1428,7 +1466,7 @@
     {
       "term": "Multimodal",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -1996,10 +2034,16 @@
     {
       "term": "Training",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持",
+        "用户主动寻找替代方案"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Prompt",
@@ -2140,10 +2184,16 @@
     {
       "term": "Search",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测",
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Start",
@@ -2484,17 +2534,27 @@
     {
       "term": "Next",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "缺少关键功能或支持",
+        "扩展性差，大规模部署受限",
+        "难以维护，技术债快速累积"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Generation",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "生成代码存在安全漏洞",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": []
     },
     {
@@ -2620,10 +2680,16 @@
     {
       "term": "Long",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持",
+        "难以控制输出，依赖精细 prompt"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Form",
@@ -3508,7 +3574,8 @@
     {
       "term": "Generative",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -4068,10 +4135,14 @@
     {
       "term": "Evaluation",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "难以维护，技术债快速累积",
+        "性能慢，响应延迟高",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "需要更多导出格式"
+      ]
     },
     {
       "term": "Auditable Financial",
@@ -4940,10 +5011,14 @@
     {
       "term": "Quantum",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "扩展性差，大规模部署受限"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Scientific",
@@ -5372,7 +5447,7 @@
     {
       "term": "Visual",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -6076,7 +6151,7 @@
     {
       "term": "Efficient",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -7532,10 +7607,17 @@
     {
       "term": "One",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "导出再导入的复制粘贴流程"
+      ],
+      "desired_features": [
+        "希望增加更完善的功能"
+      ]
     },
     {
       "term": "Pass",
@@ -8164,7 +8246,8 @@
     {
       "term": "Physical AI",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "扩展性差，大规模部署受限",
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -9732,10 +9815,17 @@
     {
       "term": "Data",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧",
+        "难以控制输出，依赖精细 prompt"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Selection",
@@ -10228,10 +10318,14 @@
     {
       "term": "Rewards",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "希望增加更完善的功能"
+      ]
     },
     {
       "term": "Forecasting",
@@ -11972,7 +12066,7 @@
     {
       "term": "Double",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -12924,9 +13018,13 @@
     {
       "term": "Dynamic",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测",
+        "调试循环冗长，反复返工"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": []
     },
     {
@@ -13116,10 +13214,13 @@
     {
       "term": "Privacy",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "用户主动寻找替代方案",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Sniffing",
@@ -13700,10 +13801,15 @@
     {
       "term": "Based",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持",
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "需要批量处理或 API 接入",
+        "需要更多导出格式"
+      ]
     },
     {
       "term": "Typed",
@@ -13988,7 +14094,9 @@
     {
       "term": "Medical",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定",
+        "平台锁定，迁移困难"
       ],
       "workarounds": [],
       "desired_features": []
@@ -15164,7 +15272,8 @@
     {
       "term": "Automated",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "难以维护，技术债快速累积"
       ],
       "workarounds": [],
       "desired_features": []
@@ -18580,7 +18689,7 @@
     {
       "term": "Diffusion",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "性能慢，响应延迟高"
       ],
       "workarounds": [],
       "desired_features": []
@@ -18804,9 +18913,11 @@
     {
       "term": "Scaling",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "搜索结果中未发现明确用户痛点"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": []
     },
     {
@@ -21108,7 +21219,8 @@
     {
       "term": "Representation",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "用户主动寻找替代方案",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -22236,9 +22348,13 @@
     {
       "term": "Legal",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "手动逐步处理"
+      ],
       "desired_features": []
     },
     {
@@ -23732,10 +23848,18 @@
     {
       "term": "Skill",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "难以控制输出，依赖精细 prompt"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "转向自托管或其他部署平台",
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "VMSA Video",
@@ -26180,9 +26304,15 @@
     {
       "term": "Flow",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "定价过高，流量上来后成本飙升"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "转向自托管或其他部署平台",
+        "用户用 Excel/表格手动处理",
+        "批量下载后拖拽迁移部署"
+      ],
       "desired_features": []
     },
     {
@@ -26228,9 +26358,13 @@
     {
       "term": "Parameter",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "难以控制输出，依赖精细 prompt",
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "手动逐步处理"
+      ],
       "desired_features": []
     },
     {
@@ -27396,10 +27530,17 @@
     {
       "term": "Adapt",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "需要中文或多语言支持",
+        "希望增加更完善的功能"
+      ]
     },
     {
       "term": "Capacity",
@@ -30308,7 +30449,7 @@
     {
       "term": "Continual",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -31652,7 +31793,8 @@
     {
       "term": "Environments",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -35804,7 +35946,7 @@
     {
       "term": "Mixture-of-Experts",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "扩展性差，大规模部署受限"
       ],
       "workarounds": [],
       "desired_features": []
@@ -36748,10 +36890,17 @@
     {
       "term": "VLA",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持",
+        "扩展性差，大规模部署受限"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "改用其他工具/平台",
+        "手动逐步处理"
+      ],
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
     },
     {
       "term": "Subchunk",
@@ -47388,9 +47537,15 @@
     {
       "term": "Git",
       "top_complaints": [
-        "暂无明确用户抱怨，主要为学术/技术发布内容"
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "转向自托管或其他部署平台",
+        "批量下载后拖拽迁移部署",
+        "手动逐步处理"
+      ],
       "desired_features": []
     },
     {
@@ -50860,7 +51015,9 @@
     {
       "term": "Benchmark for",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -50972,10 +51129,13 @@
     {
       "term": "LLM Agents",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "LLM Agents for",
@@ -65444,7 +65604,9 @@
     {
       "term": "for Medical",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定",
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -71844,7 +72006,7 @@
     {
       "term": "Inkling",
       "top_complaints": [
-        "未发现明确用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -73668,34 +73830,44 @@
     {
       "term": "AWS Activate Credits: Credits that fuel your startup's next milestone",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [
         "批量下载后拖拽迁移部署"
       ],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Chat with Work",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持",
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Chat with Work: AI bots in Europe. They work. You decide.",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "缺少关键功能或支持",
+        "定价过高，流量上来后成本飙升"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Dog Translator SuperTranslator",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -73738,21 +73910,22 @@
     {
       "term": "Gauth Personal Study Agent",
       "top_complaints": [
+        "缺少关键功能或支持",
         "平台锁定，迁移困难",
-        "定价过高，流量上来后成本飙升",
-        "频繁出 bug，功能不稳定"
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [],
       "desired_features": [
+        "在寻找更好的工具方案",
         "希望增加更完善的功能"
       ]
     },
     {
       "term": "Gauth Personal Study Agent: An AI study agent that remembers where you struggle",
       "top_complaints": [
+        "缺少关键功能或支持",
         "平台锁定，迁移困难",
-        "定价过高，流量上来后成本飙升",
-        "缺少关键功能或支持"
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [],
       "desired_features": [
@@ -73771,8 +73944,7 @@
     {
       "term": "Hydrilla: Generate production",
       "top_complaints": [
-        "学习曲线陡峭，上手困难",
-        "定价过高，流量上来后成本飙升"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -73780,19 +73952,19 @@
     {
       "term": "Hydrilla: Generate production-ready 3D assets with AI",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "学习曲线陡峭，上手困难"
       ],
-      "workarounds": [
-        "手动逐步处理"
-      ],
-      "desired_features": []
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Inkling 2",
       "top_complaints": [
-        "输出不稳定，结果不可预测",
         "缺少关键功能或支持",
-        "难以控制输出，依赖精细 prompt"
+        "难以控制输出，依赖精细 prompt",
+        "输出不稳定，结果不可预测"
       ],
       "workarounds": [],
       "desired_features": []
@@ -73800,9 +73972,13 @@
     {
       "term": "Inkling 2: Mini 26B looped model for coding on your laptop",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "平台锁定，迁移困难",
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": []
     },
     {
@@ -73833,7 +74009,8 @@
     {
       "term": "LeanTake",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -73841,9 +74018,11 @@
     {
       "term": "LeanTake: 4.1 MB native Mac screen recorder",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [
+        "用户用 Excel/表格手动处理",
         "改用其他工具/平台"
       ],
       "desired_features": []
@@ -73851,7 +74030,9 @@
     {
       "term": "LeanTake: 4.1 MB native Mac screen recorder — zero export wait",
       "top_complaints": [
-        "缺少关键功能或支持"
+        "缺少关键功能或支持",
+        "定价过高，流量上来后成本飙升",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -73889,7 +74070,7 @@
     {
       "term": "Motionflare",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -73897,7 +74078,7 @@
     {
       "term": "Motionflare: Turn your website into a stunning launch video in minutes",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -73905,8 +74086,7 @@
     {
       "term": "Omi Work",
       "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "平台锁定，迁移困难"
+        "缺少关键功能或支持"
       ],
       "workarounds": [
         "用户用 Excel/表格手动处理"
@@ -73924,9 +74104,13 @@
     {
       "term": "Othor AI",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "使用体验差，令人沮丧",
+        "难以控制输出，依赖精细 prompt",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
       "desired_features": []
     },
     {
@@ -73960,17 +74144,21 @@
     {
       "term": "Private health data server: talk to your health with any AI",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
+        "输出不稳定，结果不可预测",
+        "学习曲线陡峭，上手困难"
       ],
       "workarounds": [
-        "转向自托管或其他部署平台"
+        "转向自托管或其他部署平台",
+        "手动逐步处理"
       ],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Strict Run",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -73979,9 +74167,11 @@
       "term": "Strict Run: GitHub Actions on any spare Mac or Linux machine",
       "top_complaints": [
         "性能慢，响应延迟高",
-        "频繁出 bug，功能不稳定"
+        "频繁出 bug，功能不稳定",
+        "难以控制输出，依赖精细 prompt"
       ],
       "workarounds": [
+        "转向自托管或其他部署平台",
         "用临时 hack 绕过限制"
       ],
       "desired_features": []
@@ -73989,10 +74179,13 @@
     {
       "term": "Tesla Self-Driving V15",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "性能慢，响应延迟高"
       ],
       "workarounds": [
-        "用临时 hack 绕过限制"
+        "用临时 hack 绕过限制",
+        "手动逐步处理"
       ],
       "desired_features": []
     },
@@ -74000,7 +74193,8 @@
       "term": "Tesla Self-Driving V15: Upgrading every part of the end-to-end driving network",
       "top_complaints": [
         "频繁出 bug，功能不稳定",
-        "缺少关键功能或支持"
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
