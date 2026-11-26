@@ -89796,7 +89796,9 @@
     {
       "term": "ARC: OpenClaw doesn't learn from experience. Does your agent?",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "难以控制输出，依赖精细 prompt"
       ],
       "workarounds": [],
       "desired_features": []
@@ -89812,6 +89814,53 @@
     {
       "term": "AWS Activate Credits: Credits that fuel your startup's next milestone",
       "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Airbot",
+      "top_complaints": [
+        "定价过高，流量上来后成本飙升",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Airbot: The AI chief of staff that texts you first",
+      "top_complaints": [
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Canva MCP",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "批量下载后拖拽迁移部署"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Canva MCP: Turn any AI agent into a creative powerhouse",
+      "top_complaints": [
         "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [
@@ -89820,41 +89869,9 @@
       "desired_features": []
     },
     {
-      "term": "Airbot",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Airbot: The AI chief of staff that texts you first",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Canva MCP",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Canva MCP: Turn any AI agent into a creative powerhouse",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
       "term": "Continual-ARC",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "暂无明确用户抱怨，主要为学术/技术发布内容"
       ],
       "workarounds": [],
       "desired_features": []
@@ -89862,7 +89879,7 @@
     {
       "term": "Continual-ARC: OpenClaw doesn't learn from experience. Does your agent?",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -89870,15 +89887,21 @@
     {
       "term": "Falcon by Vybe",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "搜索结果中未发现明确用户痛点"
       ],
-      "workarounds": [],
-      "desired_features": []
+      "workarounds": [
+        "用户用 Excel/表格手动处理",
+        "用临时 hack 绕过限制"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Falcon by Vybe: Falcon analyzes your competitors for free, then gets to work",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "用户主动寻找替代方案",
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [],
       "desired_features": []
@@ -89886,23 +89909,29 @@
     {
       "term": "Fompi",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "期望官方支持更多功能"
+      ]
     },
     {
       "term": "Fompi: Personal security & privacy companion that calls out risks",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Hai",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -89910,7 +89939,9 @@
     {
       "term": "Hai: Your AI assistant that actually makes the phone call",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "缺少关键功能或支持",
+        "使用体验差，令人沮丧",
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -89918,7 +89949,8 @@
     {
       "term": "Hiring Right Now",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧"
       ],
       "workarounds": [],
       "desired_features": []
@@ -89926,7 +89958,7 @@
     {
       "term": "Hiring Right Now: Which startups would hire you?",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -89934,15 +89966,18 @@
     {
       "term": "Koed",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "频繁出 bug，功能不稳定",
+        "学习曲线陡峭，上手困难"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
       "desired_features": []
     },
     {
       "term": "Koed: Supercharged Agents!",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [],
       "desired_features": []
@@ -89950,7 +89985,7 @@
     {
       "term": "MemoryWorks",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": []
@@ -89958,7 +89993,8 @@
     {
       "term": "MemoryWorks: Company memory for people and AI agents",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "使用体验差，令人沮丧",
+        "缺少关键功能或支持"
       ],
       "workarounds": [],
       "desired_features": []
@@ -89966,7 +90002,7 @@
     {
       "term": "MyClaw 3.0",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -89974,23 +90010,29 @@
     {
       "term": "MyClaw 3.0: Build an always",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "频繁出 bug，功能不稳定"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "用临时 hack 绕过限制",
+        "转向自托管或其他部署平台"
+      ],
       "desired_features": []
     },
     {
       "term": "MyClaw 3.0: Build an always-on AI team with shared memory",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "缺少关键功能或支持",
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
-      "desired_features": []
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
     },
     {
       "term": "Oculon",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -89998,7 +90040,7 @@
     {
       "term": "Oculon: The agentic finance platform for the CFO's office",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "搜索结果中未发现明确用户痛点"
       ],
       "workarounds": [],
       "desired_features": []
@@ -90006,15 +90048,17 @@
     {
       "term": "Omi X 2.0",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
       "desired_features": []
     },
     {
       "term": "Omi X 2.0: Omi can build anything. Your $1B idea, live in production",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "频繁出 bug，功能不稳定"
       ],
       "workarounds": [],
       "desired_features": []
@@ -90040,9 +90084,12 @@
     {
       "term": "RelayRunner: Swap multiple CI runners on-demand with zero code changes.",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "频繁出 bug，功能不稳定",
+        "缺少关键功能或支持"
       ],
-      "workarounds": [],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
       "desired_features": []
     },
     {
@@ -90051,7 +90098,8 @@
         "频繁出 bug，功能不稳定"
       ],
       "workarounds": [
-        "批量下载后拖拽迁移部署"
+        "批量下载后拖拽迁移部署",
+        "转向自托管或其他部署平台"
       ],
       "desired_features": [
         "需要批量处理或 API 接入"
@@ -90060,7 +90108,7 @@
     {
       "term": "Render Sandboxes: Isolated compute, persistent state and a real filesystem",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [
         "批量下载后拖拽迁移部署"
@@ -90070,7 +90118,8 @@
     {
       "term": "Render Sandboxes: Isolated compute, persistent state and a real filesystem — a computer for every agent",
       "top_complaints": [
-        "频繁出 bug，功能不稳定"
+        "频繁出 bug，功能不稳定",
+        "输出不稳定，结果不可预测"
       ],
       "workarounds": [
         "转向自托管或其他部署平台",
@@ -90081,40 +90130,7 @@
     {
       "term": "Statefold",
       "top_complaints": [
-        "搜索结果中未发现明确用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Statefold: Coding agents that keep working while you're away",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Tray",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "Tray: macOS file manager in a screen corner",
-      "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
-      ],
-      "workarounds": [],
-      "desired_features": []
-    },
-    {
-      "term": "eluna",
-      "top_complaints": [
-        "频繁出 bug，功能不稳定",
-        "使用体验差，令人沮丧"
+        "用户主动寻找替代方案"
       ],
       "workarounds": [],
       "desired_features": [
@@ -90122,9 +90138,53 @@
       ]
     },
     {
+      "term": "Statefold: Coding agents that keep working while you're away",
+      "top_complaints": [
+        "缺少关键功能或支持"
+      ],
+      "workarounds": [
+        "转向自托管或其他部署平台"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "Tray",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定",
+        "使用体验差，令人沮丧",
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": [
+        "在寻找更好的工具方案"
+      ]
+    },
+    {
+      "term": "Tray: macOS file manager in a screen corner",
+      "top_complaints": [
+        "用户主动寻找替代方案"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
+      "term": "eluna",
+      "top_complaints": [
+        "频繁出 bug，功能不稳定"
+      ],
+      "workarounds": [
+        "用户用 Excel/表格手动处理"
+      ],
+      "desired_features": []
+    },
+    {
       "term": "eluna: Period tracker for couples that explains WHY, not just WHEN",
       "top_complaints": [
-        "Tavily 限流，暂无法获取用户痛点"
+        "定价过高，流量上来后成本飙升"
       ],
       "workarounds": [],
       "desired_features": []
